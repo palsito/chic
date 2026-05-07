@@ -59,47 +59,58 @@ def guardar_estado(estado):
 
 
 def scrape_categoria(url):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
-        r.raise_for_status()
-    except Exception as e:
-        print(f"  ⚠️  Error al acceder a {url}: {e}")
-        return {}
-
-    soup = BeautifulSoup(r.text, "html.parser")
-    productos = {}
-
-    # Buscar todos los links que apunten a productos (/pXXXXX-)
     import re
-    for link in soup.find_all("a", href=True):
-        href = link["href"]
-        # URLs de producto en palbin tienen formato /pNNNNNN-nombre.html
-        if not re.search(r'/p\d{4,}-', href):
-            continue
-        nombre = link.get_text(strip=True)
-        if not nombre or len(nombre) < 4:
-            # Buscar nombre en elementos cercanos
+    productos = {}
+    pagina = 1
+    
+    while True:
+        url_pag = url if pagina == 1 else url.replace(".html", f"-p{pagina}.html")
+        try:
+            r = requests.get(url_pag, headers=HEADERS, timeout=15)
+            r.raise_for_status()
+        except Exception as e:
+            print(f"  ⚠️  Error al acceder a {url_pag}: {e}")
+            break
+
+        soup = BeautifulSoup(r.text, "html.parser")
+        productos_pagina = {}
+
+        for link in soup.find_all("a", href=True):
+            href = link["href"]
+            if not re.search(r'/p\d{4,}-', href):
+                continue
+            nombre = link.get_text(strip=True)
+            if not nombre or len(nombre) < 4:
+                parent = link.find_parent()
+                if parent:
+                    nombre = parent.get_text(strip=True)[:80]
+            if not nombre or len(nombre) < 4:
+                continue
+            precio = ""
             parent = link.find_parent()
             if parent:
-                nombre = parent.get_text(strip=True)[:80]
-        if not nombre or len(nombre) < 4:
-            continue
-        # Buscar precio
-        precio = ""
-        parent = link.find_parent()
-        if parent:
-            for p in parent.find_all(True):
-                texto = p.get_text(strip=True)
-                if re.search(r'\d+[,\.]\d+\s*€', texto):
-                    precio = texto[:20]
-                    break
-        producto_id = re.search(r'/p(\d+)-', href).group(1)
-        full_url = href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
-        productos[producto_id] = {
-            "nombre": nombre[:100],
-            "precio": precio,
-            "url": full_url
-        }
+                for p in parent.find_all(True):
+                    texto = p.get_text(strip=True)
+                    if re.search(r'\d+[,\.]\d+\s*€', texto):
+                        precio = texto[:20]
+                        break
+            producto_id = re.search(r'/p(\d+)-', href).group(1)
+            full_url = href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
+            productos_pagina[producto_id] = {
+                "nombre": nombre[:100],
+                "precio": precio,
+                "url": full_url
+            }
+
+        if not productos_pagina:
+            break  # No hay más páginas
+
+        productos.update(productos_pagina)
+        print(f"    página {pagina}: {len(productos_pagina)} productos")
+        pagina += 1
+        
+        if pagina > 20:  # Límite de seguridad
+            break
 
     return productos
 
