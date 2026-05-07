@@ -62,26 +62,24 @@ def guardar_estado(estado):
 session = requests.Session()
 session.headers.update(HEADERS)
 
+# Crea una sesión global para que vaya súper rápido
+session = requests.Session()
+session.headers.update(HEADERS)
+
 def scrape_categoria(url):
     import time
     
     productos = {}
     pagina = 1
     
+    # Limpiamos la URL por si acaso viene con parámetros de antes
+    base_url = url.split("?")[0]
+    
     while True:
-        # Añadimos el truco de pageSize=128 para descargar 128 productos de golpe
-        if "?" in url:
-            base_url = url.split("?")[0]
-        else:
-            base_url = url
-            
-        if pagina == 1:
-            url_pag = f"{base_url}?pageSize=128"
-        else:
-            url_pag = f"{base_url}?Product_page={pagina}&pageSize=128"
-            
+        # Paginación normal (sin el pageSize que rompía la web)
+        url_pag = base_url if pagina == 1 else f"{base_url}?Product_page={pagina}"
+        
         try:
-            # Usamos la sesión en lugar de requests.get()
             r = session.get(url_pag, timeout=15)
             r.raise_for_status()
         except Exception as e:
@@ -118,6 +116,10 @@ def scrape_categoria(url):
             if etiqueta_agotado and "Agotado" in etiqueta_agotado.get_text(strip=True):
                 en_stock = False
 
+            # Si el producto ya lo habíamos sacado, significa que la web nos está repitiendo la página
+            if producto_id in productos_pagina or producto_id in productos:
+                continue
+
             productos_pagina[producto_id] = {
                 "nombre": nombre,
                 "precio": precio,
@@ -125,13 +127,18 @@ def scrape_categoria(url):
                 "en_stock": en_stock
             }
 
+        # Si después de filtrar repetidos no hay productos nuevos, rompemos el bucle
+        if not productos_pagina:
+            print("  ⚠️ La web no devuelve productos nuevos. Fin de la categoría.")
+            break
+
         productos.update(productos_pagina)
         print(f"    página {pagina}: {len(productos_pagina)} productos extraídos (Total acumulado: {len(productos)})")
         
         pagina += 1
-        time.sleep(1)  # Bajamos la pausa a 1 segundo. Al cargar 128 de golpe, hacemos muchas menos peticiones.
+        time.sleep(1)  # Pausa de 1 segundo entre páginas
         
-        if pagina > 50: 
+        if pagina > 100:  # Subimos el límite un poco por si hay categorías muy grandes
             break
 
     return productos
