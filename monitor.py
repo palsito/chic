@@ -18,16 +18,8 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 # URLs de categorías a monitorizar (añade o quita las que quieras)
 URLS_A_MONITORIZAR = [
     {
-        "nombre": "🧴 Perfumes",
-        "url": "https://www.perfumeriaschic.com/c135344-perfumes.html"
-    },
-    {
         "nombre": "🔥 Ofertas Semanales",
         "url": "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html"
-    },
-    {
-        "nombre": "💰 Ofertas -10€",
-        "url": "https://www.perfumeriaschic.com/c424525-ofertas-por-menos-de-10.html"
     },
     {
         "nombre": "🧪 Perfumes Tester",
