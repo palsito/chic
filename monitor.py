@@ -59,7 +59,6 @@ def guardar_estado(estado):
 
 
 def scrape_categoria(url):
-    """Extrae productos de una categoría. Devuelve dict {id: {nombre, precio, url}}"""
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         r.raise_for_status()
@@ -70,53 +69,37 @@ def scrape_categoria(url):
     soup = BeautifulSoup(r.text, "html.parser")
     productos = {}
 
-    # La web usa palbin.com como CMS — estructura estándar de productos
-    items = soup.select(".product-item, .product_item, article.product, .item-product")
-
-    # Fallback: buscar por estructura de links de producto
-    if not items:
-        items = soup.select("li.product, div.product-grid-item, .col-product")
-
-    # Segundo fallback: cualquier enlace que apunte a un producto (URLs tipo /pXXXXX-)
-    if not items:
-        links = soup.find_all("a", href=True)
-        for link in links:
-            href = link["href"]
-            if "/p" in href and href.count("-") >= 2 and "perfumeriaschic.com" in href:
-                nombre = link.get_text(strip=True)
-                if nombre and len(nombre) > 5:
-                    producto_id = href.split("/")[-1]
-                    # Buscar precio cercano
-                    precio = ""
-                    parent = link.find_parent()
-                    if parent:
-                        precio_elem = parent.find(class_=lambda c: c and "price" in c.lower() if c else False)
-                        if precio_elem:
-                            precio = precio_elem.get_text(strip=True)
-                    productos[producto_id] = {
-                        "nombre": nombre,
-                        "precio": precio,
-                        "url": href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
-                    }
-        return productos
-
-    for item in items:
-        link = item.find("a", href=True)
-        if not link:
-            continue
+    # Buscar todos los links que apunten a productos (/pXXXXX-)
+    import re
+    for link in soup.find_all("a", href=True):
         href = link["href"]
-        nombre_elem = item.select_one(".product-name, .product-title, h2, h3, .name")
-        nombre = nombre_elem.get_text(strip=True) if nombre_elem else link.get_text(strip=True)
-        precio_elem = item.select_one(".price, .product-price, .precio, .current-price")
-        precio = precio_elem.get_text(strip=True) if precio_elem else ""
-
-        if nombre and len(nombre) > 3:
-            producto_id = href.split("/")[-1]
-            productos[producto_id] = {
-                "nombre": nombre,
-                "precio": precio,
-                "url": href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
-            }
+        # URLs de producto en palbin tienen formato /pNNNNNN-nombre.html
+        if not re.search(r'/p\d{4,}-', href):
+            continue
+        nombre = link.get_text(strip=True)
+        if not nombre or len(nombre) < 4:
+            # Buscar nombre en elementos cercanos
+            parent = link.find_parent()
+            if parent:
+                nombre = parent.get_text(strip=True)[:80]
+        if not nombre or len(nombre) < 4:
+            continue
+        # Buscar precio
+        precio = ""
+        parent = link.find_parent()
+        if parent:
+            for p in parent.find_all(True):
+                texto = p.get_text(strip=True)
+                if re.search(r'\d+[,\.]\d+\s*€', texto):
+                    precio = texto[:20]
+                    break
+        producto_id = re.search(r'/p(\d+)-', href).group(1)
+        full_url = href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
+        productos[producto_id] = {
+            "nombre": nombre[:100],
+            "precio": precio,
+            "url": full_url
+        }
 
     return productos
 
