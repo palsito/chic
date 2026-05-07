@@ -59,12 +59,15 @@ def guardar_estado(estado):
 
 
 def scrape_categoria(url):
-    import re
+    import time
+    
     productos = {}
     pagina = 1
     
     while True:
-        url_pag = url if pagina == 1 else url.replace(".html", f"-p{pagina}.html")
+        # Paginación adaptada a la estructura real de la web
+        url_pag = url if pagina == 1 else f"{url}?Product_page={pagina}"
+        
         try:
             r = requests.get(url_pag, headers=HEADERS, timeout=15)
             r.raise_for_status()
@@ -73,47 +76,105 @@ def scrape_categoria(url):
             break
 
         soup = BeautifulSoup(r.text, "html.parser")
+        
+        # Buscamos todas las cajas de productos usando selectores CSS
+        articulos = soup.select("figure.featured-product")
+        
+        if not articulos:
+            break  # Si no hay artículos, hemos llegado al final de la categoría
+
         productos_pagina = {}
 
-        for link in soup.find_all("a", href=True):
-            href = link["href"]
-            if not re.search(r'/p\d{4,}-', href):
+        for art in articulos:
+            # 1. Extraer ID del producto (ej: featured-product-11712260 -> 11712260)
+            id_bruto = art.get('id', '')
+            producto_id = id_bruto.replace('featured-product-', '')
+            if not producto_id:
                 continue
-            nombre = link.get_text(strip=True)
-            if not nombre or len(nombre) < 4:
-                parent = link.find_parent()
-                if parent:
-                    nombre = parent.get_text(strip=True)[:80]
-            if not nombre or len(nombre) < 4:
+
+            # 2. Extraer Nombre y URL
+            link_elem = art.select_one(".featured-product-title-link")
+            if not link_elem:
                 continue
-            precio = ""
-            parent = link.find_parent()
-            if parent:
-                for p in parent.find_all(True):
-                    texto = p.get_text(strip=True)
-                    if re.search(r'\d+[,\.]\d+\s*€', texto):
-                        precio = texto[:20]
-                        break
-            producto_id = re.search(r'/p(\d+)-', href).group(1)
+            
+            nombre = link_elem.get_text(strip=True)
+            href = link_elem.get('href', '')
             full_url = href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
+
+            # 3. Extraer Precio Final (quitamos los espacios raros &nbsp; de HTML)
+            precio_elem = art.select_one(".featured-product-final-price")
+            precio = precio_elem.get_text(strip=True).replace('\xa0', ' ') if precio_elem else "Sin precio"
+
+            # 4. Extraer Stock (buscamos la etiqueta de Agotado)
+            etiqueta_agotado = art.select_one(".featured-product-ribbon")
+            en_stock = True
+            if etiqueta_agotado and "Agotado" in etiqueta_agotado.get_text(strip=True):
+                en_stock = False
+
+            # Guardamos el producto
             productos_pagina[producto_id] = {
-                "nombre": nombre[:100],
+                "nombre": nombre,
                 "precio": precio,
-                "url": full_url
+                "url": full_url,
+                "en_stock": en_stock
             }
 
-        if not productos_pagina:
-            break  # No hay más páginas
-
         productos.update(productos_pagina)
-        print(f"    página {pagina}: {len(productos_pagina)} productos")
-        pagina += 1
+        print(f"    página {pagina}: {len(productos_pagina)} productos extraídos")
         
-        if pagina > 20:  # Límite de seguridad
+        pagina += 1
+        time.sleep(1.5)  # ⚠️ CRÍTICO: Pausa para evitar baneos
+        
+        if pagina > 50:  # Límite de seguridad
             break
 
     return productos
 
+
+def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
+    mensajes = []
+
+    # 1. Productos NUEVOS
+    nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
+    if nuevos:
+        lista = "\n".join(
+            f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+            for p in list(nuevos.values())[:10]
+        )
+        extra = f"\n  <i>...y {len(nuevos)-10} más</i>" if len(nuevos) > 10 else ""
+        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}{extra}")
+
+    # 2. Productos DESAPARECIDOS (ya no existen en la web)
+    eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
+    if eliminados and len(eliminados) < 20: 
+        lista = "\n".join(f"  • {p['nombre']}" for p in list(eliminados.values())[:5])
+        extra = f"\n  <i>...y {len(eliminados)-5} más</i>" if len(eliminados) > 5 else ""
+        mensajes.append(f"❌ <b>Eliminados de la web en {nombre_cat}</b>\n{lista}{extra}")
+
+    # 3. Cambios de PRECIO y STOCK
+    cambios = []
+    for k, prod_nuevo in productos_nuevos.items():
+        if k in productos_anteriores:
+            prod_ant = productos_anteriores[k]
+            
+            # Comprobar Stock
+            if not prod_ant.get("en_stock", True) and prod_nuevo["en_stock"]:
+                cambios.append(f"  🟢 <b>¡VUELVE A HABER STOCK!</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
+            elif prod_ant.get("en_stock", True) and not prod_nuevo["en_stock"]:
+                cambios.append(f"  🔴 <b>AGOTADO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
+                
+            # Comprobar Precio
+            precio_ant = prod_ant.get("precio", "")
+            precio_nue = prod_nuevo.get("precio", "")
+            if precio_ant and precio_nue and precio_ant != precio_nue:
+                cambios.append(f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {precio_ant} → <b>{precio_nue}</b>")
+
+    if cambios:
+        lista = "\n\n".join(cambios[:10])
+        extra = f"\n\n  <i>...y {len(cambios)-10} cambios más</i>" if len(cambios) > 10 else ""
+        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}{extra}")
+
+    return mensajes
 
 def enviar_telegram(mensaje):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
