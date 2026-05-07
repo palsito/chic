@@ -58,6 +58,10 @@ def guardar_estado(estado):
         json.dump(estado, f, ensure_ascii=False, indent=2)
 
 
+# Crea una sesión global para que vaya súper rápido
+session = requests.Session()
+session.headers.update(HEADERS)
+
 def scrape_categoria(url):
     import time
     
@@ -65,34 +69,39 @@ def scrape_categoria(url):
     pagina = 1
     
     while True:
-        # Paginación adaptada a la estructura real de la web
-        url_pag = url if pagina == 1 else f"{url}?Product_page={pagina}"
-        
+        # Añadimos el truco de pageSize=128 para descargar 128 productos de golpe
+        if "?" in url:
+            base_url = url.split("?")[0]
+        else:
+            base_url = url
+            
+        if pagina == 1:
+            url_pag = f"{base_url}?pageSize=128"
+        else:
+            url_pag = f"{base_url}?Product_page={pagina}&pageSize=128"
+            
         try:
-            r = requests.get(url_pag, headers=HEADERS, timeout=15)
+            # Usamos la sesión en lugar de requests.get()
+            r = session.get(url_pag, timeout=15)
             r.raise_for_status()
         except Exception as e:
             print(f"  ⚠️  Error al acceder a {url_pag}: {e}")
             break
 
         soup = BeautifulSoup(r.text, "html.parser")
-        
-        # Buscamos todas las cajas de productos usando selectores CSS
         articulos = soup.select("figure.featured-product")
         
         if not articulos:
-            break  # Si no hay artículos, hemos llegado al final de la categoría
+            break
 
         productos_pagina = {}
 
         for art in articulos:
-            # 1. Extraer ID del producto (ej: featured-product-11712260 -> 11712260)
             id_bruto = art.get('id', '')
             producto_id = id_bruto.replace('featured-product-', '')
             if not producto_id:
                 continue
 
-            # 2. Extraer Nombre y URL
             link_elem = art.select_one(".featured-product-title-link")
             if not link_elem:
                 continue
@@ -101,17 +110,14 @@ def scrape_categoria(url):
             href = link_elem.get('href', '')
             full_url = href if href.startswith("http") else "https://www.perfumeriaschic.com" + href
 
-            # 3. Extraer Precio Final (quitamos los espacios raros &nbsp; de HTML)
             precio_elem = art.select_one(".featured-product-final-price")
             precio = precio_elem.get_text(strip=True).replace('\xa0', ' ') if precio_elem else "Sin precio"
 
-            # 4. Extraer Stock (buscamos la etiqueta de Agotado)
             etiqueta_agotado = art.select_one(".featured-product-ribbon")
             en_stock = True
             if etiqueta_agotado and "Agotado" in etiqueta_agotado.get_text(strip=True):
                 en_stock = False
 
-            # Guardamos el producto
             productos_pagina[producto_id] = {
                 "nombre": nombre,
                 "precio": precio,
@@ -120,12 +126,12 @@ def scrape_categoria(url):
             }
 
         productos.update(productos_pagina)
-        print(f"    página {pagina}: {len(productos_pagina)} productos extraídos")
+        print(f"    página {pagina}: {len(productos_pagina)} productos extraídos (Total acumulado: {len(productos)})")
         
         pagina += 1
-        time.sleep(1.5)  # ⚠️ CRÍTICO: Pausa para evitar baneos
+        time.sleep(1)  # Bajamos la pausa a 1 segundo. Al cargar 128 de golpe, hacemos muchas menos peticiones.
         
-        if pagina > 50:  # Límite de seguridad
+        if pagina > 50: 
             break
 
     return productos
