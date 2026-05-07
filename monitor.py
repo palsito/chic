@@ -129,6 +129,8 @@ def enviar_telegram(mensaje):
         "parse_mode": "HTML",
         "disable_web_page_preview": False
     }
+    print(f"  📤 Enviando a Telegram chat_id={TELEGRAM_CHAT_ID[:4]}...")
+
     try:
         r = requests.post(url, json=payload, timeout=10)
         r.raise_for_status()
