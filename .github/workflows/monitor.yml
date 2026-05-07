@@ -2,9 +2,13 @@ name: 🔍 Monitor Perfumeriaschic
 
 on:
   schedule:
-    # Ejecutar cada 30 minutos (puedes cambiar la frecuencia)
-    - cron: '*/5 * * * *'
+    # Ejecutar cada 30 minutos (mucho más fiable en GitHub Actions)
+    - cron: '*/30 * * * *'
   workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub
+
+# ¡ESTO ES VITAL PARA QUE EL GIT PUSH FUNCIONE!
+permissions:
+  contents: write
 
 jobs:
   monitor:
@@ -13,8 +17,7 @@ jobs:
     steps:
       - name: 📥 Descargar código
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        # Ya no necesitas poner el token aquí, el permiso de arriba lo gestiona.
 
       - name: 🐍 Configurar Python
         uses: actions/setup-python@v5
@@ -26,6 +29,8 @@ jobs:
 
       - name: 🔍 Ejecutar monitor
         env:
+          # Asegúrate de que estos "Secrets" están creados en tu repositorio
+          # (En Settings > Secrets and variables > Actions)
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python monitor.py
