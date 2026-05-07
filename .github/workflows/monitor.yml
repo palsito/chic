@@ -1,1 +1,39 @@
+name: 🔍 Monitor Perfumeriaschic
 
+on:
+  schedule:
+    # Ejecutar cada 30 minutos (puedes cambiar la frecuencia)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Descargar código
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: 🔍 Ejecutar monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: 💾 Guardar estado actualizado
+        run: |
+          git config --global user.name "Monitor Bot"
+          git config --global user.email "monitor@bot.com"
+          git add estado_productos.json
+          git diff --staged --quiet || git commit -m "chore: actualizar estado productos [$(date +'%Y-%m-%d %H:%M')]"
+          git push
