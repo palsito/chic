@@ -2762,12 +2762,6 @@
       "url": "https://www.perfumeriaschic.com/p1987626-adolfo-dominguez-bambu-edt-120ml-tester.html",
       "en_stock": true
     },
-    "11738544": {
-      "nombre": "KENZO POWER POUR HOMME EDT 75ML...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11738544-kenzo-power-pour-homme-edt-75ml-tester.html",
-      "en_stock": true
-    },
     "11738470": {
       "nombre": "CHLOE LE PARFUM 100ML TESTER",
       "precio": "54,90 €",
@@ -12330,6 +12324,12 @@
       "nombre": "DUSITA LA RHAPSODIE NOIRE EAU DE...",
       "precio": "75,92 €",
       "url": "https://www.perfumeriaschic.com/p10928804-dusita-la-rhapsodie-noire-eau-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "8150280": {
+      "nombre": "MANCERA FEMINITY EDP 120ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
       "en_stock": false
     }
   },
