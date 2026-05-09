@@ -262,7 +262,7 @@
       "nombre": "MARY KAY MINERAL FACIAL SUNSCREEN...",
       "precio": "12,60 €",
       "url": "https://www.perfumeriaschic.com/p11660304-mary-kay-mineral-facial-sunscreen-spf-30-protector-solar-mineral-facial-48ml.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11660080": {
       "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
@@ -748,7 +748,7 @@
       "nombre": "COLLISTAR  MILANO CREMA ULTRA...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p11548549-collistar-milano-crema-ultra-lifting-rostro-y-cuello-lift-hd-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "2532461": {
       "nombre": "CALVIN KLEIN CK ONE SHOCK FOR HER...",
