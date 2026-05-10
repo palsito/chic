@@ -22,8 +22,8 @@ URLS_A_MONITORIZAR = [
         "url": "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html"
     },
     {
-        "nombre": "🧪 Perfumes Tester",
-        "url": "https://www.perfumeriaschic.com/c276461-perfumes-tester.html"
+        "nombre": "🧪 Perfumes Tester Masculinos",
+        "url": "https://www.perfumeriaschic.com/c369086-testers-masculinos.html"
     },
     {
         "nombre": "💎 Perfumes Nicho",
