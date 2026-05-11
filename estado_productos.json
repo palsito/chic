@@ -2808,7 +2808,7 @@
       "nombre": "HUGO BOSS THE SCENT FOR HIM EDT...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p2513724-hugo-boss-the-scent-for-men-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11631944": {
       "nombre": "SCALPERS THE SUITE CLUB EDT 125ML...",
@@ -3534,6 +3534,12 @@
       "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11435163-ligea-la-sirena-de-carthusia-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "4382975": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM EDT...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p4382975-zadig-voltaire-this-is-him-edt-100ml-sin-caja.html",
       "en_stock": true
     },
     "10619351": {
@@ -7916,6 +7922,12 @@
       "url": "https://www.perfumeriaschic.com/p11526345-etat-libre-dorange-dangerous-complicity-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11385406": {
+      "nombre": "CALVIN KLEIN CK ONE REFLECTIÓNS EDT...",
+      "precio": "16,90 €",
+      "url": "https://www.perfumeriaschic.com/p11385406-calvin-klein-ck-one-reflections-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "10474613": {
       "nombre": "SCALPERS THE BOXING CLUB EDP 125ML...",
       "precio": "22,90 €",
@@ -9540,7 +9552,7 @@
       "nombre": "GIVENCHY PI EDT 100ML TESTER",
       "precio": "38,70 €",
       "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10890231": {
       "nombre": "RALPH LAUREN POLO BLUE PARFUM 125ML...",
