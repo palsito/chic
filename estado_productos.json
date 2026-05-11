@@ -6894,7 +6894,7 @@
       "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11433860": {
       "nombre": "NISHANE PAPILEFICO EXTRAIT DE PARFUM...",
@@ -9648,6 +9648,18 @@
       "nombre": "JOVOY FIRE AT WILL EDP 75ML TESTER",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11740999": {
+      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11741000": {
+      "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     }
   },
@@ -12782,6 +12794,12 @@
       "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11741000": {
+      "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     }
   }
