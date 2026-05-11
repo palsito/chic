@@ -2126,9 +2126,9 @@
     },
     "11551440": {
       "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
-      "precio": "38,27 €",
+      "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11551440-lancome-renergie-yeux-h-c-f-triple-serum-contorno-de-ojos-anti-edad-20ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11012061": {
       "nombre": "NISHANE FAN YOUR FLAMES X EXTRAIT DE...",
@@ -2362,12 +2362,6 @@
       "nombre": "SERGE LUTENS LA FILLE DE BERLIN EDP...",
       "precio": "49,95 €",
       "url": "https://www.perfumeriaschic.com/p11435321-serge-lutens-la-fille-de-berlin-edp-50ml.html",
-      "en_stock": false
-    },
-    "11624700": {
-      "nombre": "LANCOME ROSE SUGAR SCRUB EXFOLIANTE...",
-      "precio": "9,95 €",
-      "url": "https://www.perfumeriaschic.com/p11624700-lancome-rose-sugar-scrub-exfoliante-suave-con-granos-de-azucar-y-agua-de-rosas-100ml-tester.html",
       "en_stock": false
     },
     "2868370": {
@@ -2674,7 +2668,7 @@
       "nombre": "LANCOME ABSOLUE THE SERUM...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412369": {
       "nombre": "ESCADA CHIFFON SORBET LIMITED...",
@@ -4104,12 +4098,6 @@
       "nombre": "STARCK PARIS PEAU DE PIERRE EDT 90ML...",
       "precio": "29,18 €",
       "url": "https://www.perfumeriaschic.com/p11399025-starck-paris-peau-de-pierre-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "10982493": {
-      "nombre": "JESUS DEL POZO HALLOWEEN MAN MYSTERY...",
-      "precio": "21,90 €",
-      "url": "https://www.perfumeriaschic.com/p10982493-jesus-del-pozo-halloween-man-mystery-edp-125ml-tester.html",
       "en_stock": true
     },
     "11468402": {
@@ -11067,12 +11055,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11426908-atkinsons-44-gerrard-street-eau-de-cologne-100ml-tester.html",
       "en_stock": false
-    },
-    "11433948": {
-      "nombre": "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
-      "precio": "198,90 €",
-      "url": "https://www.perfumeriaschic.com/p11433948-amouage-guidance-woman-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11434005": {
       "nombre": "NISHANE WULÓNG CHÁ X EXTRAIT DE...",
