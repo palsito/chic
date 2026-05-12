@@ -2928,7 +2928,7 @@
       "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p8081494-acqua-di-parma-colonia-futura-edc-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10948017": {
       "nombre": "HERMES H24 EAU DE TOILETTE 100ML...",
@@ -3450,7 +3450,7 @@
       "nombre": "THAMEEN GREEN PEARL EDP 50ML TESTER",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10913383": {
       "nombre": "MONTALE BLUE AMBER EDP 100ML TESTER",
@@ -4938,12 +4938,6 @@
       "nombre": "CARNER BARCELONA SUPER MOON EDP 30ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11158870-carner-barcelona-super-moon-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11368247": {
-      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
       "en_stock": false
     },
     "9327823": {
@@ -9736,12 +9730,6 @@
       "url": "https://www.perfumeriaschic.com/p8945971-juliette-has-a-gun-anyway-edp-100ml-sin-caja.html",
       "en_stock": true
     },
-    "11368247": {
-      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11313275": {
       "nombre": "XERJOFF AMABILE EDP 100ML TESTER",
       "precio": "144,90 €",
@@ -10232,7 +10220,7 @@
       "nombre": "THAMEEN GREEN PEARL EDP 50ML TESTER",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11677002": {
       "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
