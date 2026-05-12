@@ -486,12 +486,6 @@
       "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
       "en_stock": true
     },
-    "8648444": {
-      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
-      "precio": "49,41 €",
-      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "8946605": {
       "nombre": "JULIETTE HAS A GUN MUSC INVISIBLE...",
       "precio": "44,76 €",
@@ -7466,12 +7460,6 @@
       "url": "https://www.perfumeriaschic.com/p8542297-montale-nepal-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8648444": {
-      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
-      "precio": "49,41 €",
-      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "8087281": {
       "nombre": "ACQUA DI PARMA AMBRA EDP 100ML TESTER",
       "precio": "89,90 €",
@@ -9746,12 +9734,6 @@
       "nombre": "JULIETTE HAS A GUN ANYWAY EDP 100ML ...",
       "precio": "49,68 €",
       "url": "https://www.perfumeriaschic.com/p8945971-juliette-has-a-gun-anyway-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
-    "8648444": {
-      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
-      "precio": "49,41 €",
-      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11368247": {
@@ -12590,7 +12572,7 @@
       "nombre": "MANCERA JUICY FLOWERS EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11293777-mancera-juicy-flowers-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11094427": {
       "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
