@@ -1,22 +1,10 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
-    "11740412": {
-      "nombre": "REPLICA MAISON MARGIELA WHEN THE...",
-      "precio": "34,95 €",
-      "url": "https://www.perfumeriaschic.com/p11740412-replica-maison-margiela-when-the-rain-stops-eau-de-toilette-30ml.html",
-      "en_stock": false
-    },
-    "11740413": {
-      "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
-      "precio": "72,98 €",
-      "url": "https://www.perfumeriaschic.com/p11740413-replica-maison-margiela-on-a-date-eau-de-toilette-30ml.html",
-      "en_stock": false
-    },
-    "11740414": {
-      "nombre": "REPLICA MAISON MARGIELA AUTUMN VIBES...",
-      "precio": "34,95 €",
-      "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
-      "en_stock": false
+    "11624736": {
+      "nombre": "LANCOME ABSOLUE THE SERUM...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
+      "en_stock": true
     },
     "11740415": {
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
@@ -210,12 +198,6 @@
       "url": "https://www.perfumeriaschic.com/p7292937-paco-rabanne-ultraviolet-edp-80ml-tester.html",
       "en_stock": true
     },
-    "10513989": {
-      "nombre": "​PHILIPP PLEIN NO LIMITS EDP 90ML...",
-      "precio": "32,90 €",
-      "url": "https://www.perfumeriaschic.com/p10513989-philipp-plein-no-limits-edp-90ml-tester.html",
-      "en_stock": false
-    },
     "11734746": {
       "nombre": "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
       "precio": "33,25 €",
@@ -299,12 +281,6 @@
       "precio": "26,91 €",
       "url": "https://www.perfumeriaschic.com/p11404356-lolita-lempicka-mon-premier-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11660304": {
-      "nombre": "MARY KAY MINERAL FACIAL SUNSCREEN...",
-      "precio": "12,60 €",
-      "url": "https://www.perfumeriaschic.com/p11660304-mary-kay-mineral-facial-sunscreen-spf-30-protector-solar-mineral-facial-48ml.html",
-      "en_stock": false
     },
     "11660080": {
       "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
@@ -408,12 +384,6 @@
       "url": "https://www.perfumeriaschic.com/p11529795-jeroboam-origino-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11720839": {
-      "nombre": "MEMO PARIS INVERNESS EDP 75ML",
-      "precio": "118,89 €",
-      "url": "https://www.perfumeriaschic.com/p11720839-memo-paris-inverness-edp-75ml.html",
-      "en_stock": false
-    },
     "11517806": {
       "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
       "precio": "129,90 €",
@@ -473,12 +443,6 @@
       "precio": "29,97 €",
       "url": "https://www.perfumeriaschic.com/p11708241-hugo-boss-hugo-deep-red-edp-75ml.html",
       "en_stock": true
-    },
-    "11708235": {
-      "nombre": "BURBERRY FOR MEN EDT 100ML",
-      "precio": "23,95 €",
-      "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
-      "en_stock": false
     },
     "9680643": {
       "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
@@ -2658,12 +2622,6 @@
       "url": "https://www.perfumeriaschic.com/p11507342-officina-delle-essenze-puro-talco-eau-de-parfum-100ml.html",
       "en_stock": false
     },
-    "11624736": {
-      "nombre": "LANCOME ABSOLUE THE SERUM...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
-      "en_stock": true
-    },
     "11412369": {
       "nombre": "ESCADA CHIFFON SORBET LIMITED...",
       "precio": "24,82 €",
@@ -2758,6 +2716,48 @@
       "nombre": "REPLICA MAISON MARGIELA UP AT DAWN...",
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11739302-replica-maison-margiela-up-at-dawn-eau-de-toilette-10ml.html",
+      "en_stock": false
+    },
+    "11740412": {
+      "nombre": "REPLICA MAISON MARGIELA WHEN THE...",
+      "precio": "34,95 €",
+      "url": "https://www.perfumeriaschic.com/p11740412-replica-maison-margiela-when-the-rain-stops-eau-de-toilette-30ml.html",
+      "en_stock": false
+    },
+    "11740413": {
+      "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
+      "precio": "72,98 €",
+      "url": "https://www.perfumeriaschic.com/p11740413-replica-maison-margiela-on-a-date-eau-de-toilette-30ml.html",
+      "en_stock": false
+    },
+    "11740414": {
+      "nombre": "REPLICA MAISON MARGIELA AUTUMN VIBES...",
+      "precio": "34,95 €",
+      "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
+      "en_stock": false
+    },
+    "10513989": {
+      "nombre": "​PHILIPP PLEIN NO LIMITS EDP 90ML...",
+      "precio": "32,90 €",
+      "url": "https://www.perfumeriaschic.com/p10513989-philipp-plein-no-limits-edp-90ml-tester.html",
+      "en_stock": false
+    },
+    "11660304": {
+      "nombre": "MARY KAY MINERAL FACIAL SUNSCREEN...",
+      "precio": "12,60 €",
+      "url": "https://www.perfumeriaschic.com/p11660304-mary-kay-mineral-facial-sunscreen-spf-30-protector-solar-mineral-facial-48ml.html",
+      "en_stock": false
+    },
+    "11708235": {
+      "nombre": "BURBERRY FOR MEN EDT 100ML",
+      "precio": "23,95 €",
+      "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
+      "en_stock": false
+    },
+    "11720839": {
+      "nombre": "MEMO PARIS INVERNESS EDP 75ML",
+      "precio": "118,89 €",
+      "url": "https://www.perfumeriaschic.com/p11720839-memo-paris-inverness-edp-75ml.html",
       "en_stock": false
     }
   },
@@ -6908,12 +6908,6 @@
       "url": "https://www.perfumeriaschic.com/p11530847-montale-oud-sapparot-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11508558": {
-      "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
-      "en_stock": false
-    },
     "11433860": {
       "nombre": "NISHANE PAPILEFICO EXTRAIT DE PARFUM...",
       "precio": "149,90 €",
@@ -9564,7 +9558,7 @@
       "nombre": "LOLITA LEMPICKA POUR HOMME EDT 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11467863-lolita-lempicka-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10513989": {
       "nombre": "​PHILIPP PLEIN NO LIMITS EDP 90ML...",
