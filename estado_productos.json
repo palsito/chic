@@ -2816,6 +2816,24 @@
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     },
+    "11741488": {
+      "nombre": "MANCERA WAVE MUSK EDP 120ML SIN CAJA",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741488-mancera-wave-musk-edp-120ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11741500": {
+      "nombre": "COACH FOR MEN EAU DE PARFUM 100ML...",
+      "precio": "32,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741500-coach-for-men-eau-de-parfum-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11741513": {
+      "nombre": "ARISTOCRAZY CITRINE EDP 100ML TESTER",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741513-aristocrazy-citrine-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11692347": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
       "precio": "99,36 €",
@@ -9634,6 +9652,18 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11293777": {
+      "nombre": "MANCERA JUICY FLOWERS EDP 120ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11293777-mancera-juicy-flowers-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11741488": {
+      "nombre": "MANCERA WAVE MUSK EDP 120ML SIN CAJA",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11741488-mancera-wave-musk-edp-120ml-sin-caja.html",
+      "en_stock": true
+    },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -10197,12 +10227,6 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11683687-nishane-shinanay-30ml-tester.html",
       "en_stock": true
-    },
-    "11417522": {
-      "nombre": "THAMEEN GREEN PEARL EDP 50ML TESTER",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
-      "en_stock": false
     },
     "11677002": {
       "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
@@ -12538,12 +12562,6 @@
       "url": "https://www.perfumeriaschic.com/p11418682-tiziana-terenzi-cassiopea-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "11293777": {
-      "nombre": "MANCERA JUICY FLOWERS EDP 120ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11293777-mancera-juicy-flowers-edp-120ml-tester.html",
-      "en_stock": true
-    },
     "11094427": {
       "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
       "precio": "78,90 €",
@@ -12746,6 +12764,12 @@
       "nombre": "CARNER BARCELONA LUKOMORIE EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11417522": {
+      "nombre": "THAMEEN GREEN PEARL EDP 50ML TESTER",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
     }
   }
