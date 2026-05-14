@@ -358,7 +358,7 @@
       "nombre": "FILORGA NCEF-REVERSE CREMA...",
       "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p11719295-filorga-ncef-reverse-crema-multicorreccion-suprema-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11719284": {
       "nombre": "FILORGA SERUM TIME ZERO ANTIARRUGAS...",
@@ -448,6 +448,12 @@
       "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
       "precio": "59,95 €",
       "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
+      "en_stock": true
+    },
+    "8648444": {
+      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
+      "precio": "49,41 €",
+      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "8946605": {
@@ -7496,6 +7502,12 @@
       "url": "https://www.perfumeriaschic.com/p8542297-montale-nepal-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
+    "8648444": {
+      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
+      "precio": "49,41 €",
+      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "8087281": {
       "nombre": "ACQUA DI PARMA AMBRA EDP 100ML TESTER",
       "precio": "89,90 €",
@@ -9734,6 +9746,12 @@
       "nombre": "JULIETTE HAS A GUN ANYWAY EDP 100ML ...",
       "precio": "49,68 €",
       "url": "https://www.perfumeriaschic.com/p8945971-juliette-has-a-gun-anyway-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "8648444": {
+      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
+      "precio": "49,41 €",
+      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11313275": {
