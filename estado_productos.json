@@ -4838,12 +4838,6 @@
       "url": "https://www.perfumeriaschic.com/p10948009-hermes-h24-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "10954931": {
-      "nombre": "PACO RABANNE INVICTUS VICTORY ELIXIR...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10954931-paco-rabanne-invictus-victory-elixir-100ml-tester.html",
-      "en_stock": false
-    },
     "10619363": {
       "nombre": "LACOSTE MATCH POINT EDT 100ML TESTER",
       "precio": "29,90 €",
@@ -6564,7 +6558,7 @@
       "nombre": "PENHALIGON´S THE TRAGEDY OF LORD...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p7664723-penhaligons-the-tragedy-of-lord-george-edp-75ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11410301": {
       "nombre": "JESUS DEL POZO HALLOWEEN MAN SHOT...",
@@ -6888,7 +6882,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE BLAZING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p9520236-penhaligons-portraits-the-blazing-mr-sam-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11464371": {
       "nombre": "TOM FORD OUD WOOD EAU DE PARFUM 50ML...",
@@ -8082,7 +8076,7 @@
       "nombre": "ELIE SAAB L'HOMME EDP 100ML TESTER",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11509074-elie-saab-lhomme-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9760561": {
       "nombre": "ETRO PATCHOULY EAU DE PARFUM 100ML...",
@@ -8527,6 +8521,12 @@
       "precio": "75,92 €",
       "url": "https://www.perfumeriaschic.com/p10928804-dusita-la-rhapsodie-noire-eau-de-parfum-100ml-tester.html",
       "en_stock": false
+    },
+    "11410303": {
+      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11683690": {
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
@@ -10880,7 +10880,7 @@
       "nombre": "PENHALIGON´S THE TRAGEDY OF LORD...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p7664723-penhaligons-the-tragedy-of-lord-george-edp-75ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11380833": {
       "nombre": "MONTALE BUBBLE FOREVER EDP 100ML...",
@@ -11402,7 +11402,13 @@
       "nombre": "PENHALIGON´S PORTRAITS THE BLAZING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p9520236-penhaligons-portraits-the-blazing-mr-sam-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
+    },
+    "11410303": {
+      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11464371": {
       "nombre": "TOM FORD OUD WOOD EAU DE PARFUM 50ML...",
@@ -11834,7 +11840,7 @@
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544531": {
       "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
