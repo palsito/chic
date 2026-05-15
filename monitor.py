@@ -28,6 +28,10 @@ URLS_A_MONITORIZAR = [
         "url": "https://www.perfumeriaschic.com/c369086-testers-masculinos.html"
     },
     {
+        "nombre": "🧪 Perfumes Tester Femeninos",
+        "url": "https://www.perfumeriaschic.com/c369087-testers-femeninos.html"
+    },
+    {
         "nombre": "💎 Perfumes Nicho",
         "url": "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html"
     },
