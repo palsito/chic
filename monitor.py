@@ -14,6 +14,8 @@ from datetime import datetime
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
+TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
+
 
 # URLs de categorías a monitorizar (añade o quita las que quieras)
 URLS_A_MONITORIZAR = [
