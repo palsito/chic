@@ -181,6 +181,8 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
 
     return mensajes
 
+TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
+
 def enviar_telegram(mensaje):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️  No hay credenciales de Telegram configuradas")
@@ -195,8 +197,10 @@ def enviar_telegram(mensaje):
         "parse_mode": "HTML",
         "disable_web_page_preview": False
     }
+    if TELEGRAM_THREAD_ID:
+        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+        
     print(f"  📤 Enviando a Telegram chat_id={TELEGRAM_CHAT_ID[:4]}...")
-
     try:
         r = requests.post(url, json=payload, timeout=10)
         r.raise_for_status()
