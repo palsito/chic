@@ -1848,12 +1848,6 @@
       "url": "https://www.perfumeriaschic.com/p9794972-m-micallef-mon-parfum-gold-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11421075": {
-      "nombre": "CARTHUSIA ESSENCE OF THE PARK EAU DE...",
-      "precio": "42,42 €",
-      "url": "https://www.perfumeriaschic.com/p11421075-carthusia-essence-of-the-park-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
-    },
     "11421089": {
       "nombre": "DUSITA ERAWAN EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -2398,7 +2392,7 @@
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
       "url": "https://www.perfumeriaschic.com/p11544530-carthusia-corallium-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11680656": {
       "nombre": "DUSITA SPLENDIRIS EAU DE PARFUM...",
@@ -4464,7 +4458,7 @@
       "nombre": "PERRIS MONTE CARLO YLANG YLANG NOSY...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p9600249-perris-monte-carlo-ylang-ylang-nosy-be-extrait-de-parfum-50ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10135347": {
       "nombre": "ORTO PARISI MEGAMARE EDP 50ML TESTER",
@@ -5028,7 +5022,7 @@
       "nombre": "CARTHUSIA 1681 EDP 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11435127-1681-de-carthusia-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11355933": {
       "nombre": "CALVIN KLEIN OBSESSION FOR MEN EDT...",
@@ -6120,7 +6114,7 @@
       "nombre": "MOLINARD CUIR EAU DE PARFUM 75ML...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10694344-molinard-cuir-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7883588": {
       "nombre": "LOEWE POUR HOMME EDT 150ML",
@@ -6246,7 +6240,7 @@
       "nombre": "MOLINARD AMBRE EAU DE PARFUM 75ML...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10695079-molinard-ambre-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10695080": {
       "nombre": "MOLINARD PATCHOULI EAU DE PARFUM...",
@@ -7692,13 +7686,13 @@
       "nombre": "DUSITA PELAGOS EXTRAIT DE PARFUM...",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544531": {
       "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11544531-carthusia-fiori-di-capri-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11413168": {
       "nombre": "CLARINS AROMA EAU DES JARDINS EAU DE...",
@@ -7752,7 +7746,7 @@
       "nombre": "CARTHUSIA TERRA MIA EAU DE PARFUM...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11421088-carthusia-terra-mia-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11598380": {
       "nombre": "MERCHANT OF VENICE CYPRUS SHELL EDP...",
@@ -7800,7 +7794,7 @@
       "nombre": "CARTHUSIA IO CAPRI EDP 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11544548-carthusia-io-capri-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11620555": {
       "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
@@ -8016,7 +8010,7 @@
       "nombre": "DUSITA ROSARINE EAU DE PARFUM 50ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11487002": {
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
@@ -8372,6 +8366,12 @@
       "url": "https://www.perfumeriaschic.com/p10936990-carner-barcelona-rose-dragon-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11675406": {
+      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
+      "en_stock": true
+    },
     "10912291": {
       "nombre": "SISLEY L'EAU REVEE D'ALMA EDT 100ML...",
       "precio": "54,80 €",
@@ -8496,7 +8496,7 @@
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
       "url": "https://www.perfumeriaschic.com/p11544530-carthusia-corallium-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10619402": {
       "nombre": "NISHANE SAFRAN COLOGNISE EXTRAIT DE...",
@@ -8594,17 +8594,11 @@
       "url": "https://www.perfumeriaschic.com/p11323155-rosendo-mateu-1968-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11476036": {
-      "nombre": "BOND No.9 NY HAMPTONS EDP 100ML...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11476036-bond-no-9-ny-hamptons-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10694316": {
       "nombre": "MOLINARD HABANITA LA COLOGNE EDT...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10694316-molinard-habanita-la-cologne-edt-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11355807": {
       "nombre": "REMINISCENCE LE PATCHOULI ÉLIXIR EDP...",
@@ -8628,6 +8622,12 @@
       "nombre": "MANCERA LEMON LINE EDP 120ML TESTER",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p7432908-mancera-lemon-line-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11712848": {
+      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
       "en_stock": false
     },
     "11711350": {
@@ -8664,7 +8664,7 @@
       "nombre": "PERRIS MONTE CARLO MIMOSA TANNERON...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8876181-perris-monte-carlo-mimosa-tanneron-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11664038": {
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
@@ -8724,7 +8724,7 @@
       "nombre": "TIZIANA TERENZI AKRAGAS EXTRAIT DE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11561324-tiziana-terenzi-akragas-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11355815": {
       "nombre": "REMINISCENCE LE PATCHOULI EDT...",
@@ -8964,7 +8964,7 @@
       "nombre": "CARNER BARCELONA SWEET WILLIAM EDP...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11366729-carner-barcelona-sweet-william-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "2521510": {
       "nombre": "LACOSTE LIVE POUR HOMME EDT 100ML...",
@@ -9493,6 +9493,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
+    },
+    "11421075": {
+      "nombre": "CARTHUSIA ESSENCE OF THE PARK EAU DE...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11421075-carthusia-essence-of-the-park-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
@@ -9932,6 +9938,12 @@
       "nombre": "MASQUE MILANO ALCOVE EAU DE PARFUM...",
       "precio": "264,90 €",
       "url": "https://www.perfumeriaschic.com/p11678471-masque-milano-alcove-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11675406": {
+      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
     "10958096": {
@@ -11006,7 +11018,7 @@
       "nombre": "CARTHUSIA 1681 EDP 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11435127-1681-de-carthusia-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9609544": {
       "nombre": "V CANTO MAGNIFICAT EXTRAIT DE PARFUM...",
@@ -11732,13 +11744,13 @@
       "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11544531-carthusia-fiori-di-capri-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11493953": {
       "nombre": "DUSITA PELAGOS EXTRAIT DE PARFUM...",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561323": {
       "nombre": "REGALIEN MEFTUN EDP 50ML TESTER",
@@ -11822,7 +11834,7 @@
       "nombre": "CARTHUSIA IO CAPRI EDP 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11544548-carthusia-io-capri-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11526345": {
       "nombre": "ETAT LIBRE D´ORANGE DANGEROUS...",
@@ -11942,12 +11954,6 @@
       "nombre": "PERRIS MONTE CARLO SANTAL DU...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8202586-perris-monte-carlo-santal-du-pacifique-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11493942": {
-      "nombre": "DUSITA ROSARINE EAU DE PARFUM 50ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
     "11487002": {
@@ -12116,7 +12122,7 @@
       "nombre": "PERRIS MONTE CARLO MIMOSA TANNERON...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8876181-perris-monte-carlo-mimosa-tanneron-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11379211": {
       "nombre": "CHABAUD LAIT DE BISCUIT EDT 100ML...",
@@ -12182,7 +12188,7 @@
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
       "url": "https://www.perfumeriaschic.com/p11544530-carthusia-corallium-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10958122": {
       "nombre": "MANCERA VANILLE EXCLUSIVE EDP 120ML...",
@@ -12296,6 +12302,12 @@
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11711350-replica-maison-margiela-under-the-stars-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11712848": {
+      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
       "en_stock": false
     },
     "11650237": {
