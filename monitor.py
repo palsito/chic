@@ -149,7 +149,7 @@ def scrape_categoria(url):
         pagina += 1
         time.sleep(1)
         
-        if pagina > 100:
+        if pagina > 10000:
             break
 
     return productos
