@@ -9,6 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import time
 from datetime import datetime
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────
@@ -16,8 +17,7 @@ TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
 
-
-# URLs de categorías a monitorizar (añade o quita las que quieras)
+# URLs de categorías a monitorizar
 URLS_A_MONITORIZAR = [
     {
         "nombre": "🔥 Ofertas Semanales",
@@ -39,6 +39,9 @@ HEADERS = {
 }
 # ──────────────────────────────────────────────────────────────────
 
+# Crea una sesión global para que vaya súper rápido
+session = requests.Session()
+session.headers.update(HEADERS)
 
 def cargar_estado():
     if os.path.exists(STATE_FILE):
@@ -46,23 +49,38 @@ def cargar_estado():
             return json.load(f)
     return {}
 
-
 def guardar_estado(estado):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(estado, f, ensure_ascii=False, indent=2)
 
-
-# Crea una sesión global para que vaya súper rápido
-session = requests.Session()
-session.headers.update(HEADERS)
-
-# Crea una sesión global para que vaya súper rápido
-session = requests.Session()
-session.headers.update(HEADERS)
+def enviar_telegram(mensaje):
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+        print("⚠️  No hay credenciales de Telegram configuradas")
+        print("─" * 50)
+        print(mensaje)
+        print("─" * 50)
+        return
+        
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": mensaje,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False
+    }
+    
+    if TELEGRAM_THREAD_ID:
+        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+        
+    print(f"  📤 Enviando a Telegram chat_id={TELEGRAM_CHAT_ID[:4]}...")
+    try:
+        r = requests.post(url, json=payload, timeout=10)
+        r.raise_for_status()
+        print("  ✅ Notificación enviada por Telegram")
+    except Exception as e:
+        print(f"  ❌ Error enviando Telegram: {e}")
 
 def scrape_categoria(url):
-    import time
-    
     productos = {}
     pagina = 1
     
@@ -70,8 +88,9 @@ def scrape_categoria(url):
     base_url = url.split("?")[0]
     
     while True:
-        # Paginación normal (sin el pageSize que rompía la web)
-        url_pag = base_url if pagina == 1 else f"{base_url}?Product_page={pagina}"
+        # Añadimos un timestamp para evitar la caché de la web (el truco que comentamos)
+        timestamp = int(time.time())
+        url_pag = f"{base_url}?t={timestamp}" if pagina == 1 else f"{base_url}?Product_page={pagina}&t={timestamp}"
         
         try:
             r = session.get(url_pag, timeout=15)
@@ -110,7 +129,6 @@ def scrape_categoria(url):
             if etiqueta_agotado and "Agotado" in etiqueta_agotado.get_text(strip=True):
                 en_stock = False
 
-            # Si el producto ya lo habíamos sacado, significa que la web nos está repitiendo la página
             if producto_id in productos_pagina or producto_id in productos:
                 continue
 
@@ -121,7 +139,6 @@ def scrape_categoria(url):
                 "en_stock": en_stock
             }
 
-        # Si después de filtrar repetidos no hay productos nuevos, rompemos el bucle
         if not productos_pagina:
             print("  ⚠️ La web no devuelve productos nuevos. Fin de la categoría.")
             break
@@ -130,15 +147,15 @@ def scrape_categoria(url):
         print(f"    página {pagina}: {len(productos_pagina)} productos extraídos (Total acumulado: {len(productos)})")
         
         pagina += 1
-        time.sleep(1)  # Pausa de 1 segundo entre páginas
+        time.sleep(1)
         
-        if pagina > 100:  # Subimos el límite un poco por si hay categorías muy grandes
+        if pagina > 100:
             break
 
     return productos
 
-
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
+    # ¡ESTA ES LA VERSIÓN BUENA CON LÓGICA DE STOCK!
     mensajes = []
 
     # 1. Productos NUEVOS
@@ -183,82 +200,6 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
 
     return mensajes
 
-TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
-
-def enviar_telegram(mensaje):
-    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
-        print("⚠️  No hay credenciales de Telegram configuradas")
-        print("─" * 50)
-        print(mensaje)
-        print("─" * 50)
-        return
-    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
-    if TELEGRAM_THREAD_ID:
-        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
-        
-    print(f"  📤 Enviando a Telegram chat_id={TELEGRAM_CHAT_ID[:4]}...")
-    try:
-        r = requests.post(url, json=payload, timeout=10)
-        r.raise_for_status()
-        print("  ✅ Notificación enviada por Telegram")
-    except Exception as e:
-        print(f"  ❌ Error enviando Telegram: {e}")
-
-
-def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
-    mensajes = []
-
-    # Productos nuevos (no existían antes)
-    nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
-    if nuevos:
-        lista = "\n".join(
-            f"  • <a href='{p['url']}'>{p['nombre']}</a>{' — ' + p['precio'] if p['precio'] else ''}"
-            for p in list(nuevos.values())[:10]  # máximo 10 por mensaje
-        )
-        extra = f"\n  <i>...y {len(nuevos)-10} más</i>" if len(nuevos) > 10 else ""
-        mensajes.append(
-            f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}{extra}"
-        )
-
-    # Productos eliminados (ya no están)
-    eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if eliminados and len(eliminados) < 20:  # evitar spam si desaparece toda la categoría
-        lista = "\n".join(
-            f"  • {p['nombre']}"
-            for p in list(eliminados.values())[:5]
-        )
-        extra = f"\n  <i>...y {len(eliminados)-5} más</i>" if len(eliminados) > 5 else ""
-        mensajes.append(
-            f"❌ <b>Productos agotados/eliminados en {nombre_cat}</b>\n{lista}{extra}"
-        )
-
-    # Cambios de precio
-    cambios_precio = []
-    for k, prod_nuevo in productos_nuevos.items():
-        if k in productos_anteriores:
-            precio_ant = productos_anteriores[k].get("precio", "")
-            precio_nue = prod_nuevo.get("precio", "")
-            if precio_ant and precio_nue and precio_ant != precio_nue:
-                cambios_precio.append(
-                    f"  • <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>: {precio_ant} → <b>{precio_nue}</b>"
-                )
-
-    if cambios_precio:
-        lista = "\n".join(cambios_precio[:10])
-        extra = f"\n  <i>...y {len(cambios_precio)-10} más</i>" if len(cambios_precio) > 10 else ""
-        mensajes.append(
-            f"💸 <b>Cambios de precio en {nombre_cat}</b>\n{lista}{extra}"
-        )
-
-    return mensajes
-
-
 def main():
     print(f"\n🕐 Ejecutando monitor — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     estado_anterior = cargar_estado()
@@ -276,7 +217,7 @@ def main():
         estado_nuevo[url] = productos
         anteriores = estado_anterior.get(url, {})
 
-        if anteriores:  # Solo comparar si ya teníamos datos previos
+        if anteriores:  
             mensajes = comparar_y_notificar(nombre, productos, anteriores)
             todos_los_mensajes.extend(mensajes)
         else:
@@ -292,7 +233,6 @@ def main():
 
     guardar_estado(estado_nuevo)
     print("\n💾 Estado guardado\n")
-
 
 if __name__ == "__main__":
     main()
