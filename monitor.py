@@ -56,29 +56,51 @@ def guardar_estado(estado):
 def enviar_telegram(mensaje):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️  No hay credenciales de Telegram configuradas")
-        print("─" * 50)
-        print(mensaje)
-        print("─" * 50)
         return
         
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
     
-    if TELEGRAM_THREAD_ID:
-        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+    # Límite seguro de Telegram
+    limite_caracteres = 4000
+    mensajes_cortados = []
+    
+    # Lógica para dividir mensajes largos sin romper HTML
+    if len(mensaje) <= limite_caracteres:
+        mensajes_cortados.append(mensaje)
+    else:
+        lineas = mensaje.split('\n')
+        bloque_actual = ""
+        for linea in lineas:
+            if len(bloque_actual) + len(linea) + 1 > limite_caracteres:
+                mensajes_cortados.append(bloque_actual.strip())
+                bloque_actual = linea + "\n"
+            else:
+                bloque_actual += linea + "\n"
+        if bloque_actual:
+            mensajes_cortados.append(bloque_actual.strip())
+
+    # Enviar cada bloque
+    for i, msg in enumerate(mensajes_cortados):
+        payload = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False
+        }
         
-    print(f"  📤 Enviando a Telegram chat_id={TELEGRAM_CHAT_ID[:4]}...")
-    try:
-        r = requests.post(url, json=payload, timeout=10)
-        r.raise_for_status()
-        print("  ✅ Notificación enviada por Telegram")
-    except Exception as e:
-        print(f"  ❌ Error enviando Telegram: {e}")
+        if TELEGRAM_THREAD_ID:
+            payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+            
+        print(f"  📤 Enviando bloque {i+1}/{len(mensajes_cortados)} a Telegram...")
+        try:
+            r = requests.post(url, json=payload, timeout=10)
+            r.raise_for_status()
+            print("  ✅ Notificación enviada")
+        except Exception as e:
+            print(f"  ❌ Error enviando Telegram: {e}")
+        
+        # Pausa de 1 segundo entre bloques para que Telegram no nos bloquee por spam
+        time.sleep(1)
 
 def scrape_categoria(url):
     productos = {}
@@ -155,27 +177,24 @@ def scrape_categoria(url):
     return productos
 
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
-    # ¡ESTA ES LA VERSIÓN BUENA CON LÓGICA DE STOCK!
     mensajes = []
 
-    # 1. Productos NUEVOS
+    # 1. Productos NUEVOS (¡Sin límite!)
     nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
     if nuevos:
         lista = "\n".join(
             f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in list(nuevos.values())[:10]
+            for p in nuevos.values()
         )
-        extra = f"\n  <i>...y {len(nuevos)-10} más</i>" if len(nuevos) > 10 else ""
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}{extra}")
+        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
 
-    # 2. Productos DESAPARECIDOS (ya no existen en la web)
+    # 2. Productos DESAPARECIDOS (¡Sin límite!)
     eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if eliminados and len(eliminados) < 20: 
-        lista = "\n".join(f"  • {p['nombre']}" for p in list(eliminados.values())[:5])
-        extra = f"\n  <i>...y {len(eliminados)-5} más</i>" if len(eliminados) > 5 else ""
-        mensajes.append(f"❌ <b>Eliminados de la web en {nombre_cat}</b>\n{lista}{extra}")
+    if eliminados: 
+        lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
+        mensajes.append(f"❌ <b>Eliminados de la web en {nombre_cat}</b>\n{lista}")
 
-    # 3. Cambios de PRECIO y STOCK
+    # 3. Cambios de PRECIO y STOCK (¡Sin límite!)
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
@@ -194,9 +213,8 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                 cambios.append(f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {precio_ant} → <b>{precio_nue}</b>")
 
     if cambios:
-        lista = "\n\n".join(cambios[:10])
-        extra = f"\n\n  <i>...y {len(cambios)-10} cambios más</i>" if len(cambios) > 10 else ""
-        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}{extra}")
+        lista = "\n\n".join(cambios)
+        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}")
 
     return mensajes
 
