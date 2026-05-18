@@ -204,20 +204,6 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                 f"  ...y {len(nuevos) - 5} más"
             )
 
-    # 2. Productos DESAPARECIDOS
-    eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if eliminados:
-        if len(eliminados) <= LIMITE_DETALLE:
-            lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
-            mensajes.append(f"❌ <b>Eliminados de la web en {nombre_cat}</b>\n{lista}")
-        else:
-            muestra = list(eliminados.values())[:5]
-            lista_muestra = "\n".join(f"  • {p['nombre']}" for p in muestra)
-            mensajes.append(
-                f"❌ <b>{len(eliminados)} eliminados de {nombre_cat}</b>\n"
-                f"(Mostrando 5 de {len(eliminados)}):\n{lista_muestra}\n"
-                f"  ...y {len(eliminados) - 5} más"
-            )
 
     # 3. Cambios de PRECIO y STOCK
     cambios = []
@@ -228,8 +214,7 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
             # Comprobar Stock
             if not prod_ant.get("en_stock", True) and prod_nuevo["en_stock"]:
                 cambios.append(f"  🟢 <b>¡VUELVE A HABER STOCK!</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
-            elif prod_ant.get("en_stock", True) and not prod_nuevo["en_stock"]:
-                cambios.append(f"  🔴 <b>AGOTADO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
+
                 
             # Comprobar Precio
             precio_ant = prod_ant.get("precio", "")
