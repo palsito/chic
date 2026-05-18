@@ -2723,6 +2723,12 @@
       "precio": "118,89 €",
       "url": "https://www.perfumeriaschic.com/p11720839-memo-paris-inverness-edp-75ml.html",
       "en_stock": false
+    },
+    "11740854": {
+      "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3188,12 +3194,6 @@
       "url": "https://www.perfumeriaschic.com/p11449404-kenzo-amour-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11741513": {
-      "nombre": "ARISTOCRAZY CITRINE EDP 100ML TESTER",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11741513-aristocrazy-citrine-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10773400": {
       "nombre": "CALVIN KLEIN ETERNITY WOMAN EAU DE...",
       "precio": "29,90 €",
@@ -3274,7 +3274,7 @@
     },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
-      "precio": "89,90 €",
+      "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -13328,6 +13328,12 @@
       "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11734109": {
+      "nombre": "CAROLINA HERRERA CH MEN SWING...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "3116335": {
       "nombre": "THIERRY MUGLER ALIEN EDP 90ML TESTER",
       "precio": "59,90 €",
@@ -13356,12 +13362,6 @@
       "nombre": "LOEWE ESENCIA EAU DE PARFUM 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p8895060-loewe-esencia-eau-de-parfum-100ml-tester-formato-2021.html",
-      "en_stock": false
-    },
-    "11728169": {
-      "nombre": "XERJOFF TORINO 23 EAU DE PARFUM 50ML...",
-      "precio": "114,95 €",
-      "url": "https://www.perfumeriaschic.com/p11728169-xerjoff-torino-23-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
     "11631981": {
@@ -13656,18 +13656,6 @@
       "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p8081494-acqua-di-parma-colonia-futura-edc-100ml-tester.html",
-      "en_stock": false
-    },
-    "11741488": {
-      "nombre": "MANCERA WAVE MUSK EDP 120ML SIN CAJA",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11741488-mancera-wave-musk-edp-120ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11741500": {
-      "nombre": "COACH FOR MEN EAU DE PARFUM 100ML...",
-      "precio": "32,90 €",
-      "url": "https://www.perfumeriaschic.com/p11741500-coach-for-men-eau-de-parfum-100ml-sin-caja.html",
       "en_stock": false
     },
     "10455657": {
@@ -13972,12 +13960,6 @@
       "url": "https://www.perfumeriaschic.com/p11293777-mancera-juicy-flowers-edp-120ml-tester.html",
       "en_stock": true
     },
-    "11741488": {
-      "nombre": "MANCERA WAVE MUSK EDP 120ML SIN CAJA",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11741488-mancera-wave-musk-edp-120ml-sin-caja.html",
-      "en_stock": false
-    },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -13998,7 +13980,7 @@
     },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
-      "precio": "89,90 €",
+      "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -16983,12 +16965,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11734130-xerjoff-gibeon-edp-50ml-tester.html",
       "en_stock": true
-    },
-    "11728169": {
-      "nombre": "XERJOFF TORINO 23 EAU DE PARFUM 50ML...",
-      "precio": "114,95 €",
-      "url": "https://www.perfumeriaschic.com/p11728169-xerjoff-torino-23-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
     },
     "11418661": {
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
