@@ -2724,6 +2724,12 @@
       "url": "https://www.perfumeriaschic.com/p11720839-memo-paris-inverness-edp-75ml.html",
       "en_stock": false
     },
+    "11675406": {
+      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
+      "precio": "139,83 €",
+      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
+      "en_stock": true
+    },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
       "precio": "78,90 €",
@@ -2737,12 +2743,6 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
       "en_stock": true
-    },
-    "11712848": {
-      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
-      "en_stock": false
     },
     "11734109": {
       "nombre": "CAROLINA HERRERA CH MEN SWING...",
@@ -2764,7 +2764,7 @@
     },
     "11671517": {
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
-      "precio": "144,95 €",
+      "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
       "en_stock": true
     },
@@ -3232,7 +3232,7 @@
     },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
-      "precio": "158,90 €",
+      "precio": "139,83 €",
       "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
@@ -13580,6 +13580,12 @@
       "url": "https://www.perfumeriaschic.com/p11725025-tommy-hilfiger-tommy-new-york-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11623813": {
+      "nombre": "BRITNEY SPEARS FANTASY DID IT AGAIN...",
+      "precio": "16,90 €",
+      "url": "https://www.perfumeriaschic.com/p11623813-britney-spears-fantasy-did-it-again-edition-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "7276252": {
       "nombre": "ANNICK GOUTAL NUIT ET CONFIDENCES...",
       "precio": "79,90 €",
@@ -14370,7 +14376,7 @@
     },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
-      "precio": "158,90 €",
+      "precio": "139,83 €",
       "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
@@ -16482,7 +16488,7 @@
     },
     "11671517": {
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
-      "precio": "144,95 €",
+      "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
       "en_stock": true
     },
