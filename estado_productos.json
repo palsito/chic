@@ -2732,6 +2732,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11646708": {
+      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
+      "en_stock": true
+    },
+    "11712848": {
+      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
+      "en_stock": true
+    },
+    "11734109": {
+      "nombre": "CAROLINA HERRERA CH MEN SWING...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "1996941": {
       "nombre": "CACHAREL ANAIS ANAIS PREMIER DELICE...",
       "precio": "17,90 €",
@@ -3218,12 +3236,6 @@
       "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
-    "11740999": {
-      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -3428,12 +3440,6 @@
       "url": "https://www.perfumeriaschic.com/p11737646-filippo-sorcinelli-memento-extrait-de-sacristie-basilica-di-assisi-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11737651": {
-      "nombre": "FILIPPO SORCINELLI UNUM OPUS 1144...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11737651-filippo-sorcinelli-unum-opus-1144-extrait-de-musique-50ml-tester.html",
-      "en_stock": false
-    },
     "11313275": {
       "nombre": "XERJOFF AMABILE EDP 100ML TESTER",
       "precio": "144,90 €",
@@ -3462,7 +3468,7 @@
       "nombre": "ACQUA DI PARMA COLONIA ESSENZA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7707313-acqua-di-parma-colonia-essenza-edc-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11642374": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB EXTREME EDP...",
@@ -13880,17 +13886,17 @@
       "url": "https://www.perfumeriaschic.com/p11517814-bond-n9-chelsea-nights-edp-100ml-tester.html",
       "en_stock": false
     },
-    "7782288": {
-      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": true
-    },
     "6360451": {
       "nombre": "MIU MIU L´EAU BLEUE  EDP 100ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p6360451-miu-miu-leau-bleue-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "7782288": {
+      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": true
     },
     "6665869": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA CITRUS...",
@@ -13954,12 +13960,6 @@
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     },
-    "11740999": {
-      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "11740873": {
       "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
       "precio": "24,90 €",
@@ -13988,12 +13988,6 @@
       "nombre": "ANFAS MAHABA EXTRAIT DE PARFUM 75ML",
       "precio": "104,98 €",
       "url": "https://www.perfumeriaschic.com/p11737656-anfas-mahaba-extrait-de-parfum-75ml.html",
-      "en_stock": false
-    },
-    "11737651": {
-      "nombre": "FILIPPO SORCINELLI UNUM OPUS 1144...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11737651-filippo-sorcinelli-unum-opus-1144-extrait-de-musique-50ml-tester.html",
       "en_stock": false
     },
     "11738375": {
