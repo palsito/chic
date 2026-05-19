@@ -212,22 +212,32 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_
             )
 
 
-    # 3. Cambios de PRECIO y STOCK
+    # 3. Cambios de PRECIO y STOCK (filtrando ya notificados en otra categoría)
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
+            # Si ya se notificó este producto en otra categoría, saltar
+            if prod_nuevo['nombre'] in ya_notificados:
+                continue
+
             prod_ant = productos_anteriores[k]
-            
+            producto_tiene_cambio = False
+
             # Comprobar Stock
             if not prod_ant.get("en_stock", True) and prod_nuevo["en_stock"]:
                 cambios.append(f"  🟢 <b>¡VUELVE A HABER STOCK!</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
+                producto_tiene_cambio = True
 
-                
             # Comprobar Precio
             precio_ant = prod_ant.get("precio", "")
             precio_nue = prod_nuevo.get("precio", "")
             if precio_ant and precio_nue and precio_ant != precio_nue:
                 cambios.append(f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {precio_ant} → <b>{precio_nue}</b>")
+                producto_tiene_cambio = True
+
+            # Marcar como notificado para que no se repita en otra categoría
+            if producto_tiene_cambio:
+                ya_notificados.add(prod_nuevo['nombre'])
 
     if cambios:
         if len(cambios) <= LIMITE_DETALLE:
@@ -261,15 +271,27 @@ def main():
         anteriores = estado_anterior.get(url, {})
 
         # ── PROTECCIÓN ANTI-SCRAPING-FALLIDO ──────────────────────
-        # Si la categoría antes tenía productos y ahora devuelve muy pocos
-        # (menos del 50%), probablemente la web falló o nos bloqueó.
+        # Si la categoría antes tenía productos y ahora devuelve muchos menos
+        # (menos del 80%), probablemente la web falló o nos bloqueó.
         # En ese caso, MANTENEMOS el estado anterior para no generar
         # falsas notificaciones de "eliminados" y luego "nuevos".
-        if anteriores and len(productos) < len(anteriores) * 0.5:
+        if anteriores and len(productos) < len(anteriores) * 0.8:
             print(f"  ⚠️  PROTECCIÓN: Se esperaban ~{len(anteriores)} productos pero solo se obtuvieron {len(productos)}.")
             print(f"  ⚠️  Esto indica un fallo de la web, NO un cambio real. Se mantiene el estado anterior.")
             estado_nuevo[url] = anteriores  # Mantener estado anterior
             continue
+
+        # ── PROTECCIÓN ANTI-RECUPERACIÓN ──────────────────────────
+        # Si de repente aparecen muchos productos "nuevos" (más de 30),
+        # es probable que el scrape ANTERIOR fue parcial y ahora se
+        # recuperó. Actualizamos el estado SIN notificar.
+        if anteriores:
+            nuevos_detectados = set(productos.keys()) - set(anteriores.keys())
+            if len(nuevos_detectados) > 30:
+                print(f"  ⚠️  PROTECCIÓN ANTI-RECUPERACIÓN: Se detectaron {len(nuevos_detectados)} productos 'nuevos'.")
+                print(f"  ⚠️  Probablemente el scrape anterior fue parcial. Se actualiza estado SIN notificar.")
+                estado_nuevo[url] = productos
+                continue
 
         estado_nuevo[url] = productos
 
