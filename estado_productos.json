@@ -2738,12 +2738,6 @@
       "url": "https://www.perfumeriaschic.com/p1996941-cacharel-anais-anais-premier-delice-edt-50ml-tester.html",
       "en_stock": true
     },
-    "11744053": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-divine-elixir-100ml-tester.html",
-      "en_stock": false
-    },
     "11384385": {
       "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
       "precio": "84,90 €",
@@ -3210,6 +3204,12 @@
       "nombre": "CALVIN KLEIN ETERNITY WOMAN EAU DE...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10773400-calvin-klein-eternity-woman-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "8648444": {
+      "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
+      "precio": "49,41 €",
+      "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11675406": {
@@ -12146,12 +12146,6 @@
       "url": "https://www.perfumeriaschic.com/p7255345-merchant-of-venice-mandarin-carnival-edp-100ml-tester-sin-caja.html",
       "en_stock": false
     },
-    "11646708": {
-      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
-      "en_stock": true
-    },
     "10958122": {
       "nombre": "MANCERA VANILLE EXCLUSIVE EDP 120ML...",
       "precio": "68,90 €",
@@ -12800,12 +12794,6 @@
       "url": "https://www.perfumeriaschic.com/p10793032-guy-laroche-fidji-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11712848": {
-      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
-      "en_stock": true
-    },
     "11663972": {
       "nombre": "HUGO BOSS SUPERMAN X HUGO EDP 125ML...",
       "precio": "38,90 €",
@@ -13339,12 +13327,6 @@
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
       "en_stock": false
-    },
-    "11734109": {
-      "nombre": "CAROLINA HERRERA CH MEN SWING...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
     },
     "3116335": {
       "nombre": "THIERRY MUGLER ALIEN EDP 90ML TESTER",
