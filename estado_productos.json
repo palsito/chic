@@ -2726,6 +2726,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11744117": {
+      "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744094": {
+      "nombre": "PACO RABANNE OLYMPEA ELIXIR EDP...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744094-paco-rabanne-olympea-elixir-edp-intense-80ml-tester.html",
+      "en_stock": true
+    },
+    "11744089": {
+      "nombre": "PACO RABANNE FAME IN LOVE PARFUM...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744089-paco-rabanne-fame-in-love-parfum-elixir-80ml-tester.html",
+      "en_stock": true
+    },
+    "8335550": {
+      "nombre": "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p8335550-viktor-rolf-flowerbomb-nectar-edp-90ml-tester.html",
+      "en_stock": true
+    },
+    "7141236": {
+      "nombre": "HERMES  TWILLY EAU POIVREE  EDP 85ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7141236-hermes-twilly-eau-poivree-edp-85ml-tester.html",
+      "en_stock": true
+    },
     "10934430": {
       "nombre": "HERMES TWILLY TUTTI EDP 85ML TESTER",
       "precio": "54,90 €",
@@ -2806,26 +2836,8 @@
     },
     "11734109": {
       "nombre": "CAROLINA HERRERA CH MEN SWING...",
-      "precio": "48,90 €",
+      "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
-    "11744089": {
-      "nombre": "PACO RABANNE FAME IN LOVE PARFUM...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744089-paco-rabanne-fame-in-love-parfum-elixir-80ml-tester.html",
-      "en_stock": true
-    },
-    "11744094": {
-      "nombre": "PACO RABANNE OLYMPEA ELIXIR EDP...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744094-paco-rabanne-olympea-elixir-edp-intense-80ml-tester.html",
-      "en_stock": true
-    },
-    "11744117": {
-      "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
       "en_stock": true
     },
     "1996941": {
@@ -2868,6 +2880,12 @@
       "nombre": "PERRIS MONTE CARLO MIMOSA TANNERON...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8876181-perris-monte-carlo-mimosa-tanneron-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "5904176": {
+      "nombre": "RALPH LAURENT POLO RED EXTREME EDP...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p5904176-ralph-laurent-polo-red-extreme-edp-125ml-tester.html",
       "en_stock": true
     },
     "10694316": {
@@ -5828,12 +5846,6 @@
       "url": "https://www.perfumeriaschic.com/p10194753-lancome-tresor-in-love-edp-75ml-sin-caja.html",
       "en_stock": false
     },
-    "8335550": {
-      "nombre": "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p8335550-viktor-rolf-flowerbomb-nectar-edp-90ml-tester.html",
-      "en_stock": true
-    },
     "8900647": {
       "nombre": "ACQUA DI PARMA CAMELIA EDP 100ML...",
       "precio": "84,90 €",
@@ -6085,12 +6097,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10615031-guerlain-aqua-allegoria-bergamote-calabria-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "5904176": {
-      "nombre": "RALPH LAURENT POLO RED EXTREME EDP...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p5904176-ralph-laurent-polo-red-extreme-edp-125ml-tester.html",
-      "en_stock": true
     },
     "10513858": {
       "nombre": "ANGEL SCHLESSER AGUA DE VETIVER EDT...",
