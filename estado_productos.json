@@ -7250,12 +7250,6 @@
       "url": "https://www.perfumeriaschic.com/p10455647-burberry-hero-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10856086": {
-      "nombre": "TRUSSARDI RIFLESSO BLUE VIBE EDT...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p10856086-trussardi-riflesso-blue-vibe-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "10792771": {
       "nombre": "HUGO BOSS HUGO ICED EDT 75ML TESTER",
       "precio": "28,90 €",
@@ -10616,12 +10610,6 @@
       "url": "https://www.perfumeriaschic.com/p5339301-dkny-women-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10936983": {
-      "nombre": "CARNER BARCELONA LATIN LOVER EDP...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p10936983-carner-barcelona-latin-lover-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7951732": {
       "nombre": "PERRIS MONTE CARLO ROSE DE TAIF EDP...",
       "precio": "89,90 €",
@@ -11004,12 +10992,6 @@
       "nombre": "TIZIANA TERENZI SIENE EDP 100ML...",
       "precio": "99,90 €",
       "url": "https://www.perfumeriaschic.com/p8618050-tiziana-terenzi-siene-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11487108": {
-      "nombre": "TRUSSARDI UOMO EDT 100ML TESTER",
-      "precio": "26,90 €",
-      "url": "https://www.perfumeriaschic.com/p11487108-trussardi-uomo-edt-100ml-tester.html",
       "en_stock": false
     },
     "8618045": {
@@ -11604,12 +11586,6 @@
       "nombre": "JEAN PAUL GAULTIER SCANDAL EDP 80ML...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p4420748-jean-paul-gaultier-scandal-edp-80ml-tester.html",
-      "en_stock": false
-    },
-    "11658959": {
-      "nombre": "XERJOFF CORO EDP 100ML TESTER",
-      "precio": "164,90 €",
-      "url": "https://www.perfumeriaschic.com/p11658959-xerjoff-coro-edp-100ml-sin-caja.html",
       "en_stock": false
     },
     "7298563": {
@@ -12284,12 +12260,6 @@
       "url": "https://www.perfumeriaschic.com/p8077922-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-150ml-tester.html",
       "en_stock": false
     },
-    "11620555": {
-      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11343469": {
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
@@ -12822,12 +12792,6 @@
       "nombre": "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p10049671-nasomatto-narcotic-venus-extrait-de-parfum-30ml-tester.html",
-      "en_stock": false
-    },
-    "11389984": {
-      "nombre": "XERJOFF TONY IOMMI MONKEY SPECIAL...",
-      "precio": "184,90 €",
-      "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
       "en_stock": false
     },
     "11672514": {
@@ -13915,6 +13879,12 @@
       "precio": "22,97 €",
       "url": "https://www.perfumeriaschic.com/p6854886-tous-man-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11658959": {
+      "nombre": "XERJOFF CORO EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11658959-xerjoff-coro-edp-100ml-sin-caja.html",
+      "en_stock": true
     },
     "7126711": {
       "nombre": "SISLEY EAU DE SISLEY 3 EDT 100ML...",
@@ -15116,7 +15086,7 @@
       "nombre": "XERJOFF MORE THAN WORDS EDP 100ML...",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11204999-xerjoff-more-than-words-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10680619": {
       "nombre": "HISTOIRES DE PARFUMS 1828 EDP 120ML...",
@@ -15260,7 +15230,7 @@
       "nombre": "XERJOFF TONY IOMMI MONKEY SPECIAL...",
       "precio": "184,90 €",
       "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10936980": {
       "nombre": "CARNER BARCELONA EL BORN EDP 100ML...",
@@ -16298,7 +16268,7 @@
       "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
       "precio": "168,90 €",
       "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
@@ -16430,7 +16400,7 @@
       "nombre": "XERJOFF CORO EDP 100ML TESTER",
       "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11658959-xerjoff-coro-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11244341": {
       "nombre": "TOM FORD LOST CHERRY EAU DE PARFUM...",
@@ -16628,12 +16598,6 @@
       "nombre": "CARNER BARCELONA SAL Y LIMON EDP...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11225831-carner-barcelona-sal-y-limon-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11664038": {
-      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
       "en_stock": false
     },
     "11544530": {
