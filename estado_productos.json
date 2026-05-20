@@ -2738,12 +2738,6 @@
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11744094": {
-      "nombre": "PACO RABANNE OLYMPEA ELIXIR EDP...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744094-paco-rabanne-olympea-elixir-edp-intense-80ml-tester.html",
-      "en_stock": false
-    },
     "11744089": {
       "nombre": "PACO RABANNE FAME IN LOVE PARFUM...",
       "precio": "54,90 €",
@@ -17049,6 +17043,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
+    },
+    "11744310": {
+      "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
+      "precio": "72,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
+      "en_stock": true
     }
   }
 }
