@@ -2712,6 +2712,12 @@
       "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
       "en_stock": false
     },
+    "5903684": {
+      "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
+      "en_stock": true
+    },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
       "precio": "139,83 €",
@@ -4354,7 +4360,7 @@
     },
     "5903684": {
       "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
-      "precio": "34,90 €",
+      "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
       "en_stock": true
     },
@@ -12942,7 +12948,7 @@
       "nombre": "NIKOS SCULPTURE EAU DE TOILETTE...",
       "precio": "11,90 €",
       "url": "https://www.perfumeriaschic.com/p11544557-nikos-sculpture-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10703968": {
       "nombre": "KENZO HOMME EDP 110ML TESTER",
