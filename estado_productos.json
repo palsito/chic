@@ -2840,6 +2840,42 @@
       "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
+    "11744239": {
+      "nombre": "MANCERA INTENSE FRENCH RIVIERA EDP...",
+      "precio": "99,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744239-mancera-intense-french-riviera-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11744261": {
+      "nombre": "MANCERA PRECIOUS OUD EDP 120ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744261-mancera-precious-oud-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11744266": {
+      "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744270": {
+      "nombre": "MONTALE AQUA GOLD EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744270-montale-aqua-gold-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744307": {
+      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744310": {
+      "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "1996941": {
       "nombre": "CACHAREL ANAIS ANAIS PREMIER DELICE...",
       "precio": "17,90 €",
@@ -3336,7 +3372,7 @@
       "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11740873-armaf-club-de-nuit-untold-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
@@ -13964,7 +14000,7 @@
       "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11740873-armaf-club-de-nuit-untold-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
@@ -17044,9 +17080,45 @@
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11744230": {
+      "nombre": "TIZIANA TERENZI PISCES EXTRAIT DE...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744230-tiziana-terenzi-pisces-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744239": {
+      "nombre": "MANCERA INTENSE FRENCH RIVIERA EDP...",
+      "precio": "99,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744239-mancera-intense-french-riviera-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11744261": {
+      "nombre": "MANCERA PRECIOUS OUD EDP 120ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744261-mancera-precious-oud-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11744266": {
+      "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744270": {
+      "nombre": "MONTALE AQUA GOLD EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744270-montale-aqua-gold-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744307": {
+      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11744310": {
       "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
-      "precio": "72,95 €",
+      "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
       "en_stock": true
     }
