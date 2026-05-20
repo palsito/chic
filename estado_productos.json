@@ -8312,6 +8312,12 @@
       "url": "https://www.perfumeriaschic.com/p9368605-paco-rabanne-phantom-edt-100ml-tester.html",
       "en_stock": false
     },
+    "10768869": {
+      "nombre": "PACO RABANNE ONE MILLION ROYAL...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p10768869-paco-rabanne-one-million-royal-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "5884016": {
       "nombre": "SISLEY EAU DE SISLEY 1 EDT 100ML...",
       "precio": "58,90 €",
@@ -9554,6 +9560,12 @@
       "url": "https://www.perfumeriaschic.com/p11380064-xerjoff-ouverture-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11500876": {
+      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "7292938": {
       "nombre": "PACO RABANNE LADY MILLION EAU MY...",
       "precio": "42,90 €",
@@ -9708,7 +9720,7 @@
       "nombre": "GUCCI GUILTY LOVE EDITION 2024 POUR...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11522088-gucci-guilty-love-edition-2024-pour-homme-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424161": {
       "nombre": "THE HOUSE OF OUD THE TIME EDP 75ML...",
@@ -11410,9 +11422,9 @@
     },
     "10883485": {
       "nombre": "PACO RABANNE OLYMPEA FLORA EDP...",
-      "precio": "49,90 €",
+      "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10883485-paco-rabanne-olympea-flora-edp-intense-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11385423": {
       "nombre": "JEAN PAUL GAULTIER SCANDAL ABSOLU...",
