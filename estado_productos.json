@@ -2762,6 +2762,18 @@
       "url": "https://www.perfumeriaschic.com/p11734109-carolina-herrera-ch-men-swing-edicion-limitada-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
+    "11744089": {
+      "nombre": "PACO RABANNE FAME IN LOVE PARFUM...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744089-paco-rabanne-fame-in-love-parfum-elixir-80ml-tester.html",
+      "en_stock": true
+    },
+    "11744094": {
+      "nombre": "PACO RABANNE OLYMPEA ELIXIR EDP...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744094-paco-rabanne-olympea-elixir-edp-intense-80ml-tester.html",
+      "en_stock": true
+    },
     "1996941": {
       "nombre": "CACHAREL ANAIS ANAIS PREMIER DELICE...",
       "precio": "17,90 €",
@@ -5780,12 +5792,6 @@
       "url": "https://www.perfumeriaschic.com/p10200313-police-to-be-good-vibes-man-edt-125ml-tester.html",
       "en_stock": false
     },
-    "10240085": {
-      "nombre": "ETRO AMBRA EDT 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10240085-etro-ambra-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "7037739": {
       "nombre": "ARMANI IN LOVE WITH YOU EDP 100ML...",
       "precio": "44,90 €",
@@ -5800,9 +5806,9 @@
     },
     "8335550": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
-      "precio": "49,90 €",
+      "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p8335550-viktor-rolf-flowerbomb-nectar-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8900647": {
       "nombre": "ACQUA DI PARMA CAMELIA EDP 100ML...",
@@ -6060,7 +6066,7 @@
       "nombre": "RALPH LAURENT POLO RED EXTREME EDP...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p5904176-ralph-laurent-polo-red-extreme-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10513858": {
       "nombre": "ANGEL SCHLESSER AGUA DE VETIVER EDT...",
@@ -6271,6 +6277,12 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p8643662-guerlain-acua-allegoria-orange-soleia-edt-125ml-tester.html",
       "en_stock": false
+    },
+    "7141236": {
+      "nombre": "HERMES  TWILLY EAU POIVREE  EDP 85ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7141236-hermes-twilly-eau-poivree-edp-85ml-tester.html",
+      "en_stock": true
     },
     "8602985": {
       "nombre": "GUERLAIN AQUA ALLEGORIA NETTARE DI...",
@@ -8172,7 +8184,7 @@
       "nombre": "HERMES TWILLY TUTTI EDP 85ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10934430-hermes-twilly-tutti-edp-85ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8029973": {
       "nombre": "HUGO BOSS THE SCENT FOR HER EDT...",
@@ -10458,7 +10470,7 @@
       "nombre": "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11239777-loewe-aire-anthesis-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7472444": {
       "nombre": "ETRO IO MYSELF EDP 100ML TESTER",
@@ -10866,12 +10878,6 @@
       "nombre": "MONTALE SWEET VANILLA EDP 100ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11450326-montale-sweet-vanilla-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "2483038": {
-      "nombre": "ESTEE LAUDER SENSUOUS EDP 100ML SIN...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p2483038-estee-lauder-sensuous-edp-100ml-sin-caja.html",
       "en_stock": false
     },
     "9492066": {
@@ -11834,12 +11840,6 @@
       "url": "https://www.perfumeriaschic.com/p10618260-rosendo-mateu-n6-perfume-100ml-sin-caja.html",
       "en_stock": false
     },
-    "10943640": {
-      "nombre": "LANCOME IDOLE NOW EAU DE PARFUM...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p10943640-lancome-idole-now-eau-de-parfum-florale-dp-50-ml-tester.html",
-      "en_stock": false
-    },
     "10925715": {
       "nombre": "TOUS EDP 90ML SIN CAJA",
       "precio": "26,88 €",
@@ -12318,12 +12318,6 @@
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
       "precio": "116,91 €",
       "url": "https://www.perfumeriaschic.com/p11323155-rosendo-mateu-1968-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11476036": {
-      "nombre": "BOND No.9 NY HAMPTONS EDP 100ML...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11476036-bond-no-9-ny-hamptons-edp-100ml-tester.html",
       "en_stock": false
     },
     "11699123": {
@@ -13190,12 +13184,6 @@
       "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
       "en_stock": false
     },
-    "11380564": {
-      "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
-      "en_stock": false
-    },
     "11704531": {
       "nombre": "TIZIANA TERENZI DRACO EXTRAIT DE...",
       "precio": "119,90 €",
@@ -13580,12 +13568,6 @@
       "url": "https://www.perfumeriaschic.com/p7276252-annick-goutal-nuit-et-confidences-eau-de-parfum-100ml-tester-sin-caja.html",
       "en_stock": false
     },
-    "10936985": {
-      "nombre": "CARNER BARCELONA LUKOMORIE EDP 100ML...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11472480": {
       "nombre": "​PHILIPP PLEIN FATALE EAU DE PARFUM...",
       "precio": "44,90 €",
@@ -13848,12 +13830,6 @@
       "nombre": "TOUS MAN INTENSE EDT 100ML TESTER",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "7126742": {
-      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
       "en_stock": false
     },
     "11363424": {
@@ -16282,12 +16258,6 @@
       "url": "https://www.perfumeriaschic.com/p8150648-mancera-sand-aoud-edp-120ml.html",
       "en_stock": false
     },
-    "11620555": {
-      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -16850,12 +16820,6 @@
       "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11094427-mancera-instant-crush-edp-120ml-tester.html",
-      "en_stock": false
-    },
-    "11384385": {
-      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
       "en_stock": false
     },
     "8252606": {
