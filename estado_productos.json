@@ -2650,7 +2650,7 @@
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
       "precio": "77,95 €",
       "url": "https://www.perfumeriaschic.com/p11418661-moresque-moreta-edp-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11094420": {
       "nombre": "MANCERA COSMIC PEPPER EDP 60ML",
@@ -3072,7 +3072,7 @@
       "nombre": "MOLINARD JASMIN EAU DE PARFUM 75ML...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10695065-molinard-jasmin-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8544722": {
       "nombre": "MONTALE PURE GOLD EDP 100ML TESTER",
@@ -3198,7 +3198,7 @@
       "nombre": "MOLINARD PATCHOULI INTENSE EAU DE...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10915167-molinard-patchouli-intense-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8542297": {
       "nombre": "MONTALE NEPAL AOUD  EDP 100ML TESTER",
@@ -3258,7 +3258,7 @@
       "nombre": "MOLINARD CHYPRE CHARNEL EAU DE...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10915370-molinard-chypre-charnel-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793200": {
       "nombre": "COURRÈGES LE MESSAGER EDP 100ML...",
@@ -3282,7 +3282,7 @@
       "nombre": "MOLINARD TUBEREUSE VERTIGINEUSE EAU...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10048023-molinard-tubereuse-vertigineuse-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8895991": {
       "nombre": "HUGO BOSS BOTTLED TONIC EDT 100ML...",
@@ -13100,6 +13100,12 @@
       "url": "https://www.perfumeriaschic.com/p10587737-scalpers-kids-girl-100ml-edt-tester.html",
       "en_stock": false
     },
+    "11720848": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL JASMINE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11720848-carolina-herrera-good-girl-jasmine-absolute-edp-80ml-tester.html",
+      "en_stock": true
+    },
     "11561166": {
       "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
       "precio": "72,90 €",
@@ -13338,7 +13344,7 @@
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
       "precio": "77,95 €",
       "url": "https://www.perfumeriaschic.com/p11418661-moresque-moreta-edp-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11380819": {
       "nombre": "MONTALE INTENSE ROSES MUSK EXTRAIT...",
@@ -13566,7 +13572,7 @@
       "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11678389-chabaud-caramelito-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913292": {
       "nombre": "MONTALE HONEY AOUD EDP 100ML TESTER",
@@ -13818,7 +13824,7 @@
       "nombre": "MOLINARD VANILLE FRUITEE EAU DE...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10695075-molinard-vanille-fruitee-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
@@ -16964,7 +16970,7 @@
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
       "precio": "77,95 €",
       "url": "https://www.perfumeriaschic.com/p11418661-moresque-moreta-edp-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8406106": {
       "nombre": "THE HOUSE OF OUD GRAPE PEARLS EDP...",
@@ -17018,7 +17024,7 @@
       "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11678389-chabaud-caramelito-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11606601": {
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
