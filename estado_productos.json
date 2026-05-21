@@ -2622,6 +2622,12 @@
       "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
       "en_stock": false
     },
+    "11744313": {
+      "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11740415": {
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
       "precio": "72,98 €",
@@ -2886,6 +2892,12 @@
       "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744313": {
+      "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
     "1996941": {
@@ -17061,6 +17073,18 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
+    },
+    "11744313": {
+      "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744316": {
+      "nombre": "MEMO PARIS CAPPADOCIA EDP 75ML",
+      "precio": "109,65 €",
+      "url": "https://www.perfumeriaschic.com/p11744316-memo-paris-cappadocia-edp-75ml.html",
+      "en_stock": true
     },
     "11740873": {
       "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
