@@ -2741,6 +2741,12 @@
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "8231057": {
+      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
+      "precio": "29,96 €",
+      "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -2916,6 +2922,12 @@
       "nombre": "CACHAREL ANAIS ANAIS PREMIER DELICE...",
       "precio": "17,90 €",
       "url": "https://www.perfumeriaschic.com/p1996941-cacharel-anais-anais-premier-delice-edt-50ml-tester.html",
+      "en_stock": true
+    },
+    "11744053": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-divine-elixir-100ml-tester.html",
       "en_stock": true
     },
     "11671517": {
@@ -3348,6 +3360,12 @@
       "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
       "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11711349": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
       "en_stock": true
     },
     "11675406": {
@@ -11978,6 +11996,12 @@
       "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11407996": {
       "nombre": "DKNY 24/7 EDP 100ML TESTER",
       "precio": "29,93 €",
@@ -12772,9 +12796,9 @@
     },
     "8231057": {
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
-      "precio": "36,90 €",
+      "precio": "29,96 €",
       "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10962786": {
       "nombre": "HUGO BOSS HUGO JEANS EDT 125ML TESTER",
@@ -13356,7 +13380,7 @@
       "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7308948": {
       "nombre": "TOUS 1920 THE ORIGIN EDP 100ML TESTER",
@@ -13386,7 +13410,7 @@
       "nombre": "RALPH LAURENT RALPH´S CLUB PARFUM...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3116335": {
       "nombre": "THIERRY MUGLER ALIEN EDP 90ML TESTER",
@@ -13428,7 +13452,7 @@
       "nombre": "ACQUA DI PARMA COLONIA INTENSA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4489258": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
@@ -13596,7 +13620,7 @@
       "nombre": "ACQUA DI PARMA COLONIA PURA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7315779-acqua-di-parma-colonia-pura-edc100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11678389": {
       "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
@@ -13645,6 +13669,12 @@
       "precio": "79,90 €",
       "url": "https://www.perfumeriaschic.com/p7276252-annick-goutal-nuit-et-confidences-eau-de-parfum-100ml-tester-sin-caja.html",
       "en_stock": false
+    },
+    "11508558": {
+      "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
+      "en_stock": true
     },
     "10936985": {
       "nombre": "CARNER BARCELONA LUKOMORIE EDP 100ML...",
@@ -13752,7 +13782,7 @@
       "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11738470": {
       "nombre": "CHLOE LE PARFUM 100ML TESTER",
@@ -13831,6 +13861,12 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11094427-mancera-instant-crush-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11620555": {
+      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11663999": {
       "nombre": "MANCERA CINQUE TERRE EDP 120ML TESTER",
@@ -15896,7 +15932,7 @@
       "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11464371": {
       "nombre": "TOM FORD OUD WOOD EAU DE PARFUM 50ML...",
@@ -16396,6 +16432,12 @@
       "url": "https://www.perfumeriaschic.com/p8150648-mancera-sand-aoud-edp-120ml.html",
       "en_stock": false
     },
+    "11620555": {
+      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -16563,6 +16605,12 @@
       "precio": "74,95 €",
       "url": "https://www.perfumeriaschic.com/p11664537-montale-herbal-aquatica-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10618195": {
       "nombre": "ROSENDO MATEU 4 PERFUME 100ML (SIN...",
@@ -17177,5 +17225,12 @@
       "en_stock": false
     }
   },
-  "nombres_ya_notificados": []
+  "nombres_ya_notificados": [
+    "BYREDO BLANCHE EDP 100ML TESTER",
+    "GIARDINI DI TOSCANA BIANCO LATTE...",
+    "ISSEY MIYAKE FUSION D´ISSEY EDT...",
+    "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
+    "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+    "XERJOFF TORINO 21 EDP 100ML TESTER"
+  ]
 }
