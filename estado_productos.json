@@ -2802,7 +2802,7 @@
       "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "8081494": {
       "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
@@ -13718,6 +13718,12 @@
       "url": "https://www.perfumeriaschic.com/p10890231-ralph-lauren-polo-blue-parfum-125ml-tester.html",
       "en_stock": false
     },
+    "11368247": {
+      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10455657": {
       "nombre": "CHLOE ROSE NATURELLE EDP INTENSE...",
       "precio": "44,90 €",
@@ -14258,6 +14264,12 @@
       "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
       "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11368247": {
+      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
       "en_stock": true
     },
     "11313275": {
@@ -17193,6 +17205,7 @@
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
     "REPLICA MAISON MARGIELA UNDER THE...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+    "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF TORINO 21 EDP 100ML TESTER",
     "YVES SAINT LAURENT BLACK OPIUM EDP..."
   ]
