@@ -2735,6 +2735,24 @@
       "precio": "29,96 €",
       "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
       "en_stock": true
+    },
+    "11744363": {
+      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
+    "11744367": {
+      "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744367-nishane-wulong-cha-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
+    "11746244": {
+      "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -2928,6 +2946,18 @@
       "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744363": {
+      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
+    "11744367": {
+      "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744367-nishane-wulong-cha-hair-perfume-para-el-cabello-50ml.html",
       "en_stock": true
     },
     "1996941": {
@@ -13844,6 +13874,12 @@
       "url": "https://www.perfumeriaschic.com/p11379241-tous-kids-bear-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11746244": {
+      "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
@@ -17038,6 +17074,18 @@
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11744363": {
+      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
+    "11744367": {
+      "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744367-nishane-wulong-cha-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
     "11740873": {
       "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
       "precio": "24,90 €",
@@ -17151,9 +17199,12 @@
     "GIARDINI DI TOSCANA BIANCO LATTE...",
     "HFC INDIAN VENUS EAU DE PARFUM 75ML...",
     "ISSEY MIYAKE FUSION D´ISSEY EDT...",
+    "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
     "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
     "NARCISO RODRIGUEZ FOR HER EAU DE...",
     "NIKOS SCULPTURE EAU DE TOILETTE...",
+    "NISHANE TUBEROZA HAIR PERFUME PARA...",
+    "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
     "REPLICA MAISON MARGIELA UNDER THE...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
