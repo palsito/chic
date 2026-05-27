@@ -2753,9 +2753,33 @@
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11746679": {
+      "nombre": "HUGO BOSS FEMME EDP 75ML TESTER",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746679-hugo-boss-femme-edp-75ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11746679": {
+      "nombre": "HUGO BOSS FEMME EDP 75ML TESTER",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746679-hugo-boss-femme-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11746669": {
+      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746669-yves-saint-laurent-black-opium-edp-over-red-90ml-tester.html",
+      "en_stock": true
+    },
+    "11746690": {
+      "nombre": "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746690-guerlain-absolus-allegoria-santal-royal-edp-125ml-tester.html",
+      "en_stock": true
+    },
     "11746243": {
       "nombre": "ARMANI SI EAU DE PARFUM 100ML TESTER",
       "precio": "54,90 €",
@@ -2767,6 +2791,12 @@
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11746267": {
+      "nombre": "THIERRY MUGLER ALIEN PULP EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746267-thierry-mugler-alien-pulp-edp-fruitee-90ml-tester.html",
+      "en_stock": true
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -2989,6 +3019,12 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11744357-molinard-the-basilic-eau-de-parfum-75ml-tester.html",
       "en_stock": false
+    },
+    "11744362": {
+      "nombre": "NISHANE FAVONIUS LONDON EXTRAIT DE...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744362-nishane-favonius-london-extrait-de-parfum-50ml.html",
+      "en_stock": true
     },
     "11744363": {
       "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
@@ -5815,6 +5851,12 @@
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7036373-viktor-rolf-flowerbomb-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "7553408": {
+      "nombre": "AZZARO WANTED GIRL EDP 80ML TESTER",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p7553408-azzaro-wanted-girl-edp-80ml-tester-sin-caja.html",
+      "en_stock": true
     },
     "6426325": {
       "nombre": "CAROLINA HERRERA 212 MEN EDT 100ML...",
@@ -13922,12 +13964,6 @@
       "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
-    "11746396": {
-      "nombre": "GIORGIO ARMANI SI RED MUSK PASSIONE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746396-giorgio-armani-si-red-musk-passione-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
@@ -17122,6 +17158,12 @@
       "url": "https://www.perfumeriaschic.com/p11417522-thameen-green-pearl-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11744362": {
+      "nombre": "NISHANE FAVONIUS LONDON EXTRAIT DE...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744362-nishane-favonius-london-extrait-de-parfum-50ml.html",
+      "en_stock": true
+    },
     "11744363": {
       "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
       "precio": "36,95 €",
@@ -17240,6 +17282,7 @@
   "nombres_ya_notificados": [
     "ACQUA DI PARMA COLONIA INTENSA EDC...",
     "ARMANI SI EAU DE PARFUM 100ML TESTER",
+    "AZZARO WANTED GIRL EDP 80ML TESTER",
     "BYREDO BLANCHE EDP 100ML TESTER",
     "CAROLINA HERRERA 212 MEN NYC PARFUM...",
     "CAROLINA HERRERA 212 SEXY MEN EDT...",
@@ -17248,7 +17291,9 @@
     "GIARDINI DI TOSCANA BIANCO LATTE...",
     "GIORGIO ARMANI SI EAU DE PARFUM...",
     "GIORGIO ARMANI SI RED MUSK PASSIONE...",
+    "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
     "HFC INDIAN VENUS EAU DE PARFUM 75ML...",
+    "HUGO BOSS FEMME EDP 75ML TESTER",
     "ISSEY MIYAKE FUSION D´ISSEY EDT...",
     "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
     "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
@@ -17262,11 +17307,13 @@
     "MOLINARD VIOLETTE EAU DE PARFUM 75ML...",
     "NARCISO RODRIGUEZ FOR HER EAU DE...",
     "NIKOS SCULPTURE EAU DE TOILETTE...",
+    "NISHANE FAVONIUS LONDON EXTRAIT DE...",
     "NISHANE TUBEROZA HAIR PERFUME PARA...",
     "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
     "REPLICA MAISON MARGIELA UNDER THE...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+    "THIERRY MUGLER ALIEN PULP EDP...",
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF TORINO 21 EDP 100ML TESTER",
     "YVES SAINT LAURENT BLACK OPIUM EDP..."
