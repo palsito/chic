@@ -2774,6 +2774,12 @@
       "url": "https://www.perfumeriaschic.com/p11746669-yves-saint-laurent-black-opium-edp-over-red-90ml-tester.html",
       "en_stock": true
     },
+    "11746651": {
+      "nombre": "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746651-guerlain-absolus-allegoria-rose-amira-edp-125ml-tester.html",
+      "en_stock": false
+    },
     "11746690": {
       "nombre": "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
       "precio": "68,90 €",
@@ -2796,6 +2802,30 @@
       "nombre": "THIERRY MUGLER ALIEN PULP EDP...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11746267-thierry-mugler-alien-pulp-edp-fruitee-90ml-tester.html",
+      "en_stock": true
+    },
+    "11746277": {
+      "nombre": "THIERRY MUGLER ALIEN EXTRAINTENSE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746277-thierry-mugler-alien-extraintense-eau-de-parfum-intense-90ml-tester.html",
+      "en_stock": true
+    },
+    "11746376": {
+      "nombre": "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
+      "precio": "53,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746376-guerlain-linstant-magic-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11746384": {
+      "nombre": "GUERLAIN INSOLENCE EDP 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746384-guerlain-insolence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11746388": {
+      "nombre": "GUERLAIN L'INSTANT DE GUERLAIN EDP...",
+      "precio": "53,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746388-guerlain-linstant-de-guerlain-edp-75ml-tester.html",
       "en_stock": true
     },
     "11745914": {
@@ -17291,7 +17321,11 @@
     "GIARDINI DI TOSCANA BIANCO LATTE...",
     "GIORGIO ARMANI SI EAU DE PARFUM...",
     "GIORGIO ARMANI SI RED MUSK PASSIONE...",
+    "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
     "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
+    "GUERLAIN INSOLENCE EDP 100ML TESTER",
+    "GUERLAIN L'INSTANT DE GUERLAIN EDP...",
+    "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
     "HFC INDIAN VENUS EAU DE PARFUM 75ML...",
     "HUGO BOSS FEMME EDP 75ML TESTER",
     "ISSEY MIYAKE FUSION D´ISSEY EDT...",
@@ -17313,6 +17347,7 @@
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
     "REPLICA MAISON MARGIELA UNDER THE...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+    "THIERRY MUGLER ALIEN EXTRAINTENSE...",
     "THIERRY MUGLER ALIEN PULP EDP...",
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF TORINO 21 EDP 100ML TESTER",
