@@ -2768,18 +2768,6 @@
       "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11745927": {
-      "nombre": "CAROLINA HERRERA 212 MEN NYC PARFUM...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11745927-carolina-herrera-212-men-nyc-parfum-100ml-tester.html",
-      "en_stock": false
-    },
-    "5821895": {
-      "nombre": "CAROLINA HERRERA 212 SEXY MEN EDT...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p5821895-carolina-herrera-212-sexy-men-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
       "precio": "58,90 €",
@@ -2797,12 +2785,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10455647-burberry-hero-edt-100ml-tester.html",
       "en_stock": true
-    },
-    "10661262": {
-      "nombre": "BURBERRY HERO EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10661262-burberry-hero-edp-50ml-sin-caja.html",
-      "en_stock": false
     },
     "11380564": {
       "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
@@ -2958,6 +2940,12 @@
       "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744321": {
+      "nombre": "MOLINARD CITRUS NOIR EAU DE PARFUM...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744321-molinard-citrus-noir-eau-de-parfum-75ml-tester.html",
       "en_stock": true
     },
     "11744363": {
@@ -13800,7 +13788,7 @@
       "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11708246": {
       "nombre": "ROCHAS MADEMOISELLE ROCHAS IN LOVE...",
@@ -17222,6 +17210,7 @@
     "ISSEY MIYAKE FUSION D´ISSEY EDT...",
     "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
     "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
+    "MOLINARD CITRUS NOIR EAU DE PARFUM...",
     "NARCISO RODRIGUEZ FOR HER EAU DE...",
     "NIKOS SCULPTURE EAU DE TOILETTE...",
     "NISHANE TUBEROZA HAIR PERFUME PARA...",
