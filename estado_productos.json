@@ -1,16 +1,28 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11744363": {
+      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": true
+    },
+    "11739283": {
+      "nombre": "REPLICA MAISON MARGIELA FROM THE...",
+      "precio": "14,90 €",
+      "url": "https://www.perfumeriaschic.com/p11739283-replica-maison-margiela-from-the-garden-eau-de-toilette-10ml.html",
+      "en_stock": true
+    },
+    "11740415": {
+      "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
+      "precio": "72,98 €",
+      "url": "https://www.perfumeriaschic.com/p11740415-replica-maison-margiela-under-the-stars-eau-de-toilette-100ml.html",
+      "en_stock": true
+    },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11675406": {
-      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
-      "precio": "139,83 €",
-      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
-      "en_stock": false
     },
     "5903684": {
       "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
@@ -30,29 +42,11 @@
       "url": "https://www.perfumeriaschic.com/p11606566-montale-orange-aoud-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11406418": {
-      "nombre": "MANCERA CEDRAT BOISE INTENSE EDP...",
-      "precio": "84,92 €",
-      "url": "https://www.perfumeriaschic.com/p11406418-mancera-cedrat-boise-intense-edp-120ml-tester.html",
-      "en_stock": false
-    },
     "11544530": {
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
       "url": "https://www.perfumeriaschic.com/p11544530-carthusia-corallium-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11366746": {
-      "nombre": "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
-      "precio": "69,79 €",
-      "url": "https://www.perfumeriaschic.com/p11366746-v-canto-stramonio-extrait-de-parfum-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11624736": {
-      "nombre": "LANCOME ABSOLUE THE SERUM...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
-      "en_stock": false
     },
     "11739241": {
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
@@ -78,10 +72,22 @@
       "url": "https://www.perfumeriaschic.com/p11726265-filorga-ncef-revitalize-crema-polirevitalizante-reafirmante-50ml-tester.html",
       "en_stock": true
     },
+    "11551440": {
+      "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11551440-lancome-renergie-yeux-h-c-f-triple-serum-contorno-de-ojos-anti-edad-20ml.html",
+      "en_stock": true
+    },
     "5402271": {
       "nombre": "DKNY BE DELICIOUS EDP 100ML SIN CAJA",
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p5402271-dkny-be-delicious-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8231057": {
+      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
+      "precio": "29,96 €",
+      "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
       "en_stock": true
     },
     "10513600": {
@@ -143,12 +149,6 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10683632-daniel-josier-josune-edp-100ml.html",
       "en_stock": true
-    },
-    "10700393": {
-      "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
-      "en_stock": false
     },
     "10683446": {
       "nombre": "DANIEL JOSIER TUBEROSE EDP 100ML",
@@ -222,12 +222,6 @@
       "url": "https://www.perfumeriaschic.com/p7292937-paco-rabanne-ultraviolet-edp-80ml-tester.html",
       "en_stock": true
     },
-    "11734746": {
-      "nombre": "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
-      "precio": "33,25 €",
-      "url": "https://www.perfumeriaschic.com/p11734746-eight-bob-egypt-eau-de-parfum-30ml.html",
-      "en_stock": false
-    },
     "3521265": {
       "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
       "precio": "39,90 €",
@@ -299,12 +293,6 @@
       "precio": "34,96 €",
       "url": "https://www.perfumeriaschic.com/p11439351-marc-jacobs-dot-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "10517808": {
-      "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p10517808-tommy-hilfiger-tommy-girl-edt-100ml-tester.html",
-      "en_stock": false
     },
     "10793047": {
       "nombre": "XERJOFF COMANDANTE EDP 100ML TESTER",
@@ -2016,12 +2004,6 @@
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11551440": {
-      "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11551440-lancome-renergie-yeux-h-c-f-triple-serum-contorno-de-ojos-anti-edad-20ml.html",
-      "en_stock": true
-    },
     "11012061": {
       "nombre": "NISHANE FAN YOUR FLAMES X EXTRAIT DE...",
       "precio": "128,90 €",
@@ -2622,18 +2604,6 @@
       "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
       "en_stock": false
     },
-    "11740415": {
-      "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
-      "precio": "72,98 €",
-      "url": "https://www.perfumeriaschic.com/p11740415-replica-maison-margiela-under-the-stars-eau-de-toilette-100ml.html",
-      "en_stock": true
-    },
-    "11739283": {
-      "nombre": "REPLICA MAISON MARGIELA FROM THE...",
-      "precio": "14,90 €",
-      "url": "https://www.perfumeriaschic.com/p11739283-replica-maison-margiela-from-the-garden-eau-de-toilette-10ml.html",
-      "en_stock": true
-    },
     "11739275": {
       "nombre": "REPLICA MAISON MARGIELA NEVER-ENDING...",
       "precio": "34,95 €",
@@ -2730,18 +2700,6 @@
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
       "en_stock": false
     },
-    "8231057": {
-      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
-      "precio": "29,96 €",
-      "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11744363": {
-      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
-      "precio": "36,95 €",
-      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
-      "en_stock": true
-    },
     "11744367": {
       "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
       "precio": "36,95 €",
@@ -2754,11 +2712,47 @@
       "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11746679": {
-      "nombre": "HUGO BOSS FEMME EDP 75ML TESTER",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746679-hugo-boss-femme-edp-75ml-tester.html",
-      "en_stock": true
+    "11675406": {
+      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
+      "precio": "139,83 €",
+      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
+      "en_stock": false
+    },
+    "11406418": {
+      "nombre": "MANCERA CEDRAT BOISE INTENSE EDP...",
+      "precio": "84,92 €",
+      "url": "https://www.perfumeriaschic.com/p11406418-mancera-cedrat-boise-intense-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11366746": {
+      "nombre": "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
+      "precio": "69,79 €",
+      "url": "https://www.perfumeriaschic.com/p11366746-v-canto-stramonio-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11624736": {
+      "nombre": "LANCOME ABSOLUE THE SERUM...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
+      "en_stock": false
+    },
+    "10700393": {
+      "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
+      "en_stock": false
+    },
+    "11734746": {
+      "nombre": "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
+      "precio": "33,25 €",
+      "url": "https://www.perfumeriaschic.com/p11734746-eight-bob-egypt-eau-de-parfum-30ml.html",
+      "en_stock": false
+    },
+    "10517808": {
+      "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p10517808-tommy-hilfiger-tommy-girl-edt-100ml-tester.html",
+      "en_stock": false
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -14170,18 +14164,6 @@
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
       "en_stock": true
     },
-    "11744307": {
-      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11744270": {
-      "nombre": "MONTALE AQUA GOLD EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744270-montale-aqua-gold-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11734130": {
       "nombre": "XERJOFF GIBEON EDP 50ML TESTER",
       "precio": "154,90 €",
@@ -14223,18 +14205,6 @@
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
       "en_stock": true
-    },
-    "11544531": {
-      "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544531-carthusia-fiori-di-capri-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "7782288": {
-      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": false
     },
     "11435127": {
       "nombre": "CARTHUSIA 1681 EDP 100ML TESTER",
@@ -14283,12 +14253,6 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
-    },
-    "11514749": {
-      "nombre": "MONTALE SPICY AOUD EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11514749-montale-spicy-aoud-edp-100ml-tester.html",
-      "en_stock": false
     },
     "10913315": {
       "nombre": "MONTALE SOLEIL DE CAPRI  EDP 100ML...",
@@ -14344,12 +14308,6 @@
       "url": "https://www.perfumeriaschic.com/p11739241-replica-maison-margiela-under-the-lemon-trees-edt-100ml.html",
       "en_stock": true
     },
-    "8150280": {
-      "nombre": "MANCERA FEMINITY EDP 120ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
-      "en_stock": false
-    },
     "11738375": {
       "nombre": "JULIETTE HAS A GUN LUST FOR SUN EDP...",
       "precio": "54,90 €",
@@ -14379,12 +14337,6 @@
       "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "11368247": {
-      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11313275": {
       "nombre": "XERJOFF AMABILE EDP 100ML TESTER",
@@ -14475,12 +14427,6 @@
       "precio": "99,36 €",
       "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
       "en_stock": true
-    },
-    "11734746": {
-      "nombre": "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
-      "precio": "33,25 €",
-      "url": "https://www.perfumeriaschic.com/p11734746-eight-bob-egypt-eau-de-parfum-30ml.html",
-      "en_stock": false
     },
     "11647108": {
       "nombre": "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
@@ -14692,23 +14638,11 @@
       "url": "https://www.perfumeriaschic.com/p11678471-masque-milano-alcove-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11675406": {
-      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
-      "precio": "139,83 €",
-      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
-      "en_stock": false
-    },
     "10958096": {
       "nombre": "MANCERA BLACK VANILLE EDP 120ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml-tester.html",
       "en_stock": true
-    },
-    "11406613": {
-      "nombre": "MANCERA MIDNIGHT GOLD EDP 120ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11406613-mancera-midnight-gold-edp-120ml-tester.html",
-      "en_stock": false
     },
     "11374539": {
       "nombre": "MANCERA TONKA COLA EDP 120ML TESTER",
@@ -17306,6 +17240,66 @@
       "nombre": "MANCERA ROSES JASMINE EDP 120ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p8150598-mancera-roses-jasmine-edp-120ml.html",
+      "en_stock": false
+    },
+    "11744307": {
+      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11744270": {
+      "nombre": "MONTALE AQUA GOLD EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744270-montale-aqua-gold-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11544531": {
+      "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544531-carthusia-fiori-di-capri-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7782288": {
+      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": false
+    },
+    "11514749": {
+      "nombre": "MONTALE SPICY AOUD EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11514749-montale-spicy-aoud-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "8150280": {
+      "nombre": "MANCERA FEMINITY EDP 120ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
+      "en_stock": false
+    },
+    "11368247": {
+      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11734746": {
+      "nombre": "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
+      "precio": "33,25 €",
+      "url": "https://www.perfumeriaschic.com/p11734746-eight-bob-egypt-eau-de-parfum-30ml.html",
+      "en_stock": false
+    },
+    "11675406": {
+      "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
+      "precio": "139,83 €",
+      "url": "https://www.perfumeriaschic.com/p11675406-spirit-of-dubai-abraj-eau-de-parfum-50-ml-tester.html",
+      "en_stock": false
+    },
+    "11406613": {
+      "nombre": "MANCERA MIDNIGHT GOLD EDP 120ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11406613-mancera-midnight-gold-edp-120ml-tester.html",
       "en_stock": false
     }
   },
