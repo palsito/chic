@@ -3126,7 +3126,7 @@
       "nombre": "MANCERA CEDRAT BOISE EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8361498-mancera-cedrat-boise-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7793054": {
       "nombre": "MANCERA RED TOBACCO EDP 120 ML TESTER",
@@ -13164,7 +13164,7 @@
       "nombre": "HUGO BOSS BOTTLED EDT 50ML SIN CAJA",
       "precio": "20,90 €",
       "url": "https://www.perfumeriaschic.com/p5402681-hugo-boss-bottled-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11415072": {
       "nombre": "REMINISCENCE MUSC CHARNEL EDP 100ML...",
@@ -14290,12 +14290,6 @@
       "url": "https://www.perfumeriaschic.com/p10913315-montale-soleil-de-capri-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11744239": {
-      "nombre": "MANCERA INTENSE FRENCH RIVIERA EDP...",
-      "precio": "99,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744239-mancera-intense-french-riviera-edp-120ml-tester.html",
-      "en_stock": false
-    },
     "11744310": {
       "nombre": "MONTALE OUD EDITION EDP 100ML TESTER",
       "precio": "72,90 €",
@@ -15093,12 +15087,6 @@
       "precio": "114,90 €",
       "url": "https://www.perfumeriaschic.com/p10849488-rosendo-mateu-n2-perfume-100ml.html",
       "en_stock": true
-    },
-    "10700393": {
-      "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
-      "en_stock": false
     },
     "9609528": {
       "nombre": "V CANTO IRAE EXTRAIT DE PARFUM 100ML",
@@ -17312,6 +17300,18 @@
       "nombre": "MANCERA MIDNIGHT GOLD EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11406613-mancera-midnight-gold-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11744239": {
+      "nombre": "MANCERA INTENSE FRENCH RIVIERA EDP...",
+      "precio": "99,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744239-mancera-intense-french-riviera-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "10700393": {
+      "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
       "en_stock": false
     }
   },
