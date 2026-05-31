@@ -6906,7 +6906,7 @@
       "nombre": "PENHALIGON´S PORTRAITS CHANGING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p7463527-penhaligons-portraits-changing-constance-edp-75ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11244124": {
       "nombre": "TOM FORD EAU DE SOLEIL BLANC EDT...",
@@ -10968,7 +10968,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE BLAZING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p9520236-penhaligons-portraits-the-blazing-mr-sam-edp-75ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "8618943": {
       "nombre": "MERCHANT OF VENICE IMPERIAL EMERALD...",
@@ -11412,7 +11412,7 @@
       "nombre": "PENHALIGON´S LUNA EDT 100ML TESTER",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p7298563-penhaligons-luna-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11628030": {
       "nombre": "GUCCI RUSH EDT 75ML",
@@ -12086,6 +12086,12 @@
       "url": "https://www.perfumeriaschic.com/p8077922-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-150ml-tester.html",
       "en_stock": false
     },
+    "11695932": {
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11343469": {
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
@@ -12433,6 +12439,12 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11704530-tiziana-terenzi-arethusa-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
+    },
+    "7283638": {
+      "nombre": "PENHALIGON´S HALFETI EDP 100ML TESTER",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p7283638-penhaligons-halfeti-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11653583": {
       "nombre": "POLO RALPH LAURENT RALP´S CLUB NEW...",
@@ -15968,7 +15980,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE BLAZING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p9520236-penhaligons-portraits-the-blazing-mr-sam-edp-75ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11410303": {
       "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
@@ -16762,6 +16774,12 @@
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
     },
+    "11695932": {
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11413173": {
       "nombre": "ORMONDE JAYNE ORMONDE MAN PARFUM...",
       "precio": "138,90 €",
@@ -17356,6 +17374,7 @@
     "CAROLINA HERRERA 212 MEN NYC PARFUM...",
     "CAROLINA HERRERA 212 SEXY MEN EDT...",
     "CREED CARMINA EDP 75ML TESTER",
+    "D.S.&DURGA AMBER KISO EDP 100ML...",
     "DIESEL FUEL FOR LIFE POUR HOMME EDT...",
     "ELIE SAAB LE PARFUM BRIDAL EDP 90ML...",
     "ETAT LIBRE D´ORANGE YES I DO EAU DE...",
@@ -17385,6 +17404,7 @@
     "NISHANE FAVONIUS LONDON EXTRAIT DE...",
     "NISHANE TUBEROZA HAIR PERFUME PARA...",
     "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
+    "PENHALIGON´S HALFETI EDP 100ML TESTER",
     "PENHALIGON´S PORTRAITS THE COVETED...",
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
     "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
