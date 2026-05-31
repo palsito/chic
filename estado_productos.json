@@ -2476,7 +2476,7 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "44,99 €",
       "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11507342": {
       "nombre": "OFFICINA DELLE ESSENZE PURO TALCO...",
@@ -2560,7 +2560,7 @@
       "nombre": "ANGEL SCHLESSER FEMME ADORABLE EDT...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p5821807-angel-schlesser-femme-adorable-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11739302": {
       "nombre": "REPLICA MAISON MARGIELA UP AT DAWN...",
@@ -7600,9 +7600,9 @@
     },
     "10049570": {
       "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
-      "precio": "44,90 €",
+      "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10049570-guerlain-aqua-allegoria-mandarine-basilic-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10589674": {
       "nombre": "CALVIN KLEIN CK ONE SUMMER 2020 EDT...",
@@ -10704,7 +10704,7 @@
       "nombre": "ANGEL SCHLESSER LES EAUX D´UN...",
       "precio": "16,90 €",
       "url": "https://www.perfumeriaschic.com/p10848167-angel-schlesser-les-eaux-dun-instant-profund-orange-wood-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11623708": {
       "nombre": "CHOPARD OUD MALAKI EDP 80ML TESTER",
@@ -12528,7 +12528,7 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "44,99 €",
       "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4555216": {
       "nombre": "RALPH LAUREN POLO BLUE EDP 125ML...",
@@ -13128,7 +13128,7 @@
       "nombre": "ANGEL SCHLESSER FEMME ADORABLE EDT...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p5821807-angel-schlesser-femme-adorable-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7803874": {
       "nombre": "MOSCHINO FEMME EDT 75ML TESTER",
@@ -13796,12 +13796,6 @@
       "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
-    "11746669": {
-      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746669-yves-saint-laurent-black-opium-edp-over-red-90ml-tester.html",
-      "en_stock": false
-    },
     "11746651": {
       "nombre": "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
       "precio": "68,90 €",
@@ -13812,7 +13806,7 @@
       "nombre": "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11746690-guerlain-absolus-allegoria-santal-royal-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11746243": {
       "nombre": "ARMANI SI EAU DE PARFUM 100ML TESTER",
