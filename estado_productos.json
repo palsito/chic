@@ -13844,12 +13844,6 @@
       "url": "https://www.perfumeriaschic.com/p11746651-guerlain-absolus-allegoria-rose-amira-edp-125ml-tester.html",
       "en_stock": false
     },
-    "11746690": {
-      "nombre": "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746690-guerlain-absolus-allegoria-santal-royal-edp-125ml-tester.html",
-      "en_stock": false
-    },
     "11746243": {
       "nombre": "ARMANI SI EAU DE PARFUM 100ML TESTER",
       "precio": "54,90 €",
@@ -14034,6 +14028,12 @@
       "nombre": "ELIE SAAB LE PARFUM BRIDAL EDP 90ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10919687-elie-saab-le-parfum-bridal-edp-90ml.html",
+      "en_stock": true
+    },
+    "11747900": {
+      "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
     "6990571": {
@@ -17361,6 +17361,12 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
       "en_stock": false
+    },
+    "11747900": {
+      "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17406,6 +17412,7 @@
     "CARNER BARCELONA TENNIS CLUB EDP...",
     "CAROLINA HERRERA 212 MEN NYC PARFUM...",
     "CAROLINA HERRERA 212 SEXY MEN EDT...",
+    "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
     "CAROLINA HERRERA GOOD GIRL BLUSH...",
     "CAROLINA HERRERA GOOD GIRL JASMINE...",
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
