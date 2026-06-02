@@ -14034,7 +14034,7 @@
       "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -17366,7 +17366,7 @@
       "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
