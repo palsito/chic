@@ -6390,7 +6390,7 @@
       "nombre": "MINIATURA KENZO FLOWER IKEBANA EDP...",
       "precio": "6,90 €",
       "url": "https://www.perfumeriaschic.com/p11415165-miniatura-kenzo-flower-ikebana-edp-4ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9327823": {
       "nombre": "FLORIS SPECIAL Nº127 EDT 100ML TESTER",
@@ -10393,6 +10393,12 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p3055881-cerruti-1881-pour-homme-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11415176": {
+      "nombre": "MINIATURA KENZO FLOWER L'ABSOLUE EDP...",
+      "precio": "7,90 €",
+      "url": "https://www.perfumeriaschic.com/p11415176-miniatura-kenzo-flower-labsolue-edp-4ml.html",
+      "en_stock": true
     },
     "10298457": {
       "nombre": "ISSEY MIYAKE L´EAU DISSEY POUR HOMME...",
@@ -17582,6 +17588,7 @@
     "MASQUE MILANO TIMES SQUARE EDP 100ML...",
     "MASQUE MILANO WHITE WHALE EDP 35ML...",
     "MERCHANT OF VENICE ROSA MOCENIGA...",
+    "MINIATURA KENZO FLOWER L'ABSOLUE EDP...",
     "MIU MIU L´EAU BLEUE  EDP 100ML...",
     "MIU MIU TWIST EDP 100ML TESTER",
     "MOLINARD AMBRE EAU DE PARFUM 75ML...",
