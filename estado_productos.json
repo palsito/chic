@@ -14048,12 +14048,6 @@
       "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
       "en_stock": false
     },
-    "6969336": {
-      "nombre": "DIESEL BAD INTENSE EDP 75ML TESTER",
-      "precio": "31,90 €",
-      "url": "https://www.perfumeriaschic.com/p6969336-diesel-bad-intense-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "10518032": {
       "nombre": "NINA RICCI ROSE EXTASE EDT 80ML",
       "precio": "38,90 €",
@@ -14064,6 +14058,12 @@
       "nombre": "SISLEY EAU DE SISLEY 2 EDT 100ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p5884023-sisley-eau-de-sisley-2-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "6969336": {
+      "nombre": "DIESEL BAD INTENSE EDP 75ML TESTER",
+      "precio": "31,90 €",
+      "url": "https://www.perfumeriaschic.com/p6969336-diesel-bad-intense-edp-75ml-tester.html",
       "en_stock": false
     },
     "10690802": {
@@ -14126,16 +14126,16 @@
       "url": "https://www.perfumeriaschic.com/p11517814-bond-n9-chelsea-nights-edp-100ml-tester.html",
       "en_stock": false
     },
-    "6665869": {
-      "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA CITRUS...",
-      "precio": "18,90 €",
-      "url": "https://www.perfumeriaschic.com/p6665869-adolfo-dominguez-agua-fresca-citrus-cedro-edt-120ml-tester.html",
-      "en_stock": false
-    },
     "6360451": {
       "nombre": "MIU MIU L´EAU BLEUE  EDP 100ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p6360451-miu-miu-leau-bleue-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "6665869": {
+      "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA CITRUS...",
+      "precio": "18,90 €",
+      "url": "https://www.perfumeriaschic.com/p6665869-adolfo-dominguez-agua-fresca-citrus-cedro-edt-120ml-tester.html",
       "en_stock": false
     },
     "5932841": {
