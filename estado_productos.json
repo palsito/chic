@@ -2774,6 +2774,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11754004": {
+      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11754009": {
+      "nombre": "LACOSTE ORIGINAL ACQUA EAU DE PARFUM...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754009-lacoste-original-acqua-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11754013": {
+      "nombre": "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754013-roberto-cavalli-verde-assoluto-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "10834726": {
       "nombre": "SHISEIDO GINZA EDP INTENSE 90ML...",
       "precio": "54,90 €",
@@ -2820,6 +2838,12 @@
       "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11379241": {
+      "nombre": "TOUS KIDS BEAR EDT 100ML TESTER",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p11379241-tous-kids-bear-edt-100ml-tester.html",
       "en_stock": true
     },
     "10447435": {
@@ -3114,7 +3138,7 @@
       "nombre": "PACO RABANNE OLYMPEA FLORA EDP...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10883485-paco-rabanne-olympea-flora-edp-intense-80ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "8535253": {
       "nombre": "MANCERA BLACK INTENSITIVE AOUD EDP...",
@@ -13460,12 +13484,6 @@
       "url": "https://www.perfumeriaschic.com/p8384363-juliette-has-a-gun-not-a-perfume-edp-100ml-tester-sin-caja.html",
       "en_stock": false
     },
-    "11379241": {
-      "nombre": "TOUS KIDS BEAR EDT 100ML TESTER",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p11379241-tous-kids-bear-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11746238": {
       "nombre": "GIORGIO ARMANI SI EAU DE PARFUM...",
       "precio": "54,90 €",
@@ -13969,24 +13987,6 @@
       "precio": "20,90 €",
       "url": "https://www.perfumeriaschic.com/p5402681-hugo-boss-bottled-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "11754004": {
-      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11754009": {
-      "nombre": "LACOSTE ORIGINAL ACQUA EAU DE PARFUM...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754009-lacoste-original-acqua-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
-    "11754013": {
-      "nombre": "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754013-roberto-cavalli-verde-assoluto-edp-75ml-tester.html",
-      "en_stock": true
     },
     "11620510": {
       "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
