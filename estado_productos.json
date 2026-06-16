@@ -556,7 +556,7 @@
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
       "precio": "29,96 €",
       "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7292937": {
       "nombre": "PACO RABANNE ULTRAVIOLET EDP 80ML...",
@@ -730,6 +730,12 @@
       "nombre": "CALVIN KLEIN CK EVERYONE EDT 200ML",
       "precio": "34,80 €",
       "url": "https://www.perfumeriaschic.com/p11665337-calvin-klein-ck-everyone-edt-200ml.html",
+      "en_stock": true
+    },
+    "11637590": {
+      "nombre": "BOUCHERON QUATRE POUR HOMME EDT 100ML",
+      "precio": "27,97 €",
+      "url": "https://www.perfumeriaschic.com/p11637590-boucheron-quatre-pour-homme-edt-100ml.html",
       "en_stock": true
     },
     "2532461": {
@@ -2746,7 +2752,7 @@
       "nombre": "LANCOME ABSOLUE THE SERUM...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10700393": {
       "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
@@ -3876,7 +3882,7 @@
       "nombre": "CALVIN KLEIN CK EVERYONE EDP 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p10455116-calvin-klein-ck-everyone-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11315408": {
       "nombre": "CALVIN KLEIN ETERNITY AROMATIC...",
@@ -12956,6 +12962,12 @@
       "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
       "en_stock": false
     },
+    "11701475": {
+      "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
+      "precio": "26,90 €",
+      "url": "https://www.perfumeriaschic.com/p11701475-halloween-my-wish-addiction-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10513989": {
       "nombre": "​PHILIPP PLEIN NO LIMITS EDP 90ML...",
       "precio": "32,90 €",
@@ -13027,6 +13039,12 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11472480-philipp-plein-fatale-eau-de-parfum-90ml.html",
       "en_stock": false
+    },
+    "11637590": {
+      "nombre": "BOUCHERON QUATRE POUR HOMME EDT 100ML",
+      "precio": "27,97 €",
+      "url": "https://www.perfumeriaschic.com/p11637590-boucheron-quatre-pour-homme-edt-100ml.html",
+      "en_stock": true
     },
     "11526326": {
       "nombre": "HFC PRIVATE CODE EAU DE PARFUM 75ML...",
@@ -13914,7 +13932,7 @@
       "nombre": "KARL LAGERFELD IKONIK POUR HOMME EAU...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p11742567-karl-lagerfeld-ikonik-pour-homme-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10915181": {
       "nombre": "MOLINARD MUSC EAU DE PARFUM 75ML...",
@@ -17397,6 +17415,7 @@
     "BOND NO.9 NY NEW HAARLEM EDP 100ML...",
     "BOND Nº9 CHELSEA NIGHTS EDP 100ML...",
     "BORTNIKOFF MOSS COLOGNE EAU DE...",
+    "BOUCHERON QUATRE POUR HOMME EDT 100ML",
     "BOUCHERON SINGULIER POUR HOMME EDP...",
     "BRITNEY SPEARS FANTASY DID IT AGAIN...",
     "BRITNEY SPEARS FANTASY EDP 100ML...",
@@ -17487,6 +17506,7 @@
     "GUERLAIN L'INSTANT DE GUERLAIN EDP...",
     "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
     "GUY LAROCHE FIDJI EDT 100ML TESTER",
+    "HALLOWEEN MY WISH ADDICTION EDP...",
     "HERMES  TWILLY EDP 85ML TESTER",
     "HERMES EAU  D´ORANGE VERTE EDC 100ML...",
     "HERMES ELIXIR DES MERVEILLES EDP...",
