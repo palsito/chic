@@ -10830,7 +10830,7 @@
       "nombre": "POLICE RICH GIRL FOR WOMAN EDP 100ML...",
       "precio": "17,90 €",
       "url": "https://www.perfumeriaschic.com/p11615299-police-rich-girl-for-woman-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11526345": {
       "nombre": "ETAT LIBRE D´ORANGE DANGEROUS...",
@@ -12206,6 +12206,18 @@
       "url": "https://www.perfumeriaschic.com/p7283638-penhaligons-halfeti-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11711348": {
+      "nombre": "TRUSSARDI LE VIE DI MILANO BEHID THE...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711348-trussardi-le-vie-di-milano-behid-the-curtain-piazza-alla-scala-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11711347": {
+      "nombre": "TRUSSARDI LE VIE DI MILANO...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711347-trussardi-passeggiata-in-galleria-vittorio-emanuele-ii-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11653583": {
       "nombre": "POLO RALPH LAURENT RALP´S CLUB NEW...",
       "precio": "49,90 €",
@@ -12306,7 +12318,7 @@
       "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10886951": {
       "nombre": "LACOSTE L. 12.12 BLANC FOR HIM EAU...",
@@ -13087,6 +13099,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10613143-boucheron-singulier-pour-homme-edp100ml-tester.html",
       "en_stock": false
+    },
+    "11711351": {
+      "nombre": "TRUSSARDI LE VIE DI MILANO I VICOLI...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711351-trussardi-le-vie-di-milano-i-vicoli-via-fiori-chiari-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
     },
     "10890231": {
       "nombre": "RALPH LAUREN POLO BLUE PARFUM 125ML...",
@@ -13987,6 +14005,18 @@
       "precio": "20,90 €",
       "url": "https://www.perfumeriaschic.com/p5402681-hugo-boss-bottled-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11754015": {
+      "nombre": "DAVIDOFF COOL ELIXIR SAFRAN MINERAL...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754015-davidoff-cool-elixir-safran-mineral-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11754030": {
+      "nombre": "TOMMY HILFIGER TOMMY IMPACT PARFUM...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754030-tommy-hilfiger-tommy-impact-parfum-100ml-tester.html",
+      "en_stock": true
     },
     "11620510": {
       "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
@@ -17485,6 +17515,7 @@
     "DANIEL JOSIER VANILLE ET COCO PARFUM...",
     "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
     "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+    "DAVIDOFF COOL ELIXIR SAFRAN MINERAL...",
     "DAVIDOFF COOL WATER WOMAN PARFUM...",
     "DIESEL BAD INTENSE EDP 75ML TESTER",
     "DIESEL D RED EDP 100ML TESTER",
@@ -17784,6 +17815,7 @@
     "TIZIANA TERENZI LAUDANO NERO EXTRAIT...",
     "TIZIANA TERENZI MAREMMA EXTRAIT DE...",
     "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
+    "TOMMY HILFIGER TOMMY IMPACT PARFUM...",
     "TOMMY HILFIGER TOMMY NEW YORK EDT...",
     "TOUS 1920 THE ORIGIN EDP 100ML TESTER",
     "TOUS KIDS BEAR EDT 100ML TESTER",
@@ -17791,6 +17823,9 @@
     "TOUS MAN INTENSE EDT 100ML TESTER",
     "TOUS OH! THE ORIGIN EDP 100ML TESTER",
     "TOUS TOUCH EDT 100ML TESTER",
+    "TRUSSARDI LE VIE DI MILANO BEHID THE...",
+    "TRUSSARDI LE VIE DI MILANO I VICOLI...",
+    "TRUSSARDI LE VIE DI MILANO...",
     "V CANTO AMANS EDP 100ML TESTER",
     "V CANTO COR GENTILE EDP 100ML TESTER",
     "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
