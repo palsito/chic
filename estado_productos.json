@@ -3480,7 +3480,7 @@
       "nombre": "TRUSSARDI PRIMO EDP 100ML TESTER",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11417389-trussardi-primo-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10880457": {
       "nombre": "HUGO BOSS THE SCENT MAGNETIC FOR HER...",
@@ -12552,7 +12552,7 @@
       "nombre": "SCALPERS KIDS GIRL 100ML EDT TESTER",
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p10587737-scalpers-kids-girl-100ml-edt-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11720848": {
       "nombre": "CAROLINA HERRERA GOOD GIRL JASMINE...",
@@ -12733,6 +12733,12 @@
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355815-reminiscence-le-patchouli-patchouli-edt-intense-100ml-tester.html",
       "en_stock": false
+    },
+    "5883343": {
+      "nombre": "GIVENCHY GENTLEMAN EDT 100ML TESTER",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p5883343-givenchy-gentleman-edt-100ml-tester-nueva.html",
+      "en_stock": true
     },
     "8406106": {
       "nombre": "THE HOUSE OF OUD GRAPE PEARLS EDP...",
@@ -13710,7 +13716,7 @@
       "nombre": "ACQUA DI PARMA COLONIA EDC 100ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11746657": {
       "nombre": "VALENTINO DONNA BORN IN ROMA GREEN...",
@@ -13770,7 +13776,7 @@
       "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO...",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11507063-acqua-di-parma-colonia-il-profumo-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11732567": {
       "nombre": "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
@@ -17492,6 +17498,7 @@
     "GIORGIO ARMANI SI PARFUM 100ML TESTER",
     "GIORGIO ARMANI SI RED MUSK PASSIONE...",
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
+    "GIVENCHY GENTLEMAN EDT 100ML TESTER",
     "GIVENCHY PI EDT 100ML TESTER",
     "GRITTI VENETIA GOSSIP NIGHT EAU DE...",
     "GRITTI VENETIAN AQUA INCANTA EDP...",
