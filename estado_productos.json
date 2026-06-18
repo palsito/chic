@@ -658,7 +658,7 @@
       "nombre": "DAVIDOFF COOL WATER  MEN PARFUM...",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "7614490": {
       "nombre": "ARMAND BASI SCENT OF KISS EDT 50ML...",
@@ -2922,7 +2922,7 @@
       "nombre": "GUCCI GUILTY LOVE EDITION 2024 POUR...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11522088-gucci-guilty-love-edition-2024-pour-homme-edp-90ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "2511188": {
       "nombre": "MARC JACOBS DAISY EDT 100ML TESTER",
@@ -4146,7 +4146,7 @@
       "nombre": "DAVIDOFF COOL WATER  MEN PARFUM...",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11692351": {
       "nombre": "POLICE TO BE FREETODARE EDP 125ML...",
@@ -4578,7 +4578,7 @@
       "nombre": "CALVIN KLEIN CK DEFY EDP 100ML TESTER",
       "precio": "28,90 €",
       "url": "https://www.perfumeriaschic.com/p11647093-calvin-klein-ck-defy-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11399025": {
       "nombre": "STARCK PARIS PEAU DE PIERRE EDT 90ML...",
