@@ -12942,7 +12942,7 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
       "precio": "42,90 €",
       "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7664518": {
       "nombre": "MONTALE ROSES MUSK EDP 100M TESTER",
@@ -13320,6 +13320,12 @@
       "nombre": "PACO RABANNE FAME IN LOVE PARFUM...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11744089-paco-rabanne-fame-in-love-parfum-elixir-80ml-tester.html",
+      "en_stock": false
+    },
+    "11204999": {
+      "nombre": "XERJOFF MORE THAN WORDS EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11204999-xerjoff-more-than-words-edp-100ml-tester.html",
       "en_stock": false
     },
     "11744307": {
@@ -17224,6 +17230,12 @@
       "url": "https://www.perfumeriaschic.com/p11366746-v-canto-stramonio-extrait-de-parfum-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11204999": {
+      "nombre": "XERJOFF MORE THAN WORDS EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11204999-xerjoff-more-than-words-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10849509": {
       "nombre": "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
       "precio": "154,90 €",
@@ -17921,6 +17933,7 @@
     "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
     "XERJOFF CASAMORATI MEFISTO...",
     "XERJOFF ERBA PURA EDP 100ML TESTER",
+    "XERJOFF MORE THAN WORDS EDP 100ML...",
     "XERJOFF TORINO 21 EDP 100ML TESTER",
     "XERJOFF UDEN OVERDOSE PARFUM 50ML...",
     "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
