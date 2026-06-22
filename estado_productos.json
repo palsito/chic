@@ -1104,12 +1104,6 @@
       "url": "https://www.perfumeriaschic.com/p11469934-daniel-josier-505-sunrise-edp-100ml.html",
       "en_stock": true
     },
-    "11469956": {
-      "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": false
-    },
     "11470326": {
       "nombre": "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
       "precio": "120,00 €",
@@ -2770,6 +2764,12 @@
       "nombre": "PERRIS MONTE CARLO MUSK EXTEME EDP...",
       "precio": "72,85 €",
       "url": "https://www.perfumeriaschic.com/p9600108-perris-monte-carlo-musk-exteme-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11469956": {
+      "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     }
   },
