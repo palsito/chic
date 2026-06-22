@@ -1264,7 +1264,7 @@
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
       "precio": "29,96 €",
       "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7292937": {
       "nombre": "PACO RABANNE ULTRAVIOLET EDP 80ML...",
@@ -13980,13 +13980,13 @@
       "nombre": "RALPH LAURENT RALPH´S CLUB PARFUM...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231057": {
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
       "precio": "29,96 €",
       "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10455116": {
       "nombre": "CALVIN KLEIN CK EVERYONE EDP 100ML...",
