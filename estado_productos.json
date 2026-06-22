@@ -1906,7 +1906,7 @@
       "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
       "precio": "132,91 €",
       "url": "https://www.perfumeriaschic.com/p11426814-xerjoff-golden-moka-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433823": {
       "nombre": "NISHANE TEMPFLUO EXTRAIT DE PARFUM...",
@@ -3180,7 +3180,7 @@
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
       "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8100272": {
       "nombre": "ETRO PAISLEY EDP 100ML DELUXE",
@@ -6020,6 +6020,12 @@
       "url": "https://www.perfumeriaschic.com/p11433945-xerjoff-kemi-collection-kemi-parfum-50ml-tester.html",
       "en_stock": false
     },
+    "11389984": {
+      "nombre": "XERJOFF TONY IOMMI MONKEY SPECIAL...",
+      "precio": "184,90 €",
+      "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "10790494": {
       "nombre": "NINA RICCI NINA NATURE EDT 50ML...",
       "precio": "24,90 €",
@@ -8328,7 +8334,7 @@
       "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9407655": {
       "nombre": "​​FLORIS WHITE ROSE EDT 100ML TESTER",
@@ -9450,7 +9456,7 @@
       "nombre": "MONTALE AMBER MUSK EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11458262-montale-amber-musk-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4880795": {
       "nombre": "DIESEL BAD EDT 75ML TESTER",
@@ -9924,7 +9930,7 @@
       "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
       "precio": "132,91 €",
       "url": "https://www.perfumeriaschic.com/p11426814-xerjoff-golden-moka-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433823": {
       "nombre": "NISHANE TEMPFLUO EXTRAIT DE PARFUM...",
@@ -10441,6 +10447,12 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11408436-montale-patchouli-leaves-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "10298454": {
+      "nombre": "XERJOFF CRUZ DEL SUR II 50ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p10298454-xerjoff-la-capitale-cruz-del-sur-ii-50ml-tester.html",
+      "en_stock": true
     },
     "10346885": {
       "nombre": "ARMAND BASI L´EAU POUR HOMME BLUE...",
@@ -11234,11 +11246,17 @@
       "url": "https://www.perfumeriaschic.com/p11544675-olfactive-studio-ombre-indigo-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11664027": {
+      "nombre": "MANCERA INTENSE INSTANT CRUSH  EDP...",
+      "precio": "99,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664027-mancera-intense-instant-crush-edp-120ml-tester.html",
+      "en_stock": true
+    },
     "9176449": {
-      "nombre": "MANCERA WILD LEATHER EDP 120ML SIN...",
+      "nombre": "MANCERA WILD LEATHER EDP 120ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p9176449-mancera-wild-leather-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3748520": {
       "nombre": "GUCCI BLOOM EDP 100ML TESTER",
@@ -11952,7 +11970,7 @@
       "nombre": "MANCERA OF THE WILD  EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10795882-mancera-of-the-wild-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5060379": {
       "nombre": "PACO RABANNE BLACK XS FOR HIM EDT...",
@@ -12072,7 +12090,7 @@
       "nombre": "MONTALE AMBER & SPICES EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7431831-montale-amber-spices-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10915075": {
       "nombre": "MONTALE SWEET PEONY EDP 100ML TESTER",
@@ -12540,7 +12558,7 @@
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10958104": {
       "nombre": "MANCERA SILVER BLUE EDP 120ML TESTER",
@@ -12558,19 +12576,19 @@
       "nombre": "MANCERA VELVET VANILLA EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8151433-mancera-velvet-vanilla-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8556090": {
       "nombre": "MANCERA ROSES GREEDY EDP 120ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p8556090-mancera-roses-greedy-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231159": {
       "nombre": "MANCERA GOLD INTENSITIVE AOUD EDP...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8231159-mancera-intensitive-aoud-gold-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793370": {
       "nombre": "MANCERA FABULOUS YUZU EDP 120ML...",
@@ -12666,7 +12684,7 @@
       "nombre": "MANCERA ROSES VANILLE EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8123545-mancera-roses-vanille-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9678824": {
       "nombre": "MANCERA SICILY EDP 120ML TESTER",
@@ -12726,7 +12744,7 @@
       "nombre": "MANCERA MELODY OF THE SUN EDP 120ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11631981-mancera-melody-of-the-sun-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4489258": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
@@ -12888,13 +12906,13 @@
       "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913492": {
       "nombre": "MANCERA AMBER FEVER EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10913492-mancera-amber-fever-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11514738": {
       "nombre": "MONTALE AOUD SAFRAN  EDP 100ML TESTER",
@@ -13014,13 +13032,13 @@
       "nombre": "MANCERA HOLIDAYS  EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7771158-mancera-holidays-edp-120-ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11704533": {
       "nombre": "MANCERA PEARL EDP 120ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11704533-mancera-pearl-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11738470": {
       "nombre": "CHLOE LE PARFUM 100ML TESTER",
@@ -13092,12 +13110,18 @@
       "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11094427-mancera-instant-crush-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11712848": {
       "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
       "precio": "158,90 €",
       "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
+      "en_stock": true
+    },
+    "11384385": {
+      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
       "en_stock": true
     },
     "11663999": {
@@ -13230,7 +13254,7 @@
       "nombre": "MANCERA JASMIN EXCLUSIF EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11727783-mancera-jasmin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10010184": {
       "nombre": "MANCERA CHOCO VIOLET EDP 120ML TESTER",
@@ -13326,7 +13350,7 @@
       "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10103574": {
       "nombre": "MOLINARD OUD MAGNETIQUE EDP 75ML...",
@@ -13692,7 +13716,7 @@
       "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744333": {
       "nombre": "MOLINARD LAVANDE EAU DE PARFUM 75ML...",
@@ -13746,7 +13770,7 @@
       "nombre": "MANCERA RED TOBACCO EDP 120 ML TESTER",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7793054-mancera-red-tobacco-edp-120-ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8555887": {
       "nombre": "MONTALE RED AOUD  EDP 100ML TESTER",
@@ -14456,6 +14480,12 @@
       "nombre": "ETAT LIBRE D´ORANGE SHE WAS AN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674103-etat-libre-dorange-she-was-an-anomaly-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11389984": {
+      "nombre": "XERJOFF TONY IOMMI MONKEY SPECIAL...",
+      "precio": "184,90 €",
+      "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
       "en_stock": true
     },
     "11719258": {
@@ -15494,7 +15524,7 @@
       "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11407993": {
       "nombre": "V CANTO MISIARTE EXTRAIT DE PARFUM...",
@@ -15902,7 +15932,7 @@
       "nombre": "MONTALE AMBER MUSK EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11458262-montale-amber-musk-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10915084": {
       "nombre": "MONTALE WHITE MUSK EDP 100ML TESTER",
@@ -16160,7 +16190,7 @@
       "nombre": "MANCERA OF THE WILD  EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10795882-mancera-of-the-wild-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561182": {
       "nombre": "BOADICEA THE VICTORIOUS ENERGIZER...",
@@ -16430,7 +16460,7 @@
       "nombre": "MANCERA SAND AOUD EDP 120ML TESTER",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p8150648-mancera-sand-aoud-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
@@ -16587,6 +16617,12 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11663999-mancera-cinque-terre-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11664027": {
+      "nombre": "MANCERA INTENSE INSTANT CRUSH  EDP...",
+      "precio": "99,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664027-mancera-intense-instant-crush-edp-120ml-tester.html",
+      "en_stock": true
     },
     "11664301": {
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
@@ -16796,7 +16832,7 @@
       "nombre": "MANCERA PEARL EDP 120ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11704533-mancera-pearl-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11034762": {
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
@@ -16946,13 +16982,19 @@
       "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11094427-mancera-instant-crush-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
+    },
+    "11384385": {
+      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
+      "en_stock": true
     },
     "8252606": {
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793370": {
       "nombre": "MANCERA FABULOUS YUZU EDP 120ML...",
@@ -17024,7 +17066,7 @@
       "nombre": "MANCERA MELODY OF THE SUN EDP 120ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11631981-mancera-melody-of-the-sun-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10618118": {
       "nombre": "CARNER BARCELONA TENNIS CLUB EDP...",
@@ -17102,7 +17144,7 @@
       "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11712260": {
       "nombre": "BOIS 1920 CENTENARIO 100ML TESTER",
@@ -17180,13 +17222,13 @@
       "nombre": "MANCERA JASMIN EXCLUSIF EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11727783-mancera-jasmin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8151444": {
       "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913383": {
       "nombre": "MONTALE BLUE AMBER EDP 100ML TESTER",
@@ -17372,7 +17414,7 @@
       "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
@@ -17744,11 +17786,13 @@
     "MANCERA FABULOUS YUZU EDP 120ML...",
     "MANCERA FEMINITY EDP 120ML TESTER",
     "MANCERA FIG EXTASY EDP 120ML TESTER",
+    "MANCERA FRENCH RIVIERA EDP 120ML...",
     "MANCERA GOLD INTENSITIVE AOUD EDP...",
     "MANCERA HINDU KUSH EDP 120ML TESTER",
     "MANCERA HOLIDAYS  EDP 120ML TESTER",
     "MANCERA INSTANT CRUSH EDP 120ML...",
     "MANCERA INTENSE FRENCH RIVIERA EDP...",
+    "MANCERA INTENSE INSTANT CRUSH  EDP...",
     "MANCERA JASMIN EXCLUSIF EDP 120ML...",
     "MANCERA MELODY OF THE SUN EDP 120ML...",
     "MANCERA MIDNIGHT GOLD EDP 120ML...",
@@ -17971,8 +18015,10 @@
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
     "XERJOFF CASAMORATI MEFISTO...",
+    "XERJOFF CRUZ DEL SUR II 50ML TESTER",
     "XERJOFF ERBA PURA EDP 100ML TESTER",
     "XERJOFF MORE THAN WORDS EDP 100ML...",
+    "XERJOFF TONY IOMMI MONKEY SPECIAL...",
     "XERJOFF TORINO 21 EDP 100ML TESTER",
     "XERJOFF UDEN OVERDOSE PARFUM 50ML...",
     "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
