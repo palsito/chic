@@ -14368,6 +14368,108 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11671517": {
+      "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
+      "en_stock": true
+    },
+    "11744266": {
+      "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7782288": {
+      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": true
+    },
+    "11744307": {
+      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8151444": {
+      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
+      "en_stock": true
+    },
+    "11727783": {
+      "nombre": "MANCERA JASMIN EXCLUSIF EDP 120ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11727783-mancera-jasmin-exclusif-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "10936985": {
+      "nombre": "CARNER BARCELONA LUKOMORIE EDP 100ML...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11406776": {
+      "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11678389": {
+      "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11678389-chabaud-caramelito-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11631981": {
+      "nombre": "MANCERA MELODY OF THE SUN EDP 120ML...",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p11631981-mancera-melody-of-the-sun-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11464337": {
+      "nombre": "MONTALE INTENSE CAFE RISTRETTO EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11464337-montale-intense-cafe-ristretto-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11380819": {
+      "nombre": "MONTALE INTENSE ROSES MUSK EXTRAIT...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11380819-montale-intense-roses-musk-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "8338271": {
+      "nombre": "PERRIS MONTE CARLO LAVANDE ROMAINE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p8338271-perris-monte-carlo-lavande-romaine-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11664531": {
+      "nombre": "MONTALE INTENSE PEPPER EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664531-montale-intense-pepper-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8252606": {
+      "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11384385": {
+      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11094427": {
+      "nombre": "MANCERA INSTANT CRUSH EDP 120ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11094427-mancera-instant-crush-edp-120ml-tester.html",
+      "en_stock": true
+    },
     "11678390": {
       "nombre": "CHABAUD MON TIRAMISÚ EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -17044,12 +17146,6 @@
       "url": "https://www.perfumeriaschic.com/p10892049-mancera-hindu-kush-edp-120ml-tester.html",
       "en_stock": false
     },
-    "11464337": {
-      "nombre": "MONTALE INTENSE CAFE RISTRETTO EDP...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11464337-montale-intense-cafe-ristretto-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11418661": {
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
       "precio": "77,95 €",
@@ -17061,12 +17157,6 @@
       "precio": "99,90 €",
       "url": "https://www.perfumeriaschic.com/p8406106-the-house-of-oud-grape-pearls-edp-75ml-tester.html",
       "en_stock": false
-    },
-    "11631981": {
-      "nombre": "MANCERA MELODY OF THE SUN EDP 120ML...",
-      "precio": "74,90 €",
-      "url": "https://www.perfumeriaschic.com/p11631981-mancera-melody-of-the-sun-edp-120ml-tester.html",
-      "en_stock": true
     },
     "10618118": {
       "nombre": "CARNER BARCELONA TENNIS CLUB EDP...",
@@ -17104,12 +17194,6 @@
       "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
       "en_stock": false
     },
-    "11678389": {
-      "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11678389-chabaud-caramelito-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11606601": {
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
       "precio": "68,90 €",
@@ -17140,12 +17224,6 @@
       "url": "https://www.perfumeriaschic.com/p10913292-montale-honey-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11406776": {
-      "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11712260": {
       "nombre": "BOIS 1920 CENTENARIO 100ML TESTER",
       "precio": "68,90 €",
@@ -17163,12 +17241,6 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11704493-carthusia-aria-di-capri-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "10936985": {
-      "nombre": "CARNER BARCELONA LUKOMORIE EDP 100ML...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11417522": {
       "nombre": "THAMEEN GREEN PEARL EDP 50ML TESTER",
@@ -17218,18 +17290,6 @@
       "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
       "en_stock": false
     },
-    "11727783": {
-      "nombre": "MANCERA JASMIN EXCLUSIF EDP 120ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11727783-mancera-jasmin-exclusif-edp-120ml-tester.html",
-      "en_stock": true
-    },
-    "8151444": {
-      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
-      "precio": "74,90 €",
-      "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
-      "en_stock": true
-    },
     "10913383": {
       "nombre": "MONTALE BLUE AMBER EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -17278,12 +17338,6 @@
       "url": "https://www.perfumeriaschic.com/p8150598-mancera-roses-jasmine-edp-120ml.html",
       "en_stock": false
     },
-    "11744307": {
-      "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744307-montale-chypre-fruite-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11744270": {
       "nombre": "MONTALE AQUA GOLD EDP 100ML TESTER",
       "precio": "72,90 €",
@@ -17295,12 +17349,6 @@
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11544531-carthusia-fiori-di-capri-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "7782288": {
-      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": true
     },
     "11514749": {
       "nombre": "MONTALE SPICY AOUD EDP 100ML TESTER",
@@ -17410,12 +17458,6 @@
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11744266": {
-      "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744266-montale-aoud-musk-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11740854": {
       "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
       "precio": "78,90 €",
@@ -17505,12 +17547,6 @@
       "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "11671517": {
-      "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
-      "precio": "164,90 €",
-      "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
-      "en_stock": true
     },
     "11611642": {
       "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
