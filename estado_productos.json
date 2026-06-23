@@ -78,12 +78,6 @@
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10240101": {
-      "nombre": "ETRO SHAAL NUR EDT 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10240101-etro-shaal-nur-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11094387": {
       "nombre": "LANCOME ADVANCED GENIFIQUE SERUM...",
       "precio": "29,90 €",
@@ -2786,6 +2780,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "10879617": {
+      "nombre": "EL GANSO SUNDAY MOOD EDT 125ML TESTER",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p10879617-el-ganso-sunday-mood-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11384385": {
+      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11204999": {
+      "nombre": "XERJOFF MORE THAN WORDS EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11204999-xerjoff-more-than-words-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11744266": {
       "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -2810,12 +2822,6 @@
       "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
       "en_stock": true
     },
-    "5549705": {
-      "nombre": "CHANEL ANTAEUS POUR HOMME EDT 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p5549705-chanel-antaeus-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "8528528": {
       "nombre": "SHISEIDO GINZA EDP 90ML TESTER",
       "precio": "49,95 €",
@@ -2839,12 +2845,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10913336-montale-crystal-flowers-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11458262": {
-      "nombre": "MONTALE AMBER MUSK EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11458262-montale-amber-musk-edp-100ml-tester.html",
-      "en_stock": false
     },
     "10618135": {
       "nombre": "M. MICALLEF GNTONIC EDP 100ML TESTER...",
@@ -3068,12 +3068,6 @@
       "url": "https://www.perfumeriaschic.com/p11464337-montale-intense-cafe-ristretto-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11204999": {
-      "nombre": "XERJOFF MORE THAN WORDS EDP 100ML...",
-      "precio": "149,90 €",
-      "url": "https://www.perfumeriaschic.com/p11204999-xerjoff-more-than-words-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11380819": {
       "nombre": "MONTALE INTENSE ROSES MUSK EXTRAIT...",
       "precio": "78,90 €",
@@ -3084,12 +3078,6 @@
       "nombre": "RALPH LAURENT POLO RED EXTREME EDP...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p5904176-ralph-laurent-polo-red-extreme-edp-125ml-tester.html",
-      "en_stock": true
-    },
-    "11384385": {
-      "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11384385-mancera-french-riviera-edp-120ml-tester.html",
       "en_stock": true
     },
     "11727783": {
@@ -3192,12 +3180,6 @@
       "nombre": "DAVIDOFF COOL ELIXIR SAFRAN MINERAL...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11754015-davidoff-cool-elixir-safran-mineral-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "10879617": {
-      "nombre": "EL GANSO SUNDAY MOOD EDT 125ML TESTER",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p10879617-el-ganso-sunday-mood-edt-125ml-tester.html",
       "en_stock": true
     },
     "11497124": {
@@ -3325,12 +3307,6 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11571017-kenzo-leau-kenzo-pour-homme-edt-100ml-tester.html",
       "en_stock": true
-    },
-    "10240101": {
-      "nombre": "ETRO SHAAL NUR EDT 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10240101-etro-shaal-nur-edt-100ml-tester.html",
-      "en_stock": false
     },
     "10779787": {
       "nombre": "EL GANSO LIKE FATHER LIKE SON EDT...",
@@ -9318,7 +9294,7 @@
       "nombre": "ORTO PARISI BERGAMASK EDP 50ML TESTER",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10828508-orto-parisi-bergamask-edp-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4880617": {
       "nombre": "PACO RABANNE LADY MILLION EDP 80ML...",
@@ -14596,12 +14572,6 @@
       "url": "https://www.perfumeriaschic.com/p11450288-montale-pure-love-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11458262": {
-      "nombre": "MONTALE AMBER MUSK EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11458262-montale-amber-musk-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11424232": {
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
       "precio": "78,90 €",
@@ -15464,7 +15434,7 @@
       "nombre": "ORTO PARISI BERGAMASK EDP 50ML TESTER",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10828508-orto-parisi-bergamask-edp-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10680673": {
       "nombre": "HISTOIRES DE PARFUMS AMBRE 114 EDP...",
