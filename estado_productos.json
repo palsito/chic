@@ -2795,6 +2795,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
       "en_stock": true
+    },
+    "11756164": {
+      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -2808,6 +2814,42 @@
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
+    "11756078": {
+      "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756085": {
+      "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756085-montale-aoud-night-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756086": {
+      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756087": {
+      "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756088": {
+      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756089": {
+      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
       "en_stock": true
     },
     "10879617": {
@@ -11850,7 +11892,7 @@
       "nombre": "REMINISCENCE LE REM (REM) EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10618140": {
       "nombre": "NISHANE PACHULI KOZHA EXTRAIT DE...",
@@ -13800,7 +13842,7 @@
       "nombre": "REMINISCENCE SOUFFLE AMBRE EAU DE...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11543160-reminiscence-souffle-ambre-eau-de-toilette-intense-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10911745": {
       "nombre": "TRUSSARDI RUBY RED EAU DE PARFUM...",
@@ -14203,6 +14245,12 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "11756164": {
+      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -17613,6 +17661,18 @@
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11756088": {
+      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756089": {
+      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17954,6 +18014,7 @@
     "MONTALE NEPAL AOUD  EDP 100ML TESTER",
     "MONTALE PURE GOLD EDP 100ML TESTER",
     "MONTALE RED AOUD  EDP 100ML TESTER",
+    "MONTALE RENDEZ-VOUS Á PARIS EDP...",
     "MONTALE ROSES MUSK EDP 100M TESTER",
     "MONTALE SPICY AOUD EDP 100ML TESTER",
     "MONTALE STARRY NIGHTS EDP 100ML...",
@@ -18046,6 +18107,7 @@
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE CLUB EDP 125ML TESTER",
     "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
+    "SIMONE ANDREOLI ROSE OF DANGEROUS...",
     "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
     "SISLEY EAU DE CAMPAGNE EDT 100ML...",
     "SISLEY EAU DE SISLEY 2 EDT 100ML...",
