@@ -2777,6 +2777,18 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
+    },
+    "11546801": {
+      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
+      "precio": "77,82 €",
+      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11646570": {
+      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3220,7 +3232,7 @@
     },
     "11646570": {
       "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
-      "precio": "36,90 €",
+      "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
       "en_stock": true
     },
@@ -5212,7 +5224,7 @@
     },
     "11546801": {
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
-      "precio": "94,90 €",
+      "precio": "77,82 €",
       "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": true
     },
@@ -17985,6 +17997,7 @@
     "SALVATORE FERRAGAMO SIGNORINA...",
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE CLUB EDP 125ML TESTER",
+    "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
     "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
     "SISLEY EAU DE CAMPAGNE EDT 100ML...",
     "SISLEY EAU DE SISLEY 2 EDT 100ML...",
