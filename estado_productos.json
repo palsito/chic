@@ -1,5 +1,29 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "10265437": {
+      "nombre": "RALPH LAURENT RALPH´S CLUB PARFUM...",
+      "precio": "43,90 €",
+      "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11646570": {
+      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11546801": {
+      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
+      "precio": "77,82 €",
+      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
     "7472687": {
       "nombre": "MANDARINA DUCK BLACK EDT 100ML TESTER",
       "precio": "10,97 €",
@@ -1836,6 +1860,12 @@
       "url": "https://www.perfumeriaschic.com/p9794972-m-micallef-mon-parfum-gold-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "10475175": {
+      "nombre": "JIL SANDER SUN EDT 75ML TESTER",
+      "precio": "9,95 €",
+      "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
+      "en_stock": true
+    },
     "11421089": {
       "nombre": "DUSITA ERAWAN EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -2020,7 +2050,7 @@
       "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11357079-jil-sander-sun-men-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
@@ -2518,7 +2548,7 @@
       "nombre": "BRITNEY SPEARS FANTASY EDP 100ML...",
       "precio": "15,95 €",
       "url": "https://www.perfumeriaschic.com/p1987806-britney-spears-fantasy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11458275": {
       "nombre": "JO MALONE PEONY & BLUSH SUEDE...",
@@ -2772,24 +2802,6 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11546801": {
-      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
-      "precio": "77,82 €",
-      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "11646570": {
-      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
-      "en_stock": true
-    },
     "11756164": {
       "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
       "precio": "94,90 €",
@@ -2804,6 +2816,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756164": {
+      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
+    },
     "11756073": {
       "nombre": "ETRO VIA VERRI EDT 50ML TESTER",
       "precio": "38,90 €",
@@ -3214,7 +3238,7 @@
     },
     "10265437": {
       "nombre": "RALPH LAURENT RALPH´S CLUB PARFUM...",
-      "precio": "48,90 €",
+      "precio": "43,90 €",
       "url": "https://www.perfumeriaschic.com/p10265437-ralph-laurent-ralphs-club-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -6732,7 +6756,7 @@
       "nombre": "BRITNEY SPEARS FANTASY EDP 100ML...",
       "precio": "15,95 €",
       "url": "https://www.perfumeriaschic.com/p1987806-britney-spears-fantasy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10697538": {
       "nombre": "ROBERTO CAVALLI PARADISO EDP 75ML...",
@@ -10034,6 +10058,12 @@
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": true
     },
+    "10475175": {
+      "nombre": "JIL SANDER SUN EDT 75ML TESTER",
+      "precio": "9,95 €",
+      "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
+      "en_stock": true
+    },
     "10358706": {
       "nombre": "HUGO BOSS THE SCENT FOR HER LE...",
       "precio": "32,90 €",
@@ -11064,7 +11094,7 @@
       "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11357079-jil-sander-sun-men-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10650259": {
       "nombre": "MERCHANT OF VENICE LA FENICE POUR...",
@@ -14251,18 +14281,6 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "11756164": {
-      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -17875,6 +17893,7 @@
     "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
     "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
     "JESUS DEL POZO HALLOWEEN MY WORLD...",
+    "JIL SANDER SUN EDT 75ML TESTER",
     "JIMMY CHOO I WANT CHOO EDP 125ML...",
     "JIMMY CHOO I WANT CHOO FOREVER EDP...",
     "JIMMY CHOO MAN EDT 100ML TESTER",
