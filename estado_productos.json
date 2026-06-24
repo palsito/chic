@@ -1200,12 +1200,6 @@
       "url": "https://www.perfumeriaschic.com/p11739283-replica-maison-margiela-from-the-garden-eau-de-toilette-10ml.html",
       "en_stock": false
     },
-    "11740854": {
-      "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11544530": {
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
@@ -1810,7 +1804,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11285111": {
       "nombre": "ESCADA BRISA CUBANA EDT 100ML TESTER",
@@ -2800,6 +2794,12 @@
       "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
       "en_stock": true
     }
   },
@@ -10032,7 +10032,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10358706": {
       "nombre": "HUGO BOSS THE SCENT FOR HER LE...",
@@ -11706,7 +11706,7 @@
       "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11407996": {
       "nombre": "DKNY 24/7 EDP 100ML TESTER",
@@ -12192,7 +12192,7 @@
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10912292": {
       "nombre": "SISLEY L'EAU REVEE D´ISA EDT 100ML...",
@@ -12860,6 +12860,12 @@
       "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
       "en_stock": false
     },
+    "8220373": {
+      "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8220373-creed-original-santal-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "5922560": {
       "nombre": "ROCHAS MADEMOISELLE EDP 90ML TESTER",
       "precio": "36,90 €",
@@ -13075,6 +13081,12 @@
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11623821-frederic-malle-rose-cuir-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11692353": {
+      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
+      "en_stock": true
     },
     "2513724": {
       "nombre": "HUGO BOSS THE SCENT FOR HIM EDT...",
@@ -13920,7 +13932,7 @@
       "nombre": "CALVIN KLEIN CK EVERYONE EDP 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p10455116-calvin-klein-ck-everyone-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10895211": {
       "nombre": "MASQUE MILANO TANGO EDP 100ML TESTER",
@@ -13950,12 +13962,6 @@
       "nombre": "NIGHTOLOGY ROSE HARMONY EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662335-nightology-rose-harmony-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11740854": {
-      "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
       "en_stock": false
     },
     "11208168": {
@@ -14094,7 +14100,7 @@
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11645398-marc-antoine-barrois-aldelbaran-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11522088": {
       "nombre": "GUCCI GUILTY LOVE EDITION 2024 POUR...",
@@ -14250,6 +14256,12 @@
       "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
       "en_stock": true
     },
     "7782288": {
@@ -15752,7 +15764,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10888225": {
       "nombre": "CREED LOVE IN BLACK EDP 75ML TESTER",
@@ -16856,7 +16868,7 @@
       "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10618195": {
       "nombre": "ROSENDO MATEU 4 PERFUME 100ML (SIN...",
@@ -16960,6 +16972,12 @@
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
     },
+    "11692353": {
+      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11413173": {
       "nombre": "ORMONDE JAYNE ORMONDE MAN PARFUM...",
       "precio": "138,90 €",
@@ -17036,7 +17054,7 @@
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11609875": {
       "nombre": "TIZIANA TERENZI KIRKE EXTRAIT DE...",
@@ -17512,12 +17530,6 @@
       "url": "https://www.perfumeriaschic.com/p11744310-montale-oud-edition-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11740854": {
-      "nombre": "ROOM 1015 PURPLE MANTRA EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740854-room-1015-purple-mantra-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11426807": {
       "nombre": "XERJOFF UDEN OVERDOSE PARFUM 50ML...",
       "precio": "154,90 €",
@@ -17724,6 +17736,7 @@
     "BURBERRY HERO EDT 100ML TESTER",
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
+    "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
     "BYREDO BLANCHE EDP 100ML TESTER",
     "CACHAREL AMOR AMOR EDT 100ML TESTER",
     "CACHAREL YES I AM PINK FIRST EDP...",
@@ -17762,6 +17775,7 @@
     "COURRIEGUES C EDP 100ML",
     "CREED BOIS DU PORTUGAL EDP 100ML...",
     "CREED CARMINA EDP 75ML TESTER",
+    "CREED ORIGINAL SANTAL EDP 100ML...",
     "CREED ORIGINAL VETIVER EDP 100ML...",
     "CREED TABAROME EDP 100ML TESTER",
     "D.S.&DURGA AMBER KISO EDP 100ML...",
@@ -18107,6 +18121,7 @@
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE CLUB EDP 125ML TESTER",
     "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
+    "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
     "SIMONE ANDREOLI ROSE OF DANGEROUS...",
     "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
     "SISLEY EAU DE CAMPAGNE EDT 100ML...",
