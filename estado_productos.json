@@ -2816,6 +2816,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11355827": {
+      "nombre": "REMINISCENCE LE REM (REM) EDT...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11034762": {
+      "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "8220373": {
       "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
       "precio": "154,90 €",
@@ -17779,6 +17791,7 @@
     "CHLOE L´EAU DE PARFUM LUMINEUSE...",
     "CHLOE ROSE NATURELLE EDP INTENSE...",
     "COURRIEGUES C EDP 100ML",
+    "CREED AVENTUS FOR HER EDP 75ML TESTER",
     "CREED BOIS DU PORTUGAL EDP 100ML...",
     "CREED CARMINA EDP 75ML TESTER",
     "CREED ORIGINAL SANTAL EDP 100ML...",
@@ -18099,6 +18112,7 @@
     "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
     "REMINISCENCE LE PATCHOULI EDT...",
     "REMINISCENCE LE PATCHOULI ÉLIXIR EDP...",
+    "REMINISCENCE LE REM (REM) EDT...",
     "REMINISCENCE MUSC CHARNEL EDP 100ML...",
     "REMINISCENCE ROSE TENTATION EDP...",
     "REMINISCENCE SOUFFLE AMBRE EAU DE...",
