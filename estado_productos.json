@@ -2789,9 +2789,27 @@
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
       "en_stock": true
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11756073": {
+      "nombre": "ETRO VIA VERRI EDT 50ML TESTER",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756073-etro-via-verri-edt-50ml-tester.html",
+      "en_stock": true
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
     "10879617": {
       "nombre": "EL GANSO SUNDAY MOOD EDT 125ML TESTER",
       "precio": "19,90 €",
@@ -17565,6 +17583,36 @@
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
+    "11756078": {
+      "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756085": {
+      "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756085-montale-aoud-night-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756086": {
+      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756087": {
+      "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17603,6 +17651,7 @@
     "BOADICEA THE VICTORIOUS GLORIOUS EDP...",
     "BOIS 1920 CENTENARIO 100ML TESTER",
     "BOND NO.9 DUBAI PLATINUM EDP 100ML...",
+    "BOND NO.9 LIBERTY ISLAND EDP 50ML",
     "BOND NO.9 NY NEW HAARLEM EDP 100ML...",
     "BOND Nº9 CHELSEA NIGHTS EDP 100ML...",
     "BORTNIKOFF MOSS COLOGNE EAU DE...",
@@ -17641,6 +17690,7 @@
     "CARTHUSIA ARIA DI CAPRI EDP 100ML...",
     "CARTHUSIA ESSENCE OF THE PARK EAU DE...",
     "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
+    "CARTHUSIA GELSOMINI DI CAPRI EDP...",
     "CARTHUSIA IO CAPRI EDP 100ML TESTER",
     "CHABAUD CARAMELITO EDP 100ML TESTER",
     "CHABAUD MON TIRAMISÚ EDP 100ML TESTER",
@@ -17691,6 +17741,7 @@
     "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
     "ETRO GREENE STREET EDT 50ML TESTER",
     "ETRO SANDALO EDT 100ML TESTER",
+    "ETRO VIA VERRI EDT 50ML TESTER",
     "FRANCESCA BIANCHI UNDER MY SKIN...",
     "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
     "GIARDINI DI TOSCANA BIANCO LATTE...",
@@ -17882,8 +17933,10 @@
     "MONTALE AMBER MUSK EDP 100ML TESTER",
     "MONTALE AOUD LEATHER EDP 100ML TESTER",
     "MONTALE AOUD MUSK EDP 100ML TESTER",
+    "MONTALE AOUD NIGHT  EDP 100ML TESTER",
     "MONTALE AOUD SAFRAN  EDP 100ML TESTER",
     "MONTALE AQUA GOLD EDP 100ML TESTER",
+    "MONTALE AQUA PALMA  EDP 100ML TESTER",
     "MONTALE ARABIANS TONKA EDP 100ML...",
     "MONTALE BLACK AOUD EDP 100ML TESTER",
     "MONTALE BLUE AMBER EDP 100ML TESTER",
@@ -17897,6 +17950,7 @@
     "MONTALE INTENSE ROSES MUSK EXTRAIT...",
     "MONTALE INTENSE STARRY NIGHTS EDP...",
     "MONTALE INTENSE TIARE EDP 100ML...",
+    "MONTALE JASMIN FULL EDP 100ML TESTER",
     "MONTALE NEPAL AOUD  EDP 100ML TESTER",
     "MONTALE PURE GOLD EDP 100ML TESTER",
     "MONTALE RED AOUD  EDP 100ML TESTER",
