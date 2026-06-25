@@ -2820,7 +2820,7 @@
       "nombre": "REMINISCENCE LE REM (REM) EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11034762": {
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
@@ -14210,6 +14210,12 @@
       "url": "https://www.perfumeriaschic.com/p9600108-perris-monte-carlo-musk-exteme-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11323151": {
+      "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11323151-masque-milano-montecristo-eau-de-parfum-35ml-tester.html",
+      "en_stock": true
+    },
     "8198442": {
       "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
       "precio": "89,90 €",
@@ -17638,6 +17644,12 @@
       "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
+    "11323151": {
+      "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11323151-masque-milano-montecristo-eau-de-parfum-35ml-tester.html",
+      "en_stock": true
+    },
     "11695932": {
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
@@ -17990,6 +18002,7 @@
     "MARY KAY MINT BLISS ENERGIZING...",
     "MARY KAY TIMEWISE 4-IN-1 CLEANSER...",
     "MASQUE MILANO LOST ALICE EDP 100ML...",
+    "MASQUE MILANO MONTECRISTO EAU DE...",
     "MASQUE MILANO TANGO EDP 100ML TESTER",
     "MASQUE MILANO TERRALBA EDP 35ML...",
     "MASQUE MILANO TIMES SQUARE EDP 100ML...",
