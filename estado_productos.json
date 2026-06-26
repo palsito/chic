@@ -1,5 +1,41 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "10475175": {
+      "nombre": "JIL SANDER SUN EDT 75ML TESTER",
+      "precio": "9,95 €",
+      "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
+      "en_stock": true
+    },
+    "1987806": {
+      "nombre": "BRITNEY SPEARS FANTASY EDP 100ML...",
+      "precio": "15,95 €",
+      "url": "https://www.perfumeriaschic.com/p1987806-britney-spears-fantasy-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11357079": {
+      "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
+      "precio": "14,90 €",
+      "url": "https://www.perfumeriaschic.com/p11357079-jil-sander-sun-men-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11398016": {
+      "nombre": "ETAT LIBRE D´ORANGE JASMIN ET...",
+      "precio": "49,95 €",
+      "url": "https://www.perfumeriaschic.com/p11398016-etat-libre-dorange-jasmin-et-cigarette-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756164": {
+      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
+      "en_stock": true
+    },
+    "11650244": {
+      "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
+      "precio": "49,61 €",
+      "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
+      "en_stock": true
+    },
     "10265437": {
       "nombre": "RALPH LAURENT RALPH´S CLUB PARFUM...",
       "precio": "43,90 €",
@@ -11,12 +47,6 @@
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
       "en_stock": true
-    },
-    "11546801": {
-      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
-      "precio": "77,82 €",
-      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": false
     },
     "11756076": {
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
@@ -42,12 +72,6 @@
       "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
       "en_stock": true
     },
-    "11476796": {
-      "nombre": "REPLICA MAISON MARGIELA FROM THE...",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11476796-replica-maison-margiela-from-the-garden-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
-    },
     "5821807": {
       "nombre": "ANGEL SCHLESSER FEMME ADORABLE EDT...",
       "precio": "19,90 €",
@@ -60,10 +84,22 @@
       "url": "https://www.perfumeriaschic.com/p11527605-simone-andreoli-tulum-junglescape-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": true
     },
+    "11426814": {
+      "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
+      "precio": "132,91 €",
+      "url": "https://www.perfumeriaschic.com/p11426814-xerjoff-golden-moka-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "11712241": {
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
       "precio": "44,85 €",
       "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
+      "en_stock": true
+    },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": true
     },
     "8528528": {
@@ -78,10 +114,28 @@
       "url": "https://www.perfumeriaschic.com/p11650215-burberry-weekend-for-woman-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11526307": {
+      "nombre": "M. MICALLEF YLANG IN GOLD EDP 100ML...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526307-m-micallef-ylang-in-gold-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "11650234": {
       "nombre": "MASQUE MILANO TERRALBA EDP 35ML...",
       "precio": "49,61 €",
       "url": "https://www.perfumeriaschic.com/p11650234-masque-milano-terralba-edp-35ml-tester.html",
+      "en_stock": true
+    },
+    "8220232": {
+      "nombre": "M. MICALLEF OSAITO EDP 100ML TESTER",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p8220232-m-micallef-osaito-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10619411": {
+      "nombre": "ROSENDO MATEU INCENSE WOOD EDP 100ML",
+      "precio": "118,82 €",
+      "url": "https://www.perfumeriaschic.com/p10619411-rosendo-mateu-incense-wood-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11660082": {
@@ -118,6 +172,18 @@
       "nombre": "SHISEIDO GINZA MURASAKI EDP 90ML...",
       "precio": "49,95 €",
       "url": "https://www.perfumeriaschic.com/p10423501-shiseido-ginza-murasaki-edp-90ml-tester.html",
+      "en_stock": true
+    },
+    "11720842": {
+      "nombre": "MEMO PARIS FLAM EDP 75ML",
+      "precio": "114,75 €",
+      "url": "https://www.perfumeriaschic.com/p11720842-memo-paris-flam-edp-75ml.html",
+      "en_stock": true
+    },
+    "8231057": {
+      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
+      "precio": "29,96 €",
+      "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
       "en_stock": true
     },
     "10982501": {
@@ -600,12 +666,6 @@
       "url": "https://www.perfumeriaschic.com/p11665337-calvin-klein-ck-everyone-edt-200ml.html",
       "en_stock": true
     },
-    "11677002": {
-      "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
-      "precio": "34,99 €",
-      "url": "https://www.perfumeriaschic.com/p11677002-nabeel-tafaseel-luxus-edition-eau-de-parfum-100ml.html",
-      "en_stock": false
-    },
     "11676991": {
       "nombre": "NABEEL AREEJ LUXUS EDITION EAU DE...",
       "precio": "34,99 €",
@@ -743,12 +803,6 @@
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p10856776-dsquared2-two-wood-edt-100ml-tester.html",
       "en_stock": true
-    },
-    "11509078": {
-      "nombre": "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
-      "precio": "32,95 €",
-      "url": "https://www.perfumeriaschic.com/p11509078-rochas-eau-de-rochas-neroli-azur-edt-100ml-tester.html",
-      "en_stock": false
     },
     "11528763": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML TESTER",
@@ -1068,23 +1122,11 @@
       "url": "https://www.perfumeriaschic.com/p11675995-robert-piguet-oud-100ml-tester.html",
       "en_stock": true
     },
-    "11517806": {
-      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11712230": {
       "nombre": "MINIATURA VIKTOR & ROLF FLOWERBOMB...",
       "precio": "8,95 €",
       "url": "https://www.perfumeriaschic.com/p11712230-miniatura-viktor-rolf-flowerbomb-edp-7ml.html",
       "en_stock": true
-    },
-    "11366742": {
-      "nombre": "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
-      "precio": "98,91 €",
-      "url": "https://www.perfumeriaschic.com/p11366742-v-canto-isotta-extrait-de-parfum-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11172186": {
       "nombre": "DANIEL JOSIER TANGY CAPER EDP 100ML",
@@ -1212,12 +1254,6 @@
       "url": "https://www.perfumeriaschic.com/p11739241-replica-maison-margiela-under-the-lemon-trees-edt-100ml.html",
       "en_stock": true
     },
-    "11744363": {
-      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
-      "precio": "36,95 €",
-      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
-      "en_stock": false
-    },
     "11739283": {
       "nombre": "REPLICA MAISON MARGIELA FROM THE...",
       "precio": "14,90 €",
@@ -1236,23 +1272,11 @@
       "url": "https://www.perfumeriaschic.com/p11726265-filorga-ncef-revitalize-crema-polirevitalizante-reafirmante-50ml-tester.html",
       "en_stock": false
     },
-    "8231057": {
-      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
-      "precio": "29,96 €",
-      "url": "https://www.perfumeriaschic.com/p8231057-issey-miyake-fusion-de-issey-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "7292937": {
       "nombre": "PACO RABANNE ULTRAVIOLET EDP 80ML...",
       "precio": "33,95 €",
       "url": "https://www.perfumeriaschic.com/p7292937-paco-rabanne-ultraviolet-edp-80ml-tester.html",
       "en_stock": false
-    },
-    "11720842": {
-      "nombre": "MEMO PARIS FLAM EDP 75ML",
-      "precio": "114,75 €",
-      "url": "https://www.perfumeriaschic.com/p11720842-memo-paris-flam-edp-75ml.html",
-      "en_stock": true
     },
     "7431813": {
       "nombre": "MONTALE DARK PURPLE EDP 100ML TESTER",
@@ -1824,12 +1848,6 @@
       "url": "https://www.perfumeriaschic.com/p10879891-dusita-splendiris-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "11285111": {
       "nombre": "ESCADA BRISA CUBANA EDT 100ML TESTER",
       "precio": "29,84 €",
@@ -1859,12 +1877,6 @@
       "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p9794972-m-micallef-mon-parfum-gold-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "10475175": {
-      "nombre": "JIL SANDER SUN EDT 75ML TESTER",
-      "precio": "9,95 €",
-      "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
-      "en_stock": true
     },
     "11421089": {
       "nombre": "DUSITA ERAWAN EAU DE PARFUM 50ML...",
@@ -1925,12 +1937,6 @@
       "precio": "127,42 €",
       "url": "https://www.perfumeriaschic.com/p11433941-xerjoff-kemi-collection-ilm-parfum-50ml-tester.html",
       "en_stock": false
-    },
-    "11426814": {
-      "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
-      "precio": "132,91 €",
-      "url": "https://www.perfumeriaschic.com/p11426814-xerjoff-golden-moka-parfum-50ml-tester.html",
-      "en_stock": true
     },
     "11433823": {
       "nombre": "NISHANE TEMPFLUO EXTRAIT DE PARFUM...",
@@ -2046,12 +2052,6 @@
       "url": "https://www.perfumeriaschic.com/p11526350-dusita-montri-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11357079": {
-      "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
-      "precio": "14,90 €",
-      "url": "https://www.perfumeriaschic.com/p11357079-jil-sander-sun-men-edt-125ml-tester.html",
-      "en_stock": true
-    },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -2142,23 +2142,11 @@
       "url": "https://www.perfumeriaschic.com/p6854886-tous-man-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10619411": {
-      "nombre": "ROSENDO MATEU INCENSE WOOD EDP 100ML",
-      "precio": "118,82 €",
-      "url": "https://www.perfumeriaschic.com/p10619411-rosendo-mateu-incense-wood-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "10793027": {
       "nombre": "JIMMY CHOO ROSE PASSION EDP 100ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10793027-jimmy-choo-rose-passion-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "8220232": {
-      "nombre": "M. MICALLEF OSAITO EDP 100ML TESTER",
-      "precio": "109,90 €",
-      "url": "https://www.perfumeriaschic.com/p8220232-m-micallef-osaito-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11628030": {
       "nombre": "GUCCI RUSH EDT 75ML",
@@ -2544,12 +2532,6 @@
       "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "1987806": {
-      "nombre": "BRITNEY SPEARS FANTASY EDP 100ML...",
-      "precio": "15,95 €",
-      "url": "https://www.perfumeriaschic.com/p1987806-britney-spears-fantasy-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11458275": {
       "nombre": "JO MALONE PEONY & BLUSH SUEDE...",
       "precio": "32,95 €",
@@ -2562,23 +2544,11 @@
       "url": "https://www.perfumeriaschic.com/p11539611-hermes-tutti-twilly-eau-de-parfum-85ml.html",
       "en_stock": false
     },
-    "11398016": {
-      "nombre": "ETAT LIBRE D´ORANGE JASMIN ET...",
-      "precio": "49,95 €",
-      "url": "https://www.perfumeriaschic.com/p11398016-etat-libre-dorange-jasmin-et-cigarette-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10954016": {
       "nombre": "PALOMA PICASSO MINOTAURE POUR HOMME...",
       "precio": "15,94 €",
       "url": "https://www.perfumeriaschic.com/p10954016-paloma-picasso-minotaure-pour-homme-edt-75ml-tester.html",
       "en_stock": false
-    },
-    "11526307": {
-      "nombre": "M. MICALLEF YLANG IN GOLD EDP 100ML...",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526307-m-micallef-ylang-in-gold-edp-100ml-sin-caja.html",
-      "en_stock": true
     },
     "11418661": {
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
@@ -2675,12 +2645,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "11650244": {
-      "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
-      "precio": "49,61 €",
-      "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
-      "en_stock": true
     },
     "11719295": {
       "nombre": "FILORGA NCEF-REVERSE CREMA...",
@@ -2784,6 +2748,12 @@
       "url": "https://www.perfumeriaschic.com/p10240052-etro-sandalo-edt-100ml-tester.html",
       "en_stock": false
     },
+    "10879863": {
+      "nombre": "XERJOFF COFEE BREAK GOLDEN DALLAH...",
+      "precio": "134,76 €",
+      "url": "https://www.perfumeriaschic.com/p10879863-xerjoff-cofee-break-golden-dallah-parfum-50ml-tester.html",
+      "en_stock": false
+    },
     "9600108": {
       "nombre": "PERRIS MONTE CARLO MUSK EXTEME EDP...",
       "precio": "72,85 €",
@@ -2796,16 +2766,52 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11756164": {
-      "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
-      "en_stock": true
-    },
     "11756165": {
       "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
+      "en_stock": false
+    },
+    "11546801": {
+      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
+      "precio": "77,82 €",
+      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": false
+    },
+    "11476796": {
+      "nombre": "REPLICA MAISON MARGIELA FROM THE...",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11476796-replica-maison-margiela-from-the-garden-eau-de-toilette-100ml-tester.html",
+      "en_stock": false
+    },
+    "11677002": {
+      "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
+      "precio": "34,99 €",
+      "url": "https://www.perfumeriaschic.com/p11677002-nabeel-tafaseel-luxus-edition-eau-de-parfum-100ml.html",
+      "en_stock": false
+    },
+    "11509078": {
+      "nombre": "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11509078-rochas-eau-de-rochas-neroli-azur-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11517806": {
+      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11366742": {
+      "nombre": "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
+      "precio": "98,91 €",
+      "url": "https://www.perfumeriaschic.com/p11366742-v-canto-isotta-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11744363": {
+      "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
+      "precio": "36,95 €",
+      "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
       "en_stock": false
     }
   },
@@ -14452,6 +14458,72 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11756088": {
+      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756087": {
+      "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756086": {
+      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756085": {
+      "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756085-montale-aoud-night-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756078": {
+      "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
+    "11611642": {
+      "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
+      "precio": "166,95 €",
+      "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11650244": {
+      "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
+      "precio": "49,61 €",
+      "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
+      "en_stock": true
+    },
+    "11692353": {
+      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "11671517": {
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
       "precio": "164,90 €",
@@ -14584,12 +14656,6 @@
       "url": "https://www.perfumeriaschic.com/p11379211-chabaud-lait-de-biscuit-edt-100ml-tester.html",
       "en_stock": true
     },
-    "11664301": {
-      "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
-      "precio": "74,95 €",
-      "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11664027": {
       "nombre": "MANCERA INTENSE INSTANT CRUSH  EDP...",
       "precio": "99,90 €",
@@ -14661,12 +14727,6 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11398380-carner-barcelona-rock-star-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11406860": {
-      "nombre": "MONTALE FULL INCENSE EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11406860-montale-full-inciense-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11450288": {
       "nombre": "MONTALE PURE LOVE EDP 100ML TESTER",
@@ -14775,12 +14835,6 @@
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744261-mancera-precious-oud-edp-120ml-tester.html",
       "en_stock": true
-    },
-    "11366742": {
-      "nombre": "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
-      "precio": "98,91 €",
-      "url": "https://www.perfumeriaschic.com/p11366742-v-canto-isotta-extrait-de-parfum-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11507338": {
       "nombre": "OFFICINA DELLE ESSENZE  PURO LINO...",
@@ -15112,12 +15166,6 @@
       "url": "https://www.perfumeriaschic.com/p11561226-hfc-fly-to-miracle-eau-de-parfum-75ml-tester.html",
       "en_stock": true
     },
-    "11677983": {
-      "nombre": "REPLICA MAISON MARGIELA AUTUMN VIBES...",
-      "precio": "76,90 €",
-      "url": "https://www.perfumeriaschic.com/p11677983-replica-maison-margiela-autumn-vibes-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
-    },
     "11398358": {
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
@@ -15166,12 +15214,6 @@
       "url": "https://www.perfumeriaschic.com/p11683687-nishane-shinanay-30ml-tester.html",
       "en_stock": true
     },
-    "11677002": {
-      "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
-      "precio": "34,99 €",
-      "url": "https://www.perfumeriaschic.com/p11677002-nabeel-tafaseel-luxus-edition-eau-de-parfum-100ml.html",
-      "en_stock": false
-    },
     "11366724": {
       "nombre": "BOIS 1920 OLTREMARE EAU DE PARFUM...",
       "precio": "84,90 €",
@@ -15207,12 +15249,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11704505-eight-bob-pure-vienne-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11664033": {
-      "nombre": "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11664033-d-s-durga-notorious-oud-edp-50ml-tester.html",
-      "en_stock": false
     },
     "11664088": {
       "nombre": "V CANTO POSI EAU DE PARFUM 100ML...",
@@ -15777,12 +15813,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11244303-tom-ford-costa-azzurra-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": true
     },
     "10888225": {
       "nombre": "CREED LOVE IN BLACK EDP 75ML TESTER",
@@ -16882,12 +16912,6 @@
       "url": "https://www.perfumeriaschic.com/p11664537-montale-herbal-aquatica-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11672010": {
-      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10618195": {
       "nombre": "ROSENDO MATEU 4 PERFUME 100ML (SIN...",
       "precio": "107,91 €",
@@ -16989,12 +17013,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
-    },
-    "11692353": {
-      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11413173": {
       "nombre": "ORMONDE JAYNE ORMONDE MAN PARFUM...",
@@ -17374,12 +17392,6 @@
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11650244": {
-      "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
-      "precio": "49,61 €",
-      "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
-      "en_stock": true
-    },
     "10913383": {
       "nombre": "MONTALE BLUE AMBER EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -17632,12 +17644,6 @@
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11611642": {
-      "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
-      "precio": "166,95 €",
-      "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11323151": {
       "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
       "precio": "64,90 €",
@@ -17668,47 +17674,41 @@
       "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+    "11406860": {
+      "nombre": "MONTALE FULL INCENSE EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11406860-montale-full-inciense-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11366742": {
+      "nombre": "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
+      "precio": "98,91 €",
+      "url": "https://www.perfumeriaschic.com/p11366742-v-canto-isotta-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11677983": {
+      "nombre": "REPLICA MAISON MARGIELA AUTUMN VIBES...",
+      "precio": "76,90 €",
+      "url": "https://www.perfumeriaschic.com/p11677983-replica-maison-margiela-autumn-vibes-eau-de-toilette-100ml-tester.html",
+      "en_stock": false
+    },
+    "11677002": {
+      "nombre": "NABEEL TAFASEEL LUXUS EDITION EAU DE...",
+      "precio": "34,99 €",
+      "url": "https://www.perfumeriaschic.com/p11677002-nabeel-tafaseel-luxus-edition-eau-de-parfum-100ml.html",
+      "en_stock": false
+    },
+    "11664033": {
+      "nombre": "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
       "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
-      "en_stock": true
+      "url": "https://www.perfumeriaschic.com/p11664033-d-s-durga-notorious-oud-edp-50ml-tester.html",
+      "en_stock": false
     },
-    "11756078": {
-      "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756085": {
-      "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756085-montale-aoud-night-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756086": {
-      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756087": {
-      "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756088": {
-      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11756089": {
-      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
-      "en_stock": true
+    "11664301": {
+      "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
+      "precio": "74,95 €",
+      "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
+      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
@@ -18204,6 +18204,7 @@
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
     "XERJOFF CASAMORATI MEFISTO...",
+    "XERJOFF COFEE BREAK GOLDEN DALLAH...",
     "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
     "XERJOFF CRUZ DEL SUR II 50ML TESTER",
     "XERJOFF ERBA PURA EDP 100ML TESTER",
