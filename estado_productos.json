@@ -13596,7 +13596,7 @@
       "nombre": "MOLINARD HABANITA L´ESPRIT EAU DE...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10011299-molinard-habanita-lsprit-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544531": {
       "nombre": "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
@@ -13670,6 +13670,12 @@
       "url": "https://www.perfumeriaschic.com/p1996848-burberry-my-burberry-edp-90ml-tester.html",
       "en_stock": false
     },
+    "11747900": {
+      "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "7315787": {
       "nombre": "ACQUA DI PARMA COLONIA INTENSA EDC...",
       "precio": "58,90 €",
@@ -13710,7 +13716,7 @@
       "nombre": "VALENTINO DONNA BORN IN ROMA CORAL...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11746662-valentino-donna-born-in-roma-coral-fantasy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11746273": {
       "nombre": "YVES SAINT LAURENT LIBRE FLOWERS &...",
@@ -14162,6 +14168,12 @@
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11658959": {
+      "nombre": "XERJOFF CORO EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11658959-xerjoff-coro-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "8535253": {
       "nombre": "MANCERA BLACK INTENSITIVE AOUD EDP...",
       "precio": "68,90 €",
@@ -14286,7 +14298,7 @@
       "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -14458,6 +14470,12 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11756089": {
+      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11756088": {
       "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
       "precio": "78,90 €",
@@ -14816,6 +14834,12 @@
       "nombre": "MONTALE ORANGE AOUD EDP 100ML TESTER",
       "precio": "68,89 €",
       "url": "https://www.perfumeriaschic.com/p11606566-montale-orange-aoud-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11658959": {
+      "nombre": "XERJOFF CORO EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11658959-xerjoff-coro-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11407992": {
@@ -17132,7 +17156,7 @@
       "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650237": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100ML...",
@@ -17493,6 +17517,12 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
       "en_stock": false
+    },
+    "11747900": {
+      "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
     },
     "11744363": {
       "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
@@ -18206,6 +18236,7 @@
     "XERJOFF CASAMORATI MEFISTO...",
     "XERJOFF COFEE BREAK GOLDEN DALLAH...",
     "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
+    "XERJOFF CORO EDP 100ML TESTER",
     "XERJOFF CRUZ DEL SUR II 50ML TESTER",
     "XERJOFF ERBA PURA EDP 100ML TESTER",
     "XERJOFF MORE THAN WORDS EDP 100ML...",
