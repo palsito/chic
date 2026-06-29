@@ -96,12 +96,6 @@
       "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
       "en_stock": true
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "8528528": {
       "nombre": "SHISEIDO GINZA EDP 90ML TESTER",
       "precio": "49,95 €",
@@ -582,12 +576,6 @@
       "url": "https://www.perfumeriaschic.com/p11510309-4711-acqua-colonia-collection-absolue-majestic-leather-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11660125": {
-      "nombre": "MARY KAY TIMEWISE REPAIR VOLU-FIRM...",
-      "precio": "21,60 €",
-      "url": "https://www.perfumeriaschic.com/p11660125-mary-kay-timewise-repair-volu-firm-eyes-crema-renovadora-para-ojos-14ml.html",
-      "en_stock": true
-    },
     "11660119": {
       "nombre": "MARY KAY TIMEWISE EYE CREAM CREMA...",
       "precio": "18,90 €",
@@ -970,12 +958,6 @@
       "nombre": "STARCK PARIS PEAU DE PIERRE EDT 90ML...",
       "precio": "29,18 €",
       "url": "https://www.perfumeriaschic.com/p11399025-starck-paris-peau-de-pierre-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "9794979": {
-      "nombre": "STARCK PARIS PEAU DE AILLEURS EDT...",
-      "precio": "29,18 €",
-      "url": "https://www.perfumeriaschic.com/p9794979-starck-paris-peau-de-ailleurs-edt-40ml.html",
       "en_stock": true
     },
     "11316751": {
@@ -2322,12 +2304,6 @@
       "url": "https://www.perfumeriaschic.com/p10912291-sisley-leau-revee-dalma-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10619347": {
-      "nombre": "HACKETT ESSENTIAL EDP 100ML TESTER",
-      "precio": "24,78 €",
-      "url": "https://www.perfumeriaschic.com/p10619347-hackett-essential-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "5338683": {
       "nombre": "ROCHAS MOUSTACHE EDP 125ML TESTER",
       "precio": "34,94 €",
@@ -2812,6 +2788,12 @@
       "nombre": "NISHANE TUBEROZA HAIR PERFUME PARA...",
       "precio": "36,95 €",
       "url": "https://www.perfumeriaschic.com/p11744363-nishane-tuberoza-hair-perfume-para-el-cabello-50ml.html",
+      "en_stock": false
+    },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": false
     }
   },
