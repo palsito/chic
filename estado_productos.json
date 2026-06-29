@@ -2718,12 +2718,6 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
-    },
     "11546801": {
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
       "precio": "77,82 €",
@@ -2857,12 +2851,6 @@
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11645398-marc-antoine-barrois-aldelbaran-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
     },
     "11756164": {
       "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
@@ -12164,6 +12152,12 @@
       "url": "https://www.perfumeriaschic.com/p7828764-perris-monte-carlo-tubereuse-absolue-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11651459": {
+      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11387251": {
       "nombre": "GUCCI FLORA GORGEOUS JASMINE EDP...",
       "precio": "49,90 €",
@@ -15238,6 +15232,12 @@
       "url": "https://www.perfumeriaschic.com/p11704505-eight-bob-pure-vienne-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11651459": {
+      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11664088": {
       "nombre": "V CANTO POSI EAU DE PARFUM 100ML...",
       "precio": "148,49 €",
@@ -17826,6 +17826,7 @@
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
     "ESCADA JOYFUL EDP 75ML TESTER",
     "ESCADA PARTY LOVE LIMITED EDITION...",
+    "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
     "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
     "ETAT LIBRE D´ORANGE HERMANN A MES...",
     "ETAT LIBRE D´ORANGE JASMIN ET...",
