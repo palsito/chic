@@ -2482,7 +2482,7 @@
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
       "precio": "56,90 €",
       "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11458275": {
       "nombre": "JO MALONE PEONY & BLUSH SUEDE...",
@@ -3066,7 +3066,7 @@
       "nombre": "PERRIS MONTE CARLO LAVANDE ROMAINE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8338271-perris-monte-carlo-lavande-romaine-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11398016": {
       "nombre": "ETAT LIBRE D´ORANGE JASMIN ET...",
@@ -8064,7 +8064,7 @@
       "nombre": "HOUBIGANT MON BOUDOIR EDP 100ML...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p10884023-houbigant-mon-boudoir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9171411": {
       "nombre": "ESCADA SUMMER FESTIVAL EDT 100ML...",
@@ -12456,7 +12456,7 @@
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
       "precio": "56,90 €",
       "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11530842": {
       "nombre": "MERCHANT OF VENICE ROSA MOCENIGA...",
@@ -13147,6 +13147,12 @@
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10890231-ralph-lauren-polo-blue-parfum-125ml-tester.html",
       "en_stock": false
+    },
+    "11545200": {
+      "nombre": "DONNA KARAN CASHMERE & PALO SANTO...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11545200-donna-karan-cashmere-palo-santo-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11368247": {
       "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
@@ -14274,7 +14280,13 @@
       "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
+    },
+    "11757502": {
+      "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
+      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -14576,7 +14588,7 @@
       "nombre": "PERRIS MONTE CARLO LAVANDE ROMAINE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8338271-perris-monte-carlo-lavande-romaine-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11664531": {
       "nombre": "MONTALE INTENSE PEPPER EDP 100ML...",
@@ -15584,7 +15596,7 @@
       "nombre": "HOUBIGANT MON BOUDOIR EDP 100ML...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p10884023-houbigant-mon-boudoir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10880489": {
       "nombre": "NISHANE NANSHE EXTRAIT DE PARFUM...",
@@ -17108,7 +17120,7 @@
       "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650237": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100ML...",
@@ -17703,6 +17715,12 @@
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11757502": {
+      "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17811,6 +17829,7 @@
     "DIESEL FUEL FOR LIFE POUR HOMME EDT...",
     "DIESEL ONLY THE BRAVE TATTOO EDT...",
     "DKNY BE DELICIOUS LATTE VANILLA EDP...",
+    "DONNA KARAN CASHMERE & PALO SANTO...",
     "DUSITA LE SILLAGE BLANC EAU DE...",
     "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
     "EIGHT & BOB PURE VIENNE EDP 100ML...",
@@ -17826,6 +17845,7 @@
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
     "ESCADA JOYFUL EDP 75ML TESTER",
     "ESCADA PARTY LOVE LIMITED EDITION...",
+    "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
     "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
     "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
     "ETAT LIBRE D´ORANGE HERMANN A MES...",
