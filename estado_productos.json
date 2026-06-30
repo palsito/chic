@@ -14018,17 +14018,11 @@
       "url": "https://www.perfumeriaschic.com/p11756073-etro-via-verri-edt-50ml-tester.html",
       "en_stock": true
     },
-    "11651459": {
-      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11757502": {
       "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
@@ -15231,12 +15225,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11704505-eight-bob-pure-vienne-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11651459": {
-      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11664088": {
       "nombre": "V CANTO POSI EAU DE PARFUM 100ML...",
@@ -17708,7 +17696,7 @@
       "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
