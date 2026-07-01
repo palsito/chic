@@ -2810,6 +2810,30 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "7254327": {
+      "nombre": "PERRIS MONTE CARLO ABSOLUE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p7254327-perris-monte-carlo-absolue-dosmanthe-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "8152325": {
+      "nombre": "PERRIS MONTE CARLO JASMIN DE PAYS...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p8152325-perris-monte-carlo-jasmin-de-pays-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7803846": {
+      "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
+      "precio": "67,43 €",
+      "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11678490": {
+      "nombre": "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11678490-perris-monte-carlo-tubereuse-absolue-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "11440614": {
       "nombre": "TOUS ELECTROTOUCH EAU DE PARFUM...",
       "precio": "34,23 €",
@@ -3056,12 +3080,6 @@
       "url": "https://www.perfumeriaschic.com/p11675519-essential-parfums-velvet-iris-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10681633": {
-      "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
-      "precio": "56,90 €",
-      "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10934430": {
       "nombre": "HERMES TWILLY TUTTI EDP 85ML TESTER",
       "precio": "54,90 €",
@@ -3091,12 +3109,6 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10642770-kenzo-pour-homme-edt-110ml-tester.html",
       "en_stock": true
-    },
-    "11545200": {
-      "nombre": "DONNA KARAN CASHMERE & PALO SANTO...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11545200-donna-karan-cashmere-palo-santo-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11312144": {
       "nombre": "XERJOFF TORINO 22 EDP 50ML TESTER",
@@ -3380,12 +3392,6 @@
       "url": "https://www.perfumeriaschic.com/p11561326-montale-vanilla-extasy-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11424257": {
-      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11450326": {
       "nombre": "MONTALE SWEET VANILLA EDP 100ML...",
       "precio": "74,90 €",
@@ -3494,23 +3500,11 @@
       "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11424232": {
-      "nombre": "MONTALE INFINITY EDP 100ML TESTER",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424232-montale-infinity-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11450288": {
       "nombre": "MONTALE PURE LOVE EDP 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11450288-montale-pure-love-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "10913492": {
-      "nombre": "MANCERA AMBER FEVER EDP 120ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p10913492-mancera-amber-fever-edp-120ml-tester.html",
-      "en_stock": false
     },
     "11398380": {
       "nombre": "CARNER BARCELONA ROCK STAR EDP 100ML...",
@@ -3788,12 +3782,6 @@
       "url": "https://www.perfumeriaschic.com/p11415165-miniatura-kenzo-flower-ikebana-edp-4ml.html",
       "en_stock": true
     },
-    "11734507": {
-      "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "5883343": {
       "nombre": "GIVENCHY GENTLEMAN EDT 100ML TESTER",
       "precio": "39,90 €",
@@ -3841,12 +3829,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
       "en_stock": true
-    },
-    "10265603": {
-      "nombre": "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p10265603-loewe-esencia-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
     },
     "11744261": {
       "nombre": "MANCERA PRECIOUS OUD EDP 120ML TESTER",
@@ -10742,12 +10724,6 @@
       "url": "https://www.perfumeriaschic.com/p11514273-haute-fragrance-company-indian-venus-eau-de-parfum-75ml-sin-caja.html",
       "en_stock": false
     },
-    "7254327": {
-      "nombre": "PERRIS MONTE CARLO ABSOLUE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p7254327-perris-monte-carlo-absolue-dosmanthe-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "10103566": {
       "nombre": "FRANCESCA BIANCHI LOVER´S TALE...",
       "precio": "64,90 €",
@@ -11336,12 +11312,6 @@
       "url": "https://www.perfumeriaschic.com/p8202586-perris-monte-carlo-santal-du-pacifique-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "8152325": {
-      "nombre": "PERRIS MONTE CARLO JASMIN DE PAYS...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8152325-perris-monte-carlo-jasmin-de-pays-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11544675": {
       "nombre": "OLFACTIVE STUDIO OMBRE INDIGO EDP...",
       "precio": "84,90 €",
@@ -11407,12 +11377,6 @@
       "precio": "59,94 €",
       "url": "https://www.perfumeriaschic.com/p11509094-4711-acqua-colonia-collection-absolue-vibrant-musk-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "7803846": {
-      "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
-      "precio": "67,43 €",
-      "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
-      "en_stock": true
     },
     "11509093": {
       "nombre": "4711 ACQUA COLONIA COLLECTION...",
@@ -12884,12 +12848,6 @@
       "url": "https://www.perfumeriaschic.com/p11704493-carthusia-aria-di-capri-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11678490": {
-      "nombre": "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11678490-perris-monte-carlo-tubereuse-absolue-extrait-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
     "10613143": {
       "nombre": "BOUCHERON SINGULIER POUR HOMME EDP...",
       "precio": "29,90 €",
@@ -14274,6 +14232,48 @@
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
       "precio": "77,82 €",
       "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": false
+    },
+    "10681633": {
+      "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
+      "precio": "56,90 €",
+      "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11545200": {
+      "nombre": "DONNA KARAN CASHMERE & PALO SANTO...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11545200-donna-karan-cashmere-palo-santo-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11424257": {
+      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11424232": {
+      "nombre": "MONTALE INFINITY EDP 100ML TESTER",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424232-montale-infinity-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "10913492": {
+      "nombre": "MANCERA AMBER FEVER EDP 120ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p10913492-mancera-amber-fever-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11734507": {
+      "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "10265603": {
+      "nombre": "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p10265603-loewe-esencia-eau-de-toilette-100ml-tester.html",
       "en_stock": false
     },
     "7782288": {
