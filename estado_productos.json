@@ -2224,7 +2224,7 @@
       "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
       "precio": "67,43 €",
       "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7653696": {
       "nombre": "JEAN PAUL GAULTIER LE BEAU EDT 75ML",
@@ -2405,6 +2405,12 @@
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p9169130-gucci-guilty-eau-de-parfum-pour-homme-edt-90ml-tester.html",
       "en_stock": false
+    },
+    "11678490": {
+      "nombre": "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11678490-perris-monte-carlo-tubereuse-absolue-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
     },
     "8571592": {
       "nombre": "JULIETTE HAS A GUN PEAR INC EDP...",
@@ -10746,7 +10752,7 @@
       "nombre": "PERRIS MONTE CARLO ABSOLUE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7254327-perris-monte-carlo-absolue-dosmanthe-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10103566": {
       "nombre": "FRANCESCA BIANCHI LOVER´S TALE...",
@@ -11340,7 +11346,7 @@
       "nombre": "PERRIS MONTE CARLO JASMIN DE PAYS...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8152325-perris-monte-carlo-jasmin-de-pays-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544675": {
       "nombre": "OLFACTIVE STUDIO OMBRE INDIGO EDP...",
@@ -11412,7 +11418,7 @@
       "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
       "precio": "67,43 €",
       "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11509093": {
       "nombre": "4711 ACQUA COLONIA COLLECTION...",
@@ -12883,6 +12889,12 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11704493-carthusia-aria-di-capri-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11678490": {
+      "nombre": "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11678490-perris-monte-carlo-tubereuse-absolue-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
     },
     "10613143": {
       "nombre": "BOUCHERON SINGULIER POUR HOMME EDP...",
@@ -18106,6 +18118,7 @@
     "PERRIS MONTE CARLO OUD IMPERIAL EDP...",
     "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
     "PERRIS MONTE CARLO ROSE DE MAI EDP...",
+    "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
     "PERRIS MONTE CARLO YLANG YLANG NOSY...",
     "POLICE TO BE ART TATOO MEN EDT 125ML...",
     "POLO RALPH LAURENT RALP´S CLUB NEW...",
