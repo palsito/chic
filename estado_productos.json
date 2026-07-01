@@ -3470,12 +3470,6 @@
       "url": "https://www.perfumeriaschic.com/p9176449-mancera-wild-leather-edp-120ml-tester.html",
       "en_stock": true
     },
-    "8338271": {
-      "nombre": "PERRIS MONTE CARLO LAVANDE ROMAINE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8338271-perris-monte-carlo-lavande-romaine-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "11398016": {
       "nombre": "ETAT LIBRE D´ORANGE JASMIN ET...",
       "precio": "49,95 €",
@@ -3504,7 +3498,7 @@
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11424232-montale-infinity-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11450288": {
       "nombre": "MONTALE PURE LOVE EDP 100ML TESTER",
@@ -14577,12 +14571,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11380819-montale-intense-roses-musk-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "8338271": {
-      "nombre": "PERRIS MONTE CARLO LAVANDE ROMAINE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8338271-perris-monte-carlo-lavande-romaine-edp-100ml-sin-caja.html",
-      "en_stock": false
     },
     "11664531": {
       "nombre": "MONTALE INTENSE PEPPER EDP 100ML...",
