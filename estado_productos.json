@@ -13190,6 +13190,12 @@
       "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
+    "11745927": {
+      "nombre": "CAROLINA HERRERA 212 MEN NYC PARFUM...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11745927-carolina-herrera-212-men-nyc-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11746651": {
       "nombre": "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
       "precio": "68,90 €",
@@ -13724,12 +13730,6 @@
       "url": "https://www.perfumeriaschic.com/p7189706-atkinsons-oud-save-the-queen-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11754013": {
-      "nombre": "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754013-roberto-cavalli-verde-assoluto-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "7664196": {
       "nombre": "ANNICK GOUTAL TENUE DE SOIREE EDP...",
       "precio": "79,90 €",
@@ -13800,12 +13800,6 @@
       "nombre": "PACO RABANNE OLYMPEA FLORA EDP...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10883485-paco-rabanne-olympea-flora-edp-intense-80ml-tester.html",
-      "en_stock": false
-    },
-    "11754009": {
-      "nombre": "LACOSTE ORIGINAL ACQUA EAU DE PARFUM...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754009-lacoste-original-acqua-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
     "10298473": {
@@ -13932,7 +13926,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4743256": {
       "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
@@ -13988,28 +13982,10 @@
       "url": "https://www.perfumeriaschic.com/p11756073-etro-via-verri-edt-50ml-tester.html",
       "en_stock": true
     },
-    "11757502": {
-      "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11756088": {
-      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11756089": {
-      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
       "en_stock": false
     },
     "11384385": {
@@ -14088,12 +14064,6 @@
       "nombre": "NIGHTOLOGY ENIGMATIC SOUL EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662327-nightology-enigmatic-soul-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11754015": {
-      "nombre": "DAVIDOFF COOL ELIXIR SAFRAN MINERAL...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754015-davidoff-cool-elixir-safran-mineral-eau-de-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
     "11527605": {
@@ -14281,6 +14251,12 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10265603-loewe-esencia-eau-de-toilette-100ml-tester.html",
       "en_stock": false
+    },
+    "7355413": {
+      "nombre": "RALPH LAUREN POLO BLUE GOLD BLEND...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7355413-ralph-laurent-polo-blue-gold-blend-edp-125ml-tester.html",
+      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -17686,28 +17662,10 @@
       "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11756089": {
-      "nombre": "MONTALE ROSE NIGHT EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756089-montale-rose-night-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11756088": {
-      "nombre": "MONTALE RENDEZ-VOUS Á PARIS EDP...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756088-montale-rendez-vous-a-paris-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11757502": {
-      "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11757502-essential-parfums-bois-imperial-edp-100ml-tester.html",
       "en_stock": false
     }
   },
@@ -18124,6 +18082,7 @@
     "POLO RALPH LAURENT RALP´S CLUB NEW...",
     "PRADA CANDY SUGAR POP EDP 50ML",
     "RALPH LAUREN POLO BLUE EDP 125ML...",
+    "RALPH LAUREN POLO BLUE GOLD BLEND...",
     "RALPH LAUREN POLO BLUE PARFUM 125ML...",
     "RALPH LAUREN POLO EST.67 EAU DE...",
     "RALPH LAURENT BIG PONY WOMAN N2 EDT...",
