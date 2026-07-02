@@ -872,7 +872,7 @@
     },
     "11529795": {
       "nombre": "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
-      "precio": "127,42 €",
+      "precio": "104,93 €",
       "url": "https://www.perfumeriaschic.com/p11529795-jeroboam-origino-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -1070,7 +1070,7 @@
     },
     "11675995": {
       "nombre": "ROBERT PIGUET OUD 100ML TESTER",
-      "precio": "94,41 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11675995-robert-piguet-oud-100ml-tester.html",
       "en_stock": true
     },
@@ -1248,6 +1248,12 @@
       "url": "https://www.perfumeriaschic.com/p8945971-juliette-has-a-gun-anyway-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11529796": {
+      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11416590": {
       "nombre": "THAMEEN CARVED OUD EDP 50ML TESTER",
       "precio": "109,95 €",
@@ -1258,7 +1264,7 @@
       "nombre": "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
       "precio": "127,42 €",
       "url": "https://www.perfumeriaschic.com/p11520669-jeroboam-vespero-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10619351": {
       "nombre": "DAVIDOFF COOL WATER  MEN PARFUM...",
@@ -2807,6 +2813,12 @@
       "precio": "54,95 €",
       "url": "https://www.perfumeriaschic.com/p11648829-botanicae-shomal-eau-de-parfum-100ml.html",
       "en_stock": false
+    },
+    "11741000": {
+      "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
+      "precio": "84,95 €",
+      "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3928,7 +3940,7 @@
     },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
-      "precio": "98,90 €",
+      "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     },
@@ -4558,7 +4570,7 @@
     },
     "11675995": {
       "nombre": "ROBERT PIGUET OUD 100ML TESTER",
-      "precio": "94,41 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11675995-robert-piguet-oud-100ml-tester.html",
       "en_stock": true
     },
@@ -5158,7 +5170,7 @@
     },
     "11529795": {
       "nombre": "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
-      "precio": "127,42 €",
+      "precio": "104,93 €",
       "url": "https://www.perfumeriaschic.com/p11529795-jeroboam-origino-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -11516,6 +11528,12 @@
       "url": "https://www.perfumeriaschic.com/p11426923-atkinsons-the-other-side-of-oud-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11675996": {
+      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
+      "en_stock": true
+    },
     "11606605": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
       "precio": "109,90 €",
@@ -11545,6 +11563,12 @@
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p10913391-mancera-aoud-exclusif-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11675997": {
+      "nombre": "ROBERT PIGUET BANDIT 100ML TESTER",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675997-robert-piguet-bandit-100ml-tester.html",
+      "en_stock": true
     },
     "10912291": {
       "nombre": "SISLEY L'EAU REVEE D'ALMA EDT 100ML...",
@@ -13632,7 +13656,13 @@
       "nombre": "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
       "precio": "127,42 €",
       "url": "https://www.perfumeriaschic.com/p11520669-jeroboam-vespero-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
+    },
+    "11529796": {
+      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
     },
     "9352376": {
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
@@ -13818,12 +13848,6 @@
       "nombre": "REMINISCENCE LE PATCHOULI EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355815-reminiscence-le-patchouli-patchouli-edt-intense-100ml-tester.html",
-      "en_stock": false
-    },
-    "11740998": {
-      "nombre": "JOVOY FIRE AT WILL EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
       "en_stock": false
     },
     "11522088": {
@@ -14808,7 +14832,7 @@
     },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
-      "precio": "98,90 €",
+      "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     },
@@ -15282,7 +15306,7 @@
     },
     "11529795": {
       "nombre": "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
-      "precio": "127,42 €",
+      "precio": "104,93 €",
       "url": "https://www.perfumeriaschic.com/p11529795-jeroboam-origino-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -17530,11 +17554,17 @@
       "url": "https://www.perfumeriaschic.com/p11728172-histoires-de-parfums-tubereuse-nuit-blanche-edp-120ml-tester.html",
       "en_stock": false
     },
+    "11529796": {
+      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11520669": {
       "nombre": "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
       "precio": "127,42 €",
       "url": "https://www.perfumeriaschic.com/p11520669-jeroboam-vespero-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412344": {
       "nombre": "MONTALE CRAZY IN LOVE EDP 100ML...",
@@ -17594,12 +17624,6 @@
       "nombre": "JULIETTE HAS A GUN VANILLA VIBES ...",
       "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11740998": {
-      "nombre": "JOVOY FIRE AT WILL EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
       "en_stock": false
     },
     "11323151": {
@@ -17873,6 +17897,7 @@
     "JIMMY CHOO MAN ICE EAU DE TOILETTE...",
     "JOOP HOMME EDT 125ML TESTER",
     "JOVOY FIRE AT WILL EDP 75ML TESTER",
+    "JOVOY PRIVATE LABEL EDP 75ML TESTER",
     "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
     "JUICY COUTURE VIVA LA JUICY EDP...",
     "JULIETTE HAS A GUN ANYWAY EDP 100ML ...",
@@ -18103,6 +18128,8 @@
     "REPLICA MAISON MARGIELA UNDER THE...",
     "REPLICA MAISON MARGIELA UP AT DAWN...",
     "REPLICA MAISON MARGIELA WHEN THE...",
+    "ROBERT PIGUET BANDIT 100ML TESTER",
+    "ROBERT PIGUET FRACAS 100ML TESTER",
     "ROBERT PIGUET OUD 100ML TESTER",
     "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
     "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
