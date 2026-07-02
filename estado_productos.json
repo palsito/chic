@@ -2724,6 +2724,12 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
+      "en_stock": true
+    },
     "11546801": {
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
       "precio": "77,82 €",
@@ -2814,10 +2820,22 @@
       "url": "https://www.perfumeriaschic.com/p11648829-botanicae-shomal-eau-de-parfum-100ml.html",
       "en_stock": false
     },
+    "11675996": {
+      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
+      "en_stock": true
+    },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
       "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11758299": {
+      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
       "en_stock": true
     }
   },
@@ -3216,6 +3234,12 @@
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11645398-marc-antoine-barrois-aldelbaran-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
       "en_stock": true
     },
     "11756164": {
@@ -11530,7 +11554,7 @@
     },
     "11675996": {
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
-      "precio": "104,90 €",
+      "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
       "en_stock": true
     },
@@ -14280,6 +14304,12 @@
       "nombre": "RALPH LAUREN POLO BLUE GOLD BLEND...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p7355413-ralph-laurent-polo-blue-gold-blend-edp-125ml-tester.html",
+      "en_stock": true
+    },
+    "11758299": {
+      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
       "en_stock": true
     },
     "7782288": {
@@ -18131,6 +18161,7 @@
     "ROBERT PIGUET BANDIT 100ML TESTER",
     "ROBERT PIGUET FRACAS 100ML TESTER",
     "ROBERT PIGUET OUD 100ML TESTER",
+    "ROBERT PIGUET PETIT FRACAS 100ML...",
     "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
     "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
     "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
