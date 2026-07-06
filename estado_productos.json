@@ -2874,7 +2874,7 @@
       "nombre": "PACO RABANNE AFTER CLUB EDP 125ML...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11759697-paco-rabanne-after-club-edp-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11759716": {
       "nombre": "PACO RABANNE ROSE 1969 EDP 125ML....",
@@ -2886,7 +2886,7 @@
       "nombre": "TOM FORD EAU DE GREY VETIVER EDP...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11759721-tom-ford-eau-de-grey-vetiver-edp-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11759732": {
       "nombre": "NARCISO RODRIGUEZ ALL OF ME INTENSE...",
@@ -2898,7 +2898,7 @@
       "nombre": "ACQUA DI PARMA MIRTO DI PANAREA...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11759743-acqua-di-parma-mirto-di-panarea-summer-2025-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11675996": {
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
@@ -17798,13 +17798,13 @@
       "nombre": "PACO RABANNE AFTER CLUB EDP 125ML...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11759697-paco-rabanne-after-club-edp-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11759721": {
       "nombre": "TOM FORD EAU DE GREY VETIVER EDP...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11759721-tom-ford-eau-de-grey-vetiver-edp-tester.html",
-      "en_stock": true
+      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
