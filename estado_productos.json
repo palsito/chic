@@ -2700,12 +2700,6 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
-    },
     "11546801": {
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
       "precio": "77,82 €",
@@ -14214,7 +14208,7 @@
       "nombre": "KARL LAGERFELD IKONIK POUR HOMME EAU...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p11742567-karl-lagerfeld-ikonik-pour-homme-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10200674": {
       "nombre": "EL GANSO BRAVO MONSIEUR EDT 125ML...",
@@ -14228,12 +14222,6 @@
       "url": "https://www.perfumeriaschic.com/p11225831-carner-barcelona-sal-y-limon-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
-    },
     "11675519": {
       "nombre": "ESSENTIAL PARFUMS VELVET IRIS EDP...",
       "precio": "54,90 €",
@@ -14244,12 +14232,6 @@
       "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
       "precio": "49,61 €",
       "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
-      "en_stock": false
-    },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
       "en_stock": false
     },
     "11526307": {
@@ -14335,30 +14317,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
       "en_stock": false
-    },
-    "9074836": {
-      "nombre": "EL GANSO PART TIME HERO EDT 125ML...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p9074836-el-ganso-part-time-hero-edt-125ml-tester.html",
-      "en_stock": true
-    },
-    "11759686": {
-      "nombre": "KENZO FLOWER LE ROUGE EDP 50ML...",
-      "precio": "32,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759686-kenzo-flower-le-rouge-edp-50ml-tester.html",
-      "en_stock": true
-    },
-    "11759692": {
-      "nombre": "ARMANI PRIVE ROUGE MALACHITE EDP...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759692-armani-prive-rouge-malachite-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11759695": {
-      "nombre": "PACO RABANNE NIGHT SOUL EDP 125ML...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759695-paco-rabanne-night-soul-edp-125ml-tester.html",
-      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
@@ -17638,12 +17596,6 @@
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
-      "en_stock": false
-    },
     "11650244": {
       "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
       "precio": "49,61 €",
@@ -17774,6 +17726,12 @@
       "nombre": "PACO RABANNE AFTER CLUB EDP 125ML...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11759697-paco-rabanne-after-club-edp-125ml-tester.html",
+      "en_stock": true
+    },
+    "11759721": {
+      "nombre": "TOM FORD EAU DE GREY VETIVER EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11759721-tom-ford-eau-de-grey-vetiver-edp-tester.html",
       "en_stock": true
     }
   },
@@ -18312,6 +18270,7 @@
     "TIZIANA TERENZI KIRKE EXTRAIT DE...",
     "TIZIANA TERENZI LAUDANO NERO EXTRAIT...",
     "TIZIANA TERENZI MAREMMA EXTRAIT DE...",
+    "TOM FORD EAU DE GREY VETIVER EDP...",
     "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
     "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
     "TOMMY HILFIGER TOMMY IMPACT PARFUM...",
