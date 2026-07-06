@@ -4142,12 +4142,6 @@
       "url": "https://www.perfumeriaschic.com/p10935514-tous-loveme-eau-de-parfum-90ml-tester.html",
       "en_stock": true
     },
-    "11726318": {
-      "nombre": "L'OCCITANE EN PROVENCE VERVEINE...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11726318-loccitane-en-provence-verveine-agrumes-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
-    },
     "11726231": {
       "nombre": "POLICE TO BE SWEET GIRL EDP 125ML...",
       "precio": "17,90 €",
@@ -4424,12 +4418,6 @@
       "url": "https://www.perfumeriaschic.com/p11692351-police-to-be-freetodare-edp-125ml-tester.html",
       "en_stock": true
     },
-    "11161894": {
-      "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
-      "precio": "28,90 €",
-      "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
-      "en_stock": false
-    },
     "11569563": {
       "nombre": "CALVIN KLEIN ETERNITY AMBER ESSENCE...",
       "precio": "38,90 €",
@@ -4566,6 +4554,12 @@
       "nombre": "ETAT LIBRE D´ORANGE CLEAN SUEDE EAU...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674093-etat-libre-dorange-clean-suede-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11674103": {
+      "nombre": "ETAT LIBRE D´ORANGE SHE WAS AN...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11674103-etat-libre-dorange-she-was-an-anomaly-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
     "11444718": {
@@ -4735,12 +4729,6 @@
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p8433044-hugo-boss-alive-edp-80ml-tester.html",
       "en_stock": true
-    },
-    "11561223": {
-      "nombre": "HFC DANCING QUEEN EAU DE PARFUM 75ML...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
     },
     "11366739": {
       "nombre": "M. MICALLEF DESIRTOXIC L'INTENSE EDP...",
@@ -5210,12 +5198,6 @@
       "url": "https://www.perfumeriaschic.com/p1996863-cacharel-noa-edt-100ml-tester.html",
       "en_stock": true
     },
-    "9074836": {
-      "nombre": "EL GANSO PART TIME HERO EDT 125ML...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p9074836-el-ganso-part-time-hero-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "11475926": {
       "nombre": "BOND No.9 NY CHEZ BOND EDP 100ML...",
       "precio": "138,90 €",
@@ -5430,6 +5412,12 @@
       "nombre": "ANGEL SCHLESSER POUR ELLE EDP...",
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p5613840-angel-schlesser-pour-elle-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "9169141": {
+      "nombre": "GUCCI GUILTY POUR HOMME COLOGNE EDT...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p9169141-gucci-guilty-pour-homme-cologne-edt-90ml-tester.html",
       "en_stock": false
     },
     "10629206": {
@@ -7446,6 +7434,12 @@
       "nombre": "VALENTINO DONNA AQUA EDT 100ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p3344600-valentino-donna-aqua-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "10052743": {
+      "nombre": "CARTIER LE PANTHERE EDP 75ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p10052743-cartier-le-panthere-edp-75ml-tester.html",
       "en_stock": false
     },
     "8433116": {
@@ -10230,6 +10224,12 @@
       "nombre": "ANNICK GOUTAL EAU DU SUD EDT 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7865204-annick-goutal-eau-du-sud-edt-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11442052": {
+      "nombre": "NASOMATTO SILVER MUSK EXTRAIT DE...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11442052-nasomatto-silver-musk-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
     "8083145": {
@@ -14312,6 +14312,30 @@
       "url": "https://www.perfumeriaschic.com/p11734746-eight-bob-egypt-eau-de-parfum-30ml.html",
       "en_stock": false
     },
+    "11726318": {
+      "nombre": "L'OCCITANE EN PROVENCE VERVEINE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726318-loccitane-en-provence-verveine-agrumes-eau-de-toilette-100ml-tester.html",
+      "en_stock": false
+    },
+    "11161894": {
+      "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
+      "precio": "28,90 €",
+      "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
+      "en_stock": false
+    },
+    "11561223": {
+      "nombre": "HFC DANCING QUEEN EAU DE PARFUM 75ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
+      "en_stock": false
+    },
+    "9074836": {
+      "nombre": "EL GANSO PART TIME HERO EDT 125ML...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p9074836-el-ganso-part-time-hero-edt-125ml-tester.html",
+      "en_stock": false
+    },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
@@ -17810,6 +17834,7 @@
     "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
     "CARTHUSIA GELSOMINI DI CAPRI EDP...",
     "CARTHUSIA IO CAPRI EDP 100ML TESTER",
+    "CARTIER LE PANTHERE EDP 75ML TESTER",
     "CHABAUD CARAMELITO EDP 100ML TESTER",
     "CHABAUD LAIT DE BISCUIT EDT 100ML...",
     "CHABAUD MON TIRAMISÚ EDP 100ML TESTER",
@@ -17870,6 +17895,7 @@
     "ETAT LIBRE D´ORANGE JASMIN ET...",
     "ETAT LIBRE D´ORANGE NOEL AU BALCON...",
     "ETAT LIBRE D´ORANGE PUTAIN DES...",
+    "ETAT LIBRE D´ORANGE SHE WAS AN...",
     "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
     "ETAT LIBRE D´ORANGE YES I DO EAU DE...",
     "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
@@ -17892,6 +17918,7 @@
     "GUCCI GUILTY  POUR HOMME PARFUM 90ML...",
     "GUCCI GUILTY EAU DE PARFUM INTENSE...",
     "GUCCI GUILTY LOVE EDITION 2024 POUR...",
+    "GUCCI GUILTY POUR HOMME COLOGNE EDT...",
     "GUCCI GUILTY POUR HOMME EDT 90ML...",
     "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
     "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
@@ -18132,6 +18159,7 @@
     "NARCISO RODRIGUEZ POUDREE EDP 90ML...",
     "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
     "NASOMATTO PARDON EXTRAIT DE PARFUM...",
+    "NASOMATTO SILVER MUSK EXTRAIT DE...",
     "NIGHTOLOGY ENIGMATIC SOUL EDP 100ML...",
     "NIGHTOLOGY INTIMATE ELIXIR EDP...",
     "NIGHTOLOGY ROSE HARMONY EDP 100ML...",
