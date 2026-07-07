@@ -2840,6 +2840,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11760373": {
+      "nombre": "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760373-kilian-angels-share-edp-50ml-tester.html",
+      "en_stock": true
+    },
+    "9960764": {
+      "nombre": "ORTO PARISI SEMINALIS PARFUM 50ML...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p9960764-orto-parisi-seminalis-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "11760352": {
       "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -10238,12 +10250,6 @@
       "url": "https://www.perfumeriaschic.com/p10298457-issey-miyake-leau-dissey-pour-homme-wood-wood-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "9960764": {
-      "nombre": "ORTO PARISI SEMINALIS PARFUM 50ML...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p9960764-orto-parisi-seminalis-parfum-50ml-tester.html",
-      "en_stock": false
-    },
     "3521063": {
       "nombre": "LANCOME POEME EDP 100ML TESTER",
       "precio": "49,90 €",
@@ -16154,7 +16160,7 @@
       "nombre": "ORTO PARISI SEMINALIS PARFUM 50ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p9960764-orto-parisi-seminalis-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10981891": {
       "nombre": "ATKINSONS GOLD FAIR IN MY FAIR EDP...",
@@ -17805,6 +17811,12 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11760356-jovoy-incident-diplomatique-edp-75ml-tester.html",
       "en_stock": true
+    },
+    "11760373": {
+      "nombre": "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760373-kilian-angels-share-edp-50ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18063,6 +18075,7 @@
     "KENZO HOMME EDT 110ML TESTER",
     "KENZO L'EAU KENZO POUR HOMME EDT...",
     "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
+    "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
     "L'OCCITANE EN PROVENCE VERVEINE EAU...",
     "LACOSTE L. 12.12 BLANC FOR HIM EAU...",
     "LACOSTE L. 12.12 POUR ELLE EAU...",
