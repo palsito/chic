@@ -2880,7 +2880,7 @@
       "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11520669": {
       "nombre": "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
@@ -14348,6 +14348,18 @@
       "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
       "en_stock": false
     },
+    "11760352": {
+      "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760352-jovoy-musc-pallas-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11760356": {
+      "nombre": "JOVOY INCIDENT DIPLOMATIQUE EDP 75ML...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760356-jovoy-incident-diplomatique-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -17757,6 +17769,18 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11497124-kajal-dahab-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11760352": {
+      "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760352-jovoy-musc-pallas-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11760356": {
+      "nombre": "JOVOY INCIDENT DIPLOMATIQUE EDP 75ML...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760356-jovoy-incident-diplomatique-edp-75ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17993,6 +18017,8 @@
     "JIMMY CHOO MAN ICE EAU DE TOILETTE...",
     "JOOP HOMME EDT 125ML TESTER",
     "JOVOY FIRE AT WILL EDP 75ML TESTER",
+    "JOVOY INCIDENT DIPLOMATIQUE EDP 75ML...",
+    "JOVOY MUSC PALLAS EDP 75ML TESTER",
     "JOVOY PRIVATE LABEL EDP 75ML TESTER",
     "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
     "JUICY COUTURE VIVA LA JUICY EDP...",
