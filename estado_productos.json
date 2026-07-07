@@ -3798,7 +3798,7 @@
       "nombre": "ETRO PALAIS JAMAIS EDT 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11468332-etro-palais-jamais-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11415176": {
       "nombre": "MINIATURA KENZO FLOWER L'ABSOLUE EDP...",
@@ -14384,16 +14384,16 @@
       "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
       "en_stock": false
     },
-    "7782288": {
-      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": true
-    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p6990571-juicy-couture-viva-la-juicy-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7782288": {
+      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
       "en_stock": true
     },
     "7781259": {
@@ -14462,16 +14462,16 @@
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
       "en_stock": false
     },
-    "7126742": {
-      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
-      "en_stock": false
-    },
     "11363424": {
       "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
+      "en_stock": false
+    },
+    "7126742": {
+      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
       "en_stock": false
     },
     "10589668": {
