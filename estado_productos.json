@@ -60,12 +60,6 @@
       "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
       "en_stock": true
     },
-    "11758299": {
-      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
-      "en_stock": false
-    },
     "11244386": {
       "nombre": "DAVIDOFF COOL WATER MEN REBORN EDT...",
       "precio": "22,41 €",
@@ -2846,12 +2840,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11760373": {
-      "nombre": "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760373-kilian-angels-share-edp-50ml-tester.html",
-      "en_stock": false
-    },
     "9960764": {
       "nombre": "ORTO PARISI SEMINALIS PARFUM 50ML...",
       "precio": "89,90 €",
@@ -2971,12 +2959,6 @@
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p5904176-ralph-laurent-polo-red-extreme-edp-125ml-tester.html",
       "en_stock": true
-    },
-    "11758299": {
-      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
-      "en_stock": false
     },
     "11756073": {
       "nombre": "ETRO VIA VERRI EDT 50ML TESTER",
@@ -17816,12 +17798,6 @@
       "nombre": "JOVOY INCIDENT DIPLOMATIQUE EDP 75ML...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11760356-jovoy-incident-diplomatique-edp-75ml-tester.html",
-      "en_stock": false
-    },
-    "11760373": {
-      "nombre": "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760373-kilian-angels-share-edp-50ml-tester.html",
       "en_stock": false
     }
   },
