@@ -3414,7 +3414,7 @@
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10879617": {
       "nombre": "EL GANSO SUNDAY MOOD EDT 125ML TESTER",
@@ -5994,12 +5994,6 @@
       "nombre": "HERMES TERRE EAU INTENSE VETIVER ...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p7321556-hermes-terre-eau-intense-vetiver-edp-200ml-sin-caja.html",
-      "en_stock": false
-    },
-    "7847684": {
-      "nombre": "HERMES  EAU DE MANDARINE AMBREE EDC...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p7847684-hermes-eau-de-mandarine-ambree-edc-100ml-tester.html",
       "en_stock": false
     },
     "7452392": {
@@ -10712,6 +10706,12 @@
       "url": "https://www.perfumeriaschic.com/p8618050-tiziana-terenzi-siene-edp-100-ml-tester.html",
       "en_stock": false
     },
+    "11487108": {
+      "nombre": "TRUSSARDI UOMO EDT 100ML TESTER",
+      "precio": "26,90 €",
+      "url": "https://www.perfumeriaschic.com/p11487108-trussardi-uomo-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "8618045": {
       "nombre": "TIZIANA TERENZI ECSTASY EDP 100ML...",
       "precio": "109,90 €",
@@ -14558,7 +14558,7 @@
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11756085": {
       "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
@@ -18343,6 +18343,7 @@
     "TRUSSARDI LE VIE DI MILANO I VICOLI...",
     "TRUSSARDI LE VIE DI MILANO...",
     "TRUSSARDI RUBY RED EAU DE PARFUM...",
+    "TRUSSARDI UOMO EDT 100ML TESTER",
     "V CANTO AMANS EDP 100ML TESTER",
     "V CANTO COR GENTILE EDP 100ML TESTER",
     "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
