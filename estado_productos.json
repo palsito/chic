@@ -12728,6 +12728,12 @@
       "url": "https://www.perfumeriaschic.com/p11726256-rochas-madame-eau-de-toilette-100ml.html",
       "en_stock": false
     },
+    "11650255": {
+      "nombre": "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
+      "precio": "134,91 €",
+      "url": "https://www.perfumeriaschic.com/p11650255-jeroboam-kun-amo-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11094420": {
       "nombre": "MANCERA COSMIC PEPPER EDP 60ML",
       "precio": "56,80 €",
@@ -13326,7 +13332,7 @@
       "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p10200241-xerjoff-erba-pura-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11742564": {
       "nombre": "KARL LAGERFELD IKONIK POUR FEMME EAU...",
@@ -13968,12 +13974,6 @@
       "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
-    },
-    "11712848": {
-      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
       "en_stock": false
     },
     "11034762": {
@@ -16184,7 +16184,7 @@
       "nombre": "JEROBOAM GOZO EXTRAIT DE PARFUM...",
       "precio": "158,90 €",
       "url": "https://www.perfumeriaschic.com/p11520667-jeroboam-gozo-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11514695": {
       "nombre": "OLFACTIVE STUDIO CHYPRE SHOT EDP...",
@@ -18000,6 +18000,7 @@
     "JEAN PAUL GAULTIER LE BEAU LE PARFUM...",
     "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
     "JEROBOAM GOZO EXTRAIT DE PARFUM...",
+    "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
     "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
     "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
     "JESUS DEL POZO HALLOWEEN MAN EDT...",
