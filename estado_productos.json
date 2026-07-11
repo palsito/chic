@@ -436,7 +436,7 @@
       "nombre": "ADOLFO DOMINGUEZ TERRACOTA MUSK EDP...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11435292": {
       "nombre": "SISLEY PHYTO KHOL STAR WATERPROOF...",
@@ -880,7 +880,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
       "precio": "24,21 €",
       "url": "https://www.perfumeriaschic.com/p2515129-rochas-eau-de-rochas-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "6865486": {
       "nombre": "TOUS YOUR MOMENTS EDT 90ML TESTER",
@@ -2880,7 +2880,7 @@
       "nombre": "MOLINARD CITRUS NOIR EAU DE PARFUM...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11744321-molinard-citrus-noir-eau-de-parfum-75ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11258282": {
       "nombre": "EL GANSO HEY SUNSHINE EDT 125ML...",
@@ -2905,12 +2905,6 @@
       "precio": "34,91 €",
       "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "11683690": {
-      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
-      "en_stock": false
     },
     "10318747": {
       "nombre": "ISSEY MIYAKE ISSEY A DROP D´ ISSEY...",
@@ -4304,6 +4298,12 @@
       "url": "https://www.perfumeriaschic.com/p8149997-mancera-crazy-for-oud-edp-120ml.html",
       "en_stock": true
     },
+    "9680643": {
+      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
+      "precio": "59,95 €",
+      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
+      "en_stock": true
+    },
     "10913302": {
       "nombre": "MONTALE OUD TOBACCO EDP 100ML TESTER",
       "precio": "74,90 €",
@@ -4758,7 +4758,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
       "precio": "24,21 €",
       "url": "https://www.perfumeriaschic.com/p2515129-rochas-eau-de-rochas-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7873632": {
       "nombre": "BURBERRY MR. BURBERRY EDT 100ML...",
@@ -14432,6 +14432,12 @@
       "url": "https://www.perfumeriaschic.com/p11561230-the-house-of-oud-live-in-colours-edp-75ml-tester.html",
       "en_stock": false
     },
+    "11683690": {
+      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
+      "en_stock": false
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -18238,6 +18244,7 @@
     "MONTALE ARABIANS TONKA EDP 100ML...",
     "MONTALE BLACK AOUD EDP 100ML TESTER",
     "MONTALE BLUE AMBER EDP 100ML TESTER",
+    "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
     "MONTALE CHYPRE FRUITE EDP 100ML...",
     "MONTALE CRAZY IN LOVE EDP 100ML...",
     "MONTALE DARK AOUD EDP 100ML TESTER",
