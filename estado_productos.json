@@ -2864,6 +2864,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "10786979": {
+      "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11415072": {
+      "nombre": "REMINISCENCE MUSC CHARNEL EDP 100ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11415072-reminiscence-musc-charnel-musc-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "1996863": {
       "nombre": "CACHAREL NOA EDT 100ML TESTER",
       "precio": "34,90 €",
@@ -2916,6 +2928,12 @@
       "nombre": "KENZO FLOWER IKEBANA INDIGO EDP 75ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11644928-kenzo-flower-ikebana-indigo-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11548585": {
+      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
       "en_stock": true
     },
     "8895991": {
@@ -12590,12 +12608,6 @@
       "url": "https://www.perfumeriaschic.com/p11720844-philipp-plein-no-limits-platinum-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11415072": {
-      "nombre": "REMINISCENCE MUSC CHARNEL EDP 100ML...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11415072-reminiscence-musc-charnel-musc-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11355800": {
       "nombre": "REMINISCENCE ROSE TENTATION EDP...",
       "precio": "38,90 €",
@@ -14221,12 +14233,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11561223-hfc-dancing-queen-eau-de-parfum-75ml-tester.html",
       "en_stock": false
-    },
-    "10786979": {
-      "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
-      "en_stock": true
     },
     "8598939": {
       "nombre": "CREED SILVER MOUNTAIN WATER EDP...",
