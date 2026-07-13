@@ -24,6 +24,12 @@
       "url": "https://www.perfumeriaschic.com/p11708241-hugo-boss-hugo-deep-red-edp-75ml.html",
       "en_stock": true
     },
+    "11759757": {
+      "nombre": "HUGO BOSS BOTTLED BEYOND PACK EDP...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11759757-hugo-boss-bottled-beyond-pack-edp-100ml-edp-10ml-viaje-shower-gel-100ml.html",
+      "en_stock": true
+    },
     "10856776": {
       "nombre": "DSQUARED2 TWO WOOD  EDT 100ML TESTER",
       "precio": "25,95 €",
@@ -46,6 +52,12 @@
       "nombre": "D BY DIESEL DE DIESEL EDT 100ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10424036-d-by-diesel-de-diesel-edt-100ml.html",
+      "en_stock": true
+    },
+    "11760363": {
+      "nombre": "SIMONE ANDREOLI DONT ASK ME...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760363-simone-andreoli-dont-ask-me-permission-100ml-tester.html",
       "en_stock": true
     },
     "11642374": {
@@ -2824,7 +2836,7 @@
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
       "precio": "38,95 €",
       "url": "https://www.perfumeriaschic.com/p11516271-paco-rabanne-pure-xs-for-her-eau-de-parfum-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11421072": {
       "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
@@ -4614,7 +4626,7 @@
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
       "precio": "38,95 €",
       "url": "https://www.perfumeriaschic.com/p11516271-paco-rabanne-pure-xs-for-her-eau-de-parfum-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10390126": {
       "nombre": "ARMAND BASI SCENT OF A KISS MY HEART...",
@@ -9380,12 +9392,6 @@
       "url": "https://www.perfumeriaschic.com/p11497120-paco-rabanne-xs-excess-for-him-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11477492": {
-      "nombre": "COACH FOR MEN EAU DE TOILETTE 100ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11477492-coach-for-men-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
-    },
     "11475905": {
       "nombre": "BOND No.9 NY WEST SIDE EDP 100ML...",
       "precio": "138,90 €",
@@ -9962,12 +9968,6 @@
       "url": "https://www.perfumeriaschic.com/p6975410-cacharel-eden-edp-50ml-tester.html",
       "en_stock": false
     },
-    "11540458": {
-      "nombre": "CLARINS AROMA EAU DYNAMISANTE LECHE...",
-      "precio": "14,90 €",
-      "url": "https://www.perfumeriaschic.com/p11540458-clarins-aroma-eau-dynamisante-leche-corporal-hidratante-200ml-tester.html",
-      "en_stock": false
-    },
     "11359939": {
       "nombre": "ARMAND BASI L´EAU POUR HOMME INTENSE...",
       "precio": "18,90 €",
@@ -10446,12 +10446,6 @@
       "nombre": "ISSEY MIYAKE L,EAU DISSEY WOMAN PURE...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p5848260-issey-miyake-l-eau-dissey-woman-pure-edt-90ml-tester.html",
-      "en_stock": false
-    },
-    "11467858": {
-      "nombre": "REMINISCENCE VANILLE SANTAL EDT...",
-      "precio": "36,94 €",
-      "url": "https://www.perfumeriaschic.com/p11467858-reminiscence-vanille-santal-edt-100ml.html",
       "en_stock": false
     },
     "7807265": {
@@ -11222,12 +11216,6 @@
       "url": "https://www.perfumeriaschic.com/p11464346-dusita-la-douceur-de-siam-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11487002": {
-      "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7189050": {
       "nombre": "ATKINSONS HER MAJESTY THE OUD EDP...",
       "precio": "89,90 €",
@@ -11610,12 +11598,6 @@
       "nombre": "ROCHAS ESCAPADE AU SOLEIL EDT 100ML...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p7708243-rochas-escapade-au-soleil-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11408420": {
-      "nombre": "MONTALE INTENSE CAFE EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11408420-montale-intense-cafe-edp-100ml-tester.html",
       "en_stock": false
     },
     "10913391": {
@@ -12096,12 +12078,6 @@
       "nombre": "HUGO BOSS DARK BLUE EDT 75ML TESTER",
       "precio": "14,73 €",
       "url": "https://www.perfumeriaschic.com/p10317303-hugo-boss-dark-blue-edt-75ml-tester.html",
-      "en_stock": false
-    },
-    "10446365": {
-      "nombre": "HOUBIGANT PARIS FOUGERE ROYALE EDP...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p10446365-houbigant-paris-fougere-royale-edp100ml-tester.html",
       "en_stock": false
     },
     "11567458": {
@@ -12678,12 +12654,6 @@
       "nombre": "ROCHAS MADEMOISELLE EDP 90ML TESTER",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p5922560-rochas-mademoiselle-edp-90ml-tester.html",
-      "en_stock": false
-    },
-    "11418661": {
-      "nombre": "MORESQUE MORETA EDP 50ML TESTER",
-      "precio": "77,95 €",
-      "url": "https://www.perfumeriaschic.com/p11418661-moresque-moreta-edp-50ml-tester.html",
       "en_stock": false
     },
     "3116335": {
