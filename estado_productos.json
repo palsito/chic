@@ -2855,9 +2855,39 @@
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11739283-replica-maison-margiela-from-the-garden-eau-de-toilette-10ml.html",
       "en_stock": false
+    },
+    "11737652": {
+      "nombre": "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11737652-simone-andreoli-criminal-lipstick-parfum-nectar-50ml-tester.html",
+      "en_stock": true
+    },
+    "11760362": {
+      "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
+      "en_stock": true
+    },
+    "11760364": {
+      "nombre": "SIMONE ANDREOLI APRICOT INNOCENCE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760364-simone-andreoli-apricot-innocence-parfum-nectar-50ml-tester.html",
+      "en_stock": true
+    },
+    "11760740": {
+      "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "10220192": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p10220192-zadig-voltaire-this-is-us-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "10843344": {
       "nombre": "TOUS KIDS BOY EDT 100ML TESTER",
       "precio": "17,91 €",
@@ -2868,6 +2898,18 @@
       "nombre": "STEPHANE HUMBERT LUCAS CRYING OF...",
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11546808-stephane-humbert-lucas-crying-of-evil-50ml-tester.html",
+      "en_stock": true
+    },
+    "11761749": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "11761746": {
+      "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11761746-givenchy-pour-homme-edt-100ml-tester.html",
       "en_stock": true
     },
     "10786979": {
@@ -3080,12 +3122,6 @@
       "url": "https://www.perfumeriaschic.com/p1987806-britney-spears-fantasy-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10220192": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10220192-zadig-voltaire-this-is-us-edt-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "11244386": {
       "nombre": "DAVIDOFF COOL WATER MEN REBORN EDT...",
       "precio": "22,41 €",
@@ -3220,13 +3256,13 @@
     },
     "11760740": {
       "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
-      "precio": "94,90 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
     "11760362": {
       "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
-      "precio": "94,90 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
@@ -3238,7 +3274,7 @@
     },
     "11760364": {
       "nombre": "SIMONE ANDREOLI APRICOT INNOCENCE...",
-      "precio": "94,90 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760364-simone-andreoli-apricot-innocence-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
@@ -4150,7 +4186,7 @@
     },
     "11737652": {
       "nombre": "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
-      "precio": "94,90 €",
+      "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11737652-simone-andreoli-criminal-lipstick-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
@@ -13080,7 +13116,7 @@
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10103574": {
       "nombre": "MOLINARD OUD MAGNETIQUE EDP 75ML...",
@@ -17330,7 +17366,7 @@
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913383": {
       "nombre": "MONTALE BLUE AMBER EDP 100ML TESTER",
@@ -17914,6 +17950,7 @@
     "CAROLINA HERRERA GOOD GIRL BLUSH...",
     "CAROLINA HERRERA GOOD GIRL JASMINE...",
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+    "CAROLINA HERRERA LA BOMBA INTENSA...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
     "CARON SANTAL PRECIEUX EDP 100ML...",
     "CARTHUSIA 1681 EDP 100ML TESTER",
@@ -18005,6 +18042,7 @@
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
     "GIVENCHY GENTLEMAN EDT 100ML TESTER",
     "GIVENCHY PI EDT 100ML TESTER",
+    "GIVENCHY POUR HOMME EDT 100ML TESTER",
     "GRITTI VENETIA GOSSIP NIGHT EAU DE...",
     "GRITTI VENETIAN AQUA INCANTA EDP...",
     "GUCCI BLOOM PARFUM 100ML TESTER",
@@ -18355,6 +18393,7 @@
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE CLUB EDP 125ML TESTER",
     "SIMONE ANDREOLI APRICOT INNOCENCE...",
+    "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
     "SIMONE ANDREOLI DONT ASK ME...",
     "SIMONE ANDREOLI LEISURE IN PARADISE...",
     "SIMONE ANDREOLI MALIBU PARTY IN THE...",
