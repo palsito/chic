@@ -2888,10 +2888,34 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11611642": {
-      "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
-      "precio": "166,95 €",
-      "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
+    "11208213": {
+      "nombre": "JEAN PAUL GAULTIER LA BELLE PARADISE...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11208213-jean-paul-gaultier-la-belle-paradise-garden-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11744053": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
+      "en_stock": true
+    },
+    "11762241": {
+      "nombre": "ARMANI PRIVE OUD ROYAL EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762241-armani-prive-oud-royal-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762242": {
+      "nombre": "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762242-armani-prive-bleu-lazuli-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762243": {
+      "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
       "en_stock": true
     },
     "11759692": {
@@ -2899,6 +2923,12 @@
       "precio": "168,90 €",
       "url": "https://www.perfumeriaschic.com/p11759692-armani-prive-rouge-malachite-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11611642": {
+      "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
+      "precio": "166,95 €",
+      "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
     },
     "11759732": {
       "nombre": "NARCISO RODRIGUEZ ALL OF ME INTENSE...",
@@ -8226,7 +8256,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER MUSC NOIR...",
       "precio": "52,90 €",
       "url": "https://www.perfumeriaschic.com/p8534180-narciso-rodriguez-for-her-musc-noir-edp-100ml-tester-novedad.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7473230": {
       "nombre": "NINA RICCI LUNA BLOSSOM  EDT 80ML",
@@ -10044,7 +10074,7 @@
       "nombre": "ISSEY MIYAKE NUIT D´ISSEY PARFUM...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p10834744-issey-miyake-nuit-dissey-parfum-125ml-tester-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9328060": {
       "nombre": "​​FLORIS ELITE EDT 100ML TESTER",
@@ -10866,12 +10896,6 @@
       "nombre": "​​FLORIS Nº 89 EDT 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p9328003-floris-n-89-edt100ml-tester.html",
-      "en_stock": false
-    },
-    "11208213": {
-      "nombre": "JEAN PAUL GAULTIER LA BELLE PARADISE...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11208213-jean-paul-gaultier-la-belle-paradise-garden-edp-100ml-tester.html",
       "en_stock": false
     },
     "10474613": {
@@ -14462,24 +14486,6 @@
       "url": "https://www.perfumeriaschic.com/p11421072-angel-schlesser-femme-naturelle-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11744053": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
-      "en_stock": false
-    },
-    "11762241": {
-      "nombre": "ARMANI PRIVE OUD ROYAL EDP 100ML...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762241-armani-prive-oud-royal-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11762242": {
-      "nombre": "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762242-armani-prive-bleu-lazuli-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -17925,6 +17931,7 @@
     "ARMANI MY WAY PARFUM 50ML TESTER",
     "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
     "ARMANI PRIVE OUD ROYAL EDP 100ML...",
+    "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
     "ARMANI PRIVE ROUGE MALACHITE EDP...",
     "ARMANI SI EAU DE PARFUM 100ML TESTER",
     "ATELIERS DES ORS RIVIERA DRIVE EAU...",
