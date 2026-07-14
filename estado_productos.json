@@ -10578,7 +10578,7 @@
       "nombre": "ISSEY MIYAKE L'EAU D'ISSEY POUR...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10518172-issey-miyake-leau-dissey-pour-homme-eau-cedre-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10994161": {
       "nombre": "MARC JACOBS PERFECT EDT 100ML TESTER",
@@ -14468,6 +14468,18 @@
       "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
       "en_stock": false
     },
+    "11762241": {
+      "nombre": "ARMANI PRIVE OUD ROYAL EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762241-armani-prive-oud-royal-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762242": {
+      "nombre": "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762242-armani-prive-bleu-lazuli-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -17911,6 +17923,8 @@
     "ARMAND BASI ROSE GLACEE EDT 100ML...",
     "ARMANI BECAUSE ITS YOU EDP 100ML...",
     "ARMANI MY WAY PARFUM 50ML TESTER",
+    "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
+    "ARMANI PRIVE OUD ROYAL EDP 100ML...",
     "ARMANI PRIVE ROUGE MALACHITE EDP...",
     "ARMANI SI EAU DE PARFUM 100ML TESTER",
     "ATELIERS DES ORS RIVIERA DRIVE EAU...",
