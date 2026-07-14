@@ -2788,7 +2788,7 @@
       "nombre": "ISSEY MIYAKE L´EAU DISSEY HOMME EDT...",
       "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p1774258-issey-miyake-leau-dissey-homme-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11568627": {
       "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
@@ -4050,7 +4050,7 @@
       "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11646708": {
       "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
@@ -9636,7 +9636,7 @@
       "nombre": "PACO RABANNE OLYMPEA SOLAR EDP 80ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p9740528-paco-rabanne-olimpea-solar-edp-80ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8827082": {
       "nombre": "GUERLAIN AQUA ALLEGORIA HERBA FRESCA...",
@@ -13710,7 +13710,7 @@
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793204": {
       "nombre": "CARON SANTAL PRECIEUX EDP 100ML...",
@@ -14076,7 +14076,7 @@
       "nombre": "ISSEY MIYAKE L´EAU DISSEY HOMME EDT...",
       "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p1774258-issey-miyake-leau-dissey-homme-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11647093": {
       "nombre": "CALVIN KLEIN CK DEFY EDP 100ML TESTER",
