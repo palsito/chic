@@ -2808,6 +2808,12 @@
       "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
       "en_stock": false
     },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
     "11526307": {
       "nombre": "M. MICALLEF YLANG IN GOLD EDP 100ML...",
       "precio": "119,90 €",
@@ -2882,6 +2888,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
+    "11424257": {
+      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "8796047": {
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
       "precio": "78,90 €",
@@ -2904,6 +2922,18 @@
       "nombre": "STEPHANE HUMBERT LUCAS CRYING OF...",
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11546808-stephane-humbert-lucas-crying-of-evil-50ml-tester.html",
+      "en_stock": true
+    },
+    "10935516": {
+      "nombre": "TOUS LOVEME THE EMERALD ELIXIR...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10935516-tous-loveme-the-emerald-elixir-parfum-90ml-tester.html",
+      "en_stock": true
+    },
+    "11517648": {
+      "nombre": "CAROLINA HERRERA 212 VIP ROSE EAU DE...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517648-carolina-herrera-212-vip-rose-eau-de-parfum-125ml-sin-caja.html",
       "en_stock": true
     },
     "11761746": {
@@ -3306,7 +3336,7 @@
       "nombre": "NARCISO RODRIGUEZ ALL OF ME INTENSE...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11759732-narciso-rodriguez-all-of-me-intense-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11675996": {
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
@@ -14078,12 +14108,6 @@
       "url": "https://www.perfumeriaschic.com/p11545200-donna-karan-cashmere-palo-santo-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11424257": {
-      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11424232": {
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
       "precio": "78,90 €",
@@ -14389,18 +14413,6 @@
       "precio": "49,95 €",
       "url": "https://www.perfumeriaschic.com/p10423501-shiseido-ginza-murasaki-edp-90ml-tester.html",
       "en_stock": false
-    },
-    "10935516": {
-      "nombre": "TOUS LOVEME THE EMERALD ELIXIR...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p10935516-tous-loveme-the-emerald-elixir-parfum-90ml-tester.html",
-      "en_stock": true
-    },
-    "11517648": {
-      "nombre": "CAROLINA HERRERA 212 VIP ROSE EAU DE...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517648-carolina-herrera-212-vip-rose-eau-de-parfum-125ml-sin-caja.html",
-      "en_stock": true
     },
     "7026445": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -17692,6 +17704,12 @@
       "url": "https://www.perfumeriaschic.com/p11756087-montale-jasmin-full-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": true
+    },
     "11650244": {
       "nombre": "MASQUE MILANO WHITE WHALE EDP 35ML...",
       "precio": "49,61 €",
@@ -17762,7 +17780,7 @@
       "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424232": {
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
