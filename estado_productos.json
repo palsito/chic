@@ -2260,7 +2260,7 @@
       "nombre": "HALLOWEEN MY WISH EDP 100ML TESTER",
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424221": {
       "nombre": "SCALPERS HER & THE WILD FLOWER EDP...",
@@ -2885,32 +2885,74 @@
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11739283-replica-maison-margiela-from-the-garden-eau-de-toilette-10ml.html",
       "en_stock": false
+    },
+    "10587725": {
+      "nombre": "SCALPERS KIDS BOY 100ML EDT TESTER",
+      "precio": "15,95 €",
+      "url": "https://www.perfumeriaschic.com/p10587725-scalpers-kids-boy-100ml-edt-tester.html",
+      "en_stock": true
+    },
+    "11269761": {
+      "nombre": "KENZO FLOWER IKEBANA MIMOSA EDP 75ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11269761-kenzo-flower-ikebana-mimosa-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11762577": {
+      "nombre": "ARISTOCRAZY ROSE QUARTZ EDP 100ML...",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762577-aristocrazy-rose-quartz-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762580": {
+      "nombre": "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762580-aristocrazy-amethyst-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762585": {
+      "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762585-aristocrazy-lapis-lazuli-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11208213": {
-      "nombre": "JEAN PAUL GAULTIER LA BELLE PARADISE...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11208213-jean-paul-gaultier-la-belle-paradise-garden-edp-100ml-tester.html",
-      "en_stock": false
+    "11762577": {
+      "nombre": "ARISTOCRAZY ROSE QUARTZ EDP 100ML...",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762577-aristocrazy-rose-quartz-edp-100ml-tester.html",
+      "en_stock": true
     },
-    "11744053": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
-      "en_stock": false
+    "11762580": {
+      "nombre": "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762580-aristocrazy-amethyst-edp-100ml-tester.html",
+      "en_stock": true
     },
-    "11762241": {
-      "nombre": "ARMANI PRIVE OUD ROYAL EDP 100ML...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762241-armani-prive-oud-royal-edp-100ml-tester.html",
-      "en_stock": false
+    "11762585": {
+      "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762585-aristocrazy-lapis-lazuli-edp-100ml-tester.html",
+      "en_stock": true
     },
-    "11762242": {
-      "nombre": "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762242-armani-prive-bleu-lazuli-edp-100ml-tester.html",
-      "en_stock": false
+    "11762581": {
+      "nombre": "CARON POUR UN HOMME LE MATIN EDT...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762581-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11762257": {
+      "nombre": "CARON POUR UN HOMME LE SOIR EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762257-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "10077440": {
+      "nombre": "GUERLAIN EAU DE COLOGNE IMPERIALE...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p10077440-guerlain-eau-de-cologne-imperiale-edc100ml-tester.html",
+      "en_stock": true
     },
     "11762243": {
       "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
@@ -2918,29 +2960,11 @@
       "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11759692": {
-      "nombre": "ARMANI PRIVE ROUGE MALACHITE EDP...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759692-armani-prive-rouge-malachite-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11611642": {
       "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
       "precio": "166,95 €",
       "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11759732": {
-      "nombre": "NARCISO RODRIGUEZ ALL OF ME INTENSE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759732-narciso-rodriguez-all-of-me-intense-edp-90ml-tester.html",
-      "en_stock": false
-    },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
-      "en_stock": false
     },
     "11424257": {
       "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
@@ -3235,12 +3259,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10318747-issey-miyake-issey-a-drop-d-issey-fraiche-edp-90ml-sin-caja.html",
       "en_stock": true
-    },
-    "11511112": {
-      "nombre": "SIMONE ANDREOLI SILVER MARBLE 100ML...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11511112-simone-andreoli-silver-marble-100ml-tester.html",
-      "en_stock": false
     },
     "11546796": {
       "nombre": "SIMONE ANDREOLI LEISURE IN PARADISE...",
@@ -4540,7 +4558,7 @@
     },
     "10587725": {
       "nombre": "SCALPERS KIDS BOY 100ML EDT TESTER",
-      "precio": "18,90 €",
+      "precio": "15,95 €",
       "url": "https://www.perfumeriaschic.com/p10587725-scalpers-kids-boy-100ml-edt-tester.html",
       "en_stock": true
     },
@@ -9142,9 +9160,9 @@
     },
     "11269761": {
       "nombre": "KENZO FLOWER IKEBANA MIMOSA EDP 75ML...",
-      "precio": "44,90 €",
+      "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11269761-kenzo-flower-ikebana-mimosa-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3030043": {
       "nombre": "JEAN PAUL GAULTIER CLASSIQUE EDT...",
@@ -9228,7 +9246,7 @@
       "nombre": "NINA RICCI L´AIR DU TEMPS EDP 100ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p8554260-nina-ricci-lair-du-temps-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8980352": {
       "nombre": "CACHAREL YES I,AM FABULOUS EDP 50ML...",
@@ -9630,7 +9648,7 @@
       "nombre": "HALLOWEEN MY WISH EDP 100ML TESTER",
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11359934": {
       "nombre": "JESUS DEL POZO HALLOWEEN MAN X EDT...",
@@ -10069,6 +10087,12 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11435269-issey-miyake-nuit-dissey-eau-de-toilette-125ml.html",
       "en_stock": false
+    },
+    "11544561": {
+      "nombre": "RALPH LAUREN POLO COLOGNE INTENSE...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544561-ralph-lauren-polo-cologne-intense-125ml.html",
+      "en_stock": true
     },
     "10834744": {
       "nombre": "ISSEY MIYAKE NUIT D´ISSEY PARFUM...",
@@ -12186,7 +12210,7 @@
       "nombre": "HUGO BOSS HUGO JEANS EDT 125ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10962786-hugo-boss-hugo-jeans-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9681989": {
       "nombre": "MANCERA AOUD BLUE NOTES EDP 120ML...",
@@ -14486,17 +14510,47 @@
       "url": "https://www.perfumeriaschic.com/p11421072-angel-schlesser-femme-naturelle-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10077440": {
-      "nombre": "GUERLAIN EAU DE COLOGNE IMPERIALE...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p10077440-guerlain-eau-de-cologne-imperiale-edc100ml-tester.html",
-      "en_stock": true
+    "11208213": {
+      "nombre": "JEAN PAUL GAULTIER LA BELLE PARADISE...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11208213-jean-paul-gaultier-la-belle-paradise-garden-edp-100ml-tester.html",
+      "en_stock": false
     },
-    "11762257": {
-      "nombre": "CARON POUR UN HOMME LE SOIR EDP...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762257-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
-      "en_stock": true
+    "11744053": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
+      "en_stock": false
+    },
+    "11762241": {
+      "nombre": "ARMANI PRIVE OUD ROYAL EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762241-armani-prive-oud-royal-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11762242": {
+      "nombre": "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762242-armani-prive-bleu-lazuli-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11759692": {
+      "nombre": "ARMANI PRIVE ROUGE MALACHITE EDP...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11759692-armani-prive-rouge-malachite-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11759732": {
+      "nombre": "NARCISO RODRIGUEZ ALL OF ME INTENSE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11759732-narciso-rodriguez-all-of-me-intense-edp-90ml-tester.html",
+      "en_stock": false
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
+      "en_stock": false
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -14516,16 +14570,16 @@
       "url": "https://www.perfumeriaschic.com/p7781259-nasomatto-pardon-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "5865574": {
-      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "6234338": {
       "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
+      "en_stock": false
+    },
+    "5865574": {
+      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
       "en_stock": false
     },
     "10518032": {
@@ -17935,6 +17989,9 @@
     "ANGEL SCHLESSER LES EAUX D´UN...",
     "ANNICK GOUTAL NUIT ET CONFIDENCES...",
     "ANNICK GOUTAL TENUE DE SOIREE EDP...",
+    "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
+    "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
+    "ARISTOCRAZY ROSE QUARTZ EDP 100ML...",
     "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
     "ARMAND BASI IN RED EDT 100ML TESTER",
     "ARMAND BASI POUR HOMME EDT 125ML...",
@@ -18003,6 +18060,7 @@
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
     "CAROLINA HERRERA LA BOMBA INTENSA...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
+    "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
     "CARON SANTAL PRECIEUX EDP 100ML...",
     "CARTHUSIA 1681 EDP 100ML TESTER",
@@ -18180,6 +18238,7 @@
     "KARL LAGERFELD IKONIK POUR FEMME EAU...",
     "KARL LAGERFELD IKONIK POUR HOMME EAU...",
     "KENZO FLOWER IKEBANA EDP 75ML TESTER",
+    "KENZO FLOWER IKEBANA MIMOSA EDP 75ML...",
     "KENZO FLOWER LE ROUGE EDP 50ML...",
     "KENZO FLOWER POPPY BOUQUET EDP...",
     "KENZO HOMME EDP 110ML TESTER",
@@ -18402,6 +18461,7 @@
     "RALPH LAUREN POLO BLUE EDP 125ML...",
     "RALPH LAUREN POLO BLUE GOLD BLEND...",
     "RALPH LAUREN POLO BLUE PARFUM 125ML...",
+    "RALPH LAUREN POLO COLOGNE INTENSE...",
     "RALPH LAUREN POLO EST.67 EAU DE...",
     "RALPH LAUREN POLO RED EDT 125ML...",
     "RALPH LAURENT BIG PONY WOMAN N2 EDT...",
@@ -18443,6 +18503,7 @@
     "ROSENDO MATEU Nº8 PERFUME 100ML SIN...",
     "SALVATORE FERRAGAMO SIGNORINA...",
     "SCALPERS HER & HERE EDP 100ML TESTER",
+    "SCALPERS KIDS BOY 100ML EDT TESTER",
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE CLUB EDP 125ML TESTER",
     "SIMONE ANDREOLI APRICOT INNOCENCE...",
