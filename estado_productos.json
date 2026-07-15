@@ -2924,6 +2924,66 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11311695": {
+      "nombre": "ROCHAS EAU DE ROCHAS ORANGE HORIZON...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11311695-rochas-eau-de-rochas-orange-horizon-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11412454": {
+      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "7437942": {
+      "nombre": "ACQUA DI PARMA COLONIA EDC 100ML SIN...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
+      "en_stock": true
+    },
+    "2526617": {
+      "nombre": "NINA RICCI L´AIR DU TEMPS EDT 100ML...",
+      "precio": "32,90 €",
+      "url": "https://www.perfumeriaschic.com/p2526617-nina-ricci-lair-du-temps-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8307446": {
+      "nombre": "NINA RICCI ROSE EDT 80ML TESTER",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p8307446-nina-ricci-rose-edt-80ml-tester.html",
+      "en_stock": true
+    },
+    "8081494": {
+      "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p8081494-acqua-di-parma-colonia-futura-edc-100ml-tester.html",
+      "en_stock": true
+    },
+    "11745914": {
+      "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "10637942": {
+      "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "7315787": {
+      "nombre": "ACQUA DI PARMA COLONIA INTENSA EDC...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
+      "en_stock": true
+    },
+    "11762598": {
+      "nombre": "​PHILIPP PLEIN NO LIMITS GOLD EDP...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762598-philipp-plein-no-limits-gold-edp-90ml-tester.html",
+      "en_stock": true
+    },
     "11762596": {
       "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
       "precio": "34,90 €",
@@ -6564,7 +6624,7 @@
       "nombre": "ACQUA DI PARMA COLONIA PURA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7315779-acqua-di-parma-colonia-pura-edc100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11615456": {
       "nombre": "BRITNEY SPEARS MIDNIGHT FANTASY EDP...",
@@ -6678,7 +6738,7 @@
       "nombre": "MONTBLANC LEGEND EAU DE PARFUM 100ML...",
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p8458734-montblanc-legend-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412462": {
       "nombre": "NARCISO RODRIGUEZ VETIVER MUSC FOR...",
@@ -9534,7 +9594,7 @@
       "nombre": "NINA RICCI NINA ROUGE EDT 80ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p7664353-nina-ricci-nina-rouge-edt-80ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10975284": {
       "nombre": "ATKINSONS JAMES EDP 100ML TESTER",
@@ -11864,12 +11924,6 @@
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
       "en_stock": false
     },
-    "5884031": {
-      "nombre": "SISLEY EAU TROPICALE EDT 100ML TESTER",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p5884031-sisley-eau-tropicale-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11680656": {
       "nombre": "DUSITA SPLENDIRIS EAU DE PARFUM...",
       "precio": "114,90 €",
@@ -12223,12 +12277,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p5614139-sisley-eau-de-campagne-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "10962786": {
-      "nombre": "HUGO BOSS HUGO JEANS EDT 125ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p10962786-hugo-boss-hugo-jeans-edt-125ml-tester.html",
-      "en_stock": true
     },
     "9681989": {
       "nombre": "MANCERA AOUD BLUE NOTES EDP 120ML...",
@@ -12800,12 +12848,6 @@
       "url": "https://www.perfumeriaschic.com/p10513989-philipp-plein-no-limits-edp-90ml-tester.html",
       "en_stock": false
     },
-    "6808601": {
-      "nombre": "MONTBLANC LEGEND EDT 100ML TESTER",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p6808601-montblanc-legend-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "10913292": {
       "nombre": "MONTALE HONEY AOUD EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -13364,12 +13406,6 @@
       "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10637942": {
-      "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11509318": {
       "nombre": "4711 ACQUA COLONIA COLLECTION...",
       "precio": "59,94 €",
@@ -13387,12 +13423,6 @@
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11747900-carolina-herrera-amazonian-rose-eau-de-parfum-100ml-tester.html",
       "en_stock": false
-    },
-    "7315787": {
-      "nombre": "ACQUA DI PARMA COLONIA INTENSA EDC...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
-      "en_stock": true
     },
     "11728172": {
       "nombre": "HISTOIRES DE PARFUMS TUBEREUSE NUIT...",
@@ -13496,12 +13526,6 @@
       "url": "https://www.perfumeriaschic.com/p10047950-molinard-rose-eau-de-parfum-75ml-tester.html",
       "en_stock": false
     },
-    "11745914": {
-      "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "11745922": {
       "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
       "precio": "54,90 €",
@@ -13512,12 +13536,6 @@
       "nombre": "BURBERRY HERO EDT 100ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10455647-burberry-hero-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "8081494": {
-      "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p8081494-acqua-di-parma-colonia-futura-edc-100ml-tester.html",
       "en_stock": false
     },
     "11500876": {
@@ -13664,12 +13682,6 @@
       "url": "https://www.perfumeriaschic.com/p7189378-atkinsons-his-majesty-the-oud-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8307446": {
-      "nombre": "NINA RICCI ROSE EDT 80ML TESTER",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p8307446-nina-ricci-rose-edt-80ml-tester.html",
-      "en_stock": false
-    },
     "5402681": {
       "nombre": "HUGO BOSS BOTTLED EDT 50ML SIN CAJA",
       "precio": "20,90 €",
@@ -13710,12 +13722,6 @@
       "nombre": "TOUS LOVEME THE ONYX EAU DE PARFUM...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11208168-tous-loveme-the-onyx-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
-    },
-    "2526617": {
-      "nombre": "NINA RICCI L´AIR DU TEMPS EDT 100ML...",
-      "precio": "32,90 €",
-      "url": "https://www.perfumeriaschic.com/p2526617-nina-ricci-lair-du-temps-edt-100ml-tester.html",
       "en_stock": false
     },
     "11528572": {
@@ -13765,18 +13771,6 @@
       "precio": "99,90 €",
       "url": "https://www.perfumeriaschic.com/p7783017-atkinsons-oud-save-the-king-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "7437942": {
-      "nombre": "ACQUA DI PARMA COLONIA EDC 100ML SIN...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
-      "en_stock": true
-    },
-    "11412454": {
-      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
-      "en_stock": true
     },
     "10793204": {
       "nombre": "CARON SANTAL PRECIEUX EDP 100ML...",
@@ -13914,12 +13908,6 @@
       "nombre": "JESUS DEL POZO HALLOWEEN MAN EDT...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10219725-jesus-del-pozo-halloween-man-edt-125ml-tester.html",
-      "en_stock": false
-    },
-    "11311695": {
-      "nombre": "ROCHAS EAU DE ROCHAS ORANGE HORIZON...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11311695-rochas-eau-de-rochas-orange-horizon-edt-100ml-tester.html",
       "en_stock": false
     },
     "8731930": {
@@ -14137,12 +14125,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10938102-etat-libre-dorange-putain-des-palaces-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "1774258": {
-      "nombre": "ISSEY MIYAKE L´EAU DISSEY HOMME EDT...",
-      "precio": "35,91 €",
-      "url": "https://www.perfumeriaschic.com/p1774258-issey-miyake-leau-dissey-homme-edt-125ml-tester.html",
-      "en_stock": true
     },
     "11647093": {
       "nombre": "CALVIN KLEIN CK DEFY EDP 100ML TESTER",
@@ -14569,12 +14551,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
       "en_stock": false
-    },
-    "11762598": {
-      "nombre": "​PHILIPP PLEIN NO LIMITS GOLD EDP...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762598-philipp-plein-no-limits-gold-edp-90ml-tester.html",
-      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
