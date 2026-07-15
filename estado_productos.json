@@ -2924,12 +2924,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11762597": {
-      "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
-      "precio": "44,64 €",
-      "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": true
-    },
     "11762596": {
       "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
       "precio": "34,90 €",
@@ -2982,6 +2976,12 @@
       "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
       "precio": "168,90 €",
       "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762597": {
+      "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
+      "precio": "44,64 €",
+      "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
       "en_stock": true
     },
     "11611642": {
@@ -3324,12 +3324,6 @@
       "nombre": "REMINISCENCE LE REM (REM) EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
-      "en_stock": false
-    },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
       "en_stock": false
     },
     "11734746": {
