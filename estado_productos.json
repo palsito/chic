@@ -13188,7 +13188,7 @@
       "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
@@ -14563,6 +14563,18 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
       "en_stock": false
+    },
+    "11763821": {
+      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11763822": {
+      "nombre": "LANCOME O ZENITH EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763822-lancome-o-zenith-edt-100ml-tester.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18271,7 +18283,9 @@
     "LACOSTE ORIGINAL EAU DE PARFUM 100ML...",
     "LANCASTER SUN SPORT BRUMA INVISIBLE...",
     "LANCOME IDOLE NECTAR EDP 50 ML TESTER",
+    "LANCOME O ZENITH EDT 100ML TESTER",
     "LANCOME OFF NOW EDT 100ML TESTER",
+    "LANCOME OVER THE TOP EDT 100ML TESTER",
     "LOEWE ESENCIA EAU DE PARFUM 100ML...",
     "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
     "LOEWE ESENCIA ELIXIR 100ML TESTER",
