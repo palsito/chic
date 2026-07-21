@@ -2940,7 +2940,7 @@
       "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11763823": {
       "nombre": "GIARDINI DI TOSCANA CELESTE 100ML...",
@@ -2959,12 +2959,6 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11763825-giardini-di-toscana-rosso-radice-100ml-tester.html",
       "en_stock": true
-    },
-    "11763826": {
-      "nombre": "GIARDINI DI TOSCANA SHABBY CHIC...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763826-giardini-di-toscana-shabby-chic-100ml-tester.html",
-      "en_stock": false
     },
     "11762577": {
       "nombre": "ARISTOCRAZY ROSE QUARTZ EDP 100ML...",
@@ -3006,12 +3000,6 @@
       "nombre": "KENZO FLOWER IKEBANA MIMOSA EDP 75ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11269761-kenzo-flower-ikebana-mimosa-edp-75ml-tester.html",
-      "en_stock": true
-    },
-    "8554260": {
-      "nombre": "NINA RICCI L´AIR DU TEMPS EDP 100ML...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p8554260-nina-ricci-lair-du-temps-edp-100ml-tester.html",
       "en_stock": true
     },
     "7664353": {
@@ -3090,7 +3078,7 @@
       "nombre": "NINA RICCI L´AIR DU TEMPS EDT 100ML...",
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p2526617-nina-ricci-lair-du-temps-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8307446": {
       "nombre": "NINA RICCI ROSE EDT 80ML TESTER",
