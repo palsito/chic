@@ -60,12 +60,6 @@
       "url": "https://www.perfumeriaschic.com/p10513600-dkny-be-delicious-fresh-blossom-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11739241": {
-      "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
-      "precio": "72,98 €",
-      "url": "https://www.perfumeriaschic.com/p11739241-replica-maison-margiela-under-the-lemon-trees-edt-100ml.html",
-      "en_stock": false
-    },
     "8796047": {
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
       "precio": "78,90 €",
@@ -89,12 +83,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11737652-simone-andreoli-criminal-lipstick-parfum-nectar-50ml-tester.html",
       "en_stock": true
-    },
-    "11760362": {
-      "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
-      "en_stock": false
     },
     "11760364": {
       "nombre": "SIMONE ANDREOLI APRICOT INNOCENCE...",
@@ -2920,6 +2908,18 @@
       "nombre": "CALVIN KLEIN CK EVERYONE EDT 200ML",
       "precio": "34,80 €",
       "url": "https://www.perfumeriaschic.com/p11665337-calvin-klein-ck-everyone-edt-200ml.html",
+      "en_stock": false
+    },
+    "11739241": {
+      "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
+      "precio": "72,98 €",
+      "url": "https://www.perfumeriaschic.com/p11739241-replica-maison-margiela-under-the-lemon-trees-edt-100ml.html",
+      "en_stock": false
+    },
+    "11760362": {
+      "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
       "en_stock": false
     }
   },
@@ -13938,7 +13938,7 @@
       "nombre": "LOLITA LEMPICKA POUR HOMME EDT 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11467863-lolita-lempicka-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7863321": {
       "nombre": "DSQUARED2 WOOD POUR HOMME EDT 100ML...",
@@ -14716,6 +14716,12 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11631933": {
+      "nombre": "M. MICALLEF HYPNOTIC MUSK EDP 100ML...",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11631933-m-micallef-hypnotic-musk-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11424257": {
       "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
       "precio": "64,90 €",
@@ -17955,12 +17961,6 @@
       "precio": "184,90 €",
       "url": "https://www.perfumeriaschic.com/p11389984-xerjoff-tony-iommi-monkey-special-parfum-50ml-tester.html",
       "en_stock": false
-    },
-    "11631933": {
-      "nombre": "M. MICALLEF HYPNOTIC MUSK EDP 100ML...",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11631933-m-micallef-hypnotic-musk-edp-100ml-tester.html",
-      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
