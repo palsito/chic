@@ -14540,6 +14540,24 @@
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11765852": {
+      "nombre": "TRUSSARDI VIA DELLA SPIGA EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765852-trussardi-via-della-spiga-edp-100-l-tester.html",
+      "en_stock": true
+    },
+    "11765907": {
+      "nombre": "TRUSSARDI LE VIE DI MILANO PORTA...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765907-trussardi-le-vie-di-milano-porta-nuova-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11765926": {
+      "nombre": "YVES SAINT LAURENT MYSLF EDT INTENSE...",
+      "precio": "A Consultar",
+      "url": "https://www.perfumeriaschic.com/p11765926-yves-saint-laurent-myslf-edt-intense-100ml-tester.html",
+      "en_stock": false
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -14888,7 +14906,7 @@
       "nombre": "MANCERA OF THE WILD  EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10795882-mancera-of-the-wild-edp-120ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11426814": {
       "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
@@ -18619,6 +18637,7 @@
     "TRUSSARDI LEVRIERO COLLECTION EDP...",
     "TRUSSARDI RUBY RED EAU DE PARFUM...",
     "TRUSSARDI UOMO EDT 100ML TESTER",
+    "TRUSSARDI VIA DELLA SPIGA EDP 100ML...",
     "V CANTO AMANS EDP 100ML TESTER",
     "V CANTO COR GENTILE EDP 100ML TESTER",
     "V CANTO ISOTTA EXTRAIT DE PARFUM EDP...",
@@ -18648,6 +18667,7 @@
     "XERJOFF XJ 1861 ZEFIRO EDP 100ML...",
     "YVES SAINT LAURENT BLACK OPIUM EDP...",
     "YVES SAINT LAURENT LIBRE FLOWERS &...",
+    "YVES SAINT LAURENT MYSLF EDT INTENSE...",
     "ZADIG & VOLTAIRE THIS IS HER EDP...",
     "ZADIG & VOLTAIRE THIS IS HIM REALLY...",
     "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
