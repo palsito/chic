@@ -2848,7 +2848,7 @@
       "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
       "precio": "44,64 €",
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11546796": {
       "nombre": "SIMONE ANDREOLI LEISURE IN PARADISE...",
@@ -14532,7 +14532,7 @@
       "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
       "precio": "44,64 €",
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8796047": {
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
@@ -14544,6 +14544,12 @@
       "nombre": "REPLICA MAISON MARGIELA CHASING...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11765811-replica-maison-margiela-chasing-sunsets-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11765813": {
+      "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
       "en_stock": true
     },
     "11765817": {
@@ -14737,6 +14743,12 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
       "en_stock": false
+    },
+    "11765806": {
+      "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765806-loewe-un-paseo-por-madrid-la-bella-cibeles-edp-100ml.html",
+      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
@@ -17991,6 +18003,12 @@
       "precio": "109,80 €",
       "url": "https://www.perfumeriaschic.com/p11647108-memo-paris-oriental-leather-edp-75ml.html",
       "en_stock": false
+    },
+    "11765813": {
+      "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18321,6 +18339,8 @@
     "LOEWE PAULA´S IBIZA ECLECTIC EAU DE...",
     "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
     "LOEWE SOLO VULCAN EDP 100ML TESTER",
+    "LOEWE UN PASEO POR MADRID LA BELLA...",
+    "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
     "LOLITA LEMPICKA FLEURS EDP 100ML...",
     "LOLITA LEMPICKA POUR HOMME EDT 100ML...",
     "LOLITA LEMPICKA SO SWEET EDP 50ML...",
