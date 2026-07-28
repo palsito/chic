@@ -3702,7 +3702,7 @@
       "nombre": "MANCERA OF THE WILD  EDP 120ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p10795882-mancera-of-the-wild-edp-120ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10200676": {
       "nombre": "EL GANSO FRIDAY EDITION EDT 125ML...",
@@ -14540,6 +14540,18 @@
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11765811": {
+      "nombre": "REPLICA MAISON MARGIELA CHASING...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765811-replica-maison-margiela-chasing-sunsets-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11765817": {
+      "nombre": "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765817-carolina-herrera-mystery-tobacco-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11765852": {
       "nombre": "TRUSSARDI VIA DELLA SPIGA EDP 100ML...",
       "precio": "68,90 €",
@@ -14552,11 +14564,11 @@
       "url": "https://www.perfumeriaschic.com/p11765907-trussardi-le-vie-di-milano-porta-nuova-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11765926": {
-      "nombre": "YVES SAINT LAURENT MYSLF EDT INTENSE...",
-      "precio": "A Consultar",
-      "url": "https://www.perfumeriaschic.com/p11765926-yves-saint-laurent-myslf-edt-intense-100ml-tester.html",
-      "en_stock": false
+    "11765928": {
+      "nombre": "REPLICA MAISON MARGIELA SAILING DAY...",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765928-replica-maison-margiela-sailing-day-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18078,6 +18090,7 @@
     "CAROLINA HERRERA GOOD GIRL JASMINE...",
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
     "CAROLINA HERRERA LA BOMBA INTENSA...",
+    "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
     "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
@@ -18538,6 +18551,7 @@
     "REMINISCENCE VANILLE SANTAL EDT...",
     "REPLICA MAISON MARGIELA AUTUMN VIBES...",
     "REPLICA MAISON MARGIELA BEACH WALK...",
+    "REPLICA MAISON MARGIELA CHASING...",
     "REPLICA MAISON MARGIELA FROM THE...",
     "REPLICA MAISON MARGIELA NEVER-ENDING...",
     "REPLICA MAISON MARGIELA ON A DATE...",
