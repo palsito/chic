@@ -5736,7 +5736,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER PURE MUSC...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p6890973-narciso-rodriguez-for-her-pure-musc-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8252800": {
       "nombre": "GUERLAIN MON GUERLAIN EDT 100ML SIN...",
@@ -5802,7 +5802,7 @@
       "nombre": "NARCISO RODRIGUEZ POUDREE EDP 90ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p4382968-narciso-rodriguez-poudree-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10475161": {
       "nombre": "ROCHAS EAU DE ROCHAS ESCAPADE...",
@@ -8199,10 +8199,10 @@
       "en_stock": false
     },
     "8407985": {
-      "nombre": "NARCISO RODRIGUEZ AMBRE EDP 90ML SIN...",
+      "nombre": "NARCISO RODRIGUEZ AMBRE EDP 90ML...",
       "precio": "52,90 €",
       "url": "https://www.perfumeriaschic.com/p8407985-narciso-rodriguez-ambre-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10923714": {
       "nombre": "4711 REMIX COLOGNE EAU DE COLOGNE...",
