@@ -14648,16 +14648,16 @@
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11363424": {
-      "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
-      "precio": "22,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
-      "en_stock": false
-    },
     "7126742": {
       "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
+      "en_stock": false
+    },
+    "11363424": {
+      "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
+      "precio": "22,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
       "en_stock": false
     },
     "10589668": {
@@ -14726,6 +14726,12 @@
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
       "en_stock": false
     },
+    "11765806": {
+      "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11765806-loewe-un-paseo-por-madrid-la-bella-cibeles-edp-100ml.html",
+      "en_stock": true
+    },
     "10690572": {
       "nombre": "ROCHAS MADEMOISELLE COUTURE EDP 90ML...",
       "precio": "38,90 €",
@@ -14743,12 +14749,6 @@
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
       "en_stock": false
-    },
-    "11765806": {
-      "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11765806-loewe-un-paseo-por-madrid-la-bella-cibeles-edp-100ml.html",
-      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
