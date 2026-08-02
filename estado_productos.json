@@ -2954,12 +2954,6 @@
       "url": "https://www.perfumeriaschic.com/p11451157-ateliers-des-ors-pink-me-up-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11470973": {
-      "nombre": "MONTALE DARK VANILLA EDP 100ML TESTER",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11470973-montale-dark-vanilla-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "5922560": {
       "nombre": "ROCHAS MADEMOISELLE EDP 90ML TESTER",
       "precio": "36,90 €",
@@ -3055,12 +3049,6 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p8338749-cacharel-pour-homme-edt-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "11763821": {
-      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
-      "en_stock": false
     },
     "11680748": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
@@ -3218,23 +3206,11 @@
       "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
       "en_stock": true
     },
-    "11762243": {
-      "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11611642": {
       "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
       "precio": "166,95 €",
       "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11424257": {
-      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
-      "en_stock": false
     },
     "10220192": {
       "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
@@ -3385,12 +3361,6 @@
       "precio": "62,95 €",
       "url": "https://www.perfumeriaschic.com/p11642374-viktor-rolf-flowerbomb-extreme-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "7355413": {
-      "nombre": "RALPH LAUREN POLO BLUE GOLD BLEND...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p7355413-ralph-laurent-polo-blue-gold-blend-edp-125ml-tester.html",
-      "en_stock": false
     },
     "10880457": {
       "nombre": "HUGO BOSS THE SCENT MAGNETIC FOR HER...",
@@ -3608,12 +3578,6 @@
       "url": "https://www.perfumeriaschic.com/p11759686-kenzo-flower-le-rouge-edp-50ml-tester.html",
       "en_stock": true
     },
-    "11759696": {
-      "nombre": "PANA DORA XVI EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11759696-pana-dora-xvi-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11675996": {
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
       "precio": "94,90 €",
@@ -3655,12 +3619,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8152325-perris-monte-carlo-jasmin-de-pays-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "7803846": {
-      "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
-      "precio": "67,43 €",
-      "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
-      "en_stock": false
     },
     "10200676": {
       "nombre": "EL GANSO FRIDAY EDITION EDT 125ML...",
@@ -14420,6 +14378,12 @@
       "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
       "en_stock": false
     },
+    "11763821": {
+      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "8081494": {
       "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
       "precio": "58,90 €",
@@ -14574,6 +14538,42 @@
       "nombre": "XERJOFF DON EDP 100ML TESTER",
       "precio": "148,95 €",
       "url": "https://www.perfumeriaschic.com/p10780088-xerjoff-don-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11470973": {
+      "nombre": "MONTALE DARK VANILLA EDP 100ML TESTER",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11470973-montale-dark-vanilla-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11762243": {
+      "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11424257": {
+      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7355413": {
+      "nombre": "RALPH LAUREN POLO BLUE GOLD BLEND...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7355413-ralph-laurent-polo-blue-gold-blend-edp-125ml-tester.html",
+      "en_stock": false
+    },
+    "11759696": {
+      "nombre": "PANA DORA XVI EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11759696-pana-dora-xvi-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7803846": {
+      "nombre": "PERRIS MONTE CARLO ROSE DE MAI EDP...",
+      "precio": "67,43 €",
+      "url": "https://www.perfumeriaschic.com/p7803846-perris-monte-carlo-rose-de-mai-edp-100ml-sin-caja.html",
       "en_stock": false
     },
     "11765806": {
