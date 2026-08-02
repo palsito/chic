@@ -2936,10 +2936,10 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "5468964": {
-      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
+    "11620555": {
+      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
       "en_stock": true
     },
     "11205002": {
@@ -2970,12 +2970,6 @@
       "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "7828753": {
-      "nombre": "PERRIS MONTE CARLO CEDRO DI DIAMANTE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p7828753-perris-monte-carlo-cedro-di-diamante-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11763821": {
@@ -3253,12 +3247,6 @@
       "precio": "106,95 €",
       "url": "https://www.perfumeriaschic.com/p11762580-aristocrazy-amethyst-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11762585": {
-      "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
-      "precio": "106,95 €",
-      "url": "https://www.perfumeriaschic.com/p11762585-aristocrazy-lapis-lazuli-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -4435,12 +4423,6 @@
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11544577-kenzo-flower-cherry-poppy-edp-50ml-tester.html",
       "en_stock": true
-    },
-    "7308017": {
-      "nombre": "HERMES JOUR ABSOLU EDP 85ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p7308017-hermes-jour-absolu-edp-85ml-tester.html",
-      "en_stock": false
     },
     "10793047": {
       "nombre": "XERJOFF COMANDANTE EDP 100ML TESTER",
@@ -6283,12 +6265,6 @@
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11173644-creed-acqua-originale-iris-tubereuse-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11620555": {
-      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
-      "precio": "164,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
-      "en_stock": true
     },
     "10942294": {
       "nombre": "PERRIS MONTE CARLO ESSENCE DE...",
@@ -14640,6 +14616,30 @@
       "nombre": "EIGHT & BOB MEMOIRES DE MUSTIQUE EDP...",
       "precio": "76,41 €",
       "url": "https://www.perfumeriaschic.com/p9654860-eight-bob-memoires-de-mustique-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7308017": {
+      "nombre": "HERMES JOUR ABSOLU EDP 85ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p7308017-hermes-jour-absolu-edp-85ml-tester.html",
+      "en_stock": false
+    },
+    "11762585": {
+      "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
+      "precio": "106,95 €",
+      "url": "https://www.perfumeriaschic.com/p11762585-aristocrazy-lapis-lazuli-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7828753": {
+      "nombre": "PERRIS MONTE CARLO CEDRO DI DIAMANTE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p7828753-perris-monte-carlo-cedro-di-diamante-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "5468964": {
+      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
       "en_stock": false
     },
     "11765806": {
