@@ -2664,12 +2664,6 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11756165": {
-      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": true
-    },
     "11546801": {
       "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
       "precio": "77,82 €",
@@ -2832,12 +2826,6 @@
       "url": "https://www.perfumeriaschic.com/p5402271-dkny-be-delicious-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11646708": {
-      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
-      "precio": "85,41 €",
-      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
-      "en_stock": true
-    },
     "11665337": {
       "nombre": "CALVIN KLEIN CK EVERYONE EDT 200ML",
       "precio": "34,80 €",
@@ -2855,18 +2843,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
       "en_stock": false
-    },
-    "11546796": {
-      "nombre": "SIMONE ANDREOLI LEISURE IN PARADISE...",
-      "precio": "89,87 €",
-      "url": "https://www.perfumeriaschic.com/p11546796-simone-andreoli-leisure-in-paradise-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "11529796": {
-      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
-      "precio": "109,91 €",
-      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
     },
     "11712241": {
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
@@ -14818,17 +14794,59 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11740999": {
+      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11529796": {
+      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11740998": {
+      "nombre": "JOVOY FIRE AT WILL EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11650255": {
+      "nombre": "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
+      "precio": "134,91 €",
+      "url": "https://www.perfumeriaschic.com/p11650255-jeroboam-kun-amo-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11683691": {
+      "nombre": "NISHANE TUBEROZA EXTRAIT DE PARFUM...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11683691-nishane-tuberoza-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11620555": {
+      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11520667": {
+      "nombre": "JEROBOAM GOZO EXTRAIT DE PARFUM...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11520667-jeroboam-gozo-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11680748": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11680748-gucci-the-alchemists-garden-moonlight-serenade-edt-150ml-tester.html",
       "en_stock": true
-    },
-    "11424257": {
-      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11548585": {
       "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
@@ -16312,12 +16330,6 @@
       "url": "https://www.perfumeriaschic.com/p11520638-bond-no-9-off-broadway-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11520667": {
-      "nombre": "JEROBOAM GOZO EXTRAIT DE PARFUM...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11520667-jeroboam-gozo-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11514695": {
       "nombre": "OLFACTIVE STUDIO CHYPRE SHOT EDP...",
       "precio": "109,90 €",
@@ -16822,12 +16834,6 @@
       "url": "https://www.perfumeriaschic.com/p11526345-etat-libre-dorange-dangerous-complicity-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "11620555": {
-      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
-      "precio": "164,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10936995": {
       "nombre": "DUSITA CAVATINA EAU DE PARFUM 50ML...",
       "precio": "68,90 €",
@@ -17079,12 +17085,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
-    },
-    "11683691": {
-      "nombre": "NISHANE TUBEROZA EXTRAIT DE PARFUM...",
-      "precio": "124,90 €",
-      "url": "https://www.perfumeriaschic.com/p11683691-nishane-tuberoza-extrait-de-parfum-50ml-tester.html",
-      "en_stock": true
     },
     "11413173": {
       "nombre": "ORMONDE JAYNE ORMONDE MAN PARFUM...",
@@ -17361,12 +17361,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11458474-moresque-the-secret-collection-jasminisha-edp-75ml-tester.html",
       "en_stock": false
-    },
-    "11650255": {
-      "nombre": "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
-      "precio": "134,91 €",
-      "url": "https://www.perfumeriaschic.com/p11650255-jeroboam-kun-amo-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
     },
     "11740414": {
       "nombre": "REPLICA MAISON MARGIELA AUTUMN VIBES...",
@@ -17710,12 +17704,6 @@
       "url": "https://www.perfumeriaschic.com/p8648444-juliette-has-a-gun-vanilla-vibes-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11740998": {
-      "nombre": "JOVOY FIRE AT WILL EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "11323151": {
       "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
       "precio": "64,90 €",
@@ -17799,12 +17787,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11672010": {
-      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11363400": {
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
@@ -18016,12 +17998,6 @@
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11529796": {
-      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
-      "precio": "109,91 €",
-      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11678389": {
       "nombre": "CHABAUD CARAMELITO EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -18070,12 +18046,6 @@
       "url": "https://www.perfumeriaschic.com/p11407992-v-canto-malatesta-extrait-de-parfum-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11740999": {
-      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "10831992": {
       "nombre": "DANIEL JOSIER LE MUSK EDP 100ML",
       "precio": "120,00 €",
@@ -18092,6 +18062,12 @@
       "nombre": "BOND No.9 SHELTER ISLAND EDP 100ML...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11544521-bond-no-9-shelter-island-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11424257": {
+      "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424257-montale-vanille-absolu-edp-100ml-tester.html",
       "en_stock": false
     }
   },
