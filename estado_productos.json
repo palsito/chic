@@ -14352,7 +14352,7 @@
       "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11765928": {
       "nombre": "REPLICA MAISON MARGIELA SAILING DAY...",
@@ -14786,6 +14786,12 @@
       "nombre": "NISHANE TUBEROZA EXTRAIT DE PARFUM...",
       "precio": "124,90 €",
       "url": "https://www.perfumeriaschic.com/p11683691-nishane-tuberoza-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11620555": {
+      "nombre": "XERJOFF TORINO 21 EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620555-xerjoff-torino-21-edp-100ml-tester.html",
       "en_stock": true
     },
     "11680748": {
@@ -17966,7 +17972,7 @@
       "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11470973": {
       "nombre": "MONTALE DARK VANILLA EDP 100ML TESTER",
