@@ -2918,6 +2918,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11380564": {
+      "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
+      "en_stock": true
+    },
+    "11754004": {
+      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11768256": {
+      "nombre": "NARCISO RODRIGUEZ NARCISO RADIANTE...",
+      "precio": "52,90 €",
+      "url": "https://www.perfumeriaschic.com/p11768256-narciso-rodriguez-narciso-radiante-eau-de-parfum-90ml-tester.html",
+      "en_stock": true
+    },
     "11769931": {
       "nombre": "CACHAREL ELLA ELLA FLORA AZURA EDP...",
       "precio": "38,90 €",
@@ -12938,12 +12956,6 @@
       "url": "https://www.perfumeriaschic.com/p8384363-juliette-has-a-gun-not-a-perfume-edp-100ml-tester-sin-caja.html",
       "en_stock": false
     },
-    "11746238": {
-      "nombre": "GIORGIO ARMANI SI EAU DE PARFUM...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": false
-    },
     "11745927": {
       "nombre": "CAROLINA HERRERA 212 MEN NYC PARFUM...",
       "precio": "49,90 €",
@@ -14108,12 +14120,6 @@
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
     },
-    "11754004": {
-      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "10298454": {
       "nombre": "XERJOFF CRUZ DEL SUR II 50ML TESTER",
       "precio": "154,90 €",
@@ -14245,12 +14251,6 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p2511188-marc-jacobs-daisy-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "11380564": {
-      "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
-      "en_stock": true
     },
     "11157425": {
       "nombre": "MANCERA BLACK GOLD EDP 120ML TESTER",
@@ -18522,6 +18522,7 @@
     "NARCISO RODRIGUEZ FOR HER EDT 100ML...",
     "NARCISO RODRIGUEZ FOR HER MUSC NOIR...",
     "NARCISO RODRIGUEZ FOR HER PURE MUSC...",
+    "NARCISO RODRIGUEZ NARCISO RADIANTE...",
     "NARCISO RODRIGUEZ POUDREE EDP 90ML...",
     "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
     "NASOMATTO PARDON EXTRAIT DE PARFUM...",
