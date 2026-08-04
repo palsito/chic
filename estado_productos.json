@@ -982,7 +982,7 @@
       "nombre": "TOMMY HILFIGER TOMMY NOW EDT 100ML...",
       "precio": "22,87 €",
       "url": "https://www.perfumeriaschic.com/p10694304-tommy-hilfiger-tommy-now-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "9680643": {
       "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
@@ -4266,7 +4266,7 @@
       "nombre": "JOOP HOMME EDT 125ML TESTER",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p11385421-joop-homme-edt-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "4870625": {
       "nombre": "CALVIN KLEIN CK ONE EDT 100ML TESTER",
@@ -4878,7 +4878,7 @@
       "nombre": "TOMMY HILFIGER TOMMY NOW EDT 100ML...",
       "precio": "22,87 €",
       "url": "https://www.perfumeriaschic.com/p10694304-tommy-hilfiger-tommy-now-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10787016": {
       "nombre": "NIGHTOLOGY VIVID VELVET EDP 100ML...",
