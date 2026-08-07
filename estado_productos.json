@@ -2664,12 +2664,6 @@
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
       "en_stock": false
     },
-    "11546801": {
-      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
-      "precio": "77,82 €",
-      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": false
-    },
     "11476796": {
       "nombre": "REPLICA MAISON MARGIELA FROM THE...",
       "precio": "72,90 €",
@@ -12504,7 +12498,7 @@
       "nombre": "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
       "precio": "198,90 €",
       "url": "https://www.perfumeriaschic.com/p11433948-amouage-guidance-woman-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7276252": {
       "nombre": "ANNICK GOUTAL NUIT ET CONFIDENCES...",
@@ -13742,12 +13736,6 @@
       "url": "https://www.perfumeriaschic.com/p10458371-escada-taj-sunset-edt-50ml-tester.html",
       "en_stock": false
     },
-    "11546801": {
-      "nombre": "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
-      "precio": "77,82 €",
-      "url": "https://www.perfumeriaschic.com/p11546801-simone-andreoli-mandorla-del-sud-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": false
-    },
     "10681633": {
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
       "precio": "56,90 €",
@@ -14130,7 +14118,7 @@
       "nombre": "REMINISCENCE LE REM (REM) EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11760362": {
       "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
@@ -14256,18 +14244,6 @@
       "nombre": "PERRIS MONTE CARLO BERGAMOTO DI...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p8796047-perris-monte-carlo-bergamoto-di-calabria-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11765811": {
-      "nombre": "REPLICA MAISON MARGIELA CHASING...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11765811-replica-maison-margiela-chasing-sunsets-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
-    },
-    "11765813": {
-      "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
       "en_stock": false
     },
     "11765928": {
@@ -14514,13 +14490,7 @@
       "nombre": "REMINISCENCE LE PATCHOULI ÉLIXIR EDP...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11539610": {
-      "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11763826": {
       "nombre": "GIARDINI DI TOSCANA SHABBY CHIC...",
@@ -14617,6 +14587,18 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p3026444-ralph-lauren-polo-blue-edt-125ml-tester.html",
       "en_stock": false
+    },
+    "11770993": {
+      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
+      "en_stock": true
+    },
+    "11770994": {
+      "nombre": "MAISON CRIVELLI SAFRAN SECRET 50ML...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770994-maison-crivelli-safran-secret-50ml-tester.html",
+      "en_stock": true
     },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
@@ -16016,7 +15998,7 @@
       "nombre": "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
       "precio": "198,90 €",
       "url": "https://www.perfumeriaschic.com/p11433948-amouage-guidance-woman-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11434005": {
       "nombre": "NISHANE WULÓNG CHÁ X EXTRAIT DE...",
@@ -17980,12 +17962,6 @@
       "url": "https://www.perfumeriaschic.com/p11647108-memo-paris-oriental-leather-edp-75ml.html",
       "en_stock": false
     },
-    "11765813": {
-      "nombre": "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11765813-loewe-upp-mayrit-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11470973": {
       "nombre": "MONTALE DARK VANILLA EDP 100ML TESTER",
       "precio": "78,90 €",
@@ -18057,6 +18033,18 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11770993": {
+      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
+      "en_stock": true
+    },
+    "11770994": {
+      "nombre": "MAISON CRIVELLI SAFRAN SECRET 50ML...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770994-maison-crivelli-safran-secret-50ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18422,7 +18410,9 @@
     "M. MICALLEF O FEMININ EDP 100ML...",
     "M. MICALLEF PURE EXTREME EDP 100ML...",
     "M. MICALLEF YLANG IN GOLD EDP 100ML...",
+    "MAISON CRIVELLI OUD STALLION EXTRAIT...",
     "MAISON CRIVELLI PATCHOULI MAGNETIK...",
+    "MAISON CRIVELLI SAFRAN SECRET 50ML...",
     "MANCERA AMBER FEVER EDP 120ML TESTER",
     "MANCERA AMORE CAFFE EDP 120ML TESTER",
     "MANCERA AOUD BLUE NOTES EDP 120ML...",
