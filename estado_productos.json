@@ -11438,6 +11438,12 @@
       "url": "https://www.perfumeriaschic.com/p7255345-merchant-of-venice-mandarin-carnival-edp-100ml-tester-sin-caja.html",
       "en_stock": false
     },
+    "11647095": {
+      "nombre": "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11647095-d-s-durga-i-dont-know-what-edp-50ml-tester.html",
+      "en_stock": true
+    },
     "10958122": {
       "nombre": "MANCERA VANILLE EXCLUSIVE EDP 120ML...",
       "precio": "68,90 €",
@@ -11670,7 +11676,7 @@
       "nombre": "DONNA KARAN CASHMERE & VANILLA...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11545195-donna-karan-cashmere-vanilla-essence-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11548546": {
       "nombre": "LANCOME LA VIE EST BELLE ROSE...",
@@ -12372,7 +12378,7 @@
       "nombre": "MONTBLANC LEGEND ELIXIR PARFUM 100ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11732561-montblanc-legend-elixir-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11720844": {
       "nombre": "​PHILIPP PLEIN NO LIMITS PLATINUM...",
@@ -13428,7 +13434,7 @@
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11658959": {
       "nombre": "XERJOFF CORO EDP 100ML TESTER",
@@ -13752,7 +13758,7 @@
       "nombre": "DONNA KARAN CASHMERE & PALO SANTO...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11545200-donna-karan-cashmere-palo-santo-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424232": {
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
@@ -13956,7 +13962,7 @@
       "nombre": "REMINISCENCE LE PATCHOULI EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355815-reminiscence-le-patchouli-patchouli-edt-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11543160": {
       "nombre": "REMINISCENCE SOUFFLE AMBRE EAU DE...",
@@ -15296,6 +15302,12 @@
       "nombre": "M. MICALLEF NOTORIOUS XO EDP 100ML...",
       "precio": "146,90 €",
       "url": "https://www.perfumeriaschic.com/p11664041-m-micallef-notorious-xo-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11647095": {
+      "nombre": "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11647095-d-s-durga-i-dont-know-what-edp-50ml-tester.html",
       "en_stock": true
     },
     "11680702": {
@@ -17666,7 +17678,7 @@
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11469956": {
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
@@ -18186,6 +18198,7 @@
     "CREED TABAROME EDP 100ML TESTER",
     "D.S.&DURGA AMBER KISO EDP 100ML...",
     "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
+    "D.S.&DURGA I DON'T KNOW WHAT EDP...",
     "DANIEL JOSIER UNDER THE FIGTREE EDP...",
     "DANIEL JOSIER VANILLE ET COCO PARFUM...",
     "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
