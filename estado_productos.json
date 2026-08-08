@@ -2918,6 +2918,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "7453509": {
+      "nombre": "PRADA INFUSION FLEUR D´ORANGE EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p7453509-prada-infusion-fleur-dorange-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8372096": {
+      "nombre": "YVES SAINT LAURENT Y EDP 100ML TESTER",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p8372096-yves-saint-laurent-y-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "8420079": {
       "nombre": "PRADA INFUSION D´AMANDE EDP 100ML...",
       "precio": "54,90 €",
@@ -5702,12 +5714,6 @@
       "url": "https://www.perfumeriaschic.com/p10566059-carolina-herrera-212-vip-rose-i-love-ny-edp-80ml-tester.html",
       "en_stock": false
     },
-    "7453509": {
-      "nombre": "PRADA INFUSION FLEUR D´ORANGE EDP...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p7453509-prada-infusion-fleur-dorange-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "6975381": {
       "nombre": "GUCCI MADE TO MEASURE EDT 90ML TESTER",
       "precio": "49,90 €",
@@ -6559,12 +6565,6 @@
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11271435-penhaligons-halfeti-leather-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "8372096": {
-      "nombre": "YVES SAINT LAURENT Y EDP 100ML TESTER",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p8372096-yves-saint-laurent-y-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11412462": {
       "nombre": "NARCISO RODRIGUEZ VETIVER MUSC FOR...",
