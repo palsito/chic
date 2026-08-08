@@ -340,7 +340,7 @@
       "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "7472687": {
       "nombre": "MANDARINA DUCK BLACK EDT 100ML TESTER",
@@ -3450,7 +3450,7 @@
       "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "3046447": {
       "nombre": "ESCADA JOYFUL MOMENTS EDP 50ML TESTER",
