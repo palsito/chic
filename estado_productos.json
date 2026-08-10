@@ -2930,6 +2930,54 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "7863878": {
+      "nombre": "ANNICK GOUTAL PETIT CHERIE EDT 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p7863878-annick-goutal-petit-cherie-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "10613145": {
+      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
+      "precio": "28,62 €",
+      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "3796559": {
+      "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
+      "precio": "34,85 €",
+      "url": "https://www.perfumeriaschic.com/p3796559-ralph-laurent-ralph-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11568587": {
+      "nombre": "KENZO HOMME INDIGO EAU DE PARFUM 110...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11568587-kenzo-homme-indigo-eau-de-parfum-110-ml-tester.html",
+      "en_stock": true
+    },
+    "11653583": {
+      "nombre": "POLO RALPH LAURENT RALP´S CLUB NEW...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11653583-polo-ralph-laurent-ralps-club-new-york-eau-de-parfum-125ml-tester.html",
+      "en_stock": true
+    },
+    "10911757": {
+      "nombre": "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p10911757-rochas-eau-de-rochas-lessentiel-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11424764": {
+      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7664196": {
+      "nombre": "ANNICK GOUTAL TENUE DE SOIREE EDP...",
+      "precio": "79,90 €",
+      "url": "https://www.perfumeriaschic.com/p7664196-annick-goutal-tenue-de-soiree-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "11509078": {
       "nombre": "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
       "precio": "32,95 €",
@@ -5791,12 +5839,6 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p10513256-issey-miyake-leau-dissey-absolue-edp-90ml-tester.html",
       "en_stock": false
-    },
-    "7863878": {
-      "nombre": "ANNICK GOUTAL PETIT CHERIE EDT 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p7863878-annick-goutal-petit-cherie-edt-100ml-sin-caja.html",
-      "en_stock": true
     },
     "10894234": {
       "nombre": "LIQUIDES IMAGINAIRES ILE POURPRE...",
@@ -10292,12 +10334,6 @@
       "url": "https://www.perfumeriaschic.com/p11412378-estee-lauder-sensuous-nude-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "10613145": {
-      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
-      "precio": "28,62 €",
-      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11528749": {
       "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
       "precio": "39,90 €",
@@ -10730,12 +10766,6 @@
       "url": "https://www.perfumeriaschic.com/p10219684-francesca-bianchi-etruscan-water-extrait-de-parfum-30ml.html",
       "en_stock": false
     },
-    "3796559": {
-      "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
-      "precio": "34,85 €",
-      "url": "https://www.perfumeriaschic.com/p3796559-ralph-laurent-ralph-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "10891468": {
       "nombre": "BOUCHERON EAU DE TOILETTE 100ML...",
       "precio": "23,90 €",
@@ -11155,12 +11185,6 @@
       "precio": "26,88 €",
       "url": "https://www.perfumeriaschic.com/p10925715-tous-edp-90ml-tester.html",
       "en_stock": false
-    },
-    "11568587": {
-      "nombre": "KENZO HOMME INDIGO EAU DE PARFUM 110...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11568587-kenzo-homme-indigo-eau-de-parfum-110-ml-tester.html",
-      "en_stock": true
     },
     "4870919": {
       "nombre": "ISSEY MIYAKE PLEATS PLEASE EDT 100ML...",
@@ -11834,12 +11858,6 @@
       "url": "https://www.perfumeriaschic.com/p7283638-penhaligons-halfeti-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11653583": {
-      "nombre": "POLO RALPH LAURENT RALP´S CLUB NEW...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11653583-polo-ralph-laurent-ralps-club-new-york-eau-de-parfum-125ml-tester.html",
-      "en_stock": true
-    },
     "11406779": {
       "nombre": "MONTALE DARK AOUD EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -11917,12 +11935,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p4555216-ralph-laurent-polo-blue-edp-125ml-tester.html",
       "en_stock": false
-    },
-    "10911757": {
-      "nombre": "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p10911757-rochas-eau-de-rochas-lessentiel-edp-100ml-tester.html",
-      "en_stock": true
     },
     "2521510": {
       "nombre": "LACOSTE LIVE POUR HOMME EDT 100ML...",
