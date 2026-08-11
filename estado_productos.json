@@ -2878,13 +2878,13 @@
       "nombre": "GUCCI BAMBOO EAU DE PARFUM 75ML...",
       "precio": "42,40 €",
       "url": "https://www.perfumeriaschic.com/p7172654-gucci-bamboo-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8764541": {
       "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
       "precio": "9,93 €",
       "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10694304": {
       "nombre": "TOMMY HILFIGER TOMMY NOW EDT 100ML...",
@@ -13632,7 +13632,7 @@
       "nombre": "ESCADA TAJ SUNSET EDT 50ML TESTER",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p10458371-escada-taj-sunset-edt-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10681633": {
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
@@ -14394,7 +14394,7 @@
       "nombre": "GUCCI BAMBOO EAU DE PARFUM 75ML...",
       "precio": "42,40 €",
       "url": "https://www.perfumeriaschic.com/p7172654-gucci-bamboo-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11760740": {
       "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
@@ -14448,7 +14448,7 @@
       "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
       "precio": "9,93 €",
       "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10694304": {
       "nombre": "TOMMY HILFIGER TOMMY NOW EDT 100ML...",
