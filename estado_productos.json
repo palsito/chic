@@ -1,5 +1,41 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "10613145": {
+      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
+      "precio": "28,62 €",
+      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "3796559": {
+      "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
+      "precio": "34,85 €",
+      "url": "https://www.perfumeriaschic.com/p3796559-ralph-laurent-ralph-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11646570": {
+      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "8764541": {
+      "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
+      "precio": "9,93 €",
+      "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
+      "en_stock": true
+    },
+    "7172654": {
+      "nombre": "GUCCI BAMBOO EAU DE PARFUM 75ML...",
+      "precio": "42,40 €",
+      "url": "https://www.perfumeriaschic.com/p7172654-gucci-bamboo-eau-de-parfum-75ml-tester.html",
+      "en_stock": true
+    },
+    "9352376": {
+      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
+      "precio": "46,58 €",
+      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
+      "en_stock": true
+    },
     "11769931": {
       "nombre": "CACHAREL ELLA ELLA FLORA AZURA EDP...",
       "precio": "38,90 €",
@@ -552,12 +588,6 @@
       "url": "https://www.perfumeriaschic.com/p11383919-jousset-accident-a-la-vanille-extrait-de-parfum-50ml.html",
       "en_stock": true
     },
-    "11468402": {
-      "nombre": "EVODY FLEUR D'ORANGER EDP 100ML...",
-      "precio": "68,96 €",
-      "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "4814140": {
       "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
       "precio": "29,67 €",
@@ -756,12 +786,6 @@
       "url": "https://www.perfumeriaschic.com/p11660110-mary-kay-clinical-solutions-dynamic-wrinkle-limiter-reductor-dinamico-de-arrugas-15ml.html",
       "en_stock": true
     },
-    "11660088": {
-      "nombre": "MARY KAY CLINICAL SOLUTIONS...",
-      "precio": "23,85 €",
-      "url": "https://www.perfumeriaschic.com/p11660088-mary-kay-clinical-solutions-ferulniacinamid-aufheller-ferulico-aclarante-e-iluminador-de-niacinamida-15ml.html",
-      "en_stock": false
-    },
     "11660087": {
       "nombre": "MARY KAY TIMEWISE DAYTIME DEFENDER...",
       "precio": "23,85 €",
@@ -779,12 +803,6 @@
       "precio": "5,95 €",
       "url": "https://www.perfumeriaschic.com/p11660083-mary-kay-mint-bliss-energizing-lotion-tratamiento-activador-de-pies-y-piernas-88ml.html",
       "en_stock": true
-    },
-    "11660081": {
-      "nombre": "MARY KAY EXTRA EMOLLIENT CREMA DE...",
-      "precio": "12,75 €",
-      "url": "https://www.perfumeriaschic.com/p11660081-mary-kay-extra-emollient-crema-de-noche-extra-emoliente-60ml.html",
-      "en_stock": false
     },
     "11664086": {
       "nombre": "V CANTO AGAPE EAU DE PARFUM 100ML...",
@@ -924,12 +942,6 @@
       "url": "https://www.perfumeriaschic.com/p4479554-diesel-only-the-brave-edt-75ml-tester.html",
       "en_stock": true
     },
-    "8435409": {
-      "nombre": "ROCHAS GIRL EDT 100ML TESTER",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p8435409-rochasgirl-edt100ml-tester.html",
-      "en_stock": false
-    },
     "2515129": {
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
       "precio": "24,21 €",
@@ -941,12 +953,6 @@
       "precio": "34,96 €",
       "url": "https://www.perfumeriaschic.com/p11439351-marc-jacobs-dot-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11660080": {
-      "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
-      "precio": "17,33 €",
-      "url": "https://www.perfumeriaschic.com/p11660080-mary-kay-timewise-locion-tonificante-corporal-236ml.html",
-      "en_stock": false
     },
     "11651699": {
       "nombre": "​PHILIPP PLEIN FATALE ROSE INTENSE...",
@@ -1157,12 +1163,6 @@
       "precio": "58,91 €",
       "url": "https://www.perfumeriaschic.com/p7431813-montale-dark-purple-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "9352376": {
-      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
-      "precio": "46,58 €",
-      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
-      "en_stock": true
     },
     "11416590": {
       "nombre": "THAMEEN CARVED OUD EDP 50ML TESTER",
@@ -2820,18 +2820,6 @@
       "url": "https://www.perfumeriaschic.com/p10856714-hollister-festival-vibes-for-her-edp-100ml-tester.html",
       "en_stock": false
     },
-    "7172654": {
-      "nombre": "GUCCI BAMBOO EAU DE PARFUM 75ML...",
-      "precio": "42,40 €",
-      "url": "https://www.perfumeriaschic.com/p7172654-gucci-bamboo-eau-de-parfum-75ml-tester.html",
-      "en_stock": true
-    },
-    "8764541": {
-      "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
-      "precio": "9,93 €",
-      "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
-      "en_stock": true
-    },
     "10694304": {
       "nombre": "TOMMY HILFIGER TOMMY NOW EDT 100ML...",
       "precio": "22,87 €",
@@ -2850,23 +2838,35 @@
       "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11646570": {
-      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+    "11468402": {
+      "nombre": "EVODY FLEUR D'ORANGER EDP 100ML...",
+      "precio": "68,96 €",
+      "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11660088": {
+      "nombre": "MARY KAY CLINICAL SOLUTIONS...",
+      "precio": "23,85 €",
+      "url": "https://www.perfumeriaschic.com/p11660088-mary-kay-clinical-solutions-ferulniacinamid-aufheller-ferulico-aclarante-e-iluminador-de-niacinamida-15ml.html",
+      "en_stock": false
+    },
+    "11660081": {
+      "nombre": "MARY KAY EXTRA EMOLLIENT CREMA DE...",
+      "precio": "12,75 €",
+      "url": "https://www.perfumeriaschic.com/p11660081-mary-kay-extra-emollient-crema-de-noche-extra-emoliente-60ml.html",
+      "en_stock": false
+    },
+    "8435409": {
+      "nombre": "ROCHAS GIRL EDT 100ML TESTER",
       "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
+      "url": "https://www.perfumeriaschic.com/p8435409-rochasgirl-edt100ml-tester.html",
+      "en_stock": false
     },
-    "3796559": {
-      "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
-      "precio": "34,85 €",
-      "url": "https://www.perfumeriaschic.com/p3796559-ralph-laurent-ralph-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "10613145": {
-      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
-      "precio": "28,62 €",
-      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
-      "en_stock": true
+    "11660080": {
+      "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
+      "precio": "17,33 €",
+      "url": "https://www.perfumeriaschic.com/p11660080-mary-kay-timewise-locion-tonificante-corporal-236ml.html",
+      "en_stock": false
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -4214,12 +4214,6 @@
       "url": "https://www.perfumeriaschic.com/p11313275-xerjoff-amabile-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11544577": {
-      "nombre": "KENZO FLOWER CHERRY POPPY EDP 50ML...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544577-kenzo-flower-cherry-poppy-edp-50ml-tester.html",
-      "en_stock": true
-    },
     "10793047": {
       "nombre": "XERJOFF COMANDANTE EDP 100ML TESTER",
       "precio": "139,84 €",
@@ -4988,12 +4982,6 @@
       "url": "https://www.perfumeriaschic.com/p11522202-3ina-the-compact-powder-polvos-compactos-tono-618-sin-caja.html",
       "en_stock": true
     },
-    "11522218": {
-      "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
-      "precio": "8,90 €",
-      "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
-      "en_stock": true
-    },
     "11522226": {
       "nombre": "3INA THE TINTED MOISTURIZER SPF30...",
       "precio": "10,90 €",
@@ -5664,12 +5652,6 @@
       "nombre": "CALVIN KLEIN WOMEN EDP 100ML TESTER",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p5561953-calvin-klein-women-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "5402504": {
-      "nombre": "GUCCI BAMBOO EDT 75ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p5402504-gucci-bamboo-edt-75ml-tester.html",
       "en_stock": false
     },
     "10830974": {
@@ -6440,12 +6422,6 @@
       "url": "https://www.perfumeriaschic.com/p10830972-estee-lauder-modern-muse-eau-de-rouge-edt-50ml-tester.html",
       "en_stock": false
     },
-    "9678924": {
-      "nombre": "DAVIDOFF THE GAME EDT 100ML TESTER",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p9678924-davidoff-the-game-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "9951630": {
       "nombre": "ESTEE LAUDER BEAUTIFUL EDP 75ML SIN...",
       "precio": "29,63 €",
@@ -6924,12 +6900,6 @@
       "nombre": "CAROLINA HERRERA 212 HEROES EDT 90ML...",
       "precio": "42,90 €",
       "url": "https://www.perfumeriaschic.com/p8588165-carolina-herrera-212-heroes-edp-90ml-tester.html",
-      "en_stock": false
-    },
-    "10856719": {
-      "nombre": "DAVIDOFF COOL WATER INTENSE FOR HER...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p10856719-davidoff-cool-water-intense-for-her-edp-100ml-tester.html",
       "en_stock": false
     },
     "8940140": {
@@ -7604,12 +7574,6 @@
       "url": "https://www.perfumeriaschic.com/p5061477-hermes-rouge-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10679831": {
-      "nombre": "​PHILIPP PLEIN NO LIMITS SUPER FRESH...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p10679831-philipp-plein-no-limits-super-fresh-edt-90ml-tester.html",
-      "en_stock": false
-    },
     "9155326": {
       "nombre": "VAN CLEEF & ARPELS FIRST EDP 100ML...",
       "precio": "38,90 €",
@@ -8282,12 +8246,6 @@
       "url": "https://www.perfumeriaschic.com/p10680673-histoires-de-parfums-ambre-114-edp-120ml-tester.html",
       "en_stock": false
     },
-    "11421106": {
-      "nombre": "VALENTINO UOMO BORN IN ROMA GREEN...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p11421106-valentino-uomo-born-in-roma-green-stravaganza-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11272636": {
       "nombre": "NISHANE AMBRA CALABRIA EXTRAIT DE...",
       "precio": "99,90 €",
@@ -8958,12 +8916,6 @@
       "nombre": "MASQUE MILANO DOLCEACQUA EAU DE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11348641-masque-milano-dolceacqua-eau-de-parfum-35ml-tester.html",
-      "en_stock": false
-    },
-    "11272606": {
-      "nombre": "CREED NEROLI SAUVAGE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11272606-creed-neroli-sauvage-edp-100ml-tester.html",
       "en_stock": false
     },
     "7188450": {
@@ -9926,12 +9878,6 @@
       "url": "https://www.perfumeriaschic.com/p10220456-xerjoff-casamorati-fiore-dulivo-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8087281": {
-      "nombre": "ACQUA DI PARMA AMBRA EDP 100ML TESTER",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8087281-acqua-di-parma-ambra-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "4880402": {
       "nombre": "ADOLFO DOMINGUEZ UNICA CORAL EDT...",
       "precio": "21,90 €",
@@ -10700,12 +10646,6 @@
       "url": "https://www.perfumeriaschic.com/p11282276-dkny-men-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11366733": {
-      "nombre": "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11366733-dusita-moonlight-in-chiangmai-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
     "11544576": {
       "nombre": "ESCADA BALI PARADISE EDT 100ML TESTER",
       "precio": "29,90 €",
@@ -11088,12 +11028,6 @@
       "nombre": "GUCCI GUILTY POUR FEMME EDP 90ML...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p7038252-gucci-guilty-pour-femme-edp-90ml-tester.html",
-      "en_stock": false
-    },
-    "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
       "en_stock": false
     },
     "11407996": {
@@ -14656,12 +14590,6 @@
       "url": "https://www.perfumeriaschic.com/p11509080-etat-libre-dorange-story-of-your-life-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11740999": {
-      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "11529796": {
       "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
       "precio": "109,91 €",
@@ -15106,12 +15034,6 @@
       "url": "https://www.perfumeriaschic.com/p11664041-m-micallef-notorious-xo-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11647095": {
-      "nombre": "D.S.&DURGA I DON'T KNOW WHAT EDP...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11647095-d-s-durga-i-dont-know-what-edp-50ml-tester.html",
-      "en_stock": false
-    },
     "11680702": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN A...",
       "precio": "98,90 €",
@@ -15255,12 +15177,6 @@
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p10680516-histoires-de-parfums-1876-edp-120ml-tester.html",
       "en_stock": true
-    },
-    "11468402": {
-      "nombre": "EVODY FLEUR D'ORANGER EDP 100ML...",
-      "precio": "68,96 €",
-      "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11413540": {
       "nombre": "GRITTI VENETIA BIASSANÒT EAU DE...",
@@ -17822,6 +17738,24 @@
       "nombre": "MANCERA PRECIOUS OUD EDP 120ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11744261-mancera-precious-oud-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11740999": {
+      "nombre": "JOVOY PSYCHEDELIQUE EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
+      "en_stock": false
+    },
+    "11647095": {
+      "nombre": "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11647095-d-s-durga-i-dont-know-what-edp-50ml-tester.html",
+      "en_stock": false
+    },
+    "11468402": {
+      "nombre": "EVODY FLEUR D'ORANGER EDP 100ML...",
+      "precio": "68,96 €",
+      "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
       "en_stock": false
     }
   },
