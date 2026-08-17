@@ -1350,12 +1350,6 @@
       "url": "https://www.perfumeriaschic.com/p10240056-etro-magot-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10097476": {
-      "nombre": "TOUS KIDS BOY EDT 100ML + NECESER +...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p10097476-tous-kids-boy-edt-100ml-neceser-miniatura-pack.html",
-      "en_stock": false
-    },
     "1137787": {
       "nombre": "LOEWE L EDT 30ML",
       "precio": "16,85 €",
@@ -2502,12 +2496,6 @@
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11744367": {
-      "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
-      "precio": "36,95 €",
-      "url": "https://www.perfumeriaschic.com/p11744367-nishane-wulong-cha-hair-perfume-para-el-cabello-50ml.html",
-      "en_stock": false
-    },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
       "precio": "139,83 €",
@@ -3042,6 +3030,12 @@
       "nombre": "REMINISCENCE LE REM (REM) EDT...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11770993": {
+      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
       "en_stock": true
     },
     "10975230": {
@@ -17781,6 +17775,12 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11770993": {
+      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
+      "en_stock": true
     },
     "10618135": {
       "nombre": "M. MICALLEF GNTONIC EDP 100ML TESTER...",
