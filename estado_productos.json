@@ -132,12 +132,6 @@
       "url": "https://www.perfumeriaschic.com/p10513600-dkny-be-delicious-fresh-blossom-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11451157": {
-      "nombre": "ATELIERS DES ORS PINK ME UP EDP...",
-      "precio": "119,51 €",
-      "url": "https://www.perfumeriaschic.com/p11451157-ateliers-des-ors-pink-me-up-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10843344": {
       "nombre": "TOUS KIDS BOY EDT 100ML TESTER",
       "precio": "17,91 €",
@@ -587,12 +581,6 @@
       "precio": "129,00 €",
       "url": "https://www.perfumeriaschic.com/p11383919-jousset-accident-a-la-vanille-extrait-de-parfum-50ml.html",
       "en_stock": true
-    },
-    "4814140": {
-      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
-      "precio": "29,67 €",
-      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
-      "en_stock": false
     },
     "9072258": {
       "nombre": "ADOLFO DOMINGUEZ TERRACOTA MUSK EDP...",
@@ -2854,6 +2842,18 @@
       "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
       "precio": "17,33 €",
       "url": "https://www.perfumeriaschic.com/p11660080-mary-kay-timewise-locion-tonificante-corporal-236ml.html",
+      "en_stock": false
+    },
+    "11451157": {
+      "nombre": "ATELIERS DES ORS PINK ME UP EDP...",
+      "precio": "119,51 €",
+      "url": "https://www.perfumeriaschic.com/p11451157-ateliers-des-ors-pink-me-up-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "4814140": {
+      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
       "en_stock": false
     }
   },
@@ -14644,6 +14644,24 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11774031": {
+      "nombre": "MAISON CRIVELLI MUSC NURASANA...",
+      "precio": "214,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774031-maison-crivelli-musc-nurasana-extrait-50ml-tester.html",
+      "en_stock": true
+    },
+    "11770994": {
+      "nombre": "MAISON CRIVELLI SAFRAN SECRET...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770994-maison-crivelli-safran-secret-50ml-tester.html",
+      "en_stock": true
+    },
+    "11770993": {
+      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
+      "en_stock": true
+    },
     "11366724": {
       "nombre": "BOIS 1920 OLTREMARE EAU DE PARFUM...",
       "precio": "84,90 €",
@@ -14654,6 +14672,12 @@
       "nombre": "MORESQUE DISCOVERY SET 7 X 7,5ML",
       "precio": "74,70 €",
       "url": "https://www.perfumeriaschic.com/p11719258-moresque-discovery-set-7-x-7-5ml.html",
+      "en_stock": true
+    },
+    "11774030": {
+      "nombre": "JULIETTE HAS A GUN MADELEINE...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774030-juliette-has-a-gun-madeleine-imperiale-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11606566": {
@@ -17800,18 +17824,6 @@
       "url": "https://www.perfumeriaschic.com/p8252606-mancera-wild-fruits-edp-120ml-tester.html",
       "en_stock": false
     },
-    "11770993": {
-      "nombre": "MAISON CRIVELLI OUD STALLION EXTRAIT...",
-      "precio": "198,90 €",
-      "url": "https://www.perfumeriaschic.com/p11770993-maison-crivelli-oud-stallion-extrait-100ml-tester.html",
-      "en_stock": true
-    },
-    "11770994": {
-      "nombre": "MAISON CRIVELLI SAFRAN SECRET...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11770994-maison-crivelli-safran-secret-50ml-tester.html",
-      "en_stock": true
-    },
     "10618135": {
       "nombre": "M. MICALLEF GNTONIC EDP 100ML TESTER...",
       "precio": "139,90 €",
@@ -17853,18 +17865,6 @@
       "precio": "68,96 €",
       "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11774030": {
-      "nombre": "JULIETTE HAS A GUN MADELEINE...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774030-juliette-has-a-gun-madeleine-imperiale-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
-    "11774031": {
-      "nombre": "MAISON CRIVELLI MUSC NURASANA...",
-      "precio": "214,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774031-maison-crivelli-musc-nurasana-extrait-50ml-tester.html",
-      "en_stock": true
     },
     "11774032": {
       "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
