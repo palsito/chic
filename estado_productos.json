@@ -472,7 +472,7 @@
       "nombre": "EL GANSO FUN & CHIC EDP 100ML TESTER",
       "precio": "15,96 €",
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11094387": {
       "nombre": "LANCOME ADVANCED GENIFIQUE SERUM...",
@@ -538,7 +538,7 @@
       "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
       "precio": "8,90 €",
       "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11522202": {
       "nombre": "3INA THE COMPACT POWDER POLVOS...",
@@ -3338,6 +3338,12 @@
       "url": "https://www.perfumeriaschic.com/p10843344-tous-kids-boy-edt-100ml-tester.html",
       "en_stock": true
     },
+    "11761749": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
+      "en_stock": false
+    },
     "11761746": {
       "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
       "precio": "39,90 €",
@@ -4038,7 +4044,7 @@
       "nombre": "EL GANSO FUN & CHIC EDP 100ML TESTER",
       "precio": "15,96 €",
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11510309": {
       "nombre": "4711 ACQUA COLONIA COLLECTION...",
@@ -4968,7 +4974,7 @@
       "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
       "precio": "8,90 €",
       "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11522226": {
       "nombre": "3INA THE TINTED MOISTURIZER SPF30...",
@@ -12828,7 +12834,7 @@
       "nombre": "HERMES  TWILLY EDP 85ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p3040213-hermes-twilly-edp-85ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8361498": {
       "nombre": "MANCERA CEDRAT BOISE EDP 120ML TESTER",
@@ -13602,7 +13608,7 @@
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
       "precio": "28,90 €",
       "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561223": {
       "nombre": "HFC DANCING QUEEN EAU DE PARFUM 75ML...",
@@ -13920,7 +13926,7 @@
       "nombre": "ACQUA DI PARMA COLONIA INTENSA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8081494": {
       "nombre": "ACQUA DI PARMA COLONIA FUTURA EDC...",
