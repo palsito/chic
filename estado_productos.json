@@ -2182,7 +2182,7 @@
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
@@ -2638,7 +2638,7 @@
       "nombre": "TOUS LOVEME THE SILVER PARFUM 90ML...",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p10842269-tous-loveme-the-silver-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11740415": {
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
@@ -2662,7 +2662,7 @@
       "nombre": "TOUS LOVEME EAU DE PARFUM 90ML TESTER",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10935514-tous-loveme-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11272654": {
       "nombre": "MORESQUE CONTESSA EDP 50ML TESTER",
@@ -2855,6 +2855,12 @@
       "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
       "en_stock": false
+    },
+    "11761749": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
+      "precio": "69,95 €",
+      "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3340,9 +3346,9 @@
     },
     "11761749": {
       "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
-      "precio": "72,90 €",
+      "precio": "69,95 €",
       "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11761746": {
       "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
@@ -3546,6 +3552,12 @@
       "nombre": "JIL SANDER SUN EDT 75ML TESTER",
       "precio": "9,95 €",
       "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
+      "en_stock": true
+    },
+    "11637302": {
+      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
       "en_stock": true
     },
     "1987626": {
@@ -6854,6 +6866,12 @@
       "url": "https://www.perfumeriaschic.com/p7472425-etro-patchouly-edt-100ml-sin-caja.html",
       "en_stock": false
     },
+    "10878139": {
+      "nombre": "LOEWE SOLO  EDT 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "10771759": {
       "nombre": "BEAUFORT LONDON IRON DUKE EDP 50ML...",
       "precio": "84,90 €",
@@ -7668,12 +7686,6 @@
       "nombre": "HERMES TERRE EDT 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p4555906-hermes-terre-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "6360363": {
-      "nombre": "MIU MIU EDP 50ML TESTER",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p6360363-miu-miu-edp-100ml-tester.html",
       "en_stock": false
     },
     "10768849": {
@@ -9270,7 +9282,7 @@
       "nombre": "JESUS DEL POZO HALLOWEEN MAN X EDT...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p11359934-jesus-del-pozo-halloween-man-x-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4986456": {
       "nombre": "CALVIN KLEIN CK ONE GOLD EDT 100ML...",
@@ -9883,6 +9895,12 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p2520507-calvin-klein-deep-euphoria-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11545186": {
+      "nombre": "LOEWE SOLO ELIXIR POUR HOMME EDP...",
+      "precio": "69,90 €",
+      "url": "https://www.perfumeriaschic.com/p11545186-loewe-solo-elixir-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10012623": {
       "nombre": "MERCHANT OF VENICE VENETIAN BLUE EDP...",
@@ -10548,7 +10566,7 @@
       "nombre": "THIERRY MUGLER ANGEL FANTASM...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11643710-thierry-mugler-angel-fantasm-sensuelle-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "6885917": {
       "nombre": "HERMES EAU DE CITRON NOIR EDC 100ML...",
@@ -11400,7 +11418,7 @@
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11680656": {
       "nombre": "DUSITA SPLENDIRIS EAU DE PARFUM...",
@@ -12036,7 +12054,7 @@
       "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8372134": {
       "nombre": "SISLEY IZIA LA NUIT EDP 100ML TESTER",
@@ -13092,7 +13110,7 @@
       "nombre": "TOUS LOVEME THE ONYX EAU DE PARFUM...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11208168-tous-loveme-the-onyx-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11416590": {
       "nombre": "THAMEEN CARVED OUD EDP 50ML TESTER",
@@ -13260,7 +13278,7 @@
       "nombre": "JESUS DEL POZO HALLOWEEN MAN EDT...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10219725-jesus-del-pozo-halloween-man-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8731930": {
       "nombre": "CALVIN KLEIN ETERNITY WOMAN  EAU SO...",
@@ -13416,7 +13434,7 @@
       "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p11701475-halloween-my-wish-addiction-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10848167": {
       "nombre": "ANGEL SCHLESSER LES EAUX D´UN...",
@@ -13602,7 +13620,7 @@
       "nombre": "TOUS LOVEME THE SILVER PARFUM 90ML...",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p10842269-tous-loveme-the-silver-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11161894": {
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
@@ -13728,7 +13746,7 @@
       "nombre": "TOUS LOVEME EAU DE PARFUM 90ML TESTER",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10935514-tous-loveme-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10423501": {
       "nombre": "SHISEIDO GINZA MURASAKI EDP 90ML...",
@@ -14552,12 +14570,6 @@
       "url": "https://www.perfumeriaschic.com/p11517814-bond-n9-chelsea-nights-edp-100ml-tester.html",
       "en_stock": false
     },
-    "6360451": {
-      "nombre": "MIU MIU L´EAU BLEUE  EDP 100ML...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p6360451-miu-miu-leau-bleue-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "6665869": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA CITRUS...",
       "precio": "18,90 €",
@@ -14586,12 +14598,6 @@
       "nombre": "TOUS OH! THE ORIGIN EDP 100ML TESTER",
       "precio": "24,98 €",
       "url": "https://www.perfumeriaschic.com/p2870995-tous-oh-the-origin-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "6078787": {
-      "nombre": "MIU MIU TWIST EDP 100ML TESTER",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p6078787-miu-miu-twist-edp-100ml-tester.html",
       "en_stock": false
     },
     "7782288": {
@@ -18191,6 +18197,8 @@
     "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
     "LOEWE ESENCIA ELIXIR 100ML TESTER",
     "LOEWE PAULA´S IBIZA ECLECTIC EAU DE...",
+    "LOEWE SOLO  EDT 100ML TESTER",
+    "LOEWE SOLO ELIXIR POUR HOMME EDP...",
     "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
     "LOEWE SOLO VULCAN EDP 100ML TESTER",
     "LOEWE UN PASEO POR MADRID LA BELLA...",
