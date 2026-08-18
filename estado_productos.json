@@ -550,7 +550,7 @@
       "nombre": "JOUSSET LA TARTE TATIN EXTRAIT DE...",
       "precio": "139,00 €",
       "url": "https://www.perfumeriaschic.com/p11436721-jousset-la-tarte-tatin-extrait-de-parfum-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11384040": {
       "nombre": "JOUSSET DELICIOUS BLACK POWDER...",
@@ -2858,17 +2858,17 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "10768869": {
-      "nombre": "PACO RABANNE ONE MILLION ROYAL...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p10768869-paco-rabanne-one-million-royal-parfum-100ml-tester.html",
-      "en_stock": false
+    "11774034": {
+      "nombre": "NARCISO RODRIGUEZ ALL OF ME FLORAL...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774034-narciso-rodriguez-all-of-me-floral-edp-90ml-tester.html",
+      "en_stock": true
     },
-    "11746273": {
-      "nombre": "YVES SAINT LAURENT LIBRE FLOWERS &...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746273-yves-saint-laurent-libre-flowers-flames-edp-florale-90ml-tester.html",
-      "en_stock": false
+    "11774047": {
+      "nombre": "BVLGARI LA GEMME AMUNAE EDP 125ML...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774047-bvlgari-la-gemme-amunae-edp-125ml-tester.html",
+      "en_stock": true
     },
     "11645398": {
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
@@ -2910,12 +2910,6 @@
       "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
       "precio": "204,90 €",
       "url": "https://www.perfumeriaschic.com/p11774032-maison-crivelli-cuir-infrarouge-extrait-100ml-tester.html",
-      "en_stock": false
-    },
-    "11774034": {
-      "nombre": "NARCISO RODRIGUEZ ALL OF ME FLORAL...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774034-narciso-rodriguez-all-of-me-floral-edp-90ml-tester.html",
       "en_stock": true
     },
     "8764541": {
@@ -14462,12 +14456,6 @@
       "url": "https://www.perfumeriaschic.com/p11451157-ateliers-des-ors-pink-me-up-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11774047": {
-      "nombre": "BVLGARI LA GEMME AMUNAE EDP 125ML...",
-      "precio": "198,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774047-bvlgari-la-gemme-amunae-edp-125ml-tester.html",
-      "en_stock": true
-    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
@@ -15278,7 +15266,7 @@
       "nombre": "JOUSSET LA TARTE TATIN EXTRAIT DE...",
       "precio": "139,00 €",
       "url": "https://www.perfumeriaschic.com/p11436721-jousset-la-tarte-tatin-extrait-de-parfum-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10680516": {
       "nombre": "HISTOIRES DE PARFUMS 1876 EDP 60ML...",
@@ -17870,7 +17858,7 @@
       "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
       "precio": "204,90 €",
       "url": "https://www.perfumeriaschic.com/p11774032-maison-crivelli-cuir-infrarouge-extrait-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
