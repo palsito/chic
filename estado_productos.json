@@ -2852,6 +2852,12 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11712241": {
+      "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
+      "precio": "44,85 €",
+      "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
+      "en_stock": true
+    },
     "10779761": {
       "nombre": "JESUS DEL POZO HALLOWEEN MAN HERO ...",
       "precio": "19,90 €",
@@ -13951,12 +13957,6 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10779787-el-ganso-like-father-like-son-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "11712241": {
-      "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
-      "precio": "44,85 €",
-      "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
-      "en_stock": true
     },
     "11407992": {
       "nombre": "V CANTO MALATESTA EXTRAIT DE PARFUM...",
