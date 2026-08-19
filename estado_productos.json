@@ -2852,28 +2852,10 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11424762": {
-      "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
-      "precio": "69,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11545186": {
-      "nombre": "LOEWE SOLO ELIXIR POUR HOMME EDP...",
-      "precio": "69,90 €",
-      "url": "https://www.perfumeriaschic.com/p11545186-loewe-solo-elixir-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "10878139": {
-      "nombre": "LOEWE SOLO  EDT 100ML TESTER",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11701475": {
-      "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
-      "precio": "26,90 €",
-      "url": "https://www.perfumeriaschic.com/p11701475-halloween-my-wish-addiction-edp-100ml-tester.html",
+    "10779761": {
+      "nombre": "JESUS DEL POZO HALLOWEEN MAN HERO ...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p10779761-jesus-del-pozo-halloween-man-hero-edt-125ml-tester.html",
       "en_stock": true
     },
     "10219725": {
@@ -2882,11 +2864,35 @@
       "url": "https://www.perfumeriaschic.com/p10219725-jesus-del-pozo-halloween-man-edt-125ml-tester.html",
       "en_stock": true
     },
-    "10779761": {
-      "nombre": "JESUS DEL POZO HALLOWEEN MAN HERO ...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p10779761-jesus-del-pozo-halloween-man-hero-edt-125ml-tester.html",
+    "11701475": {
+      "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
+      "precio": "26,90 €",
+      "url": "https://www.perfumeriaschic.com/p11701475-halloween-my-wish-addiction-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11637302": {
+      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "11761749": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
+      "precio": "69,95 €",
+      "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "11424762": {
+      "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
+      "precio": "69,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10878139": {
+      "nombre": "LOEWE SOLO  EDT 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
+      "en_stock": false
     },
     "4490348": {
       "nombre": "PRADA INFUSION DE ROSE EDP 100ML...",
@@ -3458,12 +3464,6 @@
       "url": "https://www.perfumeriaschic.com/p10843344-tous-kids-boy-edt-100ml-tester.html",
       "en_stock": true
     },
-    "11761749": {
-      "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
-      "precio": "69,95 €",
-      "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
-      "en_stock": true
-    },
     "11761746": {
       "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
       "precio": "39,90 €",
@@ -3666,12 +3666,6 @@
       "nombre": "JIL SANDER SUN EDT 75ML TESTER",
       "precio": "9,95 €",
       "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
-      "en_stock": true
-    },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
       "en_stock": true
     },
     "1987626": {
@@ -11874,6 +11868,12 @@
       "nombre": "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p10049671-nasomatto-narcotic-venus-extrait-de-parfum-30ml-tester.html",
+      "en_stock": false
+    },
+    "11672514": {
+      "nombre": "ROCHAS TOCADE EDT 100ML TESTER",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672514-rochas-tocade-edt-100ml-tester.html",
       "en_stock": false
     },
     "10679744": {
