@@ -2698,7 +2698,7 @@
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
       "precio": "44,85 €",
       "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650234": {
       "nombre": "MASQUE MILANO TERRALBA EDP 35ML...",
@@ -14034,7 +14034,7 @@
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
       "precio": "44,85 €",
       "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11407992": {
       "nombre": "V CANTO MALATESTA EXTRAIT DE PARFUM...",
@@ -14912,12 +14912,6 @@
       "nombre": "DANIEL JOSIER VETIVER EDP 100ML",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10683607-daniel-josier-vetiver-edp-100ml.html",
-      "en_stock": true
-    },
-    "10679756": {
-      "nombre": "DANIEL JOSIER AMBRE TABAC EDP 100ML",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p10679756-daniel-josier-ambre-tabac-edp-100ml.html",
       "en_stock": true
     },
     "11470963": {
