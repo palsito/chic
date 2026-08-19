@@ -3170,12 +3170,6 @@
       "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
       "en_stock": true
     },
-    "11754004": {
-      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11683691": {
       "nombre": "NISHANE TUBEROZA EXTRAIT DE PARFUM...",
       "precio": "124,90 €",
@@ -3247,12 +3241,6 @@
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11467863-lolita-lempicka-pour-homme-edt-100ml-tester.html",
       "en_stock": true
-    },
-    "4814140": {
-      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
-      "precio": "29,67 €",
-      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
-      "en_stock": false
     },
     "10553333": {
       "nombre": "JIMMY CHOO L´EAU EDT 90ML TESTER",
@@ -4123,12 +4111,6 @@
       "precio": "27,97 €",
       "url": "https://www.perfumeriaschic.com/p11637590-boucheron-quatre-pour-homme-edt-100ml.html",
       "en_stock": true
-    },
-    "11424516": {
-      "nombre": "EL GANSO FUN & CHIC EDP 100ML TESTER",
-      "precio": "15,96 €",
-      "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11510309": {
       "nombre": "4711 ACQUA COLONIA COLLECTION...",
@@ -5023,12 +5005,6 @@
       "precio": "9,90 €",
       "url": "https://www.perfumeriaschic.com/p11522202-3ina-the-compact-powder-polvos-compactos-tono-618-sin-caja.html",
       "en_stock": true
-    },
-    "11522218": {
-      "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
-      "precio": "8,90 €",
-      "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
-      "en_stock": false
     },
     "11522226": {
       "nombre": "3INA THE TINTED MOISTURIZER SPF30...",
@@ -6210,6 +6186,12 @@
       "nombre": "MANCERA JUICY FLOWERS EDP 120ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11293777-mancera-juicy-flowers-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "7432908": {
+      "nombre": "MANCERA LEMON LINE EDP 120ML TESTER",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p7432908-mancera-lemon-line-edp-100ml-sin-caja.html",
       "en_stock": false
     },
     "10694329": {
@@ -13028,6 +13010,12 @@
       "url": "https://www.perfumeriaschic.com/p7431813-montale-dark-purple-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11725021": {
+      "nombre": "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
+      "precio": "23,90 €",
+      "url": "https://www.perfumeriaschic.com/p11725021-tommy-hilfiger-tommy-girl-new-york-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "11225832": {
       "nombre": "CARNER BARCELONA SALADO EDP 100ML...",
       "precio": "89,90 €",
@@ -13988,6 +13976,12 @@
       "url": "https://www.perfumeriaschic.com/p11470973-montale-dark-vanilla-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11762243": {
+      "nombre": "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
+      "precio": "168,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762243-armani-prive-rose-darabie-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11424257": {
       "nombre": "MONTALE VANILLE ABSOLU EDP 100ML...",
       "precio": "64,90 €",
@@ -14424,6 +14418,30 @@
       "nombre": "MIU MIU L'EAU DE MUGUET EDP 100ML...",
       "precio": "49,95 €",
       "url": "https://www.perfumeriaschic.com/p11774279-miu-miu-leau-de-muguet-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11424516": {
+      "nombre": "EL GANSO FUN & CHIC EDP 100ML TESTER",
+      "precio": "15,96 €",
+      "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "4814140": {
+      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
+      "en_stock": false
+    },
+    "11754004": {
+      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11522218": {
+      "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
+      "precio": "8,90 €",
+      "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
       "en_stock": false
     },
     "11765806": {
@@ -18201,6 +18219,7 @@
     "MANCERA INTENSE INSTANT CRUSH  EDP...",
     "MANCERA JARDIN EXCLUSIF EDP 120ML...",
     "MANCERA JASMIN EXCLUSIF EDP 120ML...",
+    "MANCERA LEMON LINE EDP 120ML TESTER",
     "MANCERA MELODY OF THE SUN EDP 120ML...",
     "MANCERA MIDNIGHT GOLD EDP 120ML...",
     "MANCERA MUSKY GARDEN EDP 120ML TESTER",
