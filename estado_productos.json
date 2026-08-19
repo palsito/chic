@@ -2990,12 +2990,6 @@
       "url": "https://www.perfumeriaschic.com/p11774034-narciso-rodriguez-all-of-me-floral-edp-90ml-tester.html",
       "en_stock": true
     },
-    "11774047": {
-      "nombre": "BVLGARI LA GEMME AMUNAE EDP 125ML...",
-      "precio": "198,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774047-bvlgari-la-gemme-amunae-edp-125ml-tester.html",
-      "en_stock": false
-    },
     "11645398": {
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
       "precio": "129,90 €",
@@ -3007,12 +3001,6 @@
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p11769931-cacharel-ella-ella-flora-azura-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11774030": {
-      "nombre": "JULIETTE HAS A GUN MADELEINE...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774030-juliette-has-a-gun-madeleine-imperiale-edp-100ml-sin-caja.html",
-      "en_stock": false
     },
     "8764541": {
       "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
@@ -11888,12 +11876,6 @@
       "url": "https://www.perfumeriaschic.com/p10049671-nasomatto-narcotic-venus-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "11672514": {
-      "nombre": "ROCHAS TOCADE EDT 100ML TESTER",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11672514-rochas-tocade-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "10679744": {
       "nombre": "KENZO FLOWER POPPY BOUQUET EDP...",
       "precio": "24,90 €",
@@ -14638,12 +14620,6 @@
       "url": "https://www.perfumeriaschic.com/p11719258-moresque-discovery-set-7-x-7-5ml.html",
       "en_stock": true
     },
-    "11774030": {
-      "nombre": "JULIETTE HAS A GUN MADELEINE...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774030-juliette-has-a-gun-madeleine-imperiale-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "11606566": {
       "nombre": "MONTALE ORANGE AOUD EDP 100ML TESTER",
       "precio": "68,89 €",
@@ -14912,6 +14888,12 @@
       "nombre": "DANIEL JOSIER VETIVER EDP 100ML",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10683607-daniel-josier-vetiver-edp-100ml.html",
+      "en_stock": true
+    },
+    "10679756": {
+      "nombre": "DANIEL JOSIER AMBRE TABAC EDP 100ML",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p10679756-daniel-josier-ambre-tabac-edp-100ml.html",
       "en_stock": true
     },
     "11470963": {
@@ -17969,6 +17951,7 @@
     "D.S.&DURGA AMBER KISO EDP 100ML...",
     "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
     "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+    "DANIEL JOSIER AMBRE TABAC EDP 100ML",
     "DANIEL JOSIER UNDER THE FIGTREE EDP...",
     "DANIEL JOSIER VANILLE ET COCO PARFUM...",
     "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
