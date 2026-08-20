@@ -58,7 +58,7 @@
       "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
       "precio": "44,64 €",
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11738274": {
       "nombre": "HUGO BOSS BOTTLED PACK EDT 100ML+...",
@@ -142,7 +142,7 @@
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
       "precio": "38,95 €",
       "url": "https://www.perfumeriaschic.com/p11516271-paco-rabanne-pure-xs-for-her-eau-de-parfum-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11737652": {
       "nombre": "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
@@ -496,7 +496,7 @@
       "nombre": "PACO RABANNE ULTRARED EDP 80ML TESTER",
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p11548547-paco-rabanne-ultrared-edp-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793100": {
       "nombre": "SISLEY L'EAU REVEE D'HUBERT EDT...",
@@ -3216,7 +3216,7 @@
       "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
       "precio": "44,64 €",
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7036373": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB EDP 100ML...",
@@ -4584,7 +4584,7 @@
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
       "precio": "38,95 €",
       "url": "https://www.perfumeriaschic.com/p11516271-paco-rabanne-pure-xs-for-her-eau-de-parfum-50ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10390126": {
       "nombre": "ARMAND BASI SCENT OF A KISS MY HEART...",
@@ -4920,7 +4920,7 @@
       "nombre": "PACO RABANNE ULTRARED EDP 80ML TESTER",
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p11548547-paco-rabanne-ultrared-edp-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544552": {
       "nombre": "MASQUE MILANO DOLCEACQUA LIMITED...",
