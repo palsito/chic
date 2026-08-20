@@ -1800,6 +1800,12 @@
       "url": "https://www.perfumeriaschic.com/p5339301-dkny-women-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11458475": {
+      "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11458475-miller-harris-feuilles-de-tabac-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "9664344": {
       "nombre": "M. MICALLEF MON PARFUM EDP 100ML...",
       "precio": "98,91 €",
@@ -2852,6 +2858,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "7458282": {
+      "nombre": "DIOR DUNE EDT 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7458282-dior-dune-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11775024": {
+      "nombre": "GIVENCHY L´INTERDIT PARFUM 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775024-givenchy-linterdit-parfum-80ml-tester.html",
+      "en_stock": true
+    },
+    "11775056": {
+      "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11775091": {
+      "nombre": "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775091-shiseido-zen-essence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11775100": {
+      "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775100-tous-loveme-the-amethyst-elixir-90ml-tester.html",
+      "en_stock": true
+    },
     "11412454": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
       "precio": "39,90 €",
@@ -2868,7 +2904,7 @@
       "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -5520,7 +5556,7 @@
       "nombre": "NARCISO RODRIGUEZ POUDREE EDP 90ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p4382968-narciso-rodriguez-poudree-edp-90ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10475161": {
       "nombre": "ROCHAS EAU DE ROCHAS ESCAPADE...",
@@ -10136,6 +10172,12 @@
       "url": "https://www.perfumeriaschic.com/p11528701-estee-lauder-cinnabar-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11458475": {
+      "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11458475-miller-harris-feuilles-de-tabac-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11424158": {
       "nombre": "THE HOUSE OF OUD WHAT ABOUT POP EDP...",
       "precio": "118,90 €",
@@ -14450,24 +14492,6 @@
       "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
       "en_stock": false
     },
-    "11775024": {
-      "nombre": "GIVENCHY L´INTERDIT PARFUM 80ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11775024-givenchy-linterdit-parfum-80ml-tester.html",
-      "en_stock": true
-    },
-    "11775056": {
-      "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
-      "en_stock": true
-    },
-    "11775091": {
-      "nombre": "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11775091-shiseido-zen-essence-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
@@ -16414,6 +16438,12 @@
       "url": "https://www.perfumeriaschic.com/p10936983-carner-barcelona-latin-lover-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11458475": {
+      "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11458475-miller-harris-feuilles-de-tabac-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11608886": {
       "nombre": "PENHALIGON´S THE CUT EDP 100ML TESTER",
       "precio": "114,90 €",
@@ -17991,6 +18021,7 @@
     "DIESEL D RED EDP 100ML TESTER",
     "DIESEL FUEL FOR LIFE POUR HOMME EDT...",
     "DIESEL ONLY THE BRAVE TATTOO EDT...",
+    "DIOR DUNE EDT 100ML TESTER",
     "DKNY BE DELICIOUS EDP 100ML SIN CAJA",
     "DKNY BE DELICIOUS LATTE VANILLA EDP...",
     "DONNA KARAN CASHMERE & PALO SANTO...",
@@ -18285,6 +18316,7 @@
     "MEMO PARIS FLAM EDP 75ML",
     "MERCHANT OF VENICE ROSA MOCENIGA...",
     "MICHAEL KORS EXTREME JOURNEY EDT...",
+    "MILLER HARRIS FEUILLES DE TABAC EDP...",
     "MINIATURA KENZO FLOWER L'ABSOLUE EDP...",
     "MIU MIU FLEUR DE LAIT EDP 100ML...",
     "MIU MIU L'EAU DE MUGUET EDP 100ML...",
@@ -18551,6 +18583,7 @@
     "TOUS 1920 THE ORIGIN EDP 100ML TESTER",
     "TOUS KIDS BEAR EDT 100ML TESTER",
     "TOUS LOVEME EAU DE PARFUM 90ML TESTER",
+    "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
     "TOUS LOVEME THE ONYX EAU DE PARFUM...",
     "TOUS LOVEME THE SILVER PARFUM 90ML...",
     "TOUS MAN EDT 100ML TESTER",
