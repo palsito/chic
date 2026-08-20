@@ -5430,7 +5430,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER PURE MUSC...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p6890973-narciso-rodriguez-for-her-pure-musc-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8252800": {
       "nombre": "GUERLAIN MON GUERLAIN EDT 100ML SIN...",
@@ -5496,7 +5496,7 @@
       "nombre": "NARCISO RODRIGUEZ POUDREE EDP 90ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p4382968-narciso-rodriguez-poudree-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10475161": {
       "nombre": "ROCHAS EAU DE ROCHAS ESCAPADE...",
@@ -6414,7 +6414,7 @@
       "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11406309": {
       "nombre": "ESTEE LAUDER MODERN MUSE LE ROUGE...",
@@ -8586,7 +8586,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER EDT 100ML...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p5327707-narciso-rodrigez-for-her-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11413526": {
       "nombre": "GRITTI VENETIA CHANTILLY EAU DE...",
@@ -11438,12 +11438,6 @@
       "url": "https://www.perfumeriaschic.com/p11476036-bond-no-9-ny-hamptons-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11699123": {
-      "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11699123-paco-rabanne-olympea-absolu-parfum-intense-80ml-tester.html",
-      "en_stock": false
-    },
     "11643703": {
       "nombre": "GUCCI FLORA GORGEOUS ORCHID EDP...",
       "precio": "49,90 €",
@@ -12356,6 +12350,12 @@
       "url": "https://www.perfumeriaschic.com/p2513724-hugo-boss-the-scent-for-men-edt-100ml-tester.html",
       "en_stock": false
     },
+    "8704644": {
+      "nombre": "HUGO BOSS BOTTLED EAU DE PARFUM...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p8704644-hugo-boss-bottled-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11606580": {
       "nombre": "MONTALE SWEET FLOWERS EDP 100ML...",
       "precio": "72,90 €",
@@ -12708,7 +12708,7 @@
       "nombre": "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
       "precio": "53,90 €",
       "url": "https://www.perfumeriaschic.com/p11746376-guerlain-linstant-magic-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11746384": {
       "nombre": "GUERLAIN INSOLENCE EDP 100ML TESTER",
@@ -14202,7 +14202,7 @@
       "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11746244": {
       "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
@@ -14352,7 +14352,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "2526617": {
       "nombre": "NINA RICCI L´AIR DU TEMPS EDT 100ML...",
@@ -18084,6 +18084,7 @@
     "HOUBIGANT MON BOUDOIR EDP 100ML...",
     "HOUBIGANT PARIS FOUGERE ROYALE EDP...",
     "HUGO BOSS BOTTLED BEYOND PACK EDP...",
+    "HUGO BOSS BOTTLED EAU DE PARFUM...",
     "HUGO BOSS BOTTLED EDT 50ML SIN CAJA",
     "HUGO BOSS DARK BLUE EDT 75ML TESTER",
     "HUGO BOSS FEMME EDP 75ML TESTER",
