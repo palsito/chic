@@ -2852,6 +2852,30 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11412454": {
+      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11336406": {
+      "nombre": "RALPH LAUREN POLO EST.67 EDT 125ML...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11336406-ralph-lauren-polo-est-67-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11763821": {
+      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11745914": {
+      "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
+      "en_stock": true
+    },
     "11712241": {
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
       "precio": "44,85 €",
@@ -3348,6 +3372,12 @@
       "nombre": "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
       "precio": "106,95 €",
       "url": "https://www.perfumeriaschic.com/p11762580-aristocrazy-amethyst-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762596": {
+      "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": true
     },
     "11269761": {
@@ -9346,9 +9376,9 @@
     },
     "10190375": {
       "nombre": "CAROLINA HERRERA BAD BOY COBALT EAU...",
-      "precio": "46,90 €",
+      "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10190375-carolina-herrera-bad-boy-cobalt-eau-de-perfum-electrique-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9860666": {
       "nombre": "CAROLINA HERRERA VERY GOOD GIRL EDP...",
@@ -12884,6 +12914,12 @@
       "url": "https://www.perfumeriaschic.com/p11271451-penhaligons-portraits-the-coveted-duchess-rose-edp-75ml-tester.html",
       "en_stock": false
     },
+    "11670319": {
+      "nombre": "AZZARO THE MOST WANTED EAU DE...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11670319-azzaro-the-most-wanted-eau-de-toilette-intense-100ml-tester.html",
+      "en_stock": true
+    },
     "11732567": {
       "nombre": "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
       "precio": "38,90 €",
@@ -13766,12 +13802,6 @@
       "url": "https://www.perfumeriaschic.com/p8534180-narciso-rodriguez-for-her-musc-noir-edp-100ml-tester-novedad.html",
       "en_stock": false
     },
-    "11412454": {
-      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "10077440": {
       "nombre": "GUERLAIN EAU DE COLOGNE IMPERIALE...",
       "precio": "46,90 €",
@@ -13867,12 +13897,6 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674093-etat-libre-dorange-clean-suede-eau-de-parfum-100ml-tester.html",
       "en_stock": false
-    },
-    "11336406": {
-      "nombre": "RALPH LAUREN POLO EST.67 EDT 125ML...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11336406-ralph-lauren-polo-est-67-edt-125ml-tester.html",
-      "en_stock": true
     },
     "10776815": {
       "nombre": "MASQUE MILANO RUSSIAN TEA EDP 100ML...",
@@ -14198,12 +14222,6 @@
       "url": "https://www.perfumeriaschic.com/p3026444-ralph-lauren-polo-blue-edt-125ml-tester.html",
       "en_stock": false
     },
-    "11763821": {
-      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11746244": {
       "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
       "precio": "48,90 €",
@@ -14347,12 +14365,6 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p5883343-givenchy-gentleman-edt-100ml-tester-nueva.html",
       "en_stock": false
-    },
-    "11745914": {
-      "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
-      "en_stock": true
     },
     "2526617": {
       "nombre": "NINA RICCI L´AIR DU TEMPS EDT 100ML...",
