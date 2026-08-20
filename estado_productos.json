@@ -8996,12 +8996,6 @@
       "url": "https://www.perfumeriaschic.com/p7188450-atkinsons-24-old-bond-street-edc-100ml-tester.html",
       "en_stock": false
     },
-    "11608893": {
-      "nombre": "PACO RABANNE MILLION GOLD FOR HER...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11608893-paco-rabanne-million-gold-for-her-parfum-90ml-tester.html",
-      "en_stock": false
-    },
     "11380059": {
       "nombre": "COACH DREAMS MOONLIGHT EAU DE PARFUM...",
       "precio": "32,90 €",
@@ -13482,7 +13476,7 @@
       "nombre": "CALVIN KLEIN CK DEFY EDP 100ML TESTER",
       "precio": "28,90 €",
       "url": "https://www.perfumeriaschic.com/p11647093-calvin-klein-ck-defy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11568627": {
       "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
