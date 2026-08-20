@@ -9372,7 +9372,7 @@
       "nombre": "CAROLINA HERRERA BAD BOY COBALT EAU...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10190375-carolina-herrera-bad-boy-cobalt-eau-de-perfum-electrique-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "9860666": {
       "nombre": "CAROLINA HERRERA VERY GOOD GIRL EDP...",
@@ -14450,6 +14450,24 @@
       "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
       "en_stock": false
     },
+    "11775024": {
+      "nombre": "GIVENCHY L´INTERDIT PARFUM 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775024-givenchy-linterdit-parfum-80ml-tester.html",
+      "en_stock": true
+    },
+    "11775056": {
+      "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11775091": {
+      "nombre": "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775091-shiseido-zen-essence-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
@@ -18039,6 +18057,7 @@
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
     "GIVENCHY DAHLIA DIVIN EDP 100ML...",
     "GIVENCHY GENTLEMAN EDT 100ML TESTER",
+    "GIVENCHY L´INTERDIT PARFUM 80ML...",
     "GIVENCHY PI EDT 100ML TESTER",
     "GIVENCHY POUR HOMME EDT 100ML TESTER",
     "GRITTI VENETIA GOSSIP NIGHT EAU DE...",
@@ -18451,6 +18470,7 @@
     "ROBERT PIGUET OUD 100ML TESTER",
     "ROBERT PIGUET PETIT FRACAS 100ML...",
     "ROBERTO CAVALLI VERDE ASSOLUTO EDP...",
+    "ROCHAS AUDACE LE PARFUM 100ML TESTER",
     "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
     "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
     "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
@@ -18472,6 +18492,7 @@
     "SCALPERS THE CLUB EDP 125ML TESTER",
     "SCALPERS YACHT CLUB EDP 125ML TESTER",
     "SHISEIDO GINZA MURASAKI EDP 90ML...",
+    "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
     "SIMONE ANDREOLI APRICOT INNOCENCE...",
     "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
     "SIMONE ANDREOLI DONT ASK ME...",
