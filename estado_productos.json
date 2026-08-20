@@ -4070,12 +4070,6 @@
       "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11697411": {
-      "nombre": "CALVIN KLEIN CK DEFY PARFUM 100ML...",
-      "precio": "28,90 €",
-      "url": "https://www.perfumeriaschic.com/p11697411-calvin-klein-ck-defy-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11664531": {
       "nombre": "MONTALE INTENSE PEPPER EDP 100ML...",
       "precio": "68,90 €",
@@ -8996,6 +8990,12 @@
       "url": "https://www.perfumeriaschic.com/p7188450-atkinsons-24-old-bond-street-edc-100ml-tester.html",
       "en_stock": false
     },
+    "11608893": {
+      "nombre": "PACO RABANNE MILLION GOLD FOR HER...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11608893-paco-rabanne-million-gold-for-her-parfum-90ml-tester.html",
+      "en_stock": false
+    },
     "11380059": {
       "nombre": "COACH DREAMS MOONLIGHT EAU DE PARFUM...",
       "precio": "32,90 €",
@@ -11916,7 +11916,7 @@
       "nombre": "LACOSTE ORIGINAL EAU DE PARFUM 100ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11611204-lacoste-original-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11609875": {
       "nombre": "TIZIANA TERENZI KIRKE EXTRAIT DE...",
@@ -12948,7 +12948,7 @@
       "nombre": "BURBERRY HERO EDT 100ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10455647-burberry-hero-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11500876": {
       "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
@@ -18383,6 +18383,7 @@
     "PACO RABANNE AFTER CLUB EDP 125ML...",
     "PACO RABANNE BLACK XS FOR HIM EDT...",
     "PACO RABANNE FAME IN LOVE PARFUM...",
+    "PACO RABANNE MILLION GOLD FOR HER...",
     "PACO RABANNE NIGHT SOUL EDP 125ML...",
     "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
     "PACO RABANNE OLYMPEA ELIXIR EDP...",
