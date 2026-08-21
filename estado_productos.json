@@ -538,7 +538,7 @@
       "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
       "precio": "8,90 €",
       "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11522202": {
       "nombre": "3INA THE COMPACT POWDER POLVOS...",
@@ -2858,6 +2858,12 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11522218": {
+      "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
+      "precio": "8,90 €",
+      "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
+      "en_stock": true
+    },
     "7458282": {
       "nombre": "DIOR DUNE EDT 100ML TESTER",
       "precio": "68,90 €",
@@ -14484,12 +14490,6 @@
       "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11522218": {
-      "nombre": "3INA THE NO-RULES STICK 3 EN 1 TONO...",
-      "precio": "8,90 €",
-      "url": "https://www.perfumeriaschic.com/p11522218-3ina-the-no-rules-stick-3-en-1tono-385-rosa-frambuesa-sin-caja.html",
       "en_stock": false
     },
     "11765806": {
