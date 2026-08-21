@@ -2848,7 +2848,7 @@
       "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
       "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11761749": {
       "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
@@ -2899,6 +2899,12 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11412454-issey-miyake-le-sel-dissey-edt-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "4814140": {
+      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
+      "en_stock": true
     },
     "11336406": {
       "nombre": "RALPH LAUREN POLO EST.67 EDT 125ML...",
@@ -4458,7 +4464,7 @@
       "nombre": "BURBERRY HER EDP 100ML TESTER",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p6234998-burberry-her-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10953527": {
       "nombre": "NIGHTOLOGY EXQUISITE LILY  EDP 100ML...",
@@ -14328,7 +14334,7 @@
       "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744261": {
       "nombre": "MANCERA PRECIOUS OUD EDP 120ML TESTER",
@@ -14480,12 +14486,6 @@
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
       "en_stock": false
     },
-    "4814140": {
-      "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
-      "precio": "29,67 €",
-      "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
-      "en_stock": false
-    },
     "11754004": {
       "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
       "precio": "34,90 €",
@@ -14510,16 +14510,16 @@
       "url": "https://www.perfumeriaschic.com/p7781259-nasomatto-pardon-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "6234338": {
-      "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
-      "en_stock": false
-    },
     "5865574": {
       "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "6234338": {
+      "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
       "en_stock": false
     },
     "10518032": {
