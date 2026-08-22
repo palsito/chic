@@ -84,6 +84,12 @@
       "url": "https://www.perfumeriaschic.com/p10587725-scalpers-kids-boy-100ml-edt-tester.html",
       "en_stock": true
     },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
+      "en_stock": false
+    },
     "11762580": {
       "nombre": "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
       "precio": "106,95 €",
@@ -11694,7 +11700,7 @@
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
       "precio": "149,94 €",
       "url": "https://www.perfumeriaschic.com/p11436814-xerjoff-xj-1861-naxos-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11315386": {
       "nombre": "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
@@ -12458,11 +12464,17 @@
       "url": "https://www.perfumeriaschic.com/p10890231-ralph-lauren-polo-blue-parfum-125ml-tester.html",
       "en_stock": false
     },
+    "11508559": {
+      "nombre": "STEPHANE HUMBERT LUCAS  PINK BOA...",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11508559-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
+      "en_stock": true
+    },
     "11368247": {
       "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10455657": {
       "nombre": "CHLOE ROSE NATURELLE EDP INTENSE...",
@@ -14138,6 +14150,12 @@
       "url": "https://www.perfumeriaschic.com/p11650255-jeroboam-kun-amo-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11646708": {
+      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
+      "precio": "85,41 €",
+      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
+      "en_stock": true
+    },
     "10200241": {
       "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
       "precio": "149,90 €",
@@ -14149,6 +14167,12 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11740998-jovoy-fire-at-will-edp-75ml-tester.html",
       "en_stock": false
+    },
+    "11756165": {
+      "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
+      "en_stock": true
     },
     "11765852": {
       "nombre": "TRUSSARDI VIA DELLA SPIGA EDP 100ML...",
@@ -15884,7 +15908,7 @@
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
       "precio": "149,94 €",
       "url": "https://www.perfumeriaschic.com/p11436814-xerjoff-xj-1861-naxos-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11436823": {
       "nombre": "XERJOFF SHOOTING STARS RED HOBA EDP...",
@@ -17294,7 +17318,7 @@
       "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
@@ -18547,6 +18571,7 @@
     "SISLEY SOIR DE LUNE EDP 100ML TESTER",
     "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
     "STARCK PARIS PEAU DE AILLEURS EDT...",
+    "STEPHANE HUMBERT LUCAS  PINK BOA...",
     "STEPHANE HUMBERT LUCAS CRYING OF...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
     "STEPHANE HUMBERT LUCAS VENOM...",
