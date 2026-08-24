@@ -5072,12 +5072,6 @@
       "url": "https://www.perfumeriaschic.com/p11522226-3ina-the-tinted-moisturizer-spf30-tono-631-sin-caja.html",
       "en_stock": true
     },
-    "10270372": {
-      "nombre": "EL GANSO CIAO BELLA EDT 125ML TESTER",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p10270372-el-ganso-ciao-bella-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "9072258": {
       "nombre": "ADOLFO DOMINGUEZ TERRACOTA MUSK EDP...",
       "precio": "19,90 €",
@@ -7764,6 +7758,12 @@
       "nombre": "VAN CLEEF & ARPELS FIRST EDT 100ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p8876219-van-cleef-arpels-first-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "5983341": {
+      "nombre": "LOEWE SOLO LOEWE EDT 200ML",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p5983341-loewe-solo-loewe-edt-75ml-tester.html",
       "en_stock": false
     },
     "10948030": {
@@ -14510,6 +14510,12 @@
       "url": "https://www.perfumeriaschic.com/p8556090-mancera-roses-greedy-edp-120ml.html",
       "en_stock": false
     },
+    "10270372": {
+      "nombre": "EL GANSO CIAO BELLA EDT 125ML TESTER",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p10270372-el-ganso-ciao-bella-edt-125ml-tester.html",
+      "en_stock": false
+    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
@@ -18257,6 +18263,7 @@
     "LOEWE SOLO  EDT 100ML TESTER",
     "LOEWE SOLO ELIXIR POUR HOMME EDP...",
     "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
+    "LOEWE SOLO LOEWE EDT 200ML",
     "LOEWE SOLO VULCAN EDP 100ML TESTER",
     "LOEWE UN PASEO POR MADRID LA BELLA...",
     "LOEWE UN PASEO POR MADRID MAYRIT EDP...",
