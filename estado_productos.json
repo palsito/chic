@@ -2942,12 +2942,6 @@
       "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
       "en_stock": true
     },
-    "11556743": {
-      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11458475": {
       "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
       "precio": "84,90 €",
@@ -2977,12 +2971,6 @@
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11508559-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
       "en_stock": true
-    },
-    "11368247": {
-      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11746376": {
       "nombre": "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
@@ -3019,12 +3007,6 @@
       "precio": "85,41 €",
       "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
       "en_stock": true
-    },
-    "11732561": {
-      "nombre": "MONTBLANC LEGEND ELIXIR PARFUM 100ML...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11732561-montblanc-legend-elixir-parfum-100ml-tester.html",
-      "en_stock": false
     },
     "11744117": {
       "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
@@ -3403,12 +3385,6 @@
       "precio": "109,91 €",
       "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11762597": {
-      "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
-      "precio": "44,64 €",
-      "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
-      "en_stock": false
     },
     "7036373": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB EDP 100ML...",
@@ -4214,12 +4190,6 @@
       "url": "https://www.perfumeriaschic.com/p11664531-montale-intense-pepper-edp-100ml-tester.html",
       "en_stock": true
     },
-    "8556090": {
-      "nombre": "MANCERA ROSES GREEDY EDP 120ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p8556090-mancera-roses-greedy-edp-120ml.html",
-      "en_stock": false
-    },
     "11704505": {
       "nombre": "EIGHT & BOB PURE VIENNE EDP 100ML...",
       "precio": "89,90 €",
@@ -4303,12 +4273,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p2781277-ralph-lauren-polo-black-edt-125ml-tester.html",
       "en_stock": true
-    },
-    "11415165": {
-      "nombre": "MINIATURA KENZO FLOWER IKEBANA EDP...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11415165-miniatura-kenzo-flower-ikebana-edp-4ml.html",
-      "en_stock": false
     },
     "11637575": {
       "nombre": "DIESEL FUEL FOR LIFE POUR HOMME EDT...",
@@ -7800,12 +7764,6 @@
       "nombre": "VAN CLEEF & ARPELS FIRST EDT 100ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p8876219-van-cleef-arpels-first-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "5983341": {
-      "nombre": "LOEWE SOLO LOEWE EDT 200ML",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p5983341-loewe-solo-loewe-edt-75ml-tester.html",
       "en_stock": false
     },
     "10948030": {
@@ -14514,6 +14472,42 @@
       "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11556743": {
+      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11368247": {
+      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11732561": {
+      "nombre": "MONTBLANC LEGEND ELIXIR PARFUM 100ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11732561-montblanc-legend-elixir-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "11762597": {
+      "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
+      "precio": "44,64 €",
+      "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
+      "en_stock": false
+    },
+    "11415165": {
+      "nombre": "MINIATURA KENZO FLOWER IKEBANA EDP...",
+      "precio": "6,90 €",
+      "url": "https://www.perfumeriaschic.com/p11415165-miniatura-kenzo-flower-ikebana-edp-4ml.html",
+      "en_stock": false
+    },
+    "8556090": {
+      "nombre": "MANCERA ROSES GREEDY EDP 120ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p8556090-mancera-roses-greedy-edp-120ml.html",
       "en_stock": false
     },
     "11765806": {
