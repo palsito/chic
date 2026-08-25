@@ -112,7 +112,7 @@
       "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
       "precio": "69,95 €",
       "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "4814140": {
       "nombre": "LACOSTE TOUCH OF PINK EDT 90ML TESTER",
@@ -3084,7 +3084,7 @@
       "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
       "precio": "69,95 €",
       "url": "https://www.perfumeriaschic.com/p11761749-carolina-herrera-la-bomba-intense-edp-80ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11424762": {
       "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
