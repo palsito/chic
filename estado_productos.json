@@ -108,6 +108,12 @@
       "url": "https://www.perfumeriaschic.com/p10831992-daniel-josier-le-musk-edp-100ml.html",
       "en_stock": true
     },
+    "11776633": {
+      "nombre": "DANIEL JOSIER 28 EDP 100ML",
+      "precio": "125,00 €",
+      "url": "https://www.perfumeriaschic.com/p11776633-daniel-josier-28-edp-100ml.html",
+      "en_stock": true
+    },
     "11761749": {
       "nombre": "CAROLINA HERRERA LA BOMBA INTENSA...",
       "precio": "69,95 €",
@@ -2870,6 +2876,12 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11776636": {
+      "nombre": "BURBERRY HERO PARFUM 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776636-burberry-hero-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
@@ -3019,12 +3031,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11775091": {
-      "nombre": "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11775091-shiseido-zen-essence-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11775100": {
       "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
@@ -5364,6 +5370,12 @@
       "nombre": "ARMANI PRIVE FIGUIER EDEN EDT 100ML...",
       "precio": "99,90 €",
       "url": "https://www.perfumeriaschic.com/p8940801-armani-prive-figuier-eden-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "7355369": {
+      "nombre": "ARMANI STRONGER WITH YOU INTENSELY...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p7355369-armani-stronger-with-you-intensely-edp-100ml-tester.html",
       "en_stock": false
     },
     "7239097": {
@@ -17928,6 +17940,7 @@
     "ARMANI PRIVE ROSE D´ARABIE EDP 100ML...",
     "ARMANI PRIVE ROUGE MALACHITE EDP...",
     "ARMANI SI EAU DE PARFUM 100ML TESTER",
+    "ARMANI STRONGER WITH YOU INTENSELY...",
     "ATELIERS DES ORS  BLUE MADELEINE EAU...",
     "ATELIERS DES ORS PINK ME UP EDP...",
     "ATELIERS DES ORS RIVIERA DRIVE EAU...",
@@ -17961,6 +17974,7 @@
     "BURBERRY HER INTENSE EDP 100ML TESTER",
     "BURBERRY HER LONDON DREAM EDP 100ML",
     "BURBERRY HERO EDT 100ML TESTER",
+    "BURBERRY HERO PARFUM 100ML TESTER",
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
     "BVLGARI LA GEMME AMUNAE EDP 125ML...",
