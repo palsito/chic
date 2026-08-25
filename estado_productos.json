@@ -5366,12 +5366,6 @@
       "url": "https://www.perfumeriaschic.com/p8940801-armani-prive-figuier-eden-edt-100ml-tester.html",
       "en_stock": false
     },
-    "7355369": {
-      "nombre": "ARMANI STRONGER WITH YOU INTENSELY...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p7355369-armani-stronger-with-you-intensely-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7239097": {
       "nombre": "CARTIER SANTOS EDT 100ML TESTER",
       "precio": "44,90 €",
@@ -17883,6 +17877,12 @@
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p11313275-xerjoff-amabile-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11776633": {
+      "nombre": "DANIEL JOSIER 28 EDP 100ML",
+      "precio": "125,00 €",
+      "url": "https://www.perfumeriaschic.com/p11776633-daniel-josier-28-edp-100ml.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18033,6 +18033,7 @@
     "D.S.&DURGA AMBER KISO EDP 100ML...",
     "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
     "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+    "DANIEL JOSIER 28 EDP 100ML",
     "DANIEL JOSIER AMBRE TABAC EDP 100ML",
     "DANIEL JOSIER UNDER THE FIGTREE EDP...",
     "DANIEL JOSIER VANILLE ET COCO PARFUM...",
