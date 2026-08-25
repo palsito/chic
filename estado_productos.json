@@ -1138,7 +1138,7 @@
       "nombre": "DANIEL JOSIER AMBRE TABAC EDP 100ML",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10679756-daniel-josier-ambre-tabac-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544530": {
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
@@ -2428,7 +2428,7 @@
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11453736": {
       "nombre": "GRITTI VENETIAN AQUA INCANTA EDP...",
@@ -2500,7 +2500,7 @@
       "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10700393-daniel-josier-under-the-figtree-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10517808": {
       "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
@@ -2536,7 +2536,7 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11476796": {
       "nombre": "REPLICA MAISON MARGIELA FROM THE...",
@@ -2734,7 +2734,7 @@
       "nombre": "DANIEL JOSIER LE MUSK EDP 100ML",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p10831992-daniel-josier-le-musk-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11205002": {
       "nombre": "NISHANE ANI X EXTRAIT DE PARFUM 50ML...",
@@ -14676,7 +14676,7 @@
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
@@ -17222,7 +17222,7 @@
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11453736": {
       "nombre": "GRITTI VENETIAN AQUA INCANTA EDP...",
@@ -17456,7 +17456,7 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10879863": {
       "nombre": "XERJOFF COFEE BREAK GOLDEN DALLAH...",
