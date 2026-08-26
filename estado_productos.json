@@ -14124,7 +14124,7 @@
       "nombre": "MONTALE INTENSE ROSES MUSK EXTRAIT...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11380819-montale-intense-roses-musk-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11385421": {
       "nombre": "JOOP HOMME EDT 125ML TESTER",
@@ -14478,12 +14478,6 @@
       "nombre": "XERJOFF AMABILE EDP 100ML TESTER",
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p11313275-xerjoff-amabile-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "6234998": {
-      "nombre": "BURBERRY HER EDP 100ML TESTER",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p6234998-burberry-her-edp-100ml-tester.html",
       "en_stock": false
     },
     "9924942": {
@@ -15302,6 +15296,12 @@
       "nombre": "HISTOIRES DE PARFUMS 1876 EDP 60ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p10680516-histoires-de-parfums-1876-edp-120ml-tester.html",
+      "en_stock": true
+    },
+    "11470420": {
+      "nombre": "MONTALE WILD PEARS EDP 100ML TESTER",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11470420-montale-wild-pears-edp-100ml-tester.html",
       "en_stock": true
     },
     "11413540": {
@@ -17816,7 +17816,7 @@
       "nombre": "MONTALE INTENSE ROSES MUSK EXTRAIT...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11380819-montale-intense-roses-musk-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8252606": {
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
@@ -18456,6 +18456,7 @@
     "MONTALE SWEET PEONY EDP 100ML TESTER",
     "MONTALE VANILLA EXTASY EDP 100ML...",
     "MONTALE VANILLE ABSOLU EDP 100ML...",
+    "MONTALE WILD PEARS EDP 100ML TESTER",
     "MONTBLANC EXPLORER EXTREME PARFUM...",
     "MONTBLANC EXPLORER PLATINUM EDP...",
     "MONTBLANC LEGEND EAU DE PARFUM 100ML...",
