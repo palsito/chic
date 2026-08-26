@@ -3038,6 +3038,12 @@
       "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
       "en_stock": true
     },
+    "11775091": {
+      "nombre": "SHISEIDO ZEN ESSENCE EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775091-shiseido-zen-essence-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11775100": {
       "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
       "precio": "39,90 €",
@@ -13464,7 +13470,7 @@
       "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
       "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p11568627-kenzo-leau-pure-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10681633": {
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
