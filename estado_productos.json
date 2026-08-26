@@ -2608,7 +2608,7 @@
       "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
       "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p11568627-kenzo-leau-pure-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11648829": {
       "nombre": "BOTANICAE SHOMAL EAU DE PARFUM 100ML",
@@ -3558,6 +3558,18 @@
       "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762257": {
+      "nombre": "CARON POUR UN HOMME LE SOIR EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762257-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11762581": {
+      "nombre": "CARON POUR UN HOMME LE MATIN EDT...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762581-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
       "en_stock": true
     },
     "11269761": {
@@ -12032,6 +12044,12 @@
       "url": "https://www.perfumeriaschic.com/p10517943-tous-touch-edt-100ml-tester.html",
       "en_stock": false
     },
+    "7443188": {
+      "nombre": "ANNICK GOUTAL EAU D´HADRIEN EDP...",
+      "precio": "69,90 €",
+      "url": "https://www.perfumeriaschic.com/p7443188-annick-goutal-eau-dhadrien-edp-100ml.html",
+      "en_stock": true
+    },
     "7317846": {
       "nombre": "MANCERA AOUD CAFE EDP 120 ML TESTER",
       "precio": "68,90 €",
@@ -17959,6 +17977,7 @@
     "ANGEL SCHLESSER FEMME NATURELLE...",
     "ANGEL SCHLESSER LES EAUX D'UN...",
     "ANGEL SCHLESSER LES EAUX D´UN...",
+    "ANNICK GOUTAL EAU D´HADRIEN EDP...",
     "ANNICK GOUTAL NUIT ET CONFIDENCES...",
     "ANNICK GOUTAL TENUE DE SOIREE EDP...",
     "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
