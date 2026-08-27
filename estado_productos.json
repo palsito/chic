@@ -2879,9 +2879,57 @@
       "precio": "44,64 €",
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
       "en_stock": false
+    },
+    "11777009": {
+      "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777011": {
+      "nombre": "MILLER HARRIS ROSE SILENCE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777011-miller-harris-rose-silence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777014": {
+      "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11777006": {
+      "nombre": "AMOUAGE OUTLANDS ESSENCE DE PARFUM...",
+      "precio": "238,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777006-amouage-outlands-essence-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777009": {
+      "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777011": {
+      "nombre": "MILLER HARRIS ROSE SILENCE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777011-miller-harris-rose-silence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777014": {
+      "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777094": {
+      "nombre": "ANNICK GOUTAL SONGES EDP 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777094-annick-goutal-songes-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
@@ -17943,6 +17991,30 @@
       "precio": "125,00 €",
       "url": "https://www.perfumeriaschic.com/p11776633-daniel-josier-28-edp-100ml.html",
       "en_stock": true
+    },
+    "11777006": {
+      "nombre": "AMOUAGE OUTLANDS ESSENCE DE PARFUM...",
+      "precio": "238,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777006-amouage-outlands-essence-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777009": {
+      "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777011": {
+      "nombre": "MILLER HARRIS ROSE SILENCE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777011-miller-harris-rose-silence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777014": {
+      "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17966,6 +18038,7 @@
     "AMOUAGE EPIC WOMAN EAU DE PARFUM...",
     "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
     "AMOUAGE OPUS VII RECKLESS LEATHER...",
+    "AMOUAGE OUTLANDS ESSENCE DE PARFUM...",
     "ANFAS MAHABA EXTRAIT DE PARFUM 75ML",
     "ANGEL SCHLESSER FEMME ADORABLE EDT...",
     "ANGEL SCHLESSER FEMME NATURELLE...",
@@ -17973,6 +18046,7 @@
     "ANGEL SCHLESSER LES EAUX D´UN...",
     "ANNICK GOUTAL EAU D´HADRIEN EDP...",
     "ANNICK GOUTAL NUIT ET CONFIDENCES...",
+    "ANNICK GOUTAL SONGES EDP 100ML TESTER",
     "ANNICK GOUTAL TENUE DE SOIREE EDP...",
     "ARISTOCRAZY AMETHYST EDP 100ML TESTER",
     "ARISTOCRAZY CITRINE EDP 100ML TESTER",
@@ -18418,7 +18492,10 @@
     "MEMO PARIS FLAM EDP 75ML",
     "MERCHANT OF VENICE ROSA MOCENIGA...",
     "MICHAEL KORS EXTREME JOURNEY EDT...",
+    "MILLER HARRIS ETUI NOIR EDP 100ML...",
     "MILLER HARRIS FEUILLES DE TABAC EDP...",
+    "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
+    "MILLER HARRIS ROSE SILENCE EDP 100ML...",
     "MINIATURA KENZO FLOWER L'ABSOLUE EDP...",
     "MIU MIU FLEUR DE LAIT EDP 100ML...",
     "MIU MIU L'EAU DE MUGUET EDP 100ML...",
