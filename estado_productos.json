@@ -2880,6 +2880,12 @@
       "url": "https://www.perfumeriaschic.com/p11762597-paco-rabanne-olympea-absolu-parfum-intense-50ml.html",
       "en_stock": false
     },
+    "11776938": {
+      "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776938-adolfo-dominguez-agua-fresca-de-mimosa-coriandro-edt-120ml-tester.html",
+      "en_stock": true
+    },
     "11777009": {
       "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
       "precio": "68,90 €",
@@ -2894,12 +2900,42 @@
     },
     "11777014": {
       "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
-      "precio": "84,90 €",
+      "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
       "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11776991": {
+      "nombre": "CAROLINA HERRERA GOLD INCIENSE EDP...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776991-carolina-herrera-gold-inciense-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11776996": {
+      "nombre": "CAROLINA HERRERA OUD COUTURE EDP...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776996-carolina-herrera-oud-couture-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11776998": {
+      "nombre": "PACO RABANNE ONE MILLION BLACK EAU...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776998-paco-rabanne-one-million-black-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11777001": {
+      "nombre": "PACO RABANNE MILLION RED FOR HER...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777001-paco-rabanne-million-red-for-her-parfum-90ml-tester.html",
+      "en_stock": true
+    },
+    "11777004": {
+      "nombre": "VIKTOR & ROLF FLOWERBOMB PRETTY...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777004-viktor-rolf-flowerbomb-pretty-peony-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11777006": {
       "nombre": "AMOUAGE OUTLANDS ESSENCE DE PARFUM...",
       "precio": "238,90 €",
@@ -2920,7 +2956,7 @@
     },
     "11777014": {
       "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
-      "precio": "84,90 €",
+      "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -2928,6 +2964,24 @@
       "nombre": "ANNICK GOUTAL SONGES EDP 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11777094-annick-goutal-songes-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11776938": {
+      "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776938-adolfo-dominguez-agua-fresca-de-mimosa-coriandro-edt-120ml-tester.html",
+      "en_stock": true
+    },
+    "11776933": {
+      "nombre": "PRADA INFUSION D' YLANG EDP 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776933-prada-infusion-d-ylang-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11776913": {
+      "nombre": "BURBERRY HERO PARFUM INTENSE 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11776913-burberry-hero-parfum-intense-100ml-tester.html",
       "en_stock": true
     },
     "10268197": {
@@ -18098,6 +18152,7 @@
     "BURBERRY HER LONDON DREAM EDP 100ML",
     "BURBERRY HERO EDT 100ML TESTER",
     "BURBERRY HERO PARFUM 100ML TESTER",
+    "BURBERRY HERO PARFUM INTENSE 100ML...",
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
     "BVLGARI LA GEMME AMUNAE EDP 125ML...",
@@ -18130,11 +18185,13 @@
     "CAROLINA HERRERA 212 VIP ROSE EAU DE...",
     "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
     "CAROLINA HERRERA CH MEN PASIÓN EDP...",
+    "CAROLINA HERRERA GOLD INCIENSE EDP...",
     "CAROLINA HERRERA GOOD GIRL BLUSH...",
     "CAROLINA HERRERA GOOD GIRL JASMINE...",
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
     "CAROLINA HERRERA LA BOMBA INTENSA...",
     "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
+    "CAROLINA HERRERA OUD COUTURE EDP...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
     "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
@@ -18614,6 +18671,7 @@
     "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
     "PACO RABANNE OLYMPEA ELIXIR EDP...",
     "PACO RABANNE OLYMPEA FLORA EDP...",
+    "PACO RABANNE ONE MILLION BLACK EAU...",
     "PACO RABANNE ONE MILLION ROYAL...",
     "PACO RABANNE POUR HOMME EDT 100ML...",
     "PACO RABANNE ROSE 1969 EDP 125ML....",
@@ -18644,6 +18702,7 @@
     "POLICE TO BE ART TATOO MEN EDT 125ML...",
     "POLO RALPH LAURENT RALP´S CLUB NEW...",
     "PRADA CANDY SUGAR POP EDP 50ML",
+    "PRADA INFUSION D' YLANG EDP 100ML...",
     "PRADA INFUSION DE ROSE EDP 100ML...",
     "PRADA INFUSION D´AMANDE EDP 100ML...",
     "PRADA INFUSION D´IRIS EDP 100ML...",
@@ -18800,6 +18859,7 @@
     "VALENTINO DONNA BORN IN ROMA YELLOW...",
     "VIKTOR & ROLF FLOWERBOMB BLOOM EDT...",
     "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
+    "VIKTOR & ROLF FLOWERBOMB PRETTY...",
     "VIKTOR & ROLF FLOWERBOMB RUBY ORCHID...",
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
     "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
