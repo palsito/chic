@@ -14842,18 +14842,6 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
-    "11464337": {
-      "nombre": "MONTALE INTENSE CAFE RISTRETTO EDP...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11464337-montale-intense-cafe-ristretto-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11368247": {
-      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11458475": {
       "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
       "precio": "84,90 €",
@@ -14986,12 +14974,6 @@
       "url": "https://www.perfumeriaschic.com/p10936985-carner-barcelona-lukomorie-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11406776": {
-      "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11664531": {
       "nombre": "MONTALE INTENSE PEPPER EDP 100ML...",
       "precio": "68,90 €",
@@ -15022,29 +15004,11 @@
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10650240": {
-      "nombre": "ROSENDO MATEU Nº7 PERFUME 100ML",
-      "precio": "119,89 €",
-      "url": "https://www.perfumeriaschic.com/p10650240-rosendo-mateu-n7-perfume-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "8150648": {
       "nombre": "MANCERA SAND AOUD EDP 120ML TESTER",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p8150648-mancera-sand-aoud-edp-120ml.html",
       "en_stock": true
-    },
-    "11408459": {
-      "nombre": "MONTALE VANILLA CAKE EDP 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11408459-montale-vanilla-cake-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11450326": {
-      "nombre": "MONTALE SWEET VANILLA EDP 100ML...",
-      "precio": "74,90 €",
-      "url": "https://www.perfumeriaschic.com/p11450326-montale-sweet-vanilla-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11426814": {
       "nombre": "XERJOFF COFFE BREAK GOLDEN MOKA EDP...",
@@ -15345,18 +15309,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11674081-bois-1920-cannabis-la-fruttata-eau-de-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11704505": {
-      "nombre": "EIGHT & BOB PURE VIENNE EDP 100ML...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11704505-eight-bob-pure-vienne-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11651459": {
-      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11664088": {
       "nombre": "V CANTO POSI EAU DE PARFUM 100ML...",
@@ -18087,6 +18039,54 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11777014-miller-harris-hydra-figue-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11464337": {
+      "nombre": "MONTALE INTENSE CAFE RISTRETTO EDP...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11464337-montale-intense-cafe-ristretto-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11368247": {
+      "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11368247-xerjoff-40-knots-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11406776": {
+      "nombre": "MONTALE AOUD LEATHER EDP 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11406776-montale-aoud-leather-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "10650240": {
+      "nombre": "ROSENDO MATEU Nº7 PERFUME 100ML",
+      "precio": "119,89 €",
+      "url": "https://www.perfumeriaschic.com/p10650240-rosendo-mateu-n7-perfume-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11408459": {
+      "nombre": "MONTALE VANILLA CAKE EDP 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11408459-montale-vanilla-cake-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11450326": {
+      "nombre": "MONTALE SWEET VANILLA EDP 100ML...",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p11450326-montale-sweet-vanilla-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11704505": {
+      "nombre": "EIGHT & BOB PURE VIENNE EDP 100ML...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11704505-eight-bob-pure-vienne-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11651459": {
+      "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
+      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
