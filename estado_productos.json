@@ -2670,12 +2670,6 @@
       "url": "https://www.perfumeriaschic.com/p11421072-angel-schlesser-femme-naturelle-edt-100ml-tester.html",
       "en_stock": false
     },
-    "3521265": {
-      "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
-      "en_stock": false
-    },
     "11739283": {
       "nombre": "REPLICA MAISON MARGIELA FROM THE...",
       "precio": "14,90 €",
@@ -5198,6 +5192,12 @@
       "url": "https://www.perfumeriaschic.com/p7614522-kenzo-flower-lelixir-edp-50ml-tester.html",
       "en_stock": false
     },
+    "7057137": {
+      "nombre": "HERMES  EAU GENTIANE BLANCHE EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p7057137-hermes-eau-gentiane-blanche-edc-100ml-tester.html",
+      "en_stock": true
+    },
     "8806799": {
       "nombre": "ALAIA PARIS EDP 30ML SIN CAJA",
       "precio": "29,90 €",
@@ -5746,9 +5746,9 @@
     },
     "10513256": {
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
-      "precio": "39,90 €",
+      "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10513256-issey-miyake-leau-dissey-absolue-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10894234": {
       "nombre": "LIQUIDES IMAGINAIRES ILE POURPRE...",
@@ -5810,6 +5810,12 @@
       "url": "https://www.perfumeriaschic.com/p7321556-hermes-terre-eau-intense-vetiver-edp-200ml-sin-caja.html",
       "en_stock": false
     },
+    "7847684": {
+      "nombre": "HERMES  EAU DE MANDARINE AMBREE EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p7847684-hermes-eau-de-mandarine-ambree-edc-100ml-tester.html",
+      "en_stock": true
+    },
     "7452392": {
       "nombre": "LANCOME O DE LANCOME  EDT 75ML...",
       "precio": "24,90 €",
@@ -5839,6 +5845,12 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p10513229-angel-schlesser-eau-de-cologne-bergamota-100ml-tester.html",
       "en_stock": false
+    },
+    "2526698": {
+      "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p2526698-hermes-eau-de-narcisse-bleu-edc-100ml-tester.html",
+      "en_stock": true
     },
     "10102753": {
       "nombre": "GUCCI GUILTY ABSOLUTE POUR FEMME EDP...",
@@ -5962,9 +5974,9 @@
     },
     "4490297": {
       "nombre": "RALPH LAUREN POLO ULTRA BLUE EDT...",
-      "precio": "39,90 €",
+      "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p4490297-ralph-laurent-polo-ultra-blue-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11316754": {
       "nombre": "MASQUE MILANO PETRA EAU DE PARFUM...",
@@ -6630,7 +6642,7 @@
       "nombre": "HERMES AMAZONE ROSE EDT 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p8491999-hermes-amazone-rose-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11363418": {
       "nombre": "SERGE LUTENS CHERGUI EDP 50ML TESTER",
@@ -13542,7 +13554,7 @@
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231159": {
       "nombre": "MANCERA GOLD INTENSITIVE AOUD EDP...",
@@ -13594,9 +13606,9 @@
     },
     "3521265": {
       "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
-      "precio": "39,90 €",
+      "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650215": {
       "nombre": "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
@@ -14202,7 +14214,7 @@
       "nombre": "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11239777-loewe-aire-anthesis-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11509078": {
       "nombre": "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
@@ -17816,7 +17828,7 @@
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756078": {
       "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
@@ -18411,9 +18423,12 @@
     "HACKETT BESPOKE EDP 100ML TESTER",
     "HACKETT ESSENTIAL EDP 100ML TESTER",
     "HALLOWEEN MY WISH ADDICTION EDP...",
+    "HERMES  EAU DE MANDARINE AMBREE EDC...",
+    "HERMES  EAU GENTIANE BLANCHE EDC...",
     "HERMES  TWILLY EDP 85ML TESTER",
     "HERMES AMAZONE ROSE EDT 100ML TESTER",
     "HERMES EAU  D´ORANGE VERTE EDC 100ML...",
+    "HERMES EAU DE NARCISSE BLEU EDC...",
     "HERMES ELIXIR DES MERVEILLES EDP...",
     "HERMES H24 EAU DE TOILETTE 100ML...",
     "HERMES JOUR ABSOLU EDP 85ML TESTER",
