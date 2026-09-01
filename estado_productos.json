@@ -3212,6 +3212,12 @@
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11775024": {
+      "nombre": "GIVENCHY L´INTERDIT PARFUM 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11775024-givenchy-linterdit-parfum-80ml-tester.html",
+      "en_stock": true
+    },
     "11775056": {
       "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
       "precio": "44,90 €",
@@ -12888,7 +12894,7 @@
       "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744333": {
       "nombre": "MOLINARD LAVANDE EAU DE PARFUM 75ML...",
@@ -14803,6 +14809,12 @@
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
       "en_stock": false
+    },
+    "6322031": {
+      "nombre": "LOEWE SOLO CEDRO EDT 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p6322031-loewe-solo-cedro-edt-100ml-tester.html",
+      "en_stock": true
     },
     "10589668": {
       "nombre": "LACOSTE L. 12.12 ROSE POUR ELLE EAU...",
