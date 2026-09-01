@@ -2542,7 +2542,7 @@
       "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
       "precio": "27,86 €",
       "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10240052": {
       "nombre": "ETRO SANDALO EDT 100ML TESTER",
@@ -2866,7 +2866,7 @@
       "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11676991": {
       "nombre": "NABEEL AREEJ LUXUS EDITION EAU DE...",
@@ -10033,6 +10033,12 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p10198169-francesca-bianchi-the-dark-side-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
+    },
+    "10463985": {
+      "nombre": "EIGHT & BOB EGYPT EDP 30ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p10463985-eight-bob-egyp-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11413167": {
       "nombre": "CLARINS AROMA EAU DYNAMISANTE EAU DE...",
@@ -18289,6 +18295,7 @@
     "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
     "DUSITA SPLENDIRIS EAU DE PARFUM 50ML...",
     "EIGHT & BOB EGYPT EAU DE PARFUM 30ML",
+    "EIGHT & BOB EGYPT EDP 30ML TESTER",
     "EIGHT & BOB MEMOIRES DE MUSTIQUE EDP...",
     "EIGHT & BOB PURE VIENNE EDP 100ML...",
     "EL GANSO AFTER GAME EDT 125ML TESTER",
