@@ -2906,6 +2906,48 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11726317": {
+      "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "4743256": {
+      "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
+      "precio": "27,86 €",
+      "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11620510": {
+      "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11620510-zadig-voltaire-zadig-edp-90ml-tester.html",
+      "en_stock": true
+    },
+    "11754004": {
+      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11625264": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11625264-angel-schlesser-femme-naturelle-rose-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "9924942": {
+      "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11556743": {
+      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11701475": {
       "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
       "precio": "26,90 €",
@@ -12920,12 +12962,6 @@
       "url": "https://www.perfumeriaschic.com/p7431813-montale-dark-purple-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11726317": {
-      "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
-      "en_stock": true
-    },
     "11725021": {
       "nombre": "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
       "precio": "23,90 €",
@@ -13142,12 +13178,6 @@
       "url": "https://www.perfumeriaschic.com/p11315408-calvin-klein-eternity-aromatic-essence-for-women-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
-    "4743256": {
-      "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
-      "precio": "27,86 €",
-      "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "8731930": {
       "nombre": "CALVIN KLEIN ETERNITY WOMAN  EAU SO...",
       "precio": "24,90 €",
@@ -13237,12 +13267,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7793054-mancera-red-tobacco-edp-120-ml-sin-caja.html",
       "en_stock": false
-    },
-    "11620510": {
-      "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620510-zadig-voltaire-zadig-edp-90ml-tester.html",
-      "en_stock": true
     },
     "11664301": {
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
@@ -13561,12 +13585,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11734130-xerjoff-gibeon-edp-50ml-tester.html",
       "en_stock": false
-    },
-    "11625264": {
-      "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11625264-angel-schlesser-femme-naturelle-rose-edt-100ml-tester.html",
-      "en_stock": true
     },
     "11731193": {
       "nombre": "CALVIN KLEIN EUPHORIA EDT 100ML...",
@@ -14270,12 +14288,6 @@
       "url": "https://www.perfumeriaschic.com/p11424516-el-ganso-fun-chic-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11754004": {
-      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11624782": {
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
       "precio": "194,90 €",
@@ -14365,18 +14377,6 @@
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p11313275-xerjoff-amabile-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "9924942": {
-      "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11556743": {
-      "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11368247": {
       "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
@@ -14720,16 +14720,16 @@
       "url": "https://www.perfumeriaschic.com/p7781259-nasomatto-pardon-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "5865574": {
-      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "6234338": {
       "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
+      "en_stock": false
+    },
+    "5865574": {
+      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
       "en_stock": false
     },
     "10518032": {
@@ -14780,16 +14780,16 @@
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
       "en_stock": false
     },
-    "7126742": {
-      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
-      "en_stock": false
-    },
     "11363424": {
       "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
+      "en_stock": false
+    },
+    "7126742": {
+      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
       "en_stock": false
     },
     "10589668": {
