@@ -8154,7 +8154,7 @@
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10680259-calvin-klein-eternity-men-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10619339": {
       "nombre": "DAVIDOFF COOL WATER INTENSE MEN EDP...",
@@ -9283,6 +9283,12 @@
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p11464371-tom-ford-oud-wood-eau-de-parfum-50ml-tester.html",
       "en_stock": false
+    },
+    "11530851": {
+      "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
+      "precio": "26,90 €",
+      "url": "https://www.perfumeriaschic.com/p11530851-adolfo-dominguez-adn-rosa-spicy-edp-100ml-tester.html",
+      "en_stock": true
     },
     "9794972": {
       "nombre": "M. MICALLEF MON PARFUM GOLD EDP...",
@@ -12908,6 +12914,12 @@
       "url": "https://www.perfumeriaschic.com/p7431813-montale-dark-purple-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11726317": {
+      "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
     "11725021": {
       "nombre": "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
       "precio": "23,90 €",
@@ -13128,7 +13140,7 @@
       "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
       "precio": "27,86 €",
       "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8731930": {
       "nombre": "CALVIN KLEIN ETERNITY WOMAN  EAU SO...",
@@ -13224,7 +13236,7 @@
       "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11620510-zadig-voltaire-zadig-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11664301": {
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
@@ -13548,7 +13560,7 @@
       "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11625264-angel-schlesser-femme-naturelle-rose-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11731193": {
       "nombre": "CALVIN KLEIN EUPHORIA EDT 100ML...",
@@ -14256,7 +14268,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11624782": {
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
@@ -14352,13 +14364,13 @@
       "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11556743": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11368247": {
       "nombre": "XERJOFF 40 KNOTS EDP 100ML TESTER",
@@ -18101,6 +18113,7 @@
     "ACQUA DI PARMA COLONIA PURA EDC...",
     "ACQUA DI PARMA MIRTO DI PANAREA...",
     "ACQUA DI PARMA OUD EDP 100ML TESTER",
+    "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
     "ADOLFO DOMINGUEZ AGUA FRESCA AZAHAR...",
     "ADOLFO DOMINGUEZ AGUA FRESCA CITRUS...",
     "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
