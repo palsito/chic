@@ -2894,6 +2894,30 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11335136": {
+      "nombre": "NARCISO RODRIGUEZ MUSC NUDE EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11335136-narciso-rodriguez-musc-nude-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11500876": {
+      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11756086": {
+      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11239777": {
+      "nombre": "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11239777-loewe-aire-anthesis-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11631929": {
       "nombre": "TOUS KAOS EDP 100ML TESTER",
       "precio": "38,90 €",
@@ -12284,12 +12308,6 @@
       "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
       "en_stock": false
     },
-    "11335136": {
-      "nombre": "NARCISO RODRIGUEZ MUSC NUDE EDP...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11335136-narciso-rodriguez-musc-nude-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "10513989": {
       "nombre": "​PHILIPP PLEIN NO LIMITS EDP 90ML...",
       "precio": "32,90 €",
@@ -12901,12 +12919,6 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11745922-yves-saint-laurent-black-opium-edp-glitter-90ml-tester.html",
       "en_stock": false
-    },
-    "11500876": {
-      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11744333": {
       "nombre": "MOLINARD LAVANDE EAU DE PARFUM 75ML...",
@@ -13549,12 +13561,6 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11756086": {
-      "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756086-montale-aqua-palma-edp-100ml-tester.html",
-      "en_stock": true
     },
     "8231159": {
       "nombre": "MANCERA GOLD INTENSITIVE AOUD EDP...",
@@ -14209,12 +14215,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11568587-kenzo-homme-indigo-eau-de-parfum-110-ml-tester.html",
       "en_stock": false
-    },
-    "11239777": {
-      "nombre": "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11239777-loewe-aire-anthesis-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11509078": {
       "nombre": "ROCHAS EAU DE ROCHAS NEROLI AZUR...",
