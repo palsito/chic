@@ -14678,6 +14678,12 @@
       "url": "https://www.perfumeriaschic.com/p11514438-stephane-humbert-lucas-soleil-de-jeddah-50ml-tester.html",
       "en_stock": false
     },
+    "11470421": {
+      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
+      "en_stock": true
+    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
@@ -14696,6 +14702,12 @@
       "url": "https://www.perfumeriaschic.com/p7781259-nasomatto-pardon-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
+    "5865574": {
+      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "6234338": {
       "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
       "precio": "29,90 €",
@@ -14712,12 +14724,6 @@
       "nombre": "SISLEY EAU DE SISLEY 2 EDT 100ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p5884023-sisley-eau-de-sisley-2-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "5865574": {
-      "nombre": "LACOSTE L. 12.12 POUR LUI EAU...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p5865574-lacoste-l-12-12-pour-lui-eau-fraiche-edt-100ml-tester.html",
       "en_stock": false
     },
     "6969336": {
@@ -14756,16 +14762,16 @@
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11363424": {
-      "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
-      "precio": "22,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
-      "en_stock": false
-    },
     "7126742": {
       "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
+      "en_stock": false
+    },
+    "11363424": {
+      "nombre": "SALVATORE FERRAGAMO SIGNORINA...",
+      "precio": "22,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363424-salvatore-ferragamo-signorina-eleganza-edp-50ml.html",
       "en_stock": false
     },
     "10589668": {
@@ -14833,12 +14839,6 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11468283-lacoste-l-12-12-rose-for-her-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11470421": {
-      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
