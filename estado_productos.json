@@ -144,12 +144,6 @@
       "url": "https://www.perfumeriaschic.com/p10831992-daniel-josier-le-musk-edp-100ml.html",
       "en_stock": true
     },
-    "11568627": {
-      "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
-      "precio": "35,91 €",
-      "url": "https://www.perfumeriaschic.com/p11568627-kenzo-leau-pure-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
-    },
     "11776633": {
       "nombre": "DANIEL JOSIER 28 EDP 100ML",
       "precio": "125,00 €",
@@ -2894,6 +2888,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11625264": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11625264-angel-schlesser-femme-naturelle-rose-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "7057137": {
+      "nombre": "HERMES  EAU GENTIANE BLANCHE EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p7057137-hermes-eau-gentiane-blanche-edc-100ml-tester.html",
+      "en_stock": true
+    },
+    "7847684": {
+      "nombre": "HERMES  EAU DE MANDARINE AMBREE EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p7847684-hermes-eau-de-mandarine-ambree-edc-100ml-tester.html",
+      "en_stock": true
+    },
+    "2526698": {
+      "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p2526698-hermes-eau-de-narcisse-bleu-edc-100ml-tester.html",
+      "en_stock": true
+    },
+    "8491999": {
+      "nombre": "HERMES AMAZONE ROSE EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p8491999-hermes-amazone-rose-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11335136": {
       "nombre": "NARCISO RODRIGUEZ MUSC NUDE EDP...",
       "precio": "54,90 €",
@@ -2936,10 +2960,22 @@
       "url": "https://www.perfumeriaschic.com/p11530851-adolfo-dominguez-adn-rosa-spicy-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11754004": {
+      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11726317": {
       "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "10513256": {
+      "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p10513256-issey-miyake-leau-dissey-absolue-edp-90ml-tester.html",
       "en_stock": true
     },
     "4743256": {
@@ -2954,16 +2990,10 @@
       "url": "https://www.perfumeriaschic.com/p11620510-zadig-voltaire-zadig-edp-90ml-tester.html",
       "en_stock": true
     },
-    "11754004": {
-      "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11625264": {
-      "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11625264-angel-schlesser-femme-naturelle-rose-edt-100ml-tester.html",
+    "4490297": {
+      "nombre": "RALPH LAUREN POLO ULTRA BLUE EDT...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p4490297-ralph-laurent-polo-ultra-blue-edt-125ml-tester.html",
       "en_stock": true
     },
     "9924942": {
@@ -2995,12 +3025,6 @@
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p7443188-annick-goutal-eau-dhadrien-edp-100ml.html",
       "en_stock": true
-    },
-    "11777094": {
-      "nombre": "ANNICK GOUTAL SONGES EDP 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11777094-annick-goutal-songes-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11777009": {
       "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
@@ -3127,12 +3151,6 @@
       "precio": "29,18 €",
       "url": "https://www.perfumeriaschic.com/p9794979-starck-paris-peau-de-ailleurs-edt-40ml.html",
       "en_stock": true
-    },
-    "11568627": {
-      "nombre": "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
-      "precio": "35,91 €",
-      "url": "https://www.perfumeriaschic.com/p11568627-kenzo-leau-pure-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
     },
     "11500513": {
       "nombre": "RALPH LAURENT BIG PONY WOMAN N2 EDT...",
@@ -5132,12 +5150,6 @@
       "url": "https://www.perfumeriaschic.com/p10424064-dkny-be-100-delicious-de-donna-karan-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11475926": {
-      "nombre": "BOND No.9 NY CHEZ BOND EDP 100ML...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11475926-bond-no-9-ny-chez-bond-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7315834": {
       "nombre": "JIMMY CHOO EDT 100ML TESTER",
       "precio": "34,90 €",
@@ -5209,12 +5221,6 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p7614522-kenzo-flower-lelixir-edp-50ml-tester.html",
       "en_stock": false
-    },
-    "7057137": {
-      "nombre": "HERMES  EAU GENTIANE BLANCHE EDC...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p7057137-hermes-eau-gentiane-blanche-edc-100ml-tester.html",
-      "en_stock": true
     },
     "8806799": {
       "nombre": "ALAIA PARIS EDP 30ML SIN CAJA",
@@ -5762,12 +5768,6 @@
       "url": "https://www.perfumeriaschic.com/p4490263-narciso-rodriguez-rouge-edp-90ml-tester.html",
       "en_stock": false
     },
-    "10513256": {
-      "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p10513256-issey-miyake-leau-dissey-absolue-edp-90ml-tester.html",
-      "en_stock": true
-    },
     "10894234": {
       "nombre": "LIQUIDES IMAGINAIRES ILE POURPRE...",
       "precio": "104,90 €",
@@ -5828,12 +5828,6 @@
       "url": "https://www.perfumeriaschic.com/p7321556-hermes-terre-eau-intense-vetiver-edp-200ml-sin-caja.html",
       "en_stock": false
     },
-    "7847684": {
-      "nombre": "HERMES  EAU DE MANDARINE AMBREE EDC...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p7847684-hermes-eau-de-mandarine-ambree-edc-100ml-tester.html",
-      "en_stock": true
-    },
     "7452392": {
       "nombre": "LANCOME O DE LANCOME  EDT 75ML...",
       "precio": "24,90 €",
@@ -5863,12 +5857,6 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p10513229-angel-schlesser-eau-de-cologne-bergamota-100ml-tester.html",
       "en_stock": false
-    },
-    "2526698": {
-      "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p2526698-hermes-eau-de-narcisse-bleu-edc-100ml-tester.html",
-      "en_stock": true
     },
     "10102753": {
       "nombre": "GUCCI GUILTY ABSOLUTE POUR FEMME EDP...",
@@ -5989,12 +5977,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p5197862-chanel-coco-mademoiselle-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "4490297": {
-      "nombre": "RALPH LAUREN POLO ULTRA BLUE EDT...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p4490297-ralph-laurent-polo-ultra-blue-edt-125ml-tester.html",
-      "en_stock": true
     },
     "11316754": {
       "nombre": "MASQUE MILANO PETRA EAU DE PARFUM...",
@@ -6655,12 +6637,6 @@
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p11330272-davidoff-cool-water-pacific-summer-edition-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "8491999": {
-      "nombre": "HERMES AMAZONE ROSE EDT 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p8491999-hermes-amazone-rose-edt-100ml-tester.html",
-      "en_stock": true
     },
     "11363418": {
       "nombre": "SERGE LUTENS CHERGUI EDP 50ML TESTER",
@@ -8172,6 +8148,12 @@
       "nombre": "LACOSTE L. 12.12 MAGNETIC POUR ELLE ...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10589669-lacoste-l-12-12-magnetic-pour-elle-edp-80ml-tester.html",
+      "en_stock": false
+    },
+    "10518165": {
+      "nombre": "JUSTIN BIEBER GIRLFRIEND EDP 100ML...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p10518165-justin-bieber-girlfriend-edp-100ml-tester-sin-tapon.html",
       "en_stock": false
     },
     "11366701": {
@@ -9900,6 +9882,12 @@
       "nombre": "ETRO IO MYSELF EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7472444-etro-lo-myself-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "8971046": {
+      "nombre": "MERCHANT OF VENICE DAMASCUS DESERT...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p8971046-merchant-of-venice-damascus-desert-edp-100ml-tester.html",
       "en_stock": false
     },
     "3055881": {
@@ -18448,6 +18436,7 @@
     "JULIETTE HAS A GUN NOT A PERFUME EDP...",
     "JULIETTE HAS A GUN NOT A PERFUME...",
     "JULIETTE HAS A GUN PEAR INC EDP...",
+    "JUSTIN BIEBER GIRLFRIEND EDP 100ML...",
     "KAJAL DAHAB EDP 100ML TESTER",
     "KARL LAGERFELD  JEANS URBAN BLUE EAU...",
     "KARL LAGERFELD IKONIK POUR FEMME EAU...",
@@ -18582,6 +18571,7 @@
     "MASQUE MILANO WHITE WHALE EDP 35ML...",
     "MEMO PARIS FLAM EDP 75ML",
     "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
+    "MERCHANT OF VENICE DAMASCUS DESERT...",
     "MERCHANT OF VENICE ROSA MOCENIGA...",
     "MICHAEL KORS EXTREME JOURNEY EDT...",
     "MILLER HARRIS ETUI NOIR EDP 100ML...",
