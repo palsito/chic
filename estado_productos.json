@@ -12876,7 +12876,7 @@
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11623815-penhaligons-fortuitous-finley-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11271451": {
       "nombre": "PENHALIGON´S PORTRAITS THE COVETED...",
@@ -13260,7 +13260,7 @@
       "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
@@ -13993,6 +13993,12 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p5559705-chanel-allure-sensuelle-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11650255": {
       "nombre": "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
@@ -14926,6 +14932,18 @@
       "url": "https://www.perfumeriaschic.com/p11458475-miller-harris-feuilles-de-tabac-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11774031": {
+      "nombre": "MAISON CRIVELLI MUSC NURASANA...",
+      "precio": "214,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774031-maison-crivelli-musc-nurasana-extrait-50ml-tester.html",
+      "en_stock": true
+    },
+    "11770994": {
+      "nombre": "MAISON CRIVELLI SAFRAN SECRET...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11770994-maison-crivelli-safran-secret-50ml-tester.html",
+      "en_stock": true
+    },
     "11366724": {
       "nombre": "BOIS 1920 OLTREMARE EAU DE PARFUM...",
       "precio": "84,90 €",
@@ -14960,6 +14978,12 @@
       "nombre": "ETAT LIBRE D´ORANGE STORY OF YOUR...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11509080-etat-libre-dorange-story-of-your-life-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11672010": {
+      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
       "en_stock": true
     },
     "11683691": {
@@ -16700,13 +16724,19 @@
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11623815-penhaligons-fortuitous-finley-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11624782": {
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11606333": {
+      "nombre": "MAISON CRIVELLI PATCHOULI MAGNETIK...",
+      "precio": "124,90 €",
+      "url": "https://www.perfumeriaschic.com/p11606333-maison-crivelli-patchouli-magnetik-extrait-50ml-tester.html",
+      "en_stock": true
     },
     "11561323": {
       "nombre": "REGALIEN MEFTUN EDP 50ML TESTER",
@@ -17986,6 +18016,12 @@
       "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11774032": {
+      "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
+      "precio": "204,90 €",
+      "url": "https://www.perfumeriaschic.com/p11774032-maison-crivelli-cuir-infrarouge-extrait-100ml-tester.html",
+      "en_stock": true
+    },
     "11436721": {
       "nombre": "JOUSSET LA TARTE TATIN EXTRAIT DE...",
       "precio": "139,00 €",
@@ -18068,7 +18104,7 @@
       "nombre": "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11651459-essential-parfums-nice-bergamote-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11529796": {
       "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
