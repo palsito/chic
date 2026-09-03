@@ -1,5 +1,17 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "9924942": {
+      "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
+      "precio": "19,90 €",
+      "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "4743256": {
+      "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
+      "precio": "27,86 €",
+      "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11661843": {
       "nombre": "DKNY 24/7 COFRE EDP 100ML+EDP...",
       "precio": "38,50 €",
@@ -18,12 +30,6 @@
       "url": "https://www.perfumeriaschic.com/p11172186-daniel-josier-tangy-caper-edp-100ml.html",
       "en_stock": true
     },
-    "10683605": {
-      "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
-      "precio": "125,00 €",
-      "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
-      "en_stock": false
-    },
     "11407998": {
       "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
       "precio": "72,90 €",
@@ -34,6 +40,12 @@
       "nombre": "FILORGA SERUM TIME ZERO ANTIARRUGAS...",
       "precio": "22,72 €",
       "url": "https://www.perfumeriaschic.com/p11719284-filorga-serum-time-zero-antiarrugas-30ml-tester.html",
+      "en_stock": true
+    },
+    "10953982": {
+      "nombre": "PALOMA PICASSO EDP 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p10953982-paloma-picasso-edp-100ml-tester.html",
       "en_stock": true
     },
     "11472469": {
@@ -162,12 +174,6 @@
       "url": "https://www.perfumeriaschic.com/p4814140-lacoste-touch-of-pink-edt-90ml-tester.html",
       "en_stock": true
     },
-    "11712241": {
-      "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
-      "precio": "44,85 €",
-      "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
-      "en_stock": false
-    },
     "10935514": {
       "nombre": "TOUS LOVEME EAU DE PARFUM 90ML TESTER",
       "precio": "38,90 €",
@@ -228,16 +234,16 @@
       "url": "https://www.perfumeriaschic.com/p11769931-cacharel-ella-ella-flora-azura-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10975230": {
-      "nombre": "BURBERRY HER ELIXIR DE PARFUM EDP...",
-      "precio": "59,71 €",
-      "url": "https://www.perfumeriaschic.com/p10975230-burberry-her-elixir-de-parfum-edp-intense-100ml-tester.html",
-      "en_stock": false
-    },
     "11738274": {
       "nombre": "HUGO BOSS BOTTLED PACK EDT 100ML+...",
       "precio": "46,55 €",
       "url": "https://www.perfumeriaschic.com/p11738274-hugo-boss-bottled-pack-edt-100ml-edt-10ml-viaje-shower-gel-100ml.html",
+      "en_stock": true
+    },
+    "11650184": {
+      "nombre": "CACHAREL YES I,AM DELICIOUS ESTUCHE...",
+      "precio": "26,95 €",
+      "url": "https://www.perfumeriaschic.com/p11650184-cacharel-yes-i-am-delicious-estuche-regalo-edp-50ml-edp-10ml.html",
       "en_stock": true
     },
     "10942275": {
@@ -269,12 +275,6 @@
       "precio": "85,41 €",
       "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
       "en_stock": true
-    },
-    "11529796": {
-      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
-      "precio": "109,91 €",
-      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
-      "en_stock": false
     },
     "11762577": {
       "nombre": "ARISTOCRAZY ROSE QUARTZ EDP 100ML...",
@@ -347,12 +347,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11412452-zadig-voltaire-this-is-her-really-eau-de-parfum-intense-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "10834741": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
-      "precio": "34,91 €",
-      "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
-      "en_stock": false
     },
     "10856776": {
       "nombre": "DSQUARED2 TWO WOOD  EDT 100ML TESTER",
@@ -486,12 +480,6 @@
       "url": "https://www.perfumeriaschic.com/p10893026-collistar-milano-crema-rassodante-intensive-firming-cream-plus-perfec-body-400ml-tester.html",
       "en_stock": true
     },
-    "11692347": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
-      "precio": "99,36 €",
-      "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
-      "en_stock": false
-    },
     "10779748": {
       "nombre": "JESUS DEL POZO HALLOWEEN BLOSSOM EDT...",
       "precio": "16,90 €",
@@ -574,12 +562,6 @@
       "nombre": "CALVIN KLEIN ETERNITY FOR MEN AQUA...",
       "precio": "22,41 €",
       "url": "https://www.perfumeriaschic.com/p2516744-calvin-klein-eternity-for-men-aqua-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11650184": {
-      "nombre": "CACHAREL YES I,AM DELICIOUS ESTUCHE...",
-      "precio": "26,95 €",
-      "url": "https://www.perfumeriaschic.com/p11650184-cacharel-yes-i-am-delicious-estuche-regalo-edp-50ml-edp-10ml.html",
       "en_stock": true
     },
     "11611642": {
@@ -942,12 +924,6 @@
       "url": "https://www.perfumeriaschic.com/p11660086-mary-kay-timewise-nighttime-recovery-recuperacion-nocturna-en-gel-para-el-rostro-y-el-cuello-29ml.html",
       "en_stock": true
     },
-    "11660083": {
-      "nombre": "MARY KAY MINT BLISS ENERGIZING...",
-      "precio": "5,95 €",
-      "url": "https://www.perfumeriaschic.com/p11660083-mary-kay-mint-bliss-energizing-lotion-tratamiento-activador-de-pies-y-piernas-88ml.html",
-      "en_stock": false
-    },
     "11664086": {
       "nombre": "V CANTO AGAPE EAU DE PARFUM 100ML...",
       "precio": "118,71 €",
@@ -1020,18 +996,6 @@
       "url": "https://www.perfumeriaschic.com/p11476689-kenzo-flower-la-recolte-parisienne-edp-75ml-tester.html",
       "en_stock": true
     },
-    "11720855": {
-      "nombre": "TOUS YOUR POWERS EDT 90ML TESTER",
-      "precio": "19,91 €",
-      "url": "https://www.perfumeriaschic.com/p11720855-tous-your-powers-edt-90ml-tester.html",
-      "en_stock": false
-    },
-    "10953982": {
-      "nombre": "PALOMA PICASSO EDP 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p10953982-paloma-picasso-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10846844": {
       "nombre": "SCALPERS HER & HERE EDP 100ML TESTER",
       "precio": "24,85 €",
@@ -1086,12 +1050,6 @@
       "url": "https://www.perfumeriaschic.com/p11651699-philipp-plein-fatale-rose-intense-eau-de-parfum-90ml-tester.html",
       "en_stock": true
     },
-    "4196837": {
-      "nombre": "DIESEL LOVERDOSE EDP 75ML TESTER",
-      "precio": "29,94 €",
-      "url": "https://www.perfumeriaschic.com/p4196837-diesel-loverdose-edp-75ml.html",
-      "en_stock": false
-    },
     "11500536": {
       "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
       "precio": "29,90 €",
@@ -1134,12 +1092,6 @@
       "url": "https://www.perfumeriaschic.com/p11522213-3ina-the-lipstick-barra-de-labios-tono-503-sin-caja.html",
       "en_stock": true
     },
-    "10662003": {
-      "nombre": "EIGHT & BOB CAP D´ANTIBES EDP 100ML...",
-      "precio": "76,41 €",
-      "url": "https://www.perfumeriaschic.com/p10662003-eight-bob-cap-dantibes-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10119806": {
       "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML...",
       "precio": "76,41 €",
@@ -1151,12 +1103,6 @@
       "precio": "76,41 €",
       "url": "https://www.perfumeriaschic.com/p9654811-eight-bob-champs-de-provence-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11551440": {
-      "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11551440-lancome-renergie-yeux-h-c-f-triple-serum-contorno-de-ojos-anti-edad-20ml.html",
-      "en_stock": false
     },
     "11738418": {
       "nombre": "JULIETTE HAS A GUN MISS CHARMING EDP...",
@@ -2526,12 +2472,6 @@
       "url": "https://www.perfumeriaschic.com/p10517808-tommy-hilfiger-tommy-girl-edt-100ml-tester.html",
       "en_stock": false
     },
-    "4743256": {
-      "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
-      "precio": "27,86 €",
-      "url": "https://www.perfumeriaschic.com/p4743256-cacharel-amor-amor-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "10240052": {
       "nombre": "ETRO SANDALO EDT 100ML TESTER",
       "precio": "49,90 €",
@@ -2844,12 +2784,6 @@
       "url": "https://www.perfumeriaschic.com/p11436721-jousset-la-tarte-tatin-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "9924942": {
-      "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP...",
-      "precio": "19,90 €",
-      "url": "https://www.perfumeriaschic.com/p9924942-angel-schlesser-femme-magique-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11676991": {
       "nombre": "NABEEL AREEJ LUXUS EDITION EAU DE...",
       "precio": "34,99 €",
@@ -2884,6 +2818,72 @@
       "nombre": "ARMAND BASI SCENT OF KISS EDT 50ML...",
       "precio": "11,89 €",
       "url": "https://www.perfumeriaschic.com/p7614490-armand-basi-scent-of-a-kiss-edt-50ml-tester.html",
+      "en_stock": false
+    },
+    "10683605": {
+      "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
+      "precio": "125,00 €",
+      "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
+      "en_stock": false
+    },
+    "11712241": {
+      "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
+      "precio": "44,85 €",
+      "url": "https://www.perfumeriaschic.com/p11712241-prada-candy-sugar-pop-edp-50ml.html",
+      "en_stock": false
+    },
+    "10975230": {
+      "nombre": "BURBERRY HER ELIXIR DE PARFUM EDP...",
+      "precio": "59,71 €",
+      "url": "https://www.perfumeriaschic.com/p10975230-burberry-her-elixir-de-parfum-edp-intense-100ml-tester.html",
+      "en_stock": false
+    },
+    "11529796": {
+      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "10834741": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
+      "precio": "34,91 €",
+      "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11692347": {
+      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
+      "precio": "99,36 €",
+      "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
+      "en_stock": false
+    },
+    "11660083": {
+      "nombre": "MARY KAY MINT BLISS ENERGIZING...",
+      "precio": "5,95 €",
+      "url": "https://www.perfumeriaschic.com/p11660083-mary-kay-mint-bliss-energizing-lotion-tratamiento-activador-de-pies-y-piernas-88ml.html",
+      "en_stock": false
+    },
+    "11720855": {
+      "nombre": "TOUS YOUR POWERS EDT 90ML TESTER",
+      "precio": "19,91 €",
+      "url": "https://www.perfumeriaschic.com/p11720855-tous-your-powers-edt-90ml-tester.html",
+      "en_stock": false
+    },
+    "4196837": {
+      "nombre": "DIESEL LOVERDOSE EDP 75ML TESTER",
+      "precio": "29,94 €",
+      "url": "https://www.perfumeriaschic.com/p4196837-diesel-loverdose-edp-75ml.html",
+      "en_stock": false
+    },
+    "10662003": {
+      "nombre": "EIGHT & BOB CAP D´ANTIBES EDP 100ML...",
+      "precio": "76,41 €",
+      "url": "https://www.perfumeriaschic.com/p10662003-eight-bob-cap-dantibes-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11551440": {
+      "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11551440-lancome-renergie-yeux-h-c-f-triple-serum-contorno-de-ojos-anti-edad-20ml.html",
       "en_stock": false
     }
   },
