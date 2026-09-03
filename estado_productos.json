@@ -2894,6 +2894,18 @@
       "url": "https://www.perfumeriaschic.com/p11780148-issey-miyake-leau-dissey-homme-eau-de-parfum-125ml-tester.html",
       "en_stock": true
     },
+    "11780154": {
+      "nombre": "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11780154-givenchy-linterdit-absolu-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "11780155": {
+      "nombre": "HERMES H24 HERBES VIVES EAU DE...",
+      "precio": "56,90 €",
+      "url": "https://www.perfumeriaschic.com/p11780155-hermes-h24-herbes-vives-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11625264": {
       "nombre": "ANGEL SCHLESSER FEMME NATURELLE...",
       "precio": "24,90 €",
@@ -7352,6 +7364,12 @@
       "url": "https://www.perfumeriaschic.com/p8274996-guerlain-le-petite-robe-noire-edt-100ml-sin-caja.html",
       "en_stock": false
     },
+    "10635976": {
+      "nombre": "HERMES TERRE D´HERMES EAU GIVREE EDP...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p10635976-hermes-terre-dhermes-eau-givree-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10465042": {
       "nombre": "HOUBIGANT PARIS ESSENCE RARE EDP...",
       "precio": "98,90 €",
@@ -7867,6 +7885,12 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p7221319-elie-saab-girl-of-now-forever-edp-90ml-tester.html",
       "en_stock": false
+    },
+    "1997933": {
+      "nombre": "CHLOE LOVE STORY EDP 75ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p1997933-chloe-love-story-edp-75ml-tester.html",
+      "en_stock": true
     },
     "10913159": {
       "nombre": "NARCISO RODRIGUEZ FOR HER FOREVER...",
@@ -12462,12 +12486,6 @@
       "nombre": "MANCERA CINQUE TERRE EDP 120ML TESTER",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11663999-mancera-cinque-terre-edp-120ml-tester.html",
-      "en_stock": false
-    },
-    "7664723": {
-      "nombre": "PENHALIGON´S THE TRAGEDY OF LORD...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p7664723-penhaligons-the-tragedy-of-lord-george-edp-75ml-sin-caja.html",
       "en_stock": false
     },
     "10695075": {
@@ -18224,6 +18242,7 @@
     "CHANEL ALLURE SENSUELLE EDP 100ML...",
     "CHANEL ANTAEUS POUR HOMME EDT 100ML...",
     "CHLOE LE PARFUM 100ML TESTER",
+    "CHLOE LOVE STORY EDP 75ML TESTER",
     "CHLOE L´EAU DE PARFUM LUMINEUSE...",
     "CHLOE ROSE NATURELLE EDP INTENSE...",
     "CLARINS AROMA EAU DYNAMISANTE LECHE...",
@@ -18332,6 +18351,7 @@
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
     "GIVENCHY DAHLIA DIVIN EDP 100ML...",
     "GIVENCHY GENTLEMAN EDT 100ML TESTER",
+    "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
     "GIVENCHY L´INTERDIT PARFUM 80ML...",
     "GIVENCHY PI EDT 100ML TESTER",
     "GIVENCHY POUR HOMME EDT 100ML TESTER",
@@ -18368,7 +18388,9 @@
     "HERMES EAU DE NARCISSE BLEU EDC...",
     "HERMES ELIXIR DES MERVEILLES EDP...",
     "HERMES H24 EAU DE TOILETTE 100ML...",
+    "HERMES H24 HERBES VIVES EAU DE...",
     "HERMES JOUR ABSOLU EDP 85ML TESTER",
+    "HERMES TERRE D´HERMES EAU GIVREE EDP...",
     "HERMES TUTTI TWILLY EAU DE PARFUM...",
     "HERMES UN JARDIN APRES LA MOUSSON ...",
     "HERMES UN JARDIN SUR LE TOIT EDT...",
