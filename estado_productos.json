@@ -322,7 +322,7 @@
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
       "precio": "38,95 €",
       "url": "https://www.perfumeriaschic.com/p11516271-paco-rabanne-pure-xs-for-her-eau-de-parfum-50ml.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11737652": {
       "nombre": "SIMONE ANDREOLI CRIMINAL LIPSTICK...",
@@ -3270,7 +3270,7 @@
       "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11458475": {
       "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
@@ -3306,7 +3306,7 @@
       "nombre": "BURBERRY HERO EDT 100ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10455647-burberry-hero-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11647093": {
       "nombre": "CALVIN KLEIN CK DEFY EDP 100ML TESTER",
