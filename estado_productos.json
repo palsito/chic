@@ -664,7 +664,7 @@
       "nombre": "CACHAREL AMOR AMOR EAU DE PARFUM...",
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p11510316-cacharel-amor-amor-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11521954": {
       "nombre": "XERJOFF CASAMORATI BOUQUET IDEALE...",
@@ -2758,7 +2758,7 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "44,99 €",
       "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756165": {
       "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
@@ -4770,7 +4770,7 @@
       "nombre": "CACHAREL AMOR AMOR EAU DE PARFUM...",
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p11510316-cacharel-amor-amor-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10268196": {
       "nombre": "TRUSSARDI EAU DE PARFUM 90ML TESTER",
@@ -14160,7 +14160,7 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "44,99 €",
       "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756073": {
       "nombre": "ETRO VIA VERRI EDT 50ML TESTER",
