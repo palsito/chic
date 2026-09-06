@@ -2888,6 +2888,12 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11611209": {
+      "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
+      "precio": "44,99 €",
+      "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
+      "en_stock": true
+    },
     "9654811": {
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP...",
       "precio": "76,41 €",
@@ -3540,12 +3546,6 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11765541-ralph-lauren-polo-est-67-eau-de-parfum-extreme-125ml-tester.html",
-      "en_stock": true
-    },
-    "11433948": {
-      "nombre": "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
-      "precio": "198,90 €",
-      "url": "https://www.perfumeriaschic.com/p11433948-amouage-guidance-woman-edp-100ml-tester.html",
       "en_stock": true
     },
     "11762585": {
@@ -11856,7 +11856,7 @@
       "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8360831": {
       "nombre": "THIERRY MUGLER ANGEL NOVA EDP 100ML...",
@@ -11958,12 +11958,6 @@
       "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11708048-dkny-be-delicious-latte-vainilla-edp-50ml-tester.html",
-      "en_stock": false
-    },
-    "11731198": {
-      "nombre": "AZZARO WANTED FOREVER ABSOLU 100ML...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11731198-azzaro-wanted-forever-absolu-100ml-tester.html",
       "en_stock": false
     },
     "4912663": {
@@ -13248,7 +13242,7 @@
       "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10265603": {
       "nombre": "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
@@ -13782,7 +13776,7 @@
       "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5559705": {
       "nombre": "CHANEL ALLURE SENSUELLE EDP 100ML...",
@@ -14162,12 +14156,6 @@
       "url": "https://www.perfumeriaschic.com/p11774034-narciso-rodriguez-all-of-me-floral-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11611209": {
-      "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
-      "precio": "44,99 €",
-      "url": "https://www.perfumeriaschic.com/p11611209-ralph-lauren-polo-est-67-edp-125ml-tester.html",
-      "en_stock": true
-    },
     "11756073": {
       "nombre": "ETRO VIA VERRI EDT 50ML TESTER",
       "precio": "38,90 €",
@@ -14484,12 +14472,6 @@
       "nombre": "HERMES TERRE D´HERMES EAU GIVREE EDP...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p10635976-hermes-terre-dhermes-eau-givree-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11780154": {
-      "nombre": "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11780154-givenchy-linterdit-absolu-edp-80ml-tester.html",
       "en_stock": false
     },
     "11606333": {
