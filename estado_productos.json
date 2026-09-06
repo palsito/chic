@@ -2888,6 +2888,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11561166": {
+      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
+      "en_stock": true
+    },
+    "11734507": {
+      "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "5468964": {
+      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
+      "en_stock": false
+    },
+    "11780154": {
+      "nombre": "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11780154-givenchy-linterdit-absolu-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "11433948": {
+      "nombre": "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
+      "precio": "198,90 €",
+      "url": "https://www.perfumeriaschic.com/p11433948-amouage-guidance-woman-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11611209": {
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "44,99 €",
@@ -7908,7 +7938,7 @@
       "nombre": "LOEWE EARTH EDP 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10423453-loewe-earth-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8404133": {
       "nombre": "VAN CLEEF & ARPELS COLLECTION...",
@@ -11852,12 +11882,6 @@
       "url": "https://www.perfumeriaschic.com/p11720848-carolina-herrera-good-girl-jasmine-absolute-edp-80ml-tester.html",
       "en_stock": false
     },
-    "11561166": {
-      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": true
-    },
     "8360831": {
       "nombre": "THIERRY MUGLER ANGEL NOVA EDP 100ML...",
       "precio": "58,90 €",
@@ -13238,12 +13262,6 @@
       "url": "https://www.perfumeriaschic.com/p10913492-mancera-amber-fever-edp-120ml-tester.html",
       "en_stock": false
     },
-    "11734507": {
-      "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10265603": {
       "nombre": "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
       "precio": "54,90 €",
@@ -13771,12 +13789,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7828753-perris-monte-carlo-cedro-di-diamante-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "5468964": {
-      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
-      "en_stock": true
     },
     "5559705": {
       "nombre": "CHANEL ALLURE SENSUELLE EDP 100ML...",
