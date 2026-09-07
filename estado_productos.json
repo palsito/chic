@@ -2882,6 +2882,30 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11781225": {
+      "nombre": "ESSENTIAL PARFUMS AMBRE LATTE EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781225-essential-parfums-ambre-latte-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781228": {
+      "nombre": "D.S. & DURGA DEBASER EDP 100 ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781227": {
+      "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781229": {
+      "nombre": "GIARDINI DI TOSCANA BORABORA EDP 100...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11734507": {
       "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
       "precio": "58,90 €",
@@ -14684,12 +14708,6 @@
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11781227": {
-      "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
-      "en_stock": true
-    },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
@@ -18270,6 +18288,7 @@
     "CREED ORIGINAL VETIVER EDP 100ML...",
     "CREED SILVER MOUNTAIN WATER EDP...",
     "CREED TABAROME EDP 100ML TESTER",
+    "D.S. & DURGA DEBASER EDP 100 ML...",
     "D.S.&DURGA AMBER KISO EDP 100ML...",
     "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
     "D.S.&DURGA I DON'T KNOW WHAT EDP...",
@@ -18324,6 +18343,7 @@
     "ESCADA JOYFUL EDP 75ML TESTER",
     "ESCADA PARTY LOVE LIMITED EDITION...",
     "ESCADA TAJ SUNSET EDT 50ML TESTER",
+    "ESSENTIAL PARFUMS AMBRE LATTE EDP...",
     "ESSENTIAL PARFUMS BOIS IMPERIAL EDP...",
     "ESSENTIAL PARFUMS FIG INFUSION EDP...",
     "ESSENTIAL PARFUMS NICE BERGAMOTE EDP...",
@@ -18355,6 +18375,7 @@
     "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
     "GIARDINI DI TOSCANA BIANCO LATTE...",
     "GIARDINI DI TOSCANA BLU INDACO 100ML...",
+    "GIARDINI DI TOSCANA BORABORA EDP 100...",
     "GIARDINI DI TOSCANA CELESTE 100ML...",
     "GIARDINI DI TOSCANA ROSSO RADICE...",
     "GIARDINI DI TOSCANA SHABBY CHIC...",
