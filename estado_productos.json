@@ -2888,29 +2888,11 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11561166": {
-      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": false
-    },
     "11734507": {
       "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "5468964": {
-      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
-      "en_stock": false
-    },
-    "11780154": {
-      "nombre": "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11780154-givenchy-linterdit-absolu-edp-80ml-tester.html",
-      "en_stock": false
     },
     "11611209": {
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
@@ -3186,7 +3168,7 @@
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11701475": {
       "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
@@ -3391,12 +3373,6 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10779761-jesus-del-pozo-halloween-man-hero-edt-125ml-tester.html",
       "en_stock": true
-    },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": false
     },
     "10846844": {
       "nombre": "SCALPERS HER & HERE EDP 100ML TESTER",
@@ -3698,12 +3674,6 @@
       "url": "https://www.perfumeriaschic.com/p11762580-aristocrazy-amethyst-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11762596": {
-      "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11762257": {
       "nombre": "CARON POUR UN HOMME LE SOIR EDP...",
       "precio": "48,90 €",
@@ -3996,7 +3966,7 @@
       "nombre": "ISSEY MIYAKE L,EAU DISSEY EDT 100ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p2514784-issey-miyake-l-eau-dissey-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11536626": {
       "nombre": "MINIATURA MONCLER POUR FEMME EDP...",
@@ -14682,6 +14652,36 @@
       "nombre": "DIESEL LOVERDOSE EDP 75ML TESTER",
       "precio": "29,94 €",
       "url": "https://www.perfumeriaschic.com/p4196837-diesel-loverdose-edp-75ml.html",
+      "en_stock": false
+    },
+    "11561166": {
+      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
+      "en_stock": false
+    },
+    "5468964": {
+      "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
+      "en_stock": false
+    },
+    "11780154": {
+      "nombre": "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11780154-givenchy-linterdit-absolu-edp-80ml-tester.html",
+      "en_stock": false
+    },
+    "11637302": {
+      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
+      "en_stock": false
+    },
+    "11762596": {
+      "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": false
     },
     "11470421": {
