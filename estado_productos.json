@@ -2888,12 +2888,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11781471": {
-      "nombre": "AMOUAGE REFLECTION 45 MAN EXTRAIT...",
-      "precio": "264,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781471-amouage-reflection-45-man-extrait-100-ml-tester.html",
-      "en_stock": false
-    },
     "11781228": {
       "nombre": "D.S. & DURGA DEBASER EDP 100 ML...",
       "precio": "144,90 €",
@@ -13838,12 +13832,6 @@
       "url": "https://www.perfumeriaschic.com/p4382965-yves-saint-laurent-opium-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11763826": {
-      "nombre": "GIARDINI DI TOSCANA SHABBY CHIC...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763826-giardini-di-toscana-shabby-chic-100ml-tester.html",
-      "en_stock": false
-    },
     "7315779": {
       "nombre": "ACQUA DI PARMA COLONIA PURA EDC...",
       "precio": "58,90 €",
@@ -14708,6 +14696,18 @@
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11781472": {
+      "nombre": "LOEWE UN PASEO POR MADRID ÓPERA EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781472-loewe-un-paseo-por-madrid-opera-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781473": {
+      "nombre": "LOEWE UN PASEO POR MADRID ROSALEDA...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781473-loewe-un-paseo-por-madrid-rosaleda-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
@@ -14790,12 +14790,6 @@
       "nombre": "TOUS MAN INTENSE EDT 100ML TESTER",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p6854920-tous-man-intense-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "7126742": {
-      "nombre": "DAVIDOFF CHAMPION ENERGY EDT 90ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p7126742-davidoff-champion-energy-edt-90ml-tester.html",
       "en_stock": false
     },
     "11363424": {
