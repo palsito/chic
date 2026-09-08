@@ -2848,7 +2848,7 @@
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
       "precio": "99,36 €",
       "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11660083": {
       "nombre": "MARY KAY MINT BLISS ENERGIZING...",
@@ -2882,28 +2882,10 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11781472": {
-      "nombre": "LOEWE UN PASEO POR MADRID ÓPERA EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781472-loewe-un-paseo-por-madrid-opera-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781473": {
-      "nombre": "LOEWE UN PASEO POR MADRID ROSALEDA...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781473-loewe-un-paseo-por-madrid-rosaleda-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781550": {
-      "nombre": "LOEWE UN PASEO POR MADRID PRADO EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781550-loewe-un-paseo-por-madrid-prado-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781551": {
-      "nombre": "LOEWE UN PASEO POR MADRID DEBOD EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781551-loewe-un-paseo-por-madrid-debod-edp-100-ml-tester.html",
+    "11781653": {
+      "nombre": "DOLCE&GABBANA MY DEVOTION EAU DE...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781653-dolcegabbana-my-devotion-eau-de-parfum-intense-100-ml-tester.html",
       "en_stock": true
     },
     "11781552": {
@@ -2912,17 +2894,95 @@
       "url": "https://www.perfumeriaschic.com/p11781552-loewe-un-paseo-por-madrid-casa-de-campo-edp-100-ml-tester.html",
       "en_stock": true
     },
-    "11781228": {
-      "nombre": "D.S. & DURGA DEBASER EDP 100 ML...",
-      "precio": "144,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
-      "en_stock": false
+    "11781551": {
+      "nombre": "LOEWE UN PASEO POR MADRID DEBOD EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781551-loewe-un-paseo-por-madrid-debod-edp-100-ml-tester.html",
+      "en_stock": true
     },
-    "11734507": {
-      "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11734507-loewe-solo-vulcan-edp-100ml-tester.html",
-      "en_stock": false
+    "11781550": {
+      "nombre": "LOEWE UN PASEO POR MADRID PRADO EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781550-loewe-un-paseo-por-madrid-prado-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781473": {
+      "nombre": "LOEWE UN PASEO POR MADRID ROSALEDA...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781473-loewe-un-paseo-por-madrid-rosaleda-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781472": {
+      "nombre": "LOEWE UN PASEO POR MADRID ÓPERA EDP...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781472-loewe-un-paseo-por-madrid-opera-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781654": {
+      "nombre": "LOEWE UN PASEO POR MADRID SAN MIGUEL...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781654-loewe-un-paseo-por-madrid-san-miguel-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11161894": {
+      "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
+      "precio": "28,90 €",
+      "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
+      "en_stock": true
+    },
+    "11781646": {
+      "nombre": "ROOM 1015 ELECTRIC WOOD EXTRAIT DE...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781646-room-1015-electric-wood-extrait-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781647": {
+      "nombre": "GUCCI FIORI DI NEROLI EDP 100 ML...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781647-gucci-fiori-di-neroli-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781649": {
+      "nombre": "GIARDINI DI TOSCANA BORABORA CREMA...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781649-giardini-di-toscana-borabora-crema-corporal-250-ml-tester.html",
+      "en_stock": true
+    },
+    "11781650": {
+      "nombre": "SPIRIT OF KINGS MATAR EDP 100 ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781650-spirit-of-kings-matar-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781651": {
+      "nombre": "SPIRIT OF KINGS ARRAKIS EDP 100 ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781651-spirit-of-kings-arrakis-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781652": {
+      "nombre": "KAJAL ALMAZ EDP 100 ML TESTER",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781652-kajal-almaz-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781655": {
+      "nombre": "JIMMY CHOO MAN PARFUM 100 ML TESTER",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781655-jimmy-choo-man-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781656": {
+      "nombre": "LANCÔME ABSOLUE HOT AS ROSE EAU DE...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781656-lancome-absolue-hot-as-rose-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11692347": {
+      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
+      "precio": "99,36 €",
+      "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
+      "en_stock": true
     },
     "11611209": {
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
@@ -12182,12 +12242,6 @@
       "url": "https://www.perfumeriaschic.com/p11526326-hfc-private-code-eau-de-parfum-75ml-sin-caja.html",
       "en_stock": false
     },
-    "11680759": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN A...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11680759-gucci-the-alchemists-garden-a-winter-melody-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "10452315": {
       "nombre": "SCALPERS THE CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
@@ -14312,12 +14366,6 @@
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11161894": {
-      "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
-      "precio": "28,90 €",
-      "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
-      "en_stock": true
-    },
     "4489258": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
       "precio": "42,90 €",
@@ -14334,12 +14382,6 @@
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p7026445-adolfo-dominguez-agua-fresca-de-rosas-blancas-edt-120ml-tester.html",
-      "en_stock": false
-    },
-    "11692347": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
-      "precio": "99,36 €",
-      "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
       "en_stock": false
     },
     "11355827": {
@@ -14364,12 +14406,6 @@
       "nombre": "CACHAREL POUR HOMME EDT 100ML TESTER",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p8338749-cacharel-pour-homme-edt-100ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11680748": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11680748-gucci-the-alchemists-garden-moonlight-serenade-edt-150ml-tester.html",
       "en_stock": false
     },
     "11762581": {
@@ -14708,64 +14744,10 @@
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11781646": {
-      "nombre": "ROOM 1015 ELECTRIC WOOD EXTRAIT DE...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781646-room-1015-electric-wood-extrait-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
     "11781648": {
       "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11781648-giardini-di-toscana-bianco-latte-crema-corporal-250-ml-tester.html",
-      "en_stock": true
-    },
-    "11781649": {
-      "nombre": "GIARDINI DI TOSCANA BORABORA CREMA...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781649-giardini-di-toscana-borabora-crema-corporal-250-ml-tester.html",
-      "en_stock": true
-    },
-    "11781650": {
-      "nombre": "SPIRIT OF KINGS MATAR EDP 100 ML...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781650-spirit-of-kings-matar-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781651": {
-      "nombre": "SPIRIT OF KINGS ARRAKIS EDP 100 ML...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781651-spirit-of-kings-arrakis-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781652": {
-      "nombre": "KAJAL ALMAZ EDP 100 ML TESTER",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781652-kajal-almaz-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781653": {
-      "nombre": "DOLCE&GABBANA MY DEVOTION EAU DE...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781653-dolcegabbana-my-devotion-eau-de-parfum-intense-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781654": {
-      "nombre": "LOEWE UN PASEO POR MADRID SAN MIGUEL...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781654-loewe-un-paseo-por-madrid-san-miguel-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781655": {
-      "nombre": "JIMMY CHOO MAN PARFUM 100 ML TESTER",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781655-jimmy-choo-man-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11781656": {
-      "nombre": "LANCÔME ABSOLUE HOT AS ROSE EAU DE...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781656-lancome-absolue-hot-as-rose-eau-de-parfum-100-ml-tester.html",
       "en_stock": true
     },
     "11470421": {
@@ -17164,12 +17146,6 @@
       "url": "https://www.perfumeriaschic.com/p11239799-masque-milano-tango-oud-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11680759": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN A...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11680759-gucci-the-alchemists-garden-a-winter-melody-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
       "precio": "116,91 €",
@@ -18148,17 +18124,11 @@
       "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "11680748": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11680748-gucci-the-alchemists-garden-moonlight-serenade-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "11692347": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
       "precio": "99,36 €",
       "url": "https://www.perfumeriaschic.com/p11692347-gucci-the-alchemists-garden-winters-spring-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10683605": {
       "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
@@ -18459,6 +18429,7 @@
     "GUCCI BAMBOO EAU DE PARFUM 75ML...",
     "GUCCI BAMBOO EDT 75ML TESTER",
     "GUCCI BLOOM PARFUM 100ML TESTER",
+    "GUCCI FIORI DI NEROLI EDP 100 ML...",
     "GUCCI FLORA GORGEOUS GARDENIA EDP...",
     "GUCCI GUILTY  POUR HOMME PARFUM 90ML...",
     "GUCCI GUILTY EAU DE PARFUM INTENSE...",
