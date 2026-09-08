@@ -2900,18 +2900,6 @@
       "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
       "en_stock": true
     },
-    "11781227": {
-      "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11781229": {
-      "nombre": "GIARDINI DI TOSCANA BORABORA EDP 100...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "11734507": {
       "nombre": "LOEWE SOLO VULCAN EDP 100ML TESTER",
       "precio": "58,90 €",
@@ -3126,7 +3114,7 @@
       "nombre": "ZADIG & VOLTAIRE ZADIG EDP 90ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11620510-zadig-voltaire-zadig-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11776914": {
       "nombre": "ADOLFO DOMINGUEZ UNICA CORAL EDT...",
