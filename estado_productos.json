@@ -556,7 +556,7 @@
       "nombre": "SCALPERS THE BAND FOR HIM EDP 100ML...",
       "precio": "23,92 €",
       "url": "https://www.perfumeriaschic.com/p11608912-scalpers-the-band-for-him-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "2516744": {
       "nombre": "CALVIN KLEIN ETERNITY FOR MEN AQUA...",
@@ -1030,7 +1030,7 @@
       "nombre": "DIESEL ONLY THE BRAVE EDT 125ML...",
       "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p4479554-diesel-only-the-brave-edt-75ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "2515129": {
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
@@ -1048,6 +1048,12 @@
       "nombre": "​PHILIPP PLEIN FATALE ROSE INTENSE...",
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p11651699-philipp-plein-fatale-rose-intense-eau-de-parfum-90ml-tester.html",
+      "en_stock": true
+    },
+    "11500536": {
+      "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11500536-tous-sorbet-garden-edt-90ml-tester.html",
       "en_stock": true
     },
     "6301615": {
@@ -3186,7 +3192,7 @@
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11556743-issey-miyake-le-sel-dissey-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11701475": {
       "nombre": "HALLOWEEN MY WISH ADDICTION EDP...",
@@ -4158,7 +4164,7 @@
       "nombre": "SCALPERS THE BAND FOR HIM EDP 100ML...",
       "precio": "23,92 €",
       "url": "https://www.perfumeriaschic.com/p11608912-scalpers-the-band-for-him-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11631944": {
       "nombre": "SCALPERS THE SUITE CLUB EDT 125ML...",
@@ -4494,7 +4500,7 @@
       "nombre": "DIESEL ONLY THE BRAVE EDT 125ML...",
       "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p4479554-diesel-only-the-brave-edt-75ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11475949": {
       "nombre": "BOND No.9 NY NEW YORK NIGHTS EDP...",
@@ -4854,6 +4860,12 @@
       "nombre": "BENETTON WE ARE TRIBE EAU DE...",
       "precio": "15,95 €",
       "url": "https://www.perfumeriaschic.com/p11624871-benetton-we-are-tribe-eau-de-toilette-90-ml.html",
+      "en_stock": true
+    },
+    "11500536": {
+      "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11500536-tous-sorbet-garden-edt-90ml-tester.html",
       "en_stock": true
     },
     "11623808": {
@@ -18936,6 +18948,7 @@
     "TOUS MAN EDT 100ML TESTER",
     "TOUS MAN INTENSE EDT 100ML TESTER",
     "TOUS OH! THE ORIGIN EDP 100ML TESTER",
+    "TOUS SORBET GARDEN EDT 90ML TESTER",
     "TOUS TOUCH EDT 100ML TESTER",
     "TOUS YOUR POWERS EDT 90ML TESTER",
     "TRUSSARDI LE VIE DI MILANO BEHID THE...",
