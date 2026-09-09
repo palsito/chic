@@ -2934,7 +2934,7 @@
       "nombre": "GUCCI FIORI DI NEROLI EDP 100 ML...",
       "precio": "118,90 €",
       "url": "https://www.perfumeriaschic.com/p11781647-gucci-fiori-di-neroli-edp-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11781649": {
       "nombre": "GIARDINI DI TOSCANA BORABORA CREMA...",
@@ -3036,7 +3036,7 @@
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10680259-calvin-klein-eternity-men-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11672010": {
       "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
