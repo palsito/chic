@@ -2662,7 +2662,7 @@
       "nombre": "ROCHAS GIRL EDT 100ML TESTER",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p8435409-rochasgirl-edt100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11660080": {
       "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
@@ -2764,7 +2764,7 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
       "precio": "34,91 €",
       "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11660083": {
       "nombre": "MARY KAY MINT BLISS ENERGIZING...",
@@ -14370,13 +14370,13 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10220192-zadig-voltaire-this-is-us-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10834741": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
       "precio": "34,91 €",
       "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11675997": {
       "nombre": "ROBERT PIGUET BANDIT 100ML TESTER",
@@ -14388,7 +14388,7 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM REALLY...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11412453-zadig-voltaire-this-is-him-really-eau-de-toilette-intense-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10650240": {
       "nombre": "ROSENDO MATEU Nº7 PERFUME 100ML",
