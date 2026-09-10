@@ -10410,7 +10410,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10911757-rochas-eau-de-rochas-lessentiel-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11526345": {
       "nombre": "ETAT LIBRE D´ORANGE DANGEROUS...",
@@ -13872,7 +13872,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8252606": {
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
@@ -14064,7 +14064,7 @@
       "nombre": "ROCHAS GIRL EDT 100ML TESTER",
       "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p8435409-rochasgirl-edt100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11468402": {
       "nombre": "EVODY FLEUR D'ORANGER EDP 100ML...",
@@ -14840,16 +14840,16 @@
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
       "en_stock": false
     },
-    "10690572": {
-      "nombre": "ROCHAS MADEMOISELLE COUTURE EDP 90ML...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p10690572-rochas-mademoiselle-couture-edp-90ml-tester.html",
-      "en_stock": false
-    },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11765806-loewe-un-paseo-por-madrid-la-bella-cibeles-edp-100ml.html",
+      "en_stock": false
+    },
+    "10690572": {
+      "nombre": "ROCHAS MADEMOISELLE COUTURE EDP 90ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10690572-rochas-mademoiselle-couture-edp-90ml-tester.html",
       "en_stock": false
     },
     "11468283": {
