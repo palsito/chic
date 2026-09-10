@@ -2316,6 +2316,12 @@
       "url": "https://www.perfumeriaschic.com/p11708235-burberry-for-men-edt-100ml.html",
       "en_stock": false
     },
+    "11744313": {
+      "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11739275": {
       "nombre": "REPLICA MAISON MARGIELA NEVER-ENDING...",
       "precio": "34,95 €",
@@ -4334,6 +4340,12 @@
       "url": "https://www.perfumeriaschic.com/p4870625-calvin-klein-ck-one-edt-200ml-tester.html",
       "en_stock": true
     },
+    "11744313": {
+      "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11366729": {
       "nombre": "CARNER BARCELONA SWEET WILLIAM EDP...",
       "precio": "89,90 €",
@@ -6174,7 +6186,7 @@
       "nombre": "DUSITA PELAGOS EXTRAIT DE PARFUM...",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544530": {
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
@@ -10074,7 +10086,7 @@
       "nombre": "ATELIERS DES ORS LUNE FELINE EAU DE...",
       "precio": "139,90 €",
       "url": "https://www.perfumeriaschic.com/p11313994-ateliers-des-ors-lune-feline-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11293778": {
       "nombre": "MANCERA ROYAL VANILLA EDP 120ML...",
