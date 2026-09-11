@@ -1408,7 +1408,7 @@
       "nombre": "REPLICA MAISON MARGIELA BY THE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11407997-replica-maison-margiela-by-the-fireplace-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424760": {
       "nombre": "SHISEIDO GINZA NIGHT EDP INTENSE...",
@@ -2470,7 +2470,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231057": {
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
@@ -3582,6 +3582,12 @@
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11765541-ralph-lauren-polo-est-67-eau-de-parfum-extreme-125ml-tester.html",
+      "en_stock": true
+    },
+    "11545195": {
+      "nombre": "DONNA KARAN CASHMERE & VANILLA...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11545195-donna-karan-cashmere-vanilla-essence-edp-100ml-tester.html",
       "en_stock": true
     },
     "11762585": {
@@ -8706,7 +8712,7 @@
       "nombre": "REPLICA MAISON MARGIELA BY THE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11407997-replica-maison-margiela-by-the-fireplace-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11477488": {
       "nombre": "COACH GREEN EAU DE TOILETTE 100ML...",
@@ -9426,7 +9432,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10358706": {
       "nombre": "HUGO BOSS THE SCENT FOR HER LE...",
@@ -11348,12 +11354,6 @@
       "url": "https://www.perfumeriaschic.com/p11643703-gucci-flora-gorgeous-orchid-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11545196": {
-      "nombre": "DONNA KARAN CASHMERE & TIARE FLOWER...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11545196-donna-karan-cashmere-tiare-flower-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11444636": {
       "nombre": "HERMES BARÉNIA EDP 100ML TESTER",
       "precio": "64,90 €",
@@ -11574,7 +11574,7 @@
       "nombre": "CREED ORIGINAL VETIVER EDP 100ML...",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p8876066-creed-originalvetiver-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11704530": {
       "nombre": "TIZIANA TERENZI ARETHUSA EXTRAIT DE...",
@@ -12204,7 +12204,7 @@
       "nombre": "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11623821-frederic-malle-rose-cuir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11692353": {
       "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
@@ -12241,6 +12241,12 @@
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10890231-ralph-lauren-polo-blue-parfum-125ml-tester.html",
       "en_stock": false
+    },
+    "11646584": {
+      "nombre": "HOUBIGANT TABAC NOMADE EDP 100ML...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11646584-houbigant-tabac-nomade-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10455657": {
       "nombre": "CHLOE ROSE NATURELLE EDP INTENSE...",
@@ -12642,7 +12648,7 @@
       "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10517808-tommy-hilfiger-tommy-girl-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9350433": {
       "nombre": "GIVENCHY PI EDT 100ML TESTER",
@@ -12936,7 +12942,7 @@
       "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7783017": {
       "nombre": "ATKINSONS OUD SAVE THE KING EDP...",
@@ -12954,7 +12960,7 @@
       "nombre": "PENHALIGON´S PORTRAITS CHANGING...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p7463527-penhaligons-portraits-changing-constance-edp-75ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8335550": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
@@ -13794,7 +13800,7 @@
       "nombre": "PERRIS MONTE CARLO CEDRO DI DIAMANTE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7828753-perris-monte-carlo-cedro-di-diamante-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5559705": {
       "nombre": "CHANEL ALLURE SENSUELLE EDP 100ML...",
@@ -14208,7 +14214,7 @@
       "nombre": "MONTBLANC LEGEND ELIXIR PARFUM 100ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11732561-montblanc-legend-elixir-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11762597": {
       "nombre": "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
@@ -15944,7 +15950,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE WORLD...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11389983-penhaligons-portraits-the-world-according-to-arthur-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11244301": {
       "nombre": "TOM FORD WHITE SUEDE EDP 50ML TESTER",
@@ -16340,7 +16346,7 @@
       "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11464371": {
       "nombre": "TOM FORD OUD WOOD EAU DE PARFUM 50ML...",
@@ -16797,6 +16803,12 @@
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p10680291-rosendo-mateu-fresh-oud-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11646584": {
+      "nombre": "HOUBIGANT TABAC NOMADE EDP 100ML...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11646584-houbigant-tabac-nomade-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11544524": {
       "nombre": "CARTHUSIA UOMO EDP 100ML TESTER",
@@ -17288,7 +17300,7 @@
       "nombre": "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11623821-frederic-malle-rose-cuir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11458474": {
       "nombre": "MORESQUE THE SECRET COLLECTION...",
@@ -17666,7 +17678,7 @@
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11671517": {
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
@@ -18287,6 +18299,7 @@
     "DKNY BE DELICIOUS LATTE VANILLA EDP...",
     "DOLCE&GABBANA MY DEVOTION EAU DE...",
     "DONNA KARAN CASHMERE & PALO SANTO...",
+    "DONNA KARAN CASHMERE & VANILLA...",
     "DSQUARED2 WOOD POUR HOMME EDT 100ML...",
     "DUSITA LE SILLAGE BLANC EAU DE...",
     "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
@@ -18418,6 +18431,7 @@
     "HOUBIGANT LA BELLE SAISON EDP 100ML...",
     "HOUBIGANT MON BOUDOIR EDP 100ML...",
     "HOUBIGANT PARIS FOUGERE ROYALE EDP...",
+    "HOUBIGANT TABAC NOMADE EDP 100ML...",
     "HUGO BOSS BOTTLED BEYOND PACK EDP...",
     "HUGO BOSS BOTTLED EAU DE PARFUM...",
     "HUGO BOSS BOTTLED EDT 50ML SIN CAJA",
