@@ -2876,35 +2876,23 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11781225": {
-      "nombre": "ESSENTIAL PARFUMS AMBRE LATTE EDP...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781225-essential-parfums-ambre-latte-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11781563": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN A CHANT...",
+    "11783254": {
+      "nombre": "ROSENDO MATEU Nº10 MUSK MUSK MUSK...",
       "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781563-gucci-the-alchemists-garden-a-chant-for-the-nymph-edp-100-ml-tester.html",
-      "en_stock": false
+      "url": "https://www.perfumeriaschic.com/p11783254-rosendo-mateu-n%C2%BA10-musk-musk-musk-edp-100-ml-tester.html",
+      "en_stock": true
     },
-    "11781564": {
-      "nombre": "GUCCI THE ALCHEMIST'S GARDEN A...",
-      "precio": "108,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781564-gucci-the-alchemists-garden-a-reason-to-love-edp-100-ml-tester.html",
-      "en_stock": false
+    "11783255": {
+      "nombre": "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11783255-room-1015-wavechild-edp-100-ml-tester.html",
+      "en_stock": true
     },
-    "11781552": {
-      "nombre": "LOEWE UN PASEO POR MADRID CASA DE...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781552-loewe-un-paseo-por-madrid-casa-de-campo-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11781551": {
-      "nombre": "LOEWE UN PASEO POR MADRID DEBOD EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781551-loewe-un-paseo-por-madrid-debod-edp-100-ml-tester.html",
-      "en_stock": false
+    "11783256": {
+      "nombre": "BRITNEY SPEARS FANTASY GODDESS EDT...",
+      "precio": "16,90 €",
+      "url": "https://www.perfumeriaschic.com/p11783256-britney-spears-fantasy-goddess-edt-100-ml-tester.html",
+      "en_stock": true
     },
     "11781550": {
       "nombre": "LOEWE UN PASEO POR MADRID PRADO EDP...",
@@ -2917,12 +2905,6 @@
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11781473-loewe-un-paseo-por-madrid-rosaleda-edp-100-ml-tester.html",
       "en_stock": true
-    },
-    "11781472": {
-      "nombre": "LOEWE UN PASEO POR MADRID ÓPERA EDP...",
-      "precio": "128,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781472-loewe-un-paseo-por-madrid-opera-edp-100-ml-tester.html",
-      "en_stock": false
     },
     "11161894": {
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
@@ -11804,6 +11786,12 @@
       "url": "https://www.perfumeriaschic.com/p1066593-armand-basi-in-red-edt-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11609875": {
+      "nombre": "TIZIANA TERENZI KIRKE EXTRAIT DE...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11609875-tiziana-terenzi-kirke-extrait-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
     "11398342": {
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
       "precio": "74,90 €",
@@ -11898,6 +11886,12 @@
       "nombre": "MANCERA AOUD CAFE EDP 120 ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7317846-mancera-aoud-cafe-edp-120-ml-tester.html",
+      "en_stock": false
+    },
+    "7770292": {
+      "nombre": "MANCERA AOUD VANILLE EDP 120 ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7770292-mancera-aoud-vanille-edp-120-ml-tester.html",
       "en_stock": false
     },
     "11720848": {
@@ -12090,6 +12084,12 @@
       "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11704528-perris-monte-carlo-patchouli-nosy-be-limited-edition-edp-100ml-ylang-nosy-be-8ml.html",
+      "en_stock": false
+    },
+    "11458474": {
+      "nombre": "MORESQUE THE SECRET COLLECTION...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11458474-moresque-the-secret-collection-jasminisha-edp-75ml-tester.html",
       "en_stock": false
     },
     "11726256": {
@@ -12476,6 +12476,12 @@
       "url": "https://www.perfumeriaschic.com/p11740850-lolita-lempicka-so-sweet-edp-50ml-tester.html",
       "en_stock": false
     },
+    "11740873": {
+      "nombre": "ARMAF CLUB DE NUIT UNTOLD EDP 100ML...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11740873-armaf-club-de-nuit-untold-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11739264": {
       "nombre": "REPLICA MAISON MARGIELA SAILING DAY...",
       "precio": "34,95 €",
@@ -12570,6 +12576,12 @@
       "nombre": "MANCERA INTENSE FRENCH RIVIERA EDP...",
       "precio": "99,90 €",
       "url": "https://www.perfumeriaschic.com/p11744239-mancera-intense-french-riviera-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11744326": {
+      "nombre": "MOLINARD IRIS ARDENT EAU DE PARFUM...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11744326-molinard-iris-ardent-eau-de-parfum-75ml-tester.html",
       "en_stock": false
     },
     "11744351": {
@@ -12954,6 +12966,12 @@
       "nombre": "PACO RABANNE OLYMPEA FLORA EDP...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10883485-paco-rabanne-olympea-flora-edp-intense-80ml-tester.html",
+      "en_stock": false
+    },
+    "10298473": {
+      "nombre": "PENHALIGON´S PORTRAIT THE REVENGE OF...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p10298473-penhaligons-portrait-the-revenge-of-lady-blanche-edp-75ml-tester.html",
       "en_stock": false
     },
     "11522088": {
@@ -14665,18 +14683,6 @@
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "11783255": {
-      "nombre": "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783255-room-1015-wavechild-edp-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11783256": {
-      "nombre": "BRITNEY SPEARS FANTASY GODDESS EDT...",
-      "precio": "16,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783256-britney-spears-fantasy-goddess-edt-100-ml-tester.html",
-      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
@@ -18838,6 +18844,7 @@
     "ROOM 1015 ELECTRIC WOOD EXTRAIT DE...",
     "ROOM 1015 PURPLE MANTRA EDP 100ML...",
     "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
+    "ROSENDO MATEU Nº10 MUSK MUSK MUSK...",
     "ROSENDO MATEU Nº7 PERFUME 100ML",
     "ROSENDO MATEU Nº8 PERFUME 100ML SIN...",
     "SALVATORE FERRAGAMO SIGNORINA...",
