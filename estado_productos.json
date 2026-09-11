@@ -1558,7 +1558,7 @@
       "nombre": "ATKINSONS 24 OLD BOND STREET EDC...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7188450-atkinsons-24-old-bond-street-edc-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8980352": {
       "nombre": "CACHAREL YES I,AM FABULOUS EDP 50ML...",
@@ -2236,7 +2236,7 @@
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
       "precio": "56,90 €",
       "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11458275": {
       "nombre": "JO MALONE PEONY & BLUSH SUEDE...",
@@ -2410,7 +2410,7 @@
       "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10517808-tommy-hilfiger-tommy-girl-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10240052": {
       "nombre": "ETRO SANDALO EDT 100ML TESTER",
@@ -2686,7 +2686,7 @@
       "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424516": {
       "nombre": "EL GANSO FUN & CHIC EDP 100ML TESTER",
@@ -2880,13 +2880,7 @@
       "nombre": "ROSENDO MATEU Nº10 MUSK MUSK MUSK...",
       "precio": "114,90 €",
       "url": "https://www.perfumeriaschic.com/p11783254-rosendo-mateu-n%C2%BA10-musk-musk-musk-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11783255": {
-      "nombre": "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783255-room-1015-wavechild-edp-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11783256": {
       "nombre": "BRITNEY SPEARS FANTASY GODDESS EDT...",
@@ -2923,6 +2917,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11781650-spirit-of-kings-matar-edp-100-ml-tester.html",
       "en_stock": false
+    },
+    "11781651": {
+      "nombre": "SPIRIT OF KINGS ARRAKIS EDP 100 ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781651-spirit-of-kings-arrakis-edp-100-ml-tester.html",
+      "en_stock": true
     },
     "11692347": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
@@ -6366,7 +6366,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE WORLD...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11389983-penhaligons-portraits-the-world-according-to-arthur-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5559736": {
       "nombre": "CHANEL CHANCE EDP 100ML TESTER",
@@ -6960,7 +6960,7 @@
       "nombre": "ATKINSONS TULIPE NOIRE EDP 100ML...",
       "precio": "79,90 €",
       "url": "https://www.perfumeriaschic.com/p7189659-atkinsons-tulipe-noire-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7057025": {
       "nombre": "BOTTEGA VENETA ILLUSIONE FOR HIM EDT...",
@@ -7773,10 +7773,10 @@
       "en_stock": false
     },
     "10773414": {
-      "nombre": "TOMMY HILFIGER IMPACT EDT 100ML SIN...",
+      "nombre": "TOMMY HILFIGER IMPACT EDT 100ML...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p10773414-tommy-hilfiger-impact-edt-100ml-4ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10915383": {
       "nombre": "NARCISO RODRIGUEZ CRISTAL EAU DE...",
@@ -7926,7 +7926,7 @@
       "nombre": "TOMMY HILFIGER TOMMY MEN EDT 100ML...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p10694299-tommy-hilfiger-tommy-men-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9579584": {
       "nombre": "CARNER BARCELONA TARDES EDP 100ML...",
@@ -8892,7 +8892,7 @@
       "nombre": "ATKINSONS 24 OLD BOND STREET EDC...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7188450-atkinsons-24-old-bond-street-edc-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11608893": {
       "nombre": "PACO RABANNE MILLION GOLD FOR HER...",
@@ -12174,7 +12174,7 @@
       "nombre": "TOMMY HILFIGER TOMMY NEW YORK EDT...",
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p11725025-tommy-hilfiger-tommy-new-york-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7276252": {
       "nombre": "ANNICK GOUTAL NUIT ET CONFIDENCES...",
@@ -12858,7 +12858,7 @@
       "nombre": "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p11725021-tommy-hilfiger-tommy-girl-new-york-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11225832": {
       "nombre": "CARNER BARCELONA SALADO EDP 100ML...",
@@ -12912,7 +12912,7 @@
       "nombre": "NIGHTOLOGY ROSE HARMONY EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662335-nightology-rose-harmony-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11416590": {
       "nombre": "THAMEEN CARVED OUD EDP 50ML TESTER",
@@ -13062,7 +13062,7 @@
       "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11323151-masque-milano-montecristo-eau-de-parfum-35ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11315408": {
       "nombre": "CALVIN KLEIN ETERNITY AROMATIC...",
@@ -13170,7 +13170,7 @@
       "nombre": "NIGHTOLOGY ENIGMATIC SOUL EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662327-nightology-enigmatic-soul-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11623813": {
       "nombre": "BRITNEY SPEARS FANTASY DID IT AGAIN...",
@@ -13266,7 +13266,7 @@
       "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
       "precio": "56,90 €",
       "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11424232": {
       "nombre": "MONTALE INFINITY EDP 100ML TESTER",
@@ -13381,6 +13381,12 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p8598939-creed-silver-mountain-water-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11726212": {
+      "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
+      "en_stock": true
     },
     "11756078": {
       "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
@@ -14148,7 +14154,7 @@
       "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11756165-simone-andreoli-ocean-of-a-midnight-moon-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412454": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
@@ -16826,7 +16832,7 @@
       "nombre": "MASQUE MILANO TANGO EDP 35ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11406718-masque-milano-tango-edp-35ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11293753": {
       "nombre": "MANCERA GOLD INCENSE EDP 120ML TESTER",
@@ -17084,7 +17090,7 @@
       "nombre": "MASQUE MILANO TANGO OUD EDP 100ML...",
       "precio": "234,97 €",
       "url": "https://www.perfumeriaschic.com/p11239799-masque-milano-tango-oud-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
@@ -17374,6 +17380,12 @@
       "url": "https://www.perfumeriaschic.com/p11744313-dusita-tonka-latte-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11744316": {
+      "nombre": "MEMO PARIS CAPPADOCIA EDP 75ML",
+      "precio": "109,65 €",
+      "url": "https://www.perfumeriaschic.com/p11744316-memo-paris-cappadocia-edp-75ml.html",
+      "en_stock": true
+    },
     "11744367": {
       "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
       "precio": "36,95 €",
@@ -17612,7 +17624,7 @@
       "nombre": "MASQUE MILANO MONTECRISTO EAU DE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11323151-masque-milano-montecristo-eau-de-parfum-35ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10879863": {
       "nombre": "XERJOFF COFEE BREAK GOLDEN DALLAH...",
@@ -17781,6 +17793,12 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11756078-carthusia-gelsomini-di-capri-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11726212": {
+      "nombre": "JULIETTE HAS A GUN BANANA RUSH EDP...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726212-juliette-has-a-gun-banana-rush-edp-100ml-sin-caja.html",
+      "en_stock": true
     },
     "10913336": {
       "nombre": "MONTALE CRYSTAL FLOWERS EDP 100ML...",
@@ -18633,6 +18651,7 @@
     "MASQUE MILANO TERRALBA EDP 35ML...",
     "MASQUE MILANO TIMES SQUARE EDP 100ML...",
     "MASQUE MILANO WHITE WHALE EDP 35ML...",
+    "MEMO PARIS CAPPADOCIA EDP 75ML",
     "MEMO PARIS FLAM EDP 75ML",
     "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
     "MERCHANT OF VENICE DAMASCUS DESERT...",
