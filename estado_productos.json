@@ -2018,7 +2018,7 @@
     },
     "11138917": {
       "nombre": "M. MICALLEF REDCOLORADO EDP 100ML...",
-      "precio": "129,95 €",
+      "precio": "109,91 €",
       "url": "https://www.perfumeriaschic.com/p11138917-m-micallef-redcolorado-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -2466,12 +2466,6 @@
       "url": "https://www.perfumeriaschic.com/p11624736-lancome-absolue-the-serum-concentrado-intensivo-antiedad-30ml-tester.html",
       "en_stock": false
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "8231057": {
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
       "precio": "29,96 €",
@@ -2876,17 +2870,71 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "1997020": {
+      "nombre": "CALVIN KLEIN ETERNITY FOR MEN EDT...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p1997020-calvin-klein-eternity-for-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11138917": {
+      "nombre": "M. MICALLEF REDCOLORADO EDP 100ML...",
+      "precio": "109,91 €",
+      "url": "https://www.perfumeriaschic.com/p11138917-m-micallef-redcolorado-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11783541": {
+      "nombre": "TOMMY HILFIGER FREEDOM EAU DE PARFUM...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11783541-tommy-hilfiger-freedom-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11783542": {
+      "nombre": "PHILIPP PLEIN PLEIN FATALE SILK EAU...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11783542-philipp-plein-plein-fatale-silk-eau-de-parfum-90-ml-tester.html",
+      "en_stock": true
+    },
+    "11783543": {
+      "nombre": "PHILIPP PLEIN NO LIMIT$ DARK...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11783543-philipp-plein-no-limit-dark-platinum-eau-de-parfum-90-ml-tester.html",
+      "en_stock": true
+    },
+    "11784729": {
+      "nombre": "GIVENCHY POUR HOMME BLUE LABEL EAU...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784729-givenchy-pour-homme-blue-label-eau-de-toilette-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11784730": {
+      "nombre": "FREDERIC MALLE HEAVEN CAN WAIT EAU...",
+      "precio": "194,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784730-frederic-malle-heaven-can-wait-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11784731": {
+      "nombre": "BDK ROUGE SMOKING EAU DE PARFUM 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784731-bdk-rouge-smoking-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11784732": {
+      "nombre": "BDK PAS CE SOIR EAU DE PARFUM 100 ML...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784732-bdk-pas-ce-soir-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11784733": {
+      "nombre": "EX NIHILO LUST IN PARADISE EAU DE...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784733-ex-nihilo-lust-in-paradise-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
       "precio": "116,91 €",
       "url": "https://www.perfumeriaschic.com/p11323155-rosendo-mateu-1968-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
     },
     "10793107": {
       "nombre": "SISLEY L'EAU REVEE D'IKAR EDT 100ML...",
@@ -2996,12 +3044,6 @@
       "url": "https://www.perfumeriaschic.com/p11424165-perris-monte-carlo-oud-imperial-extrait-de-parfum-50ml-tester.html",
       "en_stock": true
     },
-    "11313994": {
-      "nombre": "ATELIERS DES ORS LUNE FELINE EAU DE...",
-      "precio": "139,90 €",
-      "url": "https://www.perfumeriaschic.com/p11313994-ateliers-des-ors-lune-feline-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
-    },
     "11500536": {
       "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
       "precio": "29,90 €",
@@ -3012,12 +3054,6 @@
       "nombre": "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10911757-rochas-eau-de-rochas-lessentiel-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11138917": {
-      "nombre": "M. MICALLEF REDCOLORADO EDP 100ML...",
-      "precio": "129,95 €",
-      "url": "https://www.perfumeriaschic.com/p11138917-m-micallef-redcolorado-edp-100ml-tester.html",
       "en_stock": true
     },
     "8202586": {
@@ -14384,65 +14420,11 @@
       "url": "https://www.perfumeriaschic.com/p11514288-haute-fragrance-company-or-noir-eau-de-parfum-75ml-sin-caja.html",
       "en_stock": false
     },
-    "1997020": {
-      "nombre": "CALVIN KLEIN ETERNITY FOR MEN EDT...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p1997020-calvin-klein-eternity-for-men-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "9072258": {
       "nombre": "ADOLFO DOMINGUEZ TERRACOTA MUSK EDP...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
-    },
-    "11783541": {
-      "nombre": "TOMMY HILFIGER FREEDOM EAU DE PARFUM...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783541-tommy-hilfiger-freedom-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11783542": {
-      "nombre": "PHILIPP PLEIN PLEIN FATALE SILK EAU...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783542-philipp-plein-plein-fatale-silk-eau-de-parfum-90-ml-tester.html",
-      "en_stock": true
-    },
-    "11783543": {
-      "nombre": "PHILIPP PLEIN NO LIMIT$ DARK...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11783543-philipp-plein-no-limit-dark-platinum-eau-de-parfum-90-ml-tester.html",
-      "en_stock": true
-    },
-    "11784729": {
-      "nombre": "GIVENCHY POUR HOMME BLUE LABEL EAU...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784729-givenchy-pour-homme-blue-label-eau-de-toilette-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11784730": {
-      "nombre": "FREDERIC MALLE HEAVEN CAN WAIT EAU...",
-      "precio": "194,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784730-frederic-malle-heaven-can-wait-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11784731": {
-      "nombre": "BDK ROUGE SMOKING EAU DE PARFUM 100...",
-      "precio": "118,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784731-bdk-rouge-smoking-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11784732": {
-      "nombre": "BDK PAS CE SOIR EAU DE PARFUM 100 ML...",
-      "precio": "118,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784732-bdk-pas-ce-soir-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11784733": {
-      "nombre": "EX NIHILO LUST IN PARADISE EAU DE...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784733-ex-nihilo-lust-in-paradise-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
     },
     "6322031": {
       "nombre": "LOEWE SOLO CEDRO EDT 100ML TESTER",
@@ -14632,12 +14614,6 @@
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
       "en_stock": true
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "10879863": {
       "nombre": "XERJOFF COFEE BREAK GOLDEN DALLAH...",
       "precio": "134,76 €",
@@ -14700,7 +14676,7 @@
     },
     "11138917": {
       "nombre": "M. MICALLEF REDCOLORADO EDP 100ML...",
-      "precio": "129,95 €",
+      "precio": "109,91 €",
       "url": "https://www.perfumeriaschic.com/p11138917-m-micallef-redcolorado-edp-100ml-tester.html",
       "en_stock": true
     },
