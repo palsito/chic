@@ -2876,11 +2876,35 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11785163": {
-      "nombre": "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785163-byredo-bal-dafrique-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
+    "11785644": {
+      "nombre": "MAISON CRIVELLI ROSE SALTIFOLIA EAU...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785644-maison-crivelli-rose-saltifolia-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785645": {
+      "nombre": "MAISON CRIVELLI PAPYRUS MOLÉCULAIRE...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785645-maison-crivelli-papyrus-moleculaire-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785646": {
+      "nombre": "MAISON CRIVELLI LYS SØLABERG EAU DE...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785646-maison-crivelli-lys-s%C3%B8laberg-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785647": {
+      "nombre": "MAISON CRIVELLI CITRUS BATIKANGA EAU...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785647-maison-crivelli-citrus-batikanga-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785648": {
+      "nombre": "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785648-elie-saab-elixir-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
     },
     "11785164": {
       "nombre": "DKNY BE DELICIOUS COCONUTS ABOUT...",
@@ -4890,7 +4914,7 @@
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11664086": {
       "nombre": "V CANTO AGAPE EAU DE PARFUM 100ML...",
@@ -15116,7 +15140,7 @@
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11494949": {
       "nombre": "ETAT LIBRE D´ORANGE ATTAQUER LE...",
@@ -18079,6 +18103,7 @@
     "EL GANSO LIKE FATHER LIKE SON EDT...",
     "EL GANSO LIMONCELO SEASON EDT 125ML...",
     "EL GANSO PART TIME HERO EDT 125ML...",
+    "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
     "ELIE SAAB GIRL OF NOW FOREVER EDP...",
     "ELIE SAAB GIRL OF NOW ROSE PETAL EDP...",
     "ELIE SAAB L'HOMME EDP 100ML TESTER",
@@ -18332,10 +18357,14 @@
     "M. MICALLEF O FEMININ EDP 100ML...",
     "M. MICALLEF PURE EXTREME EDP 100ML...",
     "M. MICALLEF YLANG IN GOLD EDP 100ML...",
+    "MAISON CRIVELLI CITRUS BATIKANGA EAU...",
     "MAISON CRIVELLI CUIR INFRAROUGE...",
+    "MAISON CRIVELLI LYS SØLABERG EAU DE...",
     "MAISON CRIVELLI MUSC NURASANA...",
     "MAISON CRIVELLI OUD STALLION EXTRAIT...",
+    "MAISON CRIVELLI PAPYRUS MOLÉCULAIRE...",
     "MAISON CRIVELLI PATCHOULI MAGNETIK...",
+    "MAISON CRIVELLI ROSE SALTIFOLIA EAU...",
     "MAISON CRIVELLI SAFRAN SECRET 50ML...",
     "MANCERA AMBER FEVER EDP 120ML TESTER",
     "MANCERA AMORE CAFFE EDP 120ML TESTER",
