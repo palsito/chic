@@ -14608,35 +14608,11 @@
       "url": "https://www.perfumeriaschic.com/p11323151-masque-milano-montecristo-eau-de-parfum-35ml-tester.html",
       "en_stock": true
     },
-    "11493953": {
-      "nombre": "DUSITA PELAGOS EXTRAIT DE PARFUM...",
-      "precio": "109,90 €",
-      "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
     "11620543": {
       "nombre": "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
       "precio": "149,84 €",
       "url": "https://www.perfumeriaschic.com/p11620543-xerjoff-via-cavour-1-parfum-50ml-tester.html",
       "en_stock": true
-    },
-    "11744316": {
-      "nombre": "MEMO PARIS CAPPADOCIA EDP 75ML",
-      "precio": "109,65 €",
-      "url": "https://www.perfumeriaschic.com/p11744316-memo-paris-cappadocia-edp-75ml.html",
-      "en_stock": false
-    },
-    "11623821": {
-      "nombre": "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
-      "precio": "194,90 €",
-      "url": "https://www.perfumeriaschic.com/p11623821-frederic-malle-rose-cuir-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11712848": {
-      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
-      "en_stock": false
     },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
@@ -14673,12 +14649,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11406718-masque-milano-tango-edp-35ml-tester.html",
       "en_stock": true
-    },
-    "11424165": {
-      "nombre": "PERRIS MONTE CARLO OUD IMPERIAL...",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424165-perris-monte-carlo-oud-imperial-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
     },
     "11692347": {
       "nombre": "GUCCI THE ALCHEMIST'S GARDEN...",
@@ -14986,12 +14956,6 @@
       "url": "https://www.perfumeriaschic.com/p11379213-chabaud-lait-de-vanille-edt-100ml-sin-caja.html",
       "en_stock": true
     },
-    "11561237": {
-      "nombre": "JULIETTE HAS A GUN JULIETTE EDP...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561237-juliette-has-a-gun-juliette-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "11720837": {
       "nombre": "BOND No.9 DUBAI PLATINUM EDP 100ML...",
       "precio": "174,90 €",
@@ -15087,12 +15051,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11561226-hfc-fly-to-miracle-eau-de-parfum-75ml-tester.html",
       "en_stock": true
-    },
-    "11398358": {
-      "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11494949": {
       "nombre": "ETAT LIBRE D´ORANGE ATTAQUER LE...",
@@ -17828,6 +17786,48 @@
       "nombre": "HFC OR NOIR EAU DE PARFUM 75ML SIN...",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11514288-haute-fragrance-company-or-noir-eau-de-parfum-75ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11493953": {
+      "nombre": "DUSITA PELAGOS EXTRAIT DE PARFUM...",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p11493953-dusita-pelagos-extrait-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "11744316": {
+      "nombre": "MEMO PARIS CAPPADOCIA EDP 75ML",
+      "precio": "109,65 €",
+      "url": "https://www.perfumeriaschic.com/p11744316-memo-paris-cappadocia-edp-75ml.html",
+      "en_stock": false
+    },
+    "11623821": {
+      "nombre": "FREDERIC MALLE ROSE & CUIR EDP 100ML...",
+      "precio": "194,90 €",
+      "url": "https://www.perfumeriaschic.com/p11623821-frederic-malle-rose-cuir-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11712848": {
+      "nombre": "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11712848-the-spirit-of-dubai-meydan-edp-50ml-tester.html",
+      "en_stock": false
+    },
+    "11424165": {
+      "nombre": "PERRIS MONTE CARLO OUD IMPERIAL...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11424165-perris-monte-carlo-oud-imperial-extrait-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "11561237": {
+      "nombre": "JULIETTE HAS A GUN JULIETTE EDP...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11561237-juliette-has-a-gun-juliette-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11398358": {
+      "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
       "en_stock": false
     }
   },
