@@ -2886,7 +2886,7 @@
       "nombre": "MAISON CRIVELLI LYS SØLABERG EAU DE...",
       "precio": "118,90 €",
       "url": "https://www.perfumeriaschic.com/p11785646-maison-crivelli-lys-s%C3%B8laberg-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11785647": {
       "nombre": "MAISON CRIVELLI CITRUS BATIKANGA EAU...",
@@ -3726,7 +3726,7 @@
       "nombre": "THIERRY MUGLER ANGEL FANTASM...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11643710-thierry-mugler-angel-fantasm-sensuelle-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "8321448": {
       "nombre": "CALVIN KLEIN ETERNITY MEN EAU DE...",
