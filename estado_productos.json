@@ -2870,11 +2870,23 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11785648": {
-      "nombre": "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785648-elie-saab-elixir-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
+    "11785974": {
+      "nombre": "BOHOBOCO POLISH POTATOES 50 ML TESTER",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785974-bohoboco-polish-potatoes-50-ml-tester.html",
+      "en_stock": true
+    },
+    "11785975": {
+      "nombre": "BOHOBOCO SEA SALT CARAMEL 50 ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785975-bohoboco-sea-salt-caramel-50-ml-tester.html",
+      "en_stock": true
+    },
+    "11785976": {
+      "nombre": "BOHOBOCO MAGIC MUSHROOMS 50 ML TESTER",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785976-bohoboco-magic-mushrooms-50-ml-tester.html",
+      "en_stock": true
     },
     "11785164": {
       "nombre": "DKNY BE DELICIOUS COCONUTS ABOUT...",
@@ -2917,12 +2929,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11784729-givenchy-pour-homme-blue-label-eau-de-toilette-100-ml-tester.html",
       "en_stock": true
-    },
-    "11784730": {
-      "nombre": "FREDERIC MALLE HEAVEN CAN WAIT EAU...",
-      "precio": "194,90 €",
-      "url": "https://www.perfumeriaschic.com/p11784730-frederic-malle-heaven-can-wait-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
     },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
@@ -5732,6 +5738,12 @@
       "url": "https://www.perfumeriaschic.com/p10856778-dsquared2-red-wood-edt-100ml-tester.html",
       "en_stock": false
     },
+    "10933613": {
+      "nombre": "ETAT LIBRE D´ORANGE SOUL OF MY SOUL...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p10933613-etat-libre-dorange-soul-of-my-soul-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "10322649": {
       "nombre": "GUERLAIN AQUA ALLEGORIA NEROLIA...",
       "precio": "44,90 €",
@@ -8034,6 +8046,12 @@
       "nombre": "NARCISO RODRIGUEZ MUSC NOIR ROSE ...",
       "precio": "52,90 €",
       "url": "https://www.perfumeriaschic.com/p10554721-narciso-rodriguez-musc-noir-rose-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11330254": {
+      "nombre": "LACOSTE L'HOMME EDT 100ML TESTER",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11330254-lacoste-lhomme-edt-100ml-tester.html",
       "en_stock": false
     },
     "11363407": {
@@ -17894,6 +17912,9 @@
     "BEAUFORT LIGNUM VITAE  EDP 50ML...",
     "BENETTON WE ARE TRIBE EAU DE...",
     "BOADICEA THE VICTORIOUS GLORIOUS EDP...",
+    "BOHOBOCO MAGIC MUSHROOMS 50 ML TESTER",
+    "BOHOBOCO POLISH POTATOES 50 ML TESTER",
+    "BOHOBOCO SEA SALT CARAMEL 50 ML...",
     "BOIS 1920 CENTENARIO 100ML TESTER",
     "BOND NO.9 DUBAI PLATINUM EDP 100ML...",
     "BOND NO.9 LIBERTY ISLAND EDP 50ML",
@@ -18073,6 +18094,7 @@
     "ETAT LIBRE D´ORANGE NOEL AU BALCON...",
     "ETAT LIBRE D´ORANGE PUTAIN DES...",
     "ETAT LIBRE D´ORANGE SHE WAS AN...",
+    "ETAT LIBRE D´ORANGE SOUL OF MY SOUL...",
     "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
     "ETAT LIBRE D´ORANGE YES I DO EAU DE...",
     "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
@@ -18249,6 +18271,7 @@
     "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
     "L'OCCITANE EN PROVENCE VERVEINE EAU...",
     "L'OCCITANE EN PROVENCE VERVEINE...",
+    "LACOSTE L'HOMME EDT 100ML TESTER",
     "LACOSTE L. 12.12 BLANC FOR HIM EAU...",
     "LACOSTE L. 12.12 POUR ELLE EAU...",
     "LACOSTE L. 12.12 POUR LUI EAU...",
