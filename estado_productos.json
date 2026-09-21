@@ -3860,6 +3860,12 @@
       "url": "https://www.perfumeriaschic.com/p11765541-ralph-lauren-polo-est-67-eau-de-parfum-extreme-125ml-tester.html",
       "en_stock": true
     },
+    "11695932": {
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11762585": {
       "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
       "precio": "106,95 €",
@@ -9822,7 +9828,7 @@
       "nombre": "FRANCESCA BIANCHI THE DARK SIDE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p10198169-francesca-bianchi-the-dark-side-extrait-de-parfum-30ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11413167": {
       "nombre": "CLARINS AROMA EAU DYNAMISANTE EAU DE...",
@@ -14192,6 +14198,12 @@
       "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
       "en_stock": false
     },
+    "11781228": {
+      "nombre": "D.S. & DURGA DEBASER EDP 100 ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "10680259": {
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
       "precio": "29,90 €",
@@ -17306,7 +17318,7 @@
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11517806": {
       "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
