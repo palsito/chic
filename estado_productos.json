@@ -12690,7 +12690,7 @@
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
@@ -16826,7 +16826,7 @@
       "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11609875": {
       "nombre": "TIZIANA TERENZI KIRKE EXTRAIT DE...",
@@ -17300,6 +17300,12 @@
       "nombre": "LORENZO VILLORESI UOMO EDT 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11737328-lorenzo-villoresi-uomo-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11695932": {
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
       "en_stock": false
     },
     "11517806": {
