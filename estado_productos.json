@@ -1114,7 +1114,7 @@
       "nombre": "DAVIDOFF COOL WATER  MEN PARFUM...",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650255": {
       "nombre": "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
@@ -2398,7 +2398,7 @@
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744367": {
       "nombre": "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
@@ -2875,12 +2875,6 @@
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p11785993-tommy-poolside-edition-men-100-ml-tester.html",
       "en_stock": true
-    },
-    "11785974": {
-      "nombre": "BOHOBOCO POLISH POTATOES 50 ML TESTER",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785974-bohoboco-polish-potatoes-50-ml-tester.html",
-      "en_stock": false
     },
     "11785975": {
       "nombre": "BOHOBOCO SEA SALT CARAMEL 50 ML...",
@@ -11882,6 +11876,12 @@
       "url": "https://www.perfumeriaschic.com/p10913292-montale-honey-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
+    "8640223": {
+      "nombre": "GIVENCHY GENTLEMAN BOISEE EDP 100ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p8640223-givenchy-gentleman-boisee-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11514738": {
       "nombre": "MONTALE AOUD SAFRAN  EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -12006,7 +12006,7 @@
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11366740": {
       "nombre": "ROSENDO MATEU Nº8 PERFUME 100ML SIN...",
@@ -12684,7 +12684,7 @@
       "nombre": "DAVIDOFF COOL WATER  MEN PARFUM...",
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11404348": {
       "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
@@ -18152,6 +18152,7 @@
     "GIORGIO ARMANI SI RED MUSK PASSIONE...",
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
     "GIVENCHY DAHLIA DIVIN EDP 100ML...",
+    "GIVENCHY GENTLEMAN BOISEE EDP 100ML...",
     "GIVENCHY GENTLEMAN EDT 100ML TESTER",
     "GIVENCHY L´INTERDIT ABSOLU EDP 80ML...",
     "GIVENCHY L´INTERDIT PARFUM 80ML...",
