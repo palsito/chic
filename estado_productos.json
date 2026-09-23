@@ -2888,22 +2888,82 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11410296": {
+      "nombre": "NIGHTOLOGY SUEDE BREEZE EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410296-nightology-suede-breeze-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10679999": {
+      "nombre": "CHLOE EAU DE PARFUM NATURELLE 100ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p10679999-chloe-eau-de-parfum-naturelle-100ml-tester.html",
+      "en_stock": true
+    },
+    "2509403": {
+      "nombre": "CHLOE EAU DE PARFUM 75ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p2509403-chloe-eau-de-parfum-75ml-tester.html",
+      "en_stock": true
+    },
+    "11561166": {
+      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
+      "en_stock": true
+    },
+    "11785163": {
+      "nombre": "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
+      "precio": "158,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785163-byredo-bal-dafrique-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785648": {
+      "nombre": "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785648-elie-saab-elixir-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11787803": {
+      "nombre": "JEAN PAUL GAULTIER DIVINE COUTURE 10...",
+      "precio": "12,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787803-jean-paul-gaultier-divine-couture-10-ml-tester.html",
+      "en_stock": true
+    },
+    "11787804": {
+      "nombre": "CAROLINA HERRERA 212 VIP BLACK...",
+      "precio": "9,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787804-carolina-herrera-212-vip-black-elixir-10-ml-tester.html",
+      "en_stock": true
+    },
+    "11787798": {
+      "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11787798-maison-crivelli-bois-datchai-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11787799": {
+      "nombre": "NINA ROUGE CRUSH EDP 80 ML TESTER",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11787799-nina-rouge-crush-edp-80-ml-tester.html",
+      "en_stock": true
+    },
     "11787337": {
       "nombre": "MAISON MARGIELA REPLICA UP AT DAWN...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11787337-replica-up-at-dawn-100-ml-tester.html",
       "en_stock": true
     },
-    "10198169": {
-      "nombre": "FRANCESCA BIANCHI THE DARK SIDE...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p10198169-francesca-bianchi-the-dark-side-extrait-de-parfum-30ml-tester.html",
-      "en_stock": false
-    },
     "10517943": {
       "nombre": "TOUS TOUCH EDT 100ML TESTER",
       "precio": "28,90 €",
       "url": "https://www.perfumeriaschic.com/p10517943-tous-touch-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8038024": {
+      "nombre": "CHLOE ROSE TANGERINE EDT 75ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p8038024-chloe-rose-tangerine-edt-75ml-tester.html",
       "en_stock": true
     },
     "8640223": {
@@ -2929,12 +2989,6 @@
       "precio": "26,90 €",
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
       "en_stock": true
-    },
-    "11034762": {
-      "nombre": "CREED AVENTUS FOR HER EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11034762-creed-aventus-for-her-edp-75ml-tester.html",
-      "en_stock": false
     },
     "10958096": {
       "nombre": "MANCERA BLACK VANILLE EDP 120ML...",
@@ -2965,18 +3019,6 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
       "en_stock": true
-    },
-    "11410303": {
-      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11787335": {
-      "nombre": "GIVENCHY ANGE OU DEMON LE SECRET 100...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787335-givenchy-ange-ou-demon-le-secret-100-ml-tester.html",
-      "en_stock": false
     },
     "11787336": {
       "nombre": "NINA RICCI RICCI RICCI 50 ML TESTER",
@@ -5220,12 +5262,6 @@
       "nombre": "3INA THE TINTED MOISTURIZER SPF30...",
       "precio": "10,90 €",
       "url": "https://www.perfumeriaschic.com/p11522226-3ina-the-tinted-moisturizer-spf30-tono-631-sin-caja.html",
-      "en_stock": true
-    },
-    "11410296": {
-      "nombre": "NIGHTOLOGY SUEDE BREEZE EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11410296-nightology-suede-breeze-edp-100ml-tester.html",
       "en_stock": true
     },
     "10650082": {
@@ -7754,12 +7790,6 @@
       "url": "https://www.perfumeriaschic.com/p10913159-narciso-rodriguez-for-her-forever-eau-de-parfum-100ml-sin-caja.html",
       "en_stock": false
     },
-    "10679999": {
-      "nombre": "CHLOE EAU DE PARFUM NATURELLE 100ML...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10679999-chloe-eau-de-parfum-naturelle-100ml-tester.html",
-      "en_stock": true
-    },
     "9327836": {
       "nombre": "​​FLORIS BERGAMOTTO DI POSITANO EAU...",
       "precio": "64,90 €",
@@ -8070,6 +8100,12 @@
       "nombre": "ATKINSONS MINT & TONIC EDP 100ML...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p7189643-atkinsons-mint-tonic-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11158852": {
+      "nombre": "AMOUAGE FATE MAN EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11158852-amouage-fate-man-edp-100ml.html",
       "en_stock": false
     },
     "10662004": {
@@ -10376,6 +10412,12 @@
       "url": "https://www.perfumeriaschic.com/p2482293-carolina-herrera-ch-edt-100ml-tester.html",
       "en_stock": false
     },
+    "10680291": {
+      "nombre": "ROSENDO MATEU FRESH OUD EDP 100ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p10680291-rosendo-mateu-fresh-oud-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11012061": {
       "nombre": "NISHANE FAN YOUR FLAMES X EXTRAIT DE...",
       "precio": "128,90 €",
@@ -10994,12 +11036,6 @@
       "url": "https://www.perfumeriaschic.com/p11543161-acqua-di-parma-colonia-c-l-u-b-edc-100ml-tester.html",
       "en_stock": false
     },
-    "2509403": {
-      "nombre": "CHLOE EAU DE PARFUM 75ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p2509403-chloe-eau-de-parfum-75ml-tester.html",
-      "en_stock": true
-    },
     "10081909": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER! VIBES...",
       "precio": "39,90 €",
@@ -11142,6 +11178,12 @@
       "nombre": "M. MICALLEF RUH ZADEH & MARTINE...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11380393-m-micallef-ruh-zadeh-martine-micallef-art-collection-2020-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11407995": {
+      "nombre": "CHABAUD LAIT ET CHOCOLAT EDT 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11407995-chabaud-lait-et-chocolat-edt-100ml-tester.html",
       "en_stock": false
     },
     "8221399": {
@@ -11334,6 +11376,12 @@
       "nombre": "POLICE TO BE ART TATOO MEN EDT 125ML...",
       "precio": "14,70 €",
       "url": "https://www.perfumeriaschic.com/p7255294-police-to-be-art-tatoo-men-edt-125ml-tester.html",
+      "en_stock": false
+    },
+    "10317303": {
+      "nombre": "HUGO BOSS DARK BLUE EDT 75ML TESTER",
+      "precio": "14,73 €",
+      "url": "https://www.perfumeriaschic.com/p10317303-hugo-boss-dark-blue-edt-75ml-tester.html",
       "en_stock": false
     },
     "10446365": {
@@ -14198,12 +14246,6 @@
       "url": "https://www.perfumeriaschic.com/p4196837-diesel-loverdose-edp-75ml.html",
       "en_stock": false
     },
-    "11561166": {
-      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": true
-    },
     "5468964": {
       "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
       "precio": "49,90 €",
@@ -14443,18 +14485,6 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
-    },
-    "11785163": {
-      "nombre": "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785163-byredo-bal-dafrique-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11785648": {
-      "nombre": "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785648-elie-saab-elixir-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
     },
     "6322031": {
       "nombre": "LOEWE SOLO CEDRO EDT 100ML TESTER",
@@ -17888,6 +17918,7 @@
     "ADOLFO DOMINGUEZ UNICA CORAL EDT...",
     "ADOLFO DOMINGUEZ ÁMBAR NEGRO EDP...",
     "AMOUAGE EPIC WOMAN EAU DE PARFUM...",
+    "AMOUAGE FATE MAN EDP 100ML TESTER",
     "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
     "AMOUAGE OPUS VII RECKLESS LEATHER...",
     "AMOUAGE OUTLANDS ESSENCE DE PARFUM...",
@@ -18028,6 +18059,7 @@
     "CARTIER LE PANTHERE EDP 75ML TESTER",
     "CHABAUD CARAMELITO EDP 100ML TESTER",
     "CHABAUD LAIT DE BISCUIT EDT 100ML...",
+    "CHABAUD LAIT ET CHOCOLAT EDT 100ML...",
     "CHABAUD MON TIRAMISÚ EDP 100ML TESTER",
     "CHANEL ALLURE EDT 100ML TESTER",
     "CHANEL ALLURE SENSUELLE EDP 100ML...",
@@ -18688,6 +18720,7 @@
     "ROOM 1015 ELECTRIC WOOD EXTRAIT DE...",
     "ROOM 1015 PURPLE MANTRA EDP 100ML...",
     "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
+    "ROSENDO MATEU FRESH OUD EDP 100ML...",
     "ROSENDO MATEU Nº10 MUSK MUSK MUSK...",
     "ROSENDO MATEU Nº6 PERFUME 100ML SIN...",
     "ROSENDO MATEU Nº7 PERFUME 100ML",
