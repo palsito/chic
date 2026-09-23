@@ -1,5 +1,29 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11787344": {
+      "nombre": "L'OCCITANE AMANDE SUBLIME ACEITE 100...",
+      "precio": "19,74 €",
+      "url": "https://www.perfumeriaschic.com/p11787344-loccitane-amande-sublime-aceite-100-ml-tester.html",
+      "en_stock": true
+    },
+    "9350433": {
+      "nombre": "GIVENCHY PI EDT 100ML TESTER",
+      "precio": "37,91 €",
+      "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "10636018": {
+      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EXTREME...",
+      "precio": "34,95 €",
+      "url": "https://www.perfumeriaschic.com/p10636018-issey-miyake-fusion-dissey-extreme-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "10834746": {
+      "nombre": "ISSEY MIYAKE L,EAU DISSEY PIVOINE...",
+      "precio": "34,95 €",
+      "url": "https://www.perfumeriaschic.com/p10834746-issey-miyake-l-eau-dissey-pivoine-peony-edt-intense-100ml-tester-sin-caja.html",
+      "en_stock": true
+    },
     "10784574": {
       "nombre": "MARC JACOBS DAISY EVER SO FRESH EDP...",
       "precio": "39,51 €",
@@ -12,16 +36,16 @@
       "url": "https://www.perfumeriaschic.com/p11138917-m-micallef-redcolorado-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10834741": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
-      "precio": "34,91 €",
-      "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "11623808": {
       "nombre": "JIMMY CHOO MAN AQUA EAU DE TOILETTE...",
       "precio": "27,97 €",
       "url": "https://www.perfumeriaschic.com/p11623808-jimmy-choo-man-aqua-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11741000": {
+      "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
+      "precio": "84,95 €",
+      "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
     },
     "11611209": {
@@ -878,7 +902,7 @@
     },
     "11660110": {
       "nombre": "MARY KAY CLINICAL SOLUTIONS DYNAMIC...",
-      "precio": "26,55 €",
+      "precio": "24,78 €",
       "url": "https://www.perfumeriaschic.com/p11660110-mary-kay-clinical-solutions-dynamic-wrinkle-limiter-reductor-dinamico-de-arrugas-15ml.html",
       "en_stock": true
     },
@@ -2820,12 +2844,6 @@
       "url": "https://www.perfumeriaschic.com/p11444718-nina-ricci-nina-illusion-edp-80ml-tester.html",
       "en_stock": false
     },
-    "11741000": {
-      "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
-      "precio": "84,95 €",
-      "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "11357079": {
       "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
       "precio": "14,90 €",
@@ -2867,24 +2885,6 @@
       "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p4479554-diesel-only-the-brave-edt-75ml-tester.html",
       "en_stock": false
-    },
-    "9350433": {
-      "nombre": "GIVENCHY PI EDT 100ML TESTER",
-      "precio": "37,91 €",
-      "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "10636018": {
-      "nombre": "ISSEY MIYAKE FUSION D´ISSEY EXTREME...",
-      "precio": "34,95 €",
-      "url": "https://www.perfumeriaschic.com/p10636018-issey-miyake-fusion-dissey-extreme-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "10834746": {
-      "nombre": "ISSEY MIYAKE L,EAU DISSEY PIVOINE...",
-      "precio": "34,95 €",
-      "url": "https://www.perfumeriaschic.com/p10834746-issey-miyake-l-eau-dissey-pivoine-peony-edt-intense-100ml-tester-sin-caja.html",
-      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -2928,7 +2928,7 @@
       "nombre": "JEAN PAUL GAULTIER DIVINE COUTURE 10...",
       "precio": "12,95 €",
       "url": "https://www.perfumeriaschic.com/p11787803-jean-paul-gaultier-divine-couture-10-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11787804": {
       "nombre": "CAROLINA HERRERA 212 VIP BLACK...",
@@ -3349,12 +3349,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10220192-zadig-voltaire-this-is-us-edt-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "10834741": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HER!...",
-      "precio": "34,91 €",
-      "url": "https://www.perfumeriaschic.com/p10834741-zadig-voltaire-this-is-her-undressed-edp-100ml-sin-caja.html",
-      "en_stock": false
     },
     "10637942": {
       "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
@@ -18341,6 +18335,7 @@
     "KENZO L´EAU PURE EAU DE PARFUM 100ML...",
     "KENZO POUR HOMME EDT INTENSE 110ML...",
     "KILIAN ANGEL´S SHARE EDP 50ML TESTER",
+    "L'OCCITANE AMANDE SUBLIME ACEITE 100...",
     "L'OCCITANE EN PROVENCE VERVEINE EAU...",
     "L'OCCITANE EN PROVENCE VERVEINE...",
     "L'OCCITANE LAVANDE POIVRE NOIR 50ML...",
