@@ -7754,6 +7754,12 @@
       "url": "https://www.perfumeriaschic.com/p10913159-narciso-rodriguez-for-her-forever-eau-de-parfum-100ml-sin-caja.html",
       "en_stock": false
     },
+    "10679999": {
+      "nombre": "CHLOE EAU DE PARFUM NATURELLE 100ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p10679999-chloe-eau-de-parfum-naturelle-100ml-tester.html",
+      "en_stock": true
+    },
     "9327836": {
       "nombre": "​​FLORIS BERGAMOTTO DI POSITANO EAU...",
       "precio": "64,90 €",
@@ -11001,10 +11007,10 @@
       "en_stock": false
     },
     "2509403": {
-      "nombre": "CHLOE SIGNATURE EAU DE PARFUM 75ML...",
+      "nombre": "CHLOE EAU DE PARFUM 75ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p2509403-chloe-eau-de-parfum-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10081909": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HER! VIBES...",
@@ -14220,7 +14226,7 @@
       "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5468964": {
       "nombre": "YVES SAINT LAURENT BLACK OPIUM EDP...",
@@ -14461,6 +14467,12 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "8038024": {
+      "nombre": "CHLOE ROSE TANGERINE EDT 75ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p8038024-chloe-rose-tangerine-edt-75ml-tester.html",
+      "en_stock": true
     },
     "11787798": {
       "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
@@ -18062,10 +18074,12 @@
     "CHANEL ALLURE EDT 100ML TESTER",
     "CHANEL ALLURE SENSUELLE EDP 100ML...",
     "CHANEL ANTAEUS POUR HOMME EDT 100ML...",
+    "CHLOE EAU DE PARFUM NATURELLE 100ML...",
     "CHLOE LE PARFUM 100ML TESTER",
     "CHLOE LOVE STORY EDP 75ML TESTER",
     "CHLOE L´EAU DE PARFUM LUMINEUSE...",
     "CHLOE ROSE NATURELLE EDP INTENSE...",
+    "CHLOE ROSE TANGERINE EDT 75ML TESTER",
     "CLARINS AROMA EAU DYNAMISANTE LECHE...",
     "COACH FOR MEN EAU DE TOILETTE 100ML...",
     "COURRIEGUES C EDP 100ML",
