@@ -1,9 +1,21 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11787343": {
+      "nombre": "LANCASTER 365 SKIN REPAIR LIPOSOMAL...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787343-lancaster-365-skin-repair-liposomal-cellular-serum-50-ml.html",
+      "en_stock": true
+    },
     "11787344": {
       "nombre": "L'OCCITANE AMANDE SUBLIME ACEITE 100...",
       "precio": "19,74 €",
       "url": "https://www.perfumeriaschic.com/p11787344-loccitane-amande-sublime-aceite-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11787342": {
+      "nombre": "MOROCCANOIL TREATMENT LIGHT 100ML...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787342-moroccanoil-treatment-light-100-ml-tester.html",
       "en_stock": true
     },
     "9350433": {
@@ -2937,7 +2949,7 @@
       "en_stock": true
     },
     "11787799": {
-      "nombre": "NINA ROUGE CRUSH EDP 80 ML TESTER",
+      "nombre": "NINA RICCI ROUGE CRUSH EDP 80 ML...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11787799-nina-rouge-crush-edp-80-ml-tester.html",
       "en_stock": true
@@ -18350,6 +18362,7 @@
     "LACOSTE ORIGINAL ACQUA EAU DE PARFUM...",
     "LACOSTE ORIGINAL EAU DE PARFUM 100ML...",
     "LACOSTE ORIGINAL PARFUM 100ML TESTER",
+    "LANCASTER 365 SKIN REPAIR LIPOSOMAL...",
     "LANCASTER SUN SPORT BRUMA INVISIBLE...",
     "LANCOME ADVANCED GENIFIQUE SERUM...",
     "LANCOME IDOLE NECTAR EDP 50 ML TESTER",
@@ -18567,6 +18580,7 @@
     "MORESQUE CONTESSA EDP 50ML TESTER",
     "MORESQUE MORETA EDP 50ML TESTER",
     "MORESQUE THE SECRET COLLECTION...",
+    "MOROCCANOIL TREATMENT LIGHT 100ML...",
     "MOSCHINO CHEAP AND CHIC SO REAL EDT...",
     "MOSCHINO FEMME EDT 75ML TESTER",
     "MOSCHINO PINK FRESH COUTURE EDT...",
