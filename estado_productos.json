@@ -2900,6 +2900,54 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11355815": {
+      "nombre": "REMINISCENCE LE PATCHOULI EDT...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11355815-reminiscence-le-patchouli-patchouli-edt-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11355807": {
+      "nombre": "REMINISCENCE LE PATCHOULI ÉLIXIR EDP...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8554260": {
+      "nombre": "NINA RICCI L´AIR DU TEMPS EDP 100ML...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p8554260-nina-ricci-lair-du-temps-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10843345": {
+      "nombre": "KENZO POUR HOMME EDT INTENSE 110ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10843345-kenzo-pour-homme-edt-intense-110ml-tester.html",
+      "en_stock": true
+    },
+    "11763822": {
+      "nombre": "LANCOME O ZENITH EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763822-lancome-o-zenith-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11355827": {
+      "nombre": "REMINISCENCE LE REM (REM) EDT...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11763821": {
+      "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763821-lancome-over-the-top-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762596": {
+      "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11410296": {
       "nombre": "NIGHTOLOGY SUEDE BREEZE EDP 100ML...",
       "precio": "64,90 €",
@@ -2922,12 +2970,6 @@
       "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": false
-    },
-    "11785163": {
-      "nombre": "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
-      "precio": "158,90 €",
-      "url": "https://www.perfumeriaschic.com/p11785163-byredo-bal-dafrique-eau-de-parfum-100-ml-tester.html",
       "en_stock": false
     },
     "11785648": {
@@ -6834,6 +6876,12 @@
       "nombre": "VAN CLEEF & ARPELS COLLECTION...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11271460-van-cleef-arpels-collection-extraordinaire-pachuli-blanc-edp-75ml-tester.html",
+      "en_stock": false
+    },
+    "11209422": {
+      "nombre": "AMOUAGE BEACH HUT WOMAN EDP 100ML",
+      "precio": "139,75 €",
+      "url": "https://www.perfumeriaschic.com/p11209422-amouage-beach-hut-woman-edp-100ml.html",
       "en_stock": false
     },
     "9074841": {
@@ -17869,6 +17917,7 @@
     "ADOLFO DOMINGUEZ U WOMAN EAU DE...",
     "ADOLFO DOMINGUEZ UNICA CORAL EDT...",
     "ADOLFO DOMINGUEZ ÁMBAR NEGRO EDP...",
+    "AMOUAGE BEACH HUT WOMAN EDP 100ML",
     "AMOUAGE EPIC WOMAN EAU DE PARFUM...",
     "AMOUAGE FATE MAN EDP 100ML TESTER",
     "AMOUAGE GUIDANCE WOMAN EDP 100ML...",
