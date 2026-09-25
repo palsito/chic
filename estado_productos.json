@@ -2856,6 +2856,12 @@
       "url": "https://www.perfumeriaschic.com/p11444718-nina-ricci-nina-illusion-edp-80ml-tester.html",
       "en_stock": false
     },
+    "11675996": {
+      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
+      "en_stock": true
+    },
     "11357079": {
       "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
       "precio": "14,90 €",
@@ -2966,12 +2972,6 @@
       "url": "https://www.perfumeriaschic.com/p2509403-chloe-eau-de-parfum-75ml-tester.html",
       "en_stock": true
     },
-    "11561166": {
-      "nombre": "LOEWE ESENCIA ELIXIR 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11561166-loewe-esencia-elixir-100ml-tester.html",
-      "en_stock": false
-    },
     "11785648": {
       "nombre": "ELIE SAAB ELIXIR EAU DE PARFUM 100...",
       "precio": "44,90 €",
@@ -2990,6 +2990,12 @@
       "url": "https://www.perfumeriaschic.com/p11787804-carolina-herrera-212-vip-black-elixir-10-ml-tester.html",
       "en_stock": true
     },
+    "11787798": {
+      "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11787798-maison-crivelli-bois-datchai-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11787799": {
       "nombre": "NINA RICCI ROUGE CRUSH EDP 80 ML...",
       "precio": "39,90 €",
@@ -2998,7 +3004,7 @@
     },
     "11787337": {
       "nombre": "MAISON MARGIELA REPLICA UP AT DAWN...",
-      "precio": "74,90 €",
+      "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11787337-replica-up-at-dawn-100-ml-tester.html",
       "en_stock": true
     },
@@ -13788,7 +13794,7 @@
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11436814": {
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
@@ -14064,7 +14070,7 @@
       "nombre": "MAISON CRIVELLI PATCHOULI MAGNETIK...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11606333-maison-crivelli-patchouli-magnetik-extrait-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11623815": {
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
@@ -14256,7 +14262,13 @@
       "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
+    },
+    "11781227": {
+      "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
+      "en_stock": true
     },
     "11161894": {
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
@@ -14304,7 +14316,7 @@
       "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11761746": {
       "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
@@ -14462,6 +14474,12 @@
       "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
       "en_stock": false
     },
+    "11675996": {
+      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
+      "en_stock": true
+    },
     "11744313": {
       "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
       "precio": "134,90 €",
@@ -14485,6 +14503,18 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "11784730": {
+      "nombre": "FREDERIC MALLE HEAVEN CAN WAIT EAU...",
+      "precio": "194,90 €",
+      "url": "https://www.perfumeriaschic.com/p11784730-frederic-malle-heaven-can-wait-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11785644": {
+      "nombre": "MAISON CRIVELLI ROSE SALTIFOLIA EAU...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11785644-maison-crivelli-rose-saltifolia-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
     },
     "11785645": {
       "nombre": "MAISON CRIVELLI PAPYRUS MOLÉCULAIRE...",
@@ -16508,13 +16538,13 @@
       "nombre": "FREDERIC MALLE PORTRAIT OF LADY  EDP...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11606333": {
       "nombre": "MAISON CRIVELLI PATCHOULI MAGNETIK...",
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11606333-maison-crivelli-patchouli-magnetik-extrait-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561323": {
       "nombre": "REGALIEN MEFTUN EDP 50ML TESTER",
