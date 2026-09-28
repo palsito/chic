@@ -2890,7 +2890,7 @@
       "nombre": "ANGEL SCHLESSER FEMME EDT 100ML...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p6301615-angel-schlesser-femme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11522213": {
       "nombre": "3INA THE LIPSTICK BARRA DE LABIOS...",
@@ -4452,7 +4452,7 @@
       "nombre": "ANGEL SCHLESSER FEMME EDT 100ML...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p6301615-angel-schlesser-femme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11449404": {
       "nombre": "KENZO AMOUR EDP 100ML TESTER",
@@ -8251,6 +8251,12 @@
       "precio": "209,90 €",
       "url": "https://www.perfumeriaschic.com/p11368280-xerjoff-17-17-stone-label-homme-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "8661107": {
+      "nombre": "LOEWE SOLO LOEWE ELLA EDT 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p8661107-loewe-solo-loewe-ella-edt-100ml-tester-nuevo-formato.html",
+      "en_stock": true
     },
     "10680673": {
       "nombre": "HISTOIRES DE PARFUMS AMBRE 114 EDP...",
@@ -12072,7 +12078,7 @@
       "nombre": "SCALPERS THE CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p10452315-scalpers-the-club-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11692353": {
       "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
@@ -13080,7 +13086,7 @@
       "nombre": "SCALPERS YACHT CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p11380557-scalpers-yacht-club-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11740415": {
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
@@ -18408,6 +18414,7 @@
     "LOEWE SOLO ELIXIR POUR HOMME EDP...",
     "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
     "LOEWE SOLO LOEWE EDT 200ML",
+    "LOEWE SOLO LOEWE ELLA EDT 100ML...",
     "LOEWE SOLO VULCAN EDP 100ML TESTER",
     "LOEWE UN PASEO POR MADRID CASA DE...",
     "LOEWE UN PASEO POR MADRID DEBOD EDP...",
