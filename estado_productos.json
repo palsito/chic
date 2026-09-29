@@ -1,5 +1,65 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11719236": {
+      "nombre": "MANCERA BLACK NOIR EDP 60ML",
+      "precio": "54,84 €",
+      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
+      "en_stock": true
+    },
+    "1143755": {
+      "nombre": "HUGO BOSS MA VIE EDP 75ML",
+      "precio": "28,82 €",
+      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
+      "en_stock": true
+    },
+    "1996975": {
+      "nombre": "CALVIN KLEIN EUPHORIA MEN EDT 100ML",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p1996975-calvin-klein-euphoria-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "9352376": {
+      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
+      "precio": "38,76 €",
+      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
+      "en_stock": true
+    },
+    "9350433": {
+      "nombre": "GIVENCHY PI EDT 100ML TESTER",
+      "precio": "37,91 €",
+      "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11787342": {
+      "nombre": "MOROCCANOIL TREATMENT LIGHT 100ML...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787342-moroccanoil-treatment-light-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11787344": {
+      "nombre": "L'OCCITANE AMANDE SUBLIME ACEITE 100...",
+      "precio": "19,74 €",
+      "url": "https://www.perfumeriaschic.com/p11787344-loccitane-amande-sublime-aceite-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11787343": {
+      "nombre": "LANCASTER 365 SKIN REPAIR LIPOSOMAL...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787343-lancaster-365-skin-repair-liposomal-cellular-serum-50-ml.html",
+      "en_stock": true
+    },
+    "11790692": {
+      "nombre": "MARY KAY CLINICAL SOLUTIONS...",
+      "precio": "23,85 €",
+      "url": "https://www.perfumeriaschic.com/p11790692-mary-kay-clinical-solutions-cresveratrol-line-reducer-reductor-de-lineas-de-expresion-15ml.html",
+      "en_stock": true
+    },
+    "11675996": {
+      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
+      "en_stock": true
+    },
     "11660304": {
       "nombre": "MARY KAY MINERAL FACIAL SUNSCREEN...",
       "precio": "12,60 €",
@@ -28,12 +88,6 @@
       "nombre": "ANGEL SCHLESSER FEMME EDT 100ML...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p6301615-angel-schlesser-femme-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11675996": {
-      "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
       "en_stock": true
     },
     "10780088": {
@@ -72,12 +126,6 @@
       "url": "https://www.perfumeriaschic.com/p10619351-davidoff-cool-water-men-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11787343": {
-      "nombre": "LANCASTER 365 SKIN REPAIR LIPOSOMAL...",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p11787343-lancaster-365-skin-repair-liposomal-cellular-serum-50-ml.html",
-      "en_stock": true
-    },
     "2481955": {
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
@@ -114,28 +162,10 @@
       "url": "https://www.perfumeriaschic.com/p8435409-rochasgirl-edt100ml-tester.html",
       "en_stock": true
     },
-    "11787344": {
-      "nombre": "L'OCCITANE AMANDE SUBLIME ACEITE 100...",
-      "precio": "19,74 €",
-      "url": "https://www.perfumeriaschic.com/p11787344-loccitane-amande-sublime-aceite-100-ml-tester.html",
-      "en_stock": true
-    },
     "11357079": {
       "nombre": "JIL SANDER SUN MEN EDT 125ML TESTER",
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11357079-jil-sander-sun-men-edt-125ml-tester.html",
-      "en_stock": true
-    },
-    "11787342": {
-      "nombre": "MOROCCANOIL TREATMENT LIGHT 100ML...",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p11787342-moroccanoil-treatment-light-100-ml-tester.html",
-      "en_stock": true
-    },
-    "9350433": {
-      "nombre": "GIVENCHY PI EDT 100ML TESTER",
-      "precio": "37,91 €",
-      "url": "https://www.perfumeriaschic.com/p9350433-givenchy-pi-edt-100ml-tester.html",
       "en_stock": true
     },
     "10636018": {
@@ -358,12 +388,6 @@
       "nombre": "GUCCI BAMBOO EAU DE PARFUM 75ML...",
       "precio": "42,40 €",
       "url": "https://www.perfumeriaschic.com/p7172654-gucci-bamboo-eau-de-parfum-75ml-tester.html",
-      "en_stock": true
-    },
-    "9352376": {
-      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
-      "precio": "38,76 €",
-      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
       "en_stock": true
     },
     "11769931": {
@@ -2867,44 +2891,44 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
-    },
-    "1143755": {
-      "nombre": "HUGO BOSS MA VIE EDP 75ML",
-      "precio": "28,82 €",
-      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
-      "en_stock": true
-    },
-    "1996975": {
-      "nombre": "CALVIN KLEIN EUPHORIA MEN EDT 100ML",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p1996975-calvin-klein-euphoria-men-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11719236": {
-      "nombre": "MANCERA BLACK NOIR EDP 60ML",
-      "precio": "54,84 €",
-      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
-      "en_stock": true
-    },
-    "11790692": {
-      "nombre": "MARY KAY CLINICAL SOLUTIONS...",
-      "precio": "23,85 €",
-      "url": "https://www.perfumeriaschic.com/p11790692-mary-kay-clinical-solutions-cresveratrol-line-reducer-reductor-de-lineas-de-expresion-15ml.html",
-      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "10834748": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM!...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "10834736": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11544557": {
+      "nombre": "NIKOS SCULPTURE EAU DE TOILETTE...",
+      "precio": "11,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544557-nikos-sculpture-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11790686": {
+      "nombre": "GIVENCHY ANGE OU DEMON EDP 100ML...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11790686-givenchy-ange-ou-demon-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11790689": {
+      "nombre": "SCALPERS THE SPEED CLUB EDP 125ML...",
+      "precio": "22,90 €",
+      "url": "https://www.perfumeriaschic.com/p11790689-scalpers-the-speed-club-edp-125ml-tester.html",
+      "en_stock": true
+    },
     "11651700": {
       "nombre": "​PHILIPP PLEIN FATALE ROSE EAU DE...",
       "precio": "29,93 €",
       "url": "https://www.perfumeriaschic.com/p11651700-philipp-plein-fatale-rose-eau-de-parfum-90ml-tester.html",
       "en_stock": true
-    },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": false
     },
     "8661107": {
       "nombre": "LOEWE SOLO LOEWE ELLA EDT 100ML...",
@@ -2929,12 +2953,6 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
       "en_stock": true
-    },
-    "11711349": {
-      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
-      "en_stock": false
     },
     "11784730": {
       "nombre": "FREDERIC MALLE HEAVEN CAN WAIT EAU...",
@@ -3114,6 +3132,12 @@
       "nombre": "TOMMY POOLSIDE EDITION MEN 100 ML...",
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p11785993-tommy-poolside-edition-men-100-ml-tester.html",
+      "en_stock": true
+    },
+    "1143755": {
+      "nombre": "HUGO BOSS MA VIE EDP 75ML",
+      "precio": "28,82 €",
+      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
       "en_stock": true
     },
     "11785164": {
@@ -7604,12 +7628,6 @@
       "url": "https://www.perfumeriaschic.com/p5983341-loewe-solo-loewe-edt-75ml-tester.html",
       "en_stock": false
     },
-    "1143755": {
-      "nombre": "HUGO BOSS MA VIE EDP 75ML",
-      "precio": "28,82 €",
-      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
-      "en_stock": true
-    },
     "10948030": {
       "nombre": "COACH FLORAL BLUSH EAU DE PARFUM...",
       "precio": "29,90 €",
@@ -10124,12 +10142,6 @@
       "url": "https://www.perfumeriaschic.com/p11615289-police-rich-guy-for-man-edt-100ml-tester.html",
       "en_stock": false
     },
-    "10834748": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HIM!...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
-      "en_stock": true
-    },
     "8707627": {
       "nombre": "PERRIS MONTE CARLO MANDARINO DI...",
       "precio": "89,90 €",
@@ -10572,6 +10584,12 @@
       "nombre": "PRADA PARADOXE RADICAL ESSENCE...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11642177-prada-paradoxe-radical-essence-parfum-50-ml.html",
+      "en_stock": false
+    },
+    "11451154": {
+      "nombre": "ATELIERS DES ORS NOIR BY NIGHT EDP...",
+      "precio": "109,12 €",
+      "url": "https://www.perfumeriaschic.com/p11451154-ateliers-des-ors-noir-by-night-edp-100ml-tester.html",
       "en_stock": false
     },
     "4420748": {
@@ -11438,6 +11456,12 @@
       "url": "https://www.perfumeriaschic.com/p4555216-ralph-laurent-polo-blue-edp-125ml-tester.html",
       "en_stock": false
     },
+    "2521510": {
+      "nombre": "LACOSTE LIVE POUR HOMME EDT 100ML...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p2521510-lacoste-live-pour-homme-edt-100ml-tester.html",
+      "en_stock": false
+    },
     "11285254": {
       "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH...",
       "precio": "58,90 €",
@@ -11911,12 +11935,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11472480-philipp-plein-fatale-eau-de-parfum-90ml.html",
       "en_stock": false
-    },
-    "10834736": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
-      "en_stock": true
     },
     "11526326": {
       "nombre": "HFC PRIVATE CODE EAU DE PARFUM 75ML...",
@@ -13663,12 +13681,6 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11756073-etro-via-verri-edt-50ml-tester.html",
       "en_stock": false
-    },
-    "11544557": {
-      "nombre": "NIKOS SCULPTURE EAU DE TOILETTE...",
-      "precio": "11,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544557-nikos-sculpture-eau-de-toilette-100ml-tester.html",
-      "en_stock": true
     },
     "11561326": {
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
@@ -17763,6 +17775,7 @@
     "ARMANI SI EAU DE PARFUM 100ML TESTER",
     "ARMANI STRONGER WITH YOU INTENSELY...",
     "ATELIERS DES ORS  BLUE MADELEINE EAU...",
+    "ATELIERS DES ORS NOIR BY NIGHT EDP...",
     "ATELIERS DES ORS PINK ME UP EDP...",
     "ATELIERS DES ORS RIVIERA DRIVE EAU...",
     "ATKINSONS 24 OLD BOND STREET EDC...",
@@ -18007,6 +18020,7 @@
     "GIORGIO ARMANI SI PASSIONE RED MUSK...",
     "GIORGIO ARMANI SI RED MUSK PASSIONE...",
     "GIORGIO GIORGIO BEVERLY HILLS EDT...",
+    "GIVENCHY ANGE OU DEMON EDP 100ML...",
     "GIVENCHY ANGE OU DEMON LE SECRET 100...",
     "GIVENCHY DAHLIA DIVIN EDP 100ML...",
     "GIVENCHY GENTLEMAN BOISEE EDP 100ML...",
@@ -18559,6 +18573,7 @@
     "SCALPERS KIDS GIRL 100ML EDT TESTER",
     "SCALPERS THE BAND FOR HIM EDP 100ML...",
     "SCALPERS THE CLUB EDP 125ML TESTER",
+    "SCALPERS THE SPEED CLUB EDP 125ML...",
     "SCALPERS YACHT CLUB EDP 125ML TESTER",
     "SHISEIDO GINZA EDP INTENSE 90ML...",
     "SHISEIDO GINZA MURASAKI EDP 90ML...",
