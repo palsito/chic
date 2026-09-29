@@ -362,7 +362,7 @@
     },
     "9352376": {
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
-      "precio": "46,58 €",
+      "precio": "38,76 €",
       "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
       "en_stock": true
     },
@@ -2867,6 +2867,30 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
+    },
+    "1143755": {
+      "nombre": "HUGO BOSS MA VIE EDP 75ML",
+      "precio": "28,82 €",
+      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
+      "en_stock": true
+    },
+    "1996975": {
+      "nombre": "CALVIN KLEIN EUPHORIA MEN EDT 100ML",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p1996975-calvin-klein-euphoria-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11719236": {
+      "nombre": "MANCERA BLACK NOIR EDP 60ML",
+      "precio": "54,84 €",
+      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
+      "en_stock": true
+    },
+    "11790692": {
+      "nombre": "MARY KAY CLINICAL SOLUTIONS...",
+      "precio": "23,85 €",
+      "url": "https://www.perfumeriaschic.com/p11790692-mary-kay-clinical-solutions-cresveratrol-line-reducer-reductor-de-lineas-de-expresion-15ml.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3778,7 +3802,7 @@
     },
     "9352376": {
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
-      "precio": "46,58 €",
+      "precio": "38,76 €",
       "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
       "en_stock": true
     },
@@ -4700,6 +4724,12 @@
       "url": "https://www.perfumeriaschic.com/p11651699-philipp-plein-fatale-rose-intense-eau-de-parfum-90ml-tester.html",
       "en_stock": true
     },
+    "11719236": {
+      "nombre": "MANCERA BLACK NOIR EDP 60ML",
+      "precio": "54,84 €",
+      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
+      "en_stock": true
+    },
     "11293713": {
       "nombre": "NIGHTOLOGY IRIS SHADOW EDP 100ML...",
       "precio": "64,90 €",
@@ -5227,6 +5257,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p7614522-kenzo-flower-lelixir-edp-50ml-tester.html",
       "en_stock": false
+    },
+    "1996975": {
+      "nombre": "CALVIN KLEIN EUPHORIA MEN EDT 100ML",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p1996975-calvin-klein-euphoria-men-edt-100ml-tester.html",
+      "en_stock": true
     },
     "8806799": {
       "nombre": "ALAIA PARIS EDP 30ML SIN CAJA",
@@ -7567,6 +7603,12 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p5983341-loewe-solo-loewe-edt-75ml-tester.html",
       "en_stock": false
+    },
+    "1143755": {
+      "nombre": "HUGO BOSS MA VIE EDP 75ML",
+      "precio": "28,82 €",
+      "url": "https://www.perfumeriaschic.com/p1143755-perfume-hugo-boss-ma-vie-edp-75ml.html",
+      "en_stock": true
     },
     "10948030": {
       "nombre": "COACH FLORAL BLUSH EAU DE PARFUM...",
@@ -10532,12 +10574,6 @@
       "url": "https://www.perfumeriaschic.com/p11642177-prada-paradoxe-radical-essence-parfum-50-ml.html",
       "en_stock": false
     },
-    "11451154": {
-      "nombre": "ATELIERS DES ORS NOIR BY NIGHT EDP...",
-      "precio": "109,12 €",
-      "url": "https://www.perfumeriaschic.com/p11451154-ateliers-des-ors-noir-by-night-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "4420748": {
       "nombre": "JEAN PAUL GAULTIER SCANDAL EDP 80ML...",
       "precio": "46,90 €",
@@ -11400,12 +11436,6 @@
       "nombre": "RALPH LAUREN POLO BLUE EDP 125ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p4555216-ralph-laurent-polo-blue-edp-125ml-tester.html",
-      "en_stock": false
-    },
-    "2521510": {
-      "nombre": "LACOSTE LIVE POUR HOMME EDT 100ML...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p2521510-lacoste-live-pour-homme-edt-100ml-tester.html",
       "en_stock": false
     },
     "11285254": {
@@ -16684,6 +16714,12 @@
       "url": "https://www.perfumeriaschic.com/p11711350-replica-maison-margiela-under-the-stars-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11719236": {
+      "nombre": "MANCERA BLACK NOIR EDP 60ML",
+      "precio": "54,84 €",
+      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
+      "en_stock": true
+    },
     "11650237": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100ML...",
       "precio": "104,93 €",
@@ -17796,6 +17832,7 @@
     "CALVIN KLEIN ETERNITY WOMAN  EAU SO...",
     "CALVIN KLEIN ETERNITY WOMAN EAU DE...",
     "CALVIN KLEIN EUPHORIA EDT 100ML...",
+    "CALVIN KLEIN EUPHORIA MEN EDT 100ML",
     "CARNER BARCELONA LUKOMORIE EDP 100ML...",
     "CARNER BARCELONA ROCK STAR EDP 100ML...",
     "CARNER BARCELONA SAL Y LIMON EDP...",
@@ -18042,6 +18079,7 @@
     "HUGO BOSS HUGO INTENSE EDP INTENSE...",
     "HUGO BOSS HUGO JEANS EDT 125ML TESTER",
     "HUGO BOSS JUST DIFERENT  EDT 125ML...",
+    "HUGO BOSS MA VIE EDP 75ML",
     "HUGO BOSS SUPERMAN X HUGO EDP 125ML...",
     "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
     "HUGO BOSS THE SCENT FOR HIM EDT...",
@@ -18196,6 +18234,7 @@
     "MANCERA BLACK GOLD EDP 120ML TESTER",
     "MANCERA BLACK INTENSITIVE AOUD EDP...",
     "MANCERA BLACK LINE EDP  120 ML...",
+    "MANCERA BLACK NOIR EDP 60ML",
     "MANCERA BLACK VANILLE EDP 120ML...",
     "MANCERA CEDRAT BOISE EDP 120ML TESTER",
     "MANCERA CEDRAT BOISE INTENSE EDP...",
