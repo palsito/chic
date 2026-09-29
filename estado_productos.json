@@ -1872,6 +1872,12 @@
       "url": "https://www.perfumeriaschic.com/p6866349-diesel-spirit-of-the-brave-edt-75ml-tester.html",
       "en_stock": false
     },
+    "10834736": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "11012061": {
       "nombre": "NISHANE FAN YOUR FLAMES X EXTRAIT DE...",
       "precio": "128,90 €",
@@ -3061,6 +3067,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
       "en_stock": true
+    },
+    "11787335": {
+      "nombre": "GIVENCHY ANGE OU DEMON LE SECRET 100...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11787335-givenchy-ange-ou-demon-le-secret-100-ml-tester.html",
+      "en_stock": false
     },
     "11787336": {
       "nombre": "NINA RICCI RICCI RICCI 50 ML TESTER",
@@ -10080,7 +10092,7 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM!...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8707627": {
       "nombre": "PERRIS MONTE CARLO MANDARINO DI...",
@@ -11876,6 +11888,12 @@
       "url": "https://www.perfumeriaschic.com/p11472480-philipp-plein-fatale-eau-de-parfum-90ml.html",
       "en_stock": false
     },
+    "10834736": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "11526326": {
       "nombre": "HFC PRIVATE CODE EAU DE PARFUM 75ML...",
       "precio": "154,90 €",
@@ -13626,7 +13644,7 @@
       "nombre": "NIKOS SCULPTURE EAU DE TOILETTE...",
       "precio": "11,90 €",
       "url": "https://www.perfumeriaschic.com/p11544557-nikos-sculpture-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561326": {
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
