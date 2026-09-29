@@ -2614,13 +2614,13 @@
       "nombre": "MARY KAY CLINICAL SOLUTIONS...",
       "precio": "23,85 €",
       "url": "https://www.perfumeriaschic.com/p11660088-mary-kay-clinical-solutions-ferulniacinamid-aufheller-ferulico-aclarante-e-iluminador-de-niacinamida-15ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11660081": {
       "nombre": "MARY KAY EXTRA EMOLLIENT CREMA DE...",
       "precio": "12,75 €",
       "url": "https://www.perfumeriaschic.com/p11660081-mary-kay-extra-emollient-crema-de-noche-extra-emoliente-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11451157": {
       "nombre": "ATELIERS DES ORS PINK ME UP EDP...",
