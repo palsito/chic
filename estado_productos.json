@@ -2864,6 +2864,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11651700": {
+      "nombre": "​PHILIPP PLEIN FATALE ROSE EAU DE...",
+      "precio": "29,93 €",
+      "url": "https://www.perfumeriaschic.com/p11651700-philipp-plein-fatale-rose-eau-de-parfum-90ml-tester.html",
+      "en_stock": true
+    },
+    "11637302": {
+      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
+      "en_stock": true
+    },
+    "8661107": {
+      "nombre": "LOEWE SOLO LOEWE ELLA EDT 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p8661107-loewe-solo-loewe-ella-edt-100ml-tester-nuevo-formato.html",
+      "en_stock": true
+    },
     "10452315": {
       "nombre": "SCALPERS THE CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
@@ -2876,16 +2894,16 @@
       "url": "https://www.perfumeriaschic.com/p11380557-scalpers-yacht-club-edp-125ml-tester.html",
       "en_stock": true
     },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": true
-    },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11781227-giardini-di-toscana-verde-respiro-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11711349": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
       "en_stock": true
     },
     "11784730": {
@@ -2900,12 +2918,6 @@
       "url": "https://www.perfumeriaschic.com/p11761746-givenchy-pour-homme-edt-100ml-tester.html",
       "en_stock": true
     },
-    "11711349": {
-      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11711349-giardini-di-toscana-bianco-latte-100ml-tester.html",
-      "en_stock": true
-    },
     "11675996": {
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
       "precio": "94,90 €",
@@ -2916,13 +2928,13 @@
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11645398-marc-antoine-barrois-aldelbaran-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11775056": {
       "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11355807": {
       "nombre": "REMINISCENCE LE PATCHOULI ÉLIXIR EDP...",
@@ -4920,12 +4932,6 @@
       "nombre": "COACH DREAMS EAU DE PARFUM 90ML...",
       "precio": "32,90 €",
       "url": "https://www.perfumeriaschic.com/p11651698-coach-dreams-eau-de-parfum-90ml-tester.html",
-      "en_stock": true
-    },
-    "11651700": {
-      "nombre": "​PHILIPP PLEIN FATALE ROSE EAU DE...",
-      "precio": "29,93 €",
-      "url": "https://www.perfumeriaschic.com/p11651700-philipp-plein-fatale-rose-eau-de-parfum-90ml-tester.html",
       "en_stock": true
     },
     "11366739": {
@@ -8065,12 +8071,6 @@
       "precio": "209,90 €",
       "url": "https://www.perfumeriaschic.com/p11368280-xerjoff-17-17-stone-label-homme-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "8661107": {
-      "nombre": "LOEWE SOLO LOEWE ELLA EDT 100ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p8661107-loewe-solo-loewe-ella-edt-100ml-tester-nuevo-formato.html",
-      "en_stock": true
     },
     "10680673": {
       "nombre": "HISTOIRES DE PARFUMS AMBRE 114 EDP...",
