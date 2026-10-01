@@ -2891,6 +2891,24 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
+    },
+    "11530851": {
+      "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
+      "precio": "19,95 €",
+      "url": "https://www.perfumeriaschic.com/p11530851-adolfo-dominguez-adn-rosa-spicy-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11530853": {
+      "nombre": "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
+      "precio": "22,95 €",
+      "url": "https://www.perfumeriaschic.com/p11530853-adolfo-dominguez-adn-sandalo-sacro-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11530875": {
+      "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
+      "precio": "22,95 €",
+      "url": "https://www.perfumeriaschic.com/p11530875-adolfo-dominguez-adn-neroli-ecstasy-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3544,7 +3562,7 @@
     },
     "11530851": {
       "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
-      "precio": "26,90 €",
+      "precio": "19,95 €",
       "url": "https://www.perfumeriaschic.com/p11530851-adolfo-dominguez-adn-rosa-spicy-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -9172,15 +9190,15 @@
     },
     "11530875": {
       "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
-      "precio": "26,90 €",
+      "precio": "22,95 €",
       "url": "https://www.perfumeriaschic.com/p11530875-adolfo-dominguez-adn-neroli-ecstasy-edp-100ml-tester.html",
       "en_stock": true
     },
     "11530853": {
       "nombre": "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
-      "precio": "26,90 €",
+      "precio": "22,95 €",
       "url": "https://www.perfumeriaschic.com/p11530853-adolfo-dominguez-adn-sandalo-sacro-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9794972": {
       "nombre": "M. MICALLEF MON PARFUM GOLD EDP...",
