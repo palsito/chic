@@ -1898,7 +1898,7 @@
     },
     "10834736": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
-      "precio": "39,90 €",
+      "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
       "en_stock": true
     },
@@ -2892,6 +2892,12 @@
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
     },
+    "10834748": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HIM!...",
+      "precio": "35,91 €",
+      "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "11530851": {
       "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
       "precio": "19,95 €",
@@ -2912,15 +2918,75 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11530875": {
+      "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
+      "precio": "22,95 €",
+      "url": "https://www.perfumeriaschic.com/p11530875-adolfo-dominguez-adn-neroli-ecstasy-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11530853": {
+      "nombre": "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
+      "precio": "22,95 €",
+      "url": "https://www.perfumeriaschic.com/p11530853-adolfo-dominguez-adn-sandalo-sacro-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11746244": {
+      "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "1998020": {
+      "nombre": "DAVIDOFF COOL WATER EDT 125ML TESTER",
+      "precio": "16,90 €",
+      "url": "https://www.perfumeriaschic.com/p1998020-davidoff-cool-water-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11646570": {
+      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "7990085": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11791250": {
+      "nombre": "CAROLINA HERRERA 212 VIP ROSÉ ELIXIR...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791250-carolina-herrera-212-vip-rose-elixir-edp-80-ml-tester.html",
+      "en_stock": true
+    },
+    "11791251": {
+      "nombre": "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791251-elizabeth-arden-eternal-aura-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11791258": {
+      "nombre": "CAROLINA HERRERA CH MEN EDT 100 ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791258-carolina-herrera-ch-men-edt-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11791259": {
+      "nombre": "DIESEL FUEL FOR LIFE FEMME EDP 50 ML...",
+      "precio": "14,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791259-diesel-fuel-for-life-femme-edp-50-ml-tester.html",
+      "en_stock": true
+    },
     "10834748": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM!...",
-      "precio": "39,90 €",
+      "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
       "en_stock": true
     },
     "10834736": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
-      "precio": "39,90 €",
+      "precio": "35,91 €",
       "url": "https://www.perfumeriaschic.com/p10834736-zadig-voltaire-vibes-of-freedom-this-is-him-edt-100ml-sin-caja.html",
       "en_stock": true
     },
@@ -2930,10 +2996,22 @@
       "url": "https://www.perfumeriaschic.com/p11544557-nikos-sculpture-eau-de-toilette-100ml-tester.html",
       "en_stock": true
     },
+    "11608912": {
+      "nombre": "SCALPERS THE BAND FOR HIM EDP 100ML...",
+      "precio": "23,92 €",
+      "url": "https://www.perfumeriaschic.com/p11608912-scalpers-the-band-for-him-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11790686": {
       "nombre": "GIVENCHY ANGE OU DEMON EDP 100ML...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11790686-givenchy-ange-ou-demon-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11787798": {
+      "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11787798-maison-crivelli-bois-datchai-edp-100-ml-tester.html",
       "en_stock": true
     },
     "11790689": {
@@ -9170,18 +9248,6 @@
       "url": "https://www.perfumeriaschic.com/p11464371-tom-ford-oud-wood-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11530875": {
-      "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
-      "precio": "22,95 €",
-      "url": "https://www.perfumeriaschic.com/p11530875-adolfo-dominguez-adn-neroli-ecstasy-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11530853": {
-      "nombre": "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
-      "precio": "22,95 €",
-      "url": "https://www.perfumeriaschic.com/p11530853-adolfo-dominguez-adn-sandalo-sacro-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "9794972": {
       "nombre": "M. MICALLEF MON PARFUM GOLD EDP...",
       "precio": "84,95 €",
@@ -12848,12 +12914,6 @@
       "url": "https://www.perfumeriaschic.com/p7863321-dsquared2-wood-pour-homme-edt-100ml-tester.html",
       "en_stock": false
     },
-    "1998020": {
-      "nombre": "DAVIDOFF COOL WATER EDT 125ML TESTER",
-      "precio": "16,90 €",
-      "url": "https://www.perfumeriaschic.com/p1998020-davidoff-cool-water-edt-125ml-tester.html",
-      "en_stock": true
-    },
     "9211985": {
       "nombre": "MARC JACOBS DAISY EAU SO INTENSE EDP...",
       "precio": "46,90 €",
@@ -13471,12 +13531,6 @@
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p3026444-ralph-lauren-polo-blue-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "11746244": {
-      "nombre": "ISSEY MIYAKE LUMIÈRE D'ISSEY EDP...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746244-issey-miyake-lumiere-dissey-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11546808": {
       "nombre": "STEPHANE HUMBERT LUCAS CRYING OF...",
@@ -14174,12 +14228,6 @@
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11608912": {
-      "nombre": "SCALPERS THE BAND FOR HIM EDP 100ML...",
-      "precio": "23,92 €",
-      "url": "https://www.perfumeriaschic.com/p11608912-scalpers-the-band-for-him-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11520636": {
       "nombre": "BOND No.9 RIVERSIDE DRIVE EDP 100ML...",
       "precio": "134,90 €",
@@ -14306,12 +14354,6 @@
       "url": "https://www.perfumeriaschic.com/p11762257-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
       "en_stock": false
     },
-    "11646570": {
-      "nombre": "DAVIDOFF COOL ELIXIR FOR HIM PARFUM...",
-      "precio": "29,95 €",
-      "url": "https://www.perfumeriaschic.com/p11646570-davidoff-cool-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "11744313": {
       "nombre": "DUSITA TONKA LATTE EAU DE PARFUM...",
       "precio": "134,90 €",
@@ -14335,12 +14377,6 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
-    },
-    "11787798": {
-      "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
-      "precio": "118,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787798-maison-crivelli-bois-datchai-edp-100-ml-tester.html",
-      "en_stock": true
     },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
@@ -14366,24 +14402,6 @@
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "7990085": {
-      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "11791250": {
-      "nombre": "CAROLINA HERRERA 212 VIP ROSÉ ELIXIR...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791250-carolina-herrera-212-vip-rose-elixir-edp-80-ml-tester.html",
-      "en_stock": true
-    },
-    "11791251": {
-      "nombre": "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791251-elizabeth-arden-eternal-aura-edp-100-ml-sin-caja.html",
-      "en_stock": true
-    },
     "11791254": {
       "nombre": "PRADA INFUSION DE RHUBARBE EDP 100ML...",
       "precio": "54,90 €",
@@ -14395,18 +14413,6 @@
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11791257-jean-paul-gaultier-scandal-intense-edp-80-ml-tester.html",
       "en_stock": false
-    },
-    "11791258": {
-      "nombre": "CAROLINA HERRERA CH MEN EDT 100 ML...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791258-carolina-herrera-ch-men-edt-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11791259": {
-      "nombre": "DIESEL FUEL FOR LIFE FEMME EDP 50 ML...",
-      "precio": "14,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791259-diesel-fuel-for-life-femme-edp-50-ml-tester.html",
-      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
