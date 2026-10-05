@@ -2930,6 +2930,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11726317": {
+      "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "8198442": {
+      "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p8198442-perris-monte-carlo-patchouli-nosy-be-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11530875": {
       "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
       "precio": "22,95 €",
@@ -3372,7 +3384,7 @@
       "nombre": "CALVIN KLEIN ETERNITY WOMAN SUMMER...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p11340776-calvin-klein-eternity-woman-summer-2015-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11500536": {
       "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
@@ -14179,12 +14191,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10220192-zadig-voltaire-this-is-us-edt-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "11726317": {
-      "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
-      "en_stock": true
     },
     "4743256": {
       "nombre": "CACHAREL AMOR AMOR EDT 100ML TESTER",
