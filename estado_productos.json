@@ -3156,7 +3156,7 @@
       "nombre": "CHLOE EAU DE PARFUM NATURELLE 100ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10679999-chloe-eau-de-parfum-naturelle-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11765541": {
       "nombre": "RALPH LAUREN POLO EST.67 EAU DE...",
@@ -3738,7 +3738,7 @@
       "nombre": "BURBERRY HER EDP 100ML TESTER",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p6234998-burberry-her-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11650184": {
       "nombre": "CACHAREL YES I,AM DELICIOUS ESTUCHE...",
@@ -14162,24 +14162,6 @@
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11791254": {
-      "nombre": "PRADA INFUSION DE RHUBARBE EDP 100ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791254-prada-infusion-de-rhubarbe-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11791257": {
-      "nombre": "JEAN PAUL GAULTIER SCANDAL INTENSE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791257-jean-paul-gaultier-scandal-intense-edp-80-ml-tester.html",
-      "en_stock": false
-    },
-    "11787804": {
-      "nombre": "CAROLINA HERRERA 212 VIP BLACK...",
-      "precio": "9,95 €",
-      "url": "https://www.perfumeriaschic.com/p11787804-carolina-herrera-212-vip-black-elixir-10-ml-tester.html",
-      "en_stock": false
-    },
     "11787799": {
       "nombre": "NINA RICCI ROUGE CRUSH EDP 80 ML...",
       "precio": "39,90 €",
@@ -14280,18 +14262,6 @@
       "nombre": "SCALPERS THE CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p10452315-scalpers-the-club-edp-125ml-tester.html",
-      "en_stock": false
-    },
-    "11787335": {
-      "nombre": "GIVENCHY ANGE OU DEMON LE SECRET 100...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787335-givenchy-ange-ou-demon-le-secret-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11787336": {
-      "nombre": "NINA RICCI RICCI RICCI 50 ML TESTER",
-      "precio": "27,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787336-nina-ricci-ricci-ricci-50-ml-tester.html",
       "en_stock": false
     },
     "11313994": {
