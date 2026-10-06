@@ -570,6 +570,12 @@
       "url": "https://www.perfumeriaschic.com/p11412452-zadig-voltaire-this-is-her-really-eau-de-parfum-intense-100ml-sin-caja.html",
       "en_stock": true
     },
+    "11708241": {
+      "nombre": "HUGO BOSS HUGO DEEP RED EDP 75ML",
+      "precio": "29,97 €",
+      "url": "https://www.perfumeriaschic.com/p11708241-hugo-boss-hugo-deep-red-edp-75ml.html",
+      "en_stock": true
+    },
     "10856776": {
       "nombre": "DSQUARED2 TWO WOOD  EDT 100ML TESTER",
       "precio": "25,95 €",
@@ -2960,24 +2966,6 @@
       "url": "https://www.perfumeriaschic.com/p11794656-brioni-eau-de-parfum-essentiel-100-ml.html",
       "en_stock": true
     },
-    "5821895": {
-      "nombre": "CAROLINA HERRERA 212 SEXY MEN EDT...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p5821895-carolina-herrera-212-sexy-men-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11244377": {
-      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
-      "precio": "89,41 €",
-      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "7772791": {
-      "nombre": "PRADA INFUSION DE CEDRE EDP 100ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p7772791-prada-infusion-diris-cedre-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
     "7662441": {
       "nombre": "GUERLAIN SAMSARA EDP 75ML TESTER",
       "precio": "58,90 €",
@@ -3001,12 +2989,6 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
       "en_stock": true
-    },
-    "11781648": {
-      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781648-giardini-di-toscana-bianco-latte-crema-corporal-250-ml-tester.html",
-      "en_stock": false
     },
     "11726317": {
       "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
@@ -4350,6 +4332,12 @@
       "nombre": "STARCK PARIS PEAU DE PIERRE EDT 90ML...",
       "precio": "28,88 €",
       "url": "https://www.perfumeriaschic.com/p11399025-starck-paris-peau-de-pierre-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11708241": {
+      "nombre": "HUGO BOSS HUGO DEEP RED EDP 75ML",
+      "precio": "29,97 €",
+      "url": "https://www.perfumeriaschic.com/p11708241-hugo-boss-hugo-deep-red-edp-75ml.html",
       "en_stock": true
     },
     "11440614": {
@@ -11390,6 +11378,12 @@
       "url": "https://www.perfumeriaschic.com/p9681989-mancera-aoud-blue-notes-edp-120ml-tester.html",
       "en_stock": false
     },
+    "11704532": {
+      "nombre": "TIZIANA TERENZI ECLIX EXTRAIT DE...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11704532-tiziana-terenzi-eclix-extrait-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
     "10886951": {
       "nombre": "LACOSTE L. 12.12 BLANC FOR HIM EAU...",
       "precio": "34,90 €",
@@ -11868,6 +11862,12 @@
       "nombre": "MONTALE AOUD SAFRAN  EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11514738-montale-aoud-safran-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "7276252": {
+      "nombre": "ANNICK GOUTAL NUIT ET CONFIDENCES...",
+      "precio": "79,90 €",
+      "url": "https://www.perfumeriaschic.com/p7276252-annick-goutal-nuit-et-confidences-eau-de-parfum-100ml-tester-sin-caja.html",
       "en_stock": false
     },
     "11472480": {
@@ -12636,6 +12636,12 @@
       "nombre": "CALVIN KLEIN ETERNITY WOMAN  EAU SO...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p8731930-calvin-klein-eternity-woman-eau-so-fresh-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11404348": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
       "en_stock": false
     },
     "11756087": {
@@ -14366,6 +14372,12 @@
       "url": "https://www.perfumeriaschic.com/p10619411-rosendo-mateu-incense-wood-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11450288": {
+      "nombre": "MONTALE PURE LOVE EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11450288-montale-pure-love-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11711347": {
       "nombre": "TRUSSARDI LE VIE DI MILANO...",
       "precio": "68,90 €",
@@ -14448,6 +14460,12 @@
       "nombre": "DUSITA ISSARA EXTRAIT DE PARFUM 50ML...",
       "precio": "147,16 €",
       "url": "https://www.perfumeriaschic.com/p10880052-dusita-issara-extrait-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "11244377": {
+      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
+      "precio": "89,41 €",
+      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
     "11470421": {
@@ -18221,6 +18239,7 @@
     "HUGO BOSS DARK BLUE EDT 75ML TESTER",
     "HUGO BOSS FEMME EDP 75ML TESTER",
     "HUGO BOSS HUGO  EDT 125ML TESTER",
+    "HUGO BOSS HUGO DEEP RED EDP 75ML",
     "HUGO BOSS HUGO INTENSE EDP INTENSE...",
     "HUGO BOSS HUGO JEANS EDT 125ML TESTER",
     "HUGO BOSS JUST DIFERENT  EDT 125ML...",
