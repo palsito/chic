@@ -12122,6 +12122,12 @@
       "url": "https://www.perfumeriaschic.com/p11692348-jesus-del-pozo-halloween-my-world-edp-125ml-tester.html",
       "en_stock": false
     },
+    "5821895": {
+      "nombre": "CAROLINA HERRERA 212 SEXY MEN EDT...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p5821895-carolina-herrera-212-sexy-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11745927": {
       "nombre": "CAROLINA HERRERA 212 MEN NYC PARFUM...",
       "precio": "49,90 €",
@@ -14280,7 +14286,7 @@
       "nombre": "ZADIG & VOLTAIRE ZADIG EAU DE PARFUM...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11779339-zadig-voltaire-zadig-eau-de-parfum-intense-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10513256": {
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
@@ -14431,6 +14437,24 @@
       "precio": "147,16 €",
       "url": "https://www.perfumeriaschic.com/p10880052-dusita-issara-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
+    },
+    "11794654": {
+      "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794654-brioni-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11794655": {
+      "nombre": "BRIONI EAU DE PARFUM INTENSE 100ML...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794655-brioni-eau-de-parfum-intense-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11794656": {
+      "nombre": "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794656-brioni-eau-de-parfum-essentiel-100-ml.html",
+      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
@@ -17912,6 +17936,9 @@
     "BOTANICAE SHOMAL EAU DE PARFUM 100ML",
     "BOUCHERON QUATRE POUR HOMME EDT 100ML",
     "BOUCHERON SINGULIER POUR HOMME EDP...",
+    "BRIONI EAU DE PARFUM 100ML TESTER",
+    "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
+    "BRIONI EAU DE PARFUM INTENSE 100ML...",
     "BRITNEY SPEARS FANTASY DID IT AGAIN...",
     "BRITNEY SPEARS FANTASY EDP 100ML...",
     "BRITNEY SPEARS FANTASY GODDESS EDT...",
