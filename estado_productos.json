@@ -1902,6 +1902,12 @@
       "url": "https://www.perfumeriaschic.com/p11012061-nishane-fan-your-flames-x-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11643697": {
+      "nombre": "MANCERA CHERRY CHERRY EDP 120ML",
+      "precio": "78,91 €",
+      "url": "https://www.perfumeriaschic.com/p11643697-mancera-cherry-cherry-edp-120ml.html",
+      "en_stock": true
+    },
     "11548546": {
       "nombre": "LANCOME LA VIE EST BELLE ROSE...",
       "precio": "39,96 €",
@@ -1991,6 +1997,12 @@
       "precio": "109,12 €",
       "url": "https://www.perfumeriaschic.com/p11451154-ateliers-des-ors-noir-by-night-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11662296": {
+      "nombre": "MANCERA FIG ME UP EDP 120ML",
+      "precio": "78,52 €",
+      "url": "https://www.perfumeriaschic.com/p11662296-mancera-fig-me-up-edp-120ml.html",
+      "en_stock": true
     },
     "11662297": {
       "nombre": "MONTALE OUD TOBACCO EDP 100ML",
@@ -2930,10 +2942,82 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11794654": {
+      "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794654-brioni-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11794655": {
+      "nombre": "BRIONI EAU DE PARFUM INTENSE 100ML...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794655-brioni-eau-de-parfum-intense-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11794656": {
+      "nombre": "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11794656-brioni-eau-de-parfum-essentiel-100-ml.html",
+      "en_stock": true
+    },
+    "5821895": {
+      "nombre": "CAROLINA HERRERA 212 SEXY MEN EDT...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p5821895-carolina-herrera-212-sexy-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11244377": {
+      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
+      "precio": "89,41 €",
+      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7772791": {
+      "nombre": "PRADA INFUSION DE CEDRE EDP 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7772791-prada-infusion-diris-cedre-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11779339": {
+      "nombre": "ZADIG & VOLTAIRE ZADIG EAU DE PARFUM...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11779339-zadig-voltaire-zadig-eau-de-parfum-intense-90ml-tester.html",
+      "en_stock": true
+    },
+    "11763823": {
+      "nombre": "GIARDINI DI TOSCANA CELESTE 100ML...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11763823-giardini-di-toscana-celeste-100ml-tester.html",
+      "en_stock": true
+    },
+    "11781229": {
+      "nombre": "GIARDINI DI TOSCANA BORABORA EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11781648": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781648-giardini-di-toscana-bianco-latte-crema-corporal-250-ml-tester.html",
+      "en_stock": true
+    },
     "11726317": {
       "nombre": "L'OCCITANE EN PROVENCE VERVEINE EAU...",
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11726317-loccitane-en-provence-verveine-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11643697": {
+      "nombre": "MANCERA CHERRY CHERRY EDP 120ML",
+      "precio": "78,91 €",
+      "url": "https://www.perfumeriaschic.com/p11643697-mancera-cherry-cherry-edp-120ml.html",
+      "en_stock": true
+    },
+    "11662296": {
+      "nombre": "MANCERA FIG ME UP EDP 120ML",
+      "precio": "78,52 €",
+      "url": "https://www.perfumeriaschic.com/p11662296-mancera-fig-me-up-edp-120ml.html",
       "en_stock": true
     },
     "8198442": {
@@ -7285,12 +7369,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p10319020-guerlain-aqua-allegoria-flora-salvaggia-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "7662441": {
-      "nombre": "GUERLAIN SAMSARA EDP 75ML TESTER",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p7662441-guerlain-sansara-edp-75ml-tester.html",
-      "en_stock": true
     },
     "7921305": {
       "nombre": "BVLGARI MAN WOOD ESSENCE EDP 100ML...",
@@ -12122,12 +12200,6 @@
       "url": "https://www.perfumeriaschic.com/p11692348-jesus-del-pozo-halloween-my-world-edp-125ml-tester.html",
       "en_stock": false
     },
-    "5821895": {
-      "nombre": "CAROLINA HERRERA 212 SEXY MEN EDT...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p5821895-carolina-herrera-212-sexy-men-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11745927": {
       "nombre": "CAROLINA HERRERA 212 MEN NYC PARFUM...",
       "precio": "49,90 €",
@@ -13922,12 +13994,6 @@
       "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11781648": {
-      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781648-giardini-di-toscana-bianco-latte-crema-corporal-250-ml-tester.html",
-      "en_stock": true
-    },
     "11161894": {
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
       "precio": "28,90 €",
@@ -13939,12 +14005,6 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11781652-kajal-almaz-edp-100-ml-tester.html",
       "en_stock": false
-    },
-    "11781229": {
-      "nombre": "GIARDINI DI TOSCANA BORABORA EDP...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
-      "en_stock": true
     },
     "10680259": {
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
@@ -13969,12 +14029,6 @@
       "precio": "37,91 €",
       "url": "https://www.perfumeriaschic.com/p11444718-nina-ricci-nina-illusion-edp-80ml-tester.html",
       "en_stock": false
-    },
-    "11763823": {
-      "nombre": "GIARDINI DI TOSCANA CELESTE 100ML...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763823-giardini-di-toscana-celeste-100ml-tester.html",
-      "en_stock": true
     },
     "4479554": {
       "nombre": "DIESEL ONLY THE BRAVE EDT 125ML...",
@@ -14288,12 +14342,6 @@
       "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11779339": {
-      "nombre": "ZADIG & VOLTAIRE ZADIG EAU DE PARFUM...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11779339-zadig-voltaire-zadig-eau-de-parfum-intense-90ml-tester.html",
-      "en_stock": true
-    },
     "10513256": {
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
       "precio": "46,90 €",
@@ -14443,36 +14491,6 @@
       "precio": "147,16 €",
       "url": "https://www.perfumeriaschic.com/p10880052-dusita-issara-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
-    },
-    "7772791": {
-      "nombre": "PRADA INFUSION DE CEDRE EDP 100ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p7772791-prada-infusion-diris-cedre-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
-    "11244377": {
-      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
-      "precio": "89,41 €",
-      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11794654": {
-      "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11794654-brioni-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11794655": {
-      "nombre": "BRIONI EAU DE PARFUM INTENSE 100ML...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11794655-brioni-eau-de-parfum-intense-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11794656": {
-      "nombre": "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11794656-brioni-eau-de-parfum-essentiel-100-ml.html",
-      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
@@ -16450,12 +16468,6 @@
       "url": "https://www.perfumeriaschic.com/p11623708-chopard-oud-malaki-edp-80ml-tester.html",
       "en_stock": false
     },
-    "11623815": {
-      "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11623815-penhaligons-fortuitous-finley-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11561323": {
       "nombre": "REGALIEN MEFTUN EDP 50ML TESTER",
       "precio": "99,90 €",
@@ -16641,6 +16653,12 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p10694241-the-merchant-of-venice-red-potion-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11662296": {
+      "nombre": "MANCERA FIG ME UP EDP 120ML",
+      "precio": "78,52 €",
+      "url": "https://www.perfumeriaschic.com/p11662296-mancera-fig-me-up-edp-120ml.html",
+      "en_stock": true
     },
     "11662297": {
       "nombre": "MONTALE OUD TOBACCO EDP 100ML",
@@ -18407,6 +18425,7 @@
     "MANCERA BLACK VANILLE EDP 120ML...",
     "MANCERA CEDRAT BOISE EDP 120ML TESTER",
     "MANCERA CEDRAT BOISE INTENSE EDP...",
+    "MANCERA CHERRY CHERRY EDP 120ML",
     "MANCERA CHOCO VIOLET EDP 120ML TESTER",
     "MANCERA CINQUE TERRE EDP 120ML TESTER",
     "MANCERA COCO VANILLE EDP 120ML TESTER",
@@ -18414,6 +18433,7 @@
     "MANCERA FABULOUS YUZU EDP 120ML...",
     "MANCERA FEMINITY EDP 120ML TESTER",
     "MANCERA FIG EXTASY EDP 120ML TESTER",
+    "MANCERA FIG ME UP EDP 120ML",
     "MANCERA FRENCH RIVIERA EDP 120ML...",
     "MANCERA GOLD INTENSITIVE AOUD EDP...",
     "MANCERA HINDU KUSH EDP 120ML TESTER",
