@@ -2904,6 +2904,12 @@
       "url": "https://www.perfumeriaschic.com/p10834748-zadig-voltaire-this-is-him-undressed-edt-100ml-sin-caja.html",
       "en_stock": true
     },
+    "11244377": {
+      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
+      "precio": "89,41 €",
+      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11530851": {
       "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
       "precio": "19,95 €",
@@ -7284,7 +7290,7 @@
       "nombre": "GUERLAIN SAMSARA EDP 75ML TESTER",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7662441-guerlain-sansara-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7921305": {
       "nombre": "BVLGARI MAN WOOD ESSENCE EDP 100ML...",
@@ -11066,12 +11072,6 @@
       "url": "https://www.perfumeriaschic.com/p11239787-jesus-del-pozo-halloween-kiss-sexy-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11244377": {
-      "nombre": "TOM FORD NOIR EXREME EDP 100ML ...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7653695": {
       "nombre": "JEAN PAUL GAULTIER LA BELLE EDP...",
       "precio": "48,90 €",
@@ -13616,12 +13616,6 @@
       "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "4490348": {
-      "nombre": "PRADA INFUSION DE ROSE EDP 100ML...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p4490348-prada-infusion-de-rose-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11359934": {
       "nombre": "JESUS DEL POZO HALLOWEEN MAN X EDT...",
       "precio": "19,90 €",
@@ -13928,6 +13922,12 @@
       "url": "https://www.perfumeriaschic.com/p5468964-yves-saint-laurent-black-opium-edp-90ml-tester.html",
       "en_stock": false
     },
+    "11781648": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781648-giardini-di-toscana-bianco-latte-crema-corporal-250-ml-tester.html",
+      "en_stock": true
+    },
     "11161894": {
       "nombre": "L´OCCITANE CAP CEDRAT EAU DE...",
       "precio": "28,90 €",
@@ -13939,6 +13939,12 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11781652-kajal-almaz-edp-100-ml-tester.html",
       "en_stock": false
+    },
+    "11781229": {
+      "nombre": "GIARDINI DI TOSCANA BORABORA EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781229-giardini-di-toscana-borabora-edp-100-ml-tester.html",
+      "en_stock": true
     },
     "10680259": {
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
@@ -13968,7 +13974,7 @@
       "nombre": "GIARDINI DI TOSCANA CELESTE 100ML...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11763823-giardini-di-toscana-celeste-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4479554": {
       "nombre": "DIESEL ONLY THE BRAVE EDT 125ML...",
@@ -14437,6 +14443,18 @@
       "precio": "147,16 €",
       "url": "https://www.perfumeriaschic.com/p10880052-dusita-issara-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
+    },
+    "7772791": {
+      "nombre": "PRADA INFUSION DE CEDRE EDP 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p7772791-prada-infusion-diris-cedre-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11244377": {
+      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
+      "precio": "89,41 €",
+      "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
@@ -16907,10 +16925,10 @@
       "en_stock": false
     },
     "11244377": {
-      "nombre": "TOM FORD NOIR EXREME EDP 100ML ...",
-      "precio": "98,90 €",
+      "nombre": "TOM FORD NOIR EXREME EDP 100ML SIN...",
+      "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11704531": {
       "nombre": "TIZIANA TERENZI DRACO EXTRAIT DE...",
@@ -18779,6 +18797,7 @@
     "TOM FORD EAU DE GREY VETIVER EDP...",
     "TOM FORD JASMIN ROUGE EAU DE PARFUM...",
     "TOM FORD LOST CHERRY EAU DE PARFUM...",
+    "TOM FORD NOIR EXREME EDP 100ML SIN...",
     "TOMMY HILFIGER FREEDOM EAU DE PARFUM...",
     "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
     "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
