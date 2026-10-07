@@ -3164,12 +3164,6 @@
       "url": "https://www.perfumeriaschic.com/p11662296-mancera-fig-me-up-edp-120ml.html",
       "en_stock": true
     },
-    "8198442": {
-      "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8198442-perris-monte-carlo-patchouli-nosy-be-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11530875": {
       "nombre": "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
       "precio": "22,95 €",
@@ -14400,7 +14394,7 @@
       "nombre": "PERRIS MONTE CARLO YLANG YLANG NOSY...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8367648-perris-monte-carlo-ylang-ylang-nosy-be-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11500876": {
       "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
