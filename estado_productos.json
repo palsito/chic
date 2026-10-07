@@ -456,6 +456,12 @@
       "url": "https://www.perfumeriaschic.com/p10842269-tous-loveme-the-silver-parfum-90ml-tester.html",
       "en_stock": false
     },
+    "10613145": {
+      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
+      "precio": "28,62 €",
+      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "3796559": {
       "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
       "precio": "34,85 €",
@@ -3954,6 +3960,12 @@
       "nombre": "ANNICK GOUTAL PETIT CHERIE EDT 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7863878-annick-goutal-petit-cherie-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "10613145": {
+      "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
+      "precio": "28,62 €",
+      "url": "https://www.perfumeriaschic.com/p10613145-rochas-man-intense-edp-100ml-tester.html",
       "en_stock": true
     },
     "3796559": {
@@ -11408,6 +11420,12 @@
       "url": "https://www.perfumeriaschic.com/p11285254-carolina-herrera-good-girl-blush-elixir-edp-80ml-tester.html",
       "en_stock": false
     },
+    "10880445": {
+      "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
+      "en_stock": true
+    },
     "10266964": {
       "nombre": "JIMMY CHOO I WANT CHOO FOREVER EDP...",
       "precio": "44,90 €",
@@ -11443,6 +11461,12 @@
       "precio": "24,90 €",
       "url": "https://www.perfumeriaschic.com/p11672514-rochas-tocade-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11723328": {
+      "nombre": "LOEWE 7 ELIXIR EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11723328-loewe-7-elixir-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10679744": {
       "nombre": "KENZO FLOWER POPPY BOUQUET EDP...",
@@ -13386,7 +13410,7 @@
       "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11762598": {
       "nombre": "​PHILIPP PLEIN NO LIMITS GOLD EDP...",
@@ -14282,6 +14306,12 @@
       "url": "https://www.perfumeriaschic.com/p11783255-room-1015-wavechild-edp-100-ml-tester.html",
       "en_stock": false
     },
+    "7990085": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11787798": {
       "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
       "precio": "118,90 €",
@@ -14468,6 +14498,12 @@
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
+    "5061425": {
+      "nombre": "HERMES KELLY CALECHE EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p5061425-hermes-kelly-caleche-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
@@ -14628,7 +14664,7 @@
       "nombre": "LOEWE SOLO CEDRO EDT 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p6322031-loewe-solo-cedro-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11468283": {
       "nombre": "LACOSTE L. 12.12 ROSE FOR HER EAU DE...",
@@ -18216,6 +18252,7 @@
     "HERMES H24 EAU DE TOILETTE 100ML...",
     "HERMES H24 HERBES VIVES EAU DE...",
     "HERMES JOUR ABSOLU EDP 85ML TESTER",
+    "HERMES KELLY CALECHE EDT 100ML TESTER",
     "HERMES TERRE D´HERMES EAU GIVREE EDP...",
     "HERMES TUTTI TWILLY EAU DE PARFUM...",
     "HERMES UN JARDIN APRES LA MOUSSON ...",
@@ -18236,6 +18273,7 @@
     "HUGO BOSS BOTTLED BEYOND PACK EDP...",
     "HUGO BOSS BOTTLED EAU DE PARFUM...",
     "HUGO BOSS BOTTLED EDT 50ML SIN CAJA",
+    "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
     "HUGO BOSS DARK BLUE EDT 75ML TESTER",
     "HUGO BOSS FEMME EDP 75ML TESTER",
     "HUGO BOSS HUGO  EDT 125ML TESTER",
@@ -18346,6 +18384,8 @@
     "LANCOME OVER THE TOP EDT 100ML TESTER",
     "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
     "LANCÔME ABSOLUE HOT AS ROSE EAU DE...",
+    "LOEWE 7 ELIXIR EDP 100ML TESTER",
+    "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
     "LOEWE AGUA DE LOEWE MIAMI EAU DE...",
     "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
     "LOEWE ESENCIA EAU DE PARFUM 100ML...",
