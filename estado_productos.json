@@ -7206,7 +7206,7 @@
       "nombre": "BURBERRY HER INTENSE EDP 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10509578-burberry-her-intense-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9327753": {
       "nombre": "HUGO BOSS JOUR EAU DE PARFUM...",
@@ -11910,7 +11910,7 @@
       "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "2513724": {
       "nombre": "HUGO BOSS THE SCENT FOR HIM EDT...",
@@ -13428,7 +13428,7 @@
       "nombre": "THIERRY MUGLER ALIEN GODDESS EAU DE...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11404462-thierry-mugler-alien-goddess-eau-de-parfum-intense-60ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11415072": {
       "nombre": "REMINISCENCE MUSC CHARNEL EDP 100ML...",
@@ -13824,7 +13824,7 @@
       "nombre": "HERMES TERRE D´HERMES EAU GIVREE EDP...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p10635976-hermes-terre-dhermes-eau-givree-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11606333": {
       "nombre": "MAISON CRIVELLI PATCHOULI MAGNETIK...",
@@ -14034,7 +14034,7 @@
       "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11611204": {
       "nombre": "LACOSTE ORIGINAL EAU DE PARFUM 100ML...",
@@ -14210,6 +14210,12 @@
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
     },
+    "11781228": {
+      "nombre": "D.S. & DURGA DEBASER EDP 100 ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
@@ -14233,6 +14239,12 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11637302": {
+      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
+      "en_stock": true
     },
     "11787799": {
       "nombre": "NINA RICCI ROUGE CRUSH EDP 80 ML...",
@@ -14274,7 +14286,7 @@
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10842269": {
       "nombre": "TOUS LOVEME THE SILVER PARFUM 90ML...",
@@ -14504,6 +14516,18 @@
       "url": "https://www.perfumeriaschic.com/p5061425-hermes-kelly-caleche-edt-100ml-tester.html",
       "en_stock": true
     },
+    "8231075": {
+      "nombre": "RALPH LAURENT POLO RED EDP 75ML...",
+      "precio": "32,90 €",
+      "url": "https://www.perfumeriaschic.com/p8231075-ralph-laurent-polo-red-edp-125ml-tester.html",
+      "en_stock": true
+    },
+    "11643674": {
+      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
+      "en_stock": true
+    },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
@@ -14720,7 +14744,7 @@
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10780088": {
       "nombre": "XERJOFF DON EDP 100ML TESTER",
@@ -16594,6 +16618,12 @@
       "url": "https://www.perfumeriaschic.com/p11646584-houbigant-tabac-nomade-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11643674": {
+      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
+      "en_stock": true
+    },
     "11544524": {
       "nombre": "CARTHUSIA UOMO EDP 100ML TESTER",
       "precio": "54,90 €",
@@ -17356,6 +17386,12 @@
       "url": "https://www.perfumeriaschic.com/p11677983-replica-maison-margiela-autumn-vibes-eau-de-toilette-100ml-tester.html",
       "en_stock": false
     },
+    "11664033": {
+      "nombre": "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664033-d-s-durga-notorious-oud-edp-50ml-tester.html",
+      "en_stock": true
+    },
     "11664301": {
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
       "precio": "74,95 €",
@@ -17384,7 +17420,7 @@
       "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11384385": {
       "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
@@ -17780,7 +17816,7 @@
       "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11683691": {
       "nombre": "NISHANE TUBEROZA EXTRAIT DE PARFUM...",
@@ -18089,6 +18125,7 @@
     "D.S.&DURGA AMBER KISO EDP 100ML...",
     "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
     "D.S.&DURGA I DON'T KNOW WHAT EDP...",
+    "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
     "DANIEL JOSIER 28 EDP 100ML",
     "DANIEL JOSIER AMBRE TABAC EDP 100ML",
     "DANIEL JOSIER HEART ATTACK EDP 100ML",
@@ -18445,6 +18482,7 @@
     "MANCERA CEDRAT BOISE INTENSE EDP...",
     "MANCERA CHERRY CHERRY EDP 120ML",
     "MANCERA CHOCO VIOLET EDP 120ML TESTER",
+    "MANCERA CINQUE TERRE EDP 120ML",
     "MANCERA CINQUE TERRE EDP 120ML TESTER",
     "MANCERA COCO VANILLE EDP 120ML TESTER",
     "MANCERA COSMIC PEPPER EDP 60ML",
