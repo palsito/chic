@@ -1650,6 +1650,12 @@
       "url": "https://www.perfumeriaschic.com/p11449466-m-micallef-mon-parfum-cristal-edition-special-edp-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11451152": {
+      "nombre": "ATELIERS DES ORS POMELO RIVIERA EDP...",
+      "precio": "122,90 €",
+      "url": "https://www.perfumeriaschic.com/p11451152-ateliers-des-ors-pomelo-riviera-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11410305": {
       "nombre": "MONTALE SENSUAL INSTINCT EDP 100ML...",
       "precio": "72,90 €",
@@ -1938,12 +1944,6 @@
       "url": "https://www.perfumeriaschic.com/p9492066-perris-monte-carlo-vetiver-java-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11258286": {
-      "nombre": "VICTORIO & LUCCHINO Nº5 JAZMÍN...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11258286-victorio-lucchino-n5-jazmin-exotico-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "8618050": {
       "nombre": "TIZIANA TERENZI SIENE EDP 100ML...",
       "precio": "99,90 €",
@@ -1991,6 +1991,12 @@
       "precio": "128,90 €",
       "url": "https://www.perfumeriaschic.com/p11012061-nishane-fan-your-flames-x-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
+    },
+    "11643674": {
+      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
+      "en_stock": true
     },
     "11548546": {
       "nombre": "LANCOME LA VIE EST BELLE ROSE...",
@@ -2951,6 +2957,12 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
+    },
+    "11244379": {
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
+      "precio": "89,41 €",
+      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -4044,7 +4056,7 @@
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11762585": {
       "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
@@ -4968,6 +4980,12 @@
       "nombre": "MERCHANT OF VENICE FENICIA EDP 100ML...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p8465809-merchant-of-venice-fenicia-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11664033": {
+      "nombre": "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664033-d-s-durga-notorious-oud-edp-50ml-tester.html",
       "en_stock": true
     },
     "10787016": {
@@ -9638,6 +9656,12 @@
       "url": "https://www.perfumeriaschic.com/p3055881-cerruti-1881-pour-homme-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11451152": {
+      "nombre": "ATELIERS DES ORS POMELO RIVIERA EDP...",
+      "precio": "122,90 €",
+      "url": "https://www.perfumeriaschic.com/p11451152-ateliers-des-ors-pomelo-riviera-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10298457": {
       "nombre": "ISSEY MIYAKE L´EAU DISSEY POUR HOMME...",
       "precio": "38,90 €",
@@ -10004,12 +10028,6 @@
       "url": "https://www.perfumeriaschic.com/p11623708-chopard-oud-malaki-edp-80ml-tester.html",
       "en_stock": false
     },
-    "11567478": {
-      "nombre": "VICTORIO & LUCCHINO AGUAS MASCULINAS...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11567478-victorio-lucchino-aguas-masculinas-n4-evasion-exotica-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "10265459": {
       "nombre": "ADOLFO DOMINGUEZ EBANO SALVIA EDP...",
       "precio": "19,90 €",
@@ -10032,12 +10050,6 @@
       "nombre": "LALIQUE ENCRE NOIRE À L'EXTREME EDP...",
       "precio": "22,40 €",
       "url": "https://www.perfumeriaschic.com/p11620590-lalique-encre-noire-a-lextreme-edp-100ml.html",
-      "en_stock": false
-    },
-    "11567476": {
-      "nombre": "VICTORIO & LUCCHINO AGUAS MASCULINAS...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11567476-victorio-lucchino-aguas-masculinas-n2-frescor-extremo-edt-150ml-tester.html",
       "en_stock": false
     },
     "11612338": {
@@ -10118,12 +10130,6 @@
       "url": "https://www.perfumeriaschic.com/p10103566-francesca-bianchi-lovers-tale-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "11258286": {
-      "nombre": "VICTORIO & LUCCHINO Nº5 JAZMÍN...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11258286-victorio-lucchino-n5-jazmin-exotico-edt-150ml-tester.html",
-      "en_stock": false
-    },
     "11363421": {
       "nombre": "BOUCHERON POUR FEMME EAU DE PARFUM...",
       "precio": "29,90 €",
@@ -10134,12 +10140,6 @@
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA LIMA...",
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p8759390-adolfo-dominguez-agua-fresca-lima-tonka-edt-120ml-tester.html",
-      "en_stock": false
-    },
-    "11620000": {
-      "nombre": "VICTORIO & LUCCHINO Nº9 NOCHE...",
-      "precio": "6,90 €",
-      "url": "https://www.perfumeriaschic.com/p11620000-victorio-lucchino-n9-noche-enigmatica-edp-150ml-tester.html",
       "en_stock": false
     },
     "9272201": {
@@ -10773,10 +10773,10 @@
       "en_stock": false
     },
     "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
-      "precio": "98,90 €",
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
+      "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11407996": {
       "nombre": "DKNY 24/7 EDP 100ML TESTER",
@@ -14528,6 +14528,24 @@
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
       "en_stock": true
     },
+    "11795147": {
+      "nombre": "MARC-ANTOINE BARROIS B683 EAU DE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11795147-marc-antoine-barrois-b683-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11795148": {
+      "nombre": "MUGLER ANGEL EAU DE PARFUM 100 ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11795148-mugler-angel-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11795149": {
+      "nombre": "MONTBLANC EXPLORER INFINITE EAU DE...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11795149-montblanc-explorer-infinite-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
@@ -14864,12 +14882,6 @@
       "nombre": "MONTALE ORANGE AOUD EDP 100ML TESTER",
       "precio": "68,89 €",
       "url": "https://www.perfumeriaschic.com/p11606566-montale-orange-aoud-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11374539": {
-      "nombre": "MANCERA TONKA COLA EDP 120ML TESTER",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11374539-mancera-tonka-cola-edp-120ml-tester.html",
       "en_stock": true
     },
     "11204999": {
@@ -16823,10 +16835,10 @@
       "en_stock": false
     },
     "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
-      "precio": "98,90 €",
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
+      "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11683690": {
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
@@ -17984,6 +17996,7 @@
     "ATELIERS DES ORS LUNE FELINE EAU DE...",
     "ATELIERS DES ORS NOIR BY NIGHT EDP...",
     "ATELIERS DES ORS PINK ME UP EDP...",
+    "ATELIERS DES ORS POMELO RIVIERA EDP...",
     "ATELIERS DES ORS RIVIERA DRIVE EAU...",
     "ATKINSONS 24 OLD BOND STREET EDC...",
     "ATKINSONS ENGLISH LAVENDER EDT 75ML...",
@@ -18530,6 +18543,7 @@
     "MARC JACOBS DAISY WILD EAU SO...",
     "MARC JACOBS DAISY WILD EDP 100ML...",
     "MARC JACOBS DOT EDP 100ML TESTER",
+    "MARC-ANTOINE BARROIS B683 EAU DE...",
     "MARY KAY CLINICAL SOLUTIONS...",
     "MARY KAY EXTRA EMOLLIENT CREMA DE...",
     "MARY KAY MINT BLISS ENERGIZING...",
@@ -18632,6 +18646,7 @@
     "MONTALE VANILLE ABSOLU EDP 100ML...",
     "MONTALE WILD PEARS EDP 100ML TESTER",
     "MONTBLANC EXPLORER EXTREME PARFUM...",
+    "MONTBLANC EXPLORER INFINITE EAU DE...",
     "MONTBLANC EXPLORER PLATINUM EDP...",
     "MONTBLANC LEGEND EAU DE PARFUM 100ML...",
     "MONTBLANC LEGEND EDT 100ML TESTER",
@@ -18645,6 +18660,7 @@
     "MOSCHINO FEMME EDT 75ML TESTER",
     "MOSCHINO PINK FRESH COUTURE EDT...",
     "MUGLER ALIEN HYPERSENSE EDP 90ML...",
+    "MUGLER ANGEL EAU DE PARFUM 100 ML...",
     "NABEEL AREEJ LUXUS EDITION EAU DE...",
     "NARCISO RODRIGUEZ ALL OF ME EAU DE...",
     "NARCISO RODRIGUEZ ALL OF ME FLORAL...",
