@@ -1996,7 +1996,7 @@
       "nombre": "MANCERA CINQUE TERRE EDP 120ML",
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11548546": {
       "nombre": "LANCOME LA VIE EST BELLE ROSE...",
@@ -2957,21 +2957,9 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
-    },
-    "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
-      "precio": "89,41 €",
-      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
-      "en_stock": false
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11795149": {
-      "nombre": "MONTBLANC EXPLORER INFINITE EAU DE...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11795149-montblanc-explorer-infinite-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
-    },
     "10786979": {
       "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
       "precio": "38,90 €",
@@ -3002,41 +2990,11 @@
       "url": "https://www.perfumeriaschic.com/p11795158-giardini-di-toscana-blu-mare-edp-100-ml-tester.html",
       "en_stock": true
     },
-    "11795157": {
-      "nombre": "GIARDINI DI TOSCANA ORO E MIELE EDP...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11795157-giardini-di-toscana-oro-e-miele-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "10509578": {
-      "nombre": "BURBERRY HER INTENSE EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10509578-burberry-her-intense-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11795156": {
-      "nombre": "ATELIER DES ORS NOVAE VANILLA EDP...",
-      "precio": "168,90 €",
-      "url": "https://www.perfumeriaschic.com/p11795156-atelier-des-ors-novae-vanilla-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "11451152": {
       "nombre": "ATELIERS DES ORS POMELO RIVIERA EDP...",
       "precio": "122,90 €",
       "url": "https://www.perfumeriaschic.com/p11451152-ateliers-des-ors-pomelo-riviera-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
-      "precio": "89,41 €",
-      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "10880445": {
-      "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
-      "en_stock": false
     },
     "11723328": {
       "nombre": "LOEWE 7 ELIXIR EDP 100ML TESTER",
@@ -3067,12 +3025,6 @@
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p10635976-hermes-terre-dhermes-eau-givree-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11637302": {
-      "nombre": "CAROLINA HERRERA LA BOMBA EDP 80ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637302-carolina-herrera-la-bomba-edp-80ml-tester.html",
-      "en_stock": false
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -3132,7 +3084,7 @@
       "nombre": "MANCERA CINQUE TERRE EDP 120ML",
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11763823": {
       "nombre": "GIARDINI DI TOSCANA CELESTE 100ML...",
@@ -14096,12 +14048,6 @@
       "url": "https://www.perfumeriaschic.com/p11161894-loccitane-cap-de-cedrat-75-ml-tester.html",
       "en_stock": false
     },
-    "11781652": {
-      "nombre": "KAJAL ALMAZ EDP 100 ML TESTER",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11781652-kajal-almaz-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "10680259": {
       "nombre": "CALVIN KLEIN ETERNITY MEN PARFUM...",
       "precio": "29,90 €",
@@ -14306,12 +14252,6 @@
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11787799": {
-      "nombre": "NINA RICCI ROUGE CRUSH EDP 80 ML...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787799-nina-rouge-crush-edp-80-ml-tester.html",
-      "en_stock": false
-    },
     "10220192": {
       "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
       "precio": "44,90 €",
@@ -14370,12 +14310,6 @@
       "nombre": "ROOM 1015 WAVECHILD EDP 100 ML TESTER",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11783255-room-1015-wavechild-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11787798": {
-      "nombre": "MAISON CRIVELLI BOIS DATCHAÏ EDP 100...",
-      "precio": "118,90 €",
-      "url": "https://www.perfumeriaschic.com/p11787798-maison-crivelli-bois-datchai-edp-100-ml-tester.html",
       "en_stock": false
     },
     "11790689": {
@@ -16646,7 +16580,7 @@
       "nombre": "MANCERA CINQUE TERRE EDP 120ML",
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544524": {
       "nombre": "CARTHUSIA UOMO EDP 100ML TESTER",
@@ -16844,12 +16778,6 @@
       "nombre": "DUSITA LA RHAPSODIE NOIRE EAU DE...",
       "precio": "75,92 €",
       "url": "https://www.perfumeriaschic.com/p10928804-dusita-la-rhapsodie-noire-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
-    },
-    "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML SIN...",
-      "precio": "89,41 €",
-      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
       "en_stock": false
     },
     "11683690": {
