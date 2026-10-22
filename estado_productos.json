@@ -172,7 +172,7 @@
       "nombre": "ANGEL SCHLESSER FEMME EDT 100ML...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p6301615-angel-schlesser-femme-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10780088": {
       "nombre": "XERJOFF DON EDP 100ML TESTER",
@@ -2964,6 +2964,12 @@
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
     },
+    "11398342": {
+      "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
+      "precio": "67,41 €",
+      "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
       "precio": "49,41 €",
@@ -4536,7 +4542,7 @@
       "nombre": "ANGEL SCHLESSER FEMME EDT 100ML...",
       "precio": "22,90 €",
       "url": "https://www.perfumeriaschic.com/p6301615-angel-schlesser-femme-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11449404": {
       "nombre": "KENZO AMOUR EDP 100ML TESTER",
@@ -5384,6 +5390,12 @@
       "url": "https://www.perfumeriaschic.com/p7614522-kenzo-flower-lelixir-edp-50ml-tester.html",
       "en_stock": false
     },
+    "9979134": {
+      "nombre": "RALPH LAUREN POLO RED INTENSE EDP...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p9979134-ralph-laurent-polo-red-intense-edp-125ml-tester-descatalogada.html",
+      "en_stock": true
+    },
     "8806799": {
       "nombre": "ALAIA PARIS EDP 30ML SIN CAJA",
       "precio": "29,90 €",
@@ -5833,6 +5845,12 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p5561953-calvin-klein-women-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "10846780": {
+      "nombre": "THIERRY MUGLER ANGEL NOVA EDT 100ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p10846780-thierry-mugler-angel-nova-edt-100ml-tester.html",
+      "en_stock": true
     },
     "5402504": {
       "nombre": "GUCCI BAMBOO EDT 75ML TESTER",
@@ -8679,10 +8697,10 @@
       "en_stock": false
     },
     "3039183": {
-      "nombre": "LOEWE A MI AIRE EDT 100ML TESTER...",
-      "precio": "44,90 €",
+      "nombre": "LOEWE A MI AIRE EDT 100ML TESTER",
+      "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p3039183-loewe-a-mi-aire-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7465026": {
       "nombre": "ANNICK GOUTAL EAU D´HADRIEN EDT...",
@@ -8700,7 +8718,7 @@
       "nombre": "ETAT LIBRE D´ORANGE REMARKABLE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398051-etat-libre-dorange-remarkable-people-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10587712": {
       "nombre": "JIMMY CHOO FLORAL EDT 90ML TESTER",
@@ -9097,6 +9115,12 @@
       "precio": "138,90 €",
       "url": "https://www.perfumeriaschic.com/p11520638-bond-no-9-off-broadway-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11394281": {
+      "nombre": "THIERRY MUGLER ALIEN GODDESS SUPRA...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11394281-thierry-mugler-alien-goddess-supra-florale-edp-60ml-tester.html",
+      "en_stock": true
     },
     "11424161": {
       "nombre": "THE HOUSE OF OUD THE TIME EDP 75ML...",
@@ -10884,7 +10908,7 @@
       "nombre": "ETAT LIBRE D´ORANGE EXPERIMENTUM...",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11509092-etat-libre-dorange-experimentum-crucis-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11662297": {
       "nombre": "MONTALE OUD TOBACCO EDP 100ML",
@@ -11620,9 +11644,9 @@
     },
     "11398342": {
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
-      "precio": "74,90 €",
+      "precio": "67,41 €",
       "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11435166": {
       "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
@@ -11844,7 +11868,7 @@
       "nombre": "LOEWE ESENCIA EAU DE PARFUM 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p8895060-loewe-esencia-eau-de-parfum-100ml-tester-formato-2021.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7664518": {
       "nombre": "MONTALE ROSES MUSK EDP 100M TESTER",
@@ -14376,7 +14400,7 @@
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY ABSOLUE...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10513256-issey-miyake-leau-dissey-absolue-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11556743": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
@@ -18804,6 +18828,7 @@
     "RALPH LAUREN POLO EST.67 EAU DE...",
     "RALPH LAUREN POLO EST.67 EDT 125ML...",
     "RALPH LAUREN POLO RED EDT 125ML...",
+    "RALPH LAUREN POLO RED INTENSE EDP...",
     "RALPH LAUREN RALPH EDT 100ML TESTER",
     "RALPH LAURENT BIG PONY WOMAN N2 EDT...",
     "RALPH LAURENT RALPH´S CLUB PARFUM...",
@@ -18912,6 +18937,7 @@
     "THIERRY MUGLER ALIEN EXTRAINTENSE...",
     "THIERRY MUGLER ALIEN FUSION EDP 60ML...",
     "THIERRY MUGLER ALIEN GODDESS EAU DE...",
+    "THIERRY MUGLER ALIEN GODDESS SUPRA...",
     "THIERRY MUGLER ALIEN PULP EDP...",
     "THIERRY MUGLER ANGEL NOVA EDP 100ML...",
     "THIERRY MUGLER ANGEL STELLAR EDP...",
