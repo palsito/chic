@@ -136,7 +136,7 @@
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
@@ -622,6 +622,12 @@
       "nombre": "LANCASTER SUN SPORT BRUMA INVISIBLE...",
       "precio": "15,95 €",
       "url": "https://www.perfumeriaschic.com/p11758483-lancaster-sun-sport-bruma-invisible-refrescante-spf30-protector-solar-corporal-200ml.html",
+      "en_stock": true
+    },
+    "11758299": {
+      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
       "en_stock": true
     },
     "11244386": {
@@ -1594,12 +1600,6 @@
       "nombre": "MICHAEL KORS SEXY AMBER EDP 100ML...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11204982-michael-kors-sexy-amber-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11417369": {
-      "nombre": "ACQUA DI PARMA LUCE DI ROSA EDP...",
-      "precio": "85,41 €",
-      "url": "https://www.perfumeriaschic.com/p11417369-acqua-di-parma-luce-di-rosa-edp-100ml-tester.html",
       "en_stock": false
     },
     "11436823": {
@@ -3270,7 +3270,7 @@
       "nombre": "ROBERT PIGUET FRACAS 100ML TESTER",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11675996-robert-piguet-fracas-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11645398": {
       "nombre": "MARC ANTOINE BARROIS ALDELBARAN EDP...",
@@ -4488,6 +4488,12 @@
       "nombre": "JEROBOAM VESPERO EXTRAIT DE PARFUM...",
       "precio": "127,42 €",
       "url": "https://www.perfumeriaschic.com/p11520669-jeroboam-vespero-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11758299": {
+      "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11758299-robert-piguet-petit-fracas-100ml-tester.html",
       "en_stock": true
     },
     "8152325": {
@@ -6300,7 +6306,7 @@
       "nombre": "ACQUA DI PARMA COLONIA ESSENZA EDC...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7707313-acqua-di-parma-colonia-essenza-edc-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3816666": {
       "nombre": "ROCHAS MAN EDT 100ML TESTER",
@@ -9064,9 +9070,9 @@
     },
     "11417369": {
       "nombre": "ACQUA DI PARMA LUCE DI ROSA EDP...",
-      "precio": "85,41 €",
+      "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11417369-acqua-di-parma-luce-di-rosa-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "1550873": {
       "nombre": "HERMES EAU DE PAMPLEMOUSSE ROSE EDC...",
@@ -9446,6 +9452,18 @@
       "url": "https://www.perfumeriaschic.com/p10953526-serge-lutens-la-fille-de-berlin-edp-50ml-tester.html",
       "en_stock": false
     },
+    "10473434": {
+      "nombre": "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p10473434-acqua-di-parma-magnolia-infinita-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7993241": {
+      "nombre": "ACQUA DI PARMA SANDALO EAU DE PARFUM...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p7993241-acqua-di-parma-sandalo-eau-de-parfum-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
     "10954924": {
       "nombre": "CREED MILLÉSIME IMPÉRIAL EDP 100ML...",
       "precio": "158,90 €",
@@ -9486,7 +9504,7 @@
       "nombre": "ACQUA DI PARMA OSMANTHUS EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7438003-acqua-di-parma-osmanthus-edp-100-ml-tester-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11316339": {
       "nombre": "ACQUA DI PARMA BARBIERE SHAVING...",
@@ -10436,12 +10454,6 @@
       "url": "https://www.perfumeriaschic.com/p10240049-etro-new-tradition-edt-100ml-tester.html",
       "en_stock": false
     },
-    "9651068": {
-      "nombre": "ACQUA DI PARMA COLONIA C.L.U.B EDC...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p9651068-acqua-di-parma-colonia-c-l-u-b-edc-100ml-tester-novedad.html",
-      "en_stock": false
-    },
     "7275138": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
       "precio": "58,90 €",
@@ -10542,7 +10554,7 @@
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11606224-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7275134": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
@@ -12414,7 +12426,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE COVETED...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11271451-penhaligons-portraits-the-coveted-duchess-rose-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11732567": {
       "nombre": "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
@@ -13561,6 +13573,12 @@
       "precio": "17,91 €",
       "url": "https://www.perfumeriaschic.com/p10856714-hollister-festival-vibes-for-her-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "7437942": {
+      "nombre": "ACQUA DI PARMA COLONIA EDC 100ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
+      "en_stock": true
     },
     "11451157": {
       "nombre": "ATELIERS DES ORS PINK ME UP EDP...",
@@ -14734,6 +14752,12 @@
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
       "en_stock": true
     },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
+      "en_stock": false
+    },
     "11620543": {
       "nombre": "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
       "precio": "149,84 €",
@@ -15602,7 +15626,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE COVETED...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11271451-penhaligons-portraits-the-coveted-duchess-rose-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11272636": {
       "nombre": "NISHANE AMBRA CALABRIA EXTRAIT DE...",
@@ -15842,7 +15866,7 @@
       "nombre": "CREED CARMINA EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433945": {
       "nombre": "XERJOFF KEMI COLLECTION KEMI PARFUM...",
@@ -17889,8 +17913,10 @@
     "ACQUA DI PARMA COLONIA IL PROFUMO...",
     "ACQUA DI PARMA COLONIA INTENSA EDC...",
     "ACQUA DI PARMA COLONIA PURA EDC...",
+    "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
     "ACQUA DI PARMA MIRTO DI PANAREA...",
     "ACQUA DI PARMA OUD EDP 100ML TESTER",
+    "ACQUA DI PARMA SANDALO EAU DE PARFUM...",
     "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
     "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
     "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
@@ -18087,6 +18113,7 @@
     "CREED NEROLI SAUVAGE EDP 100ML TESTER",
     "CREED ORIGINAL SANTAL EDP 100ML...",
     "CREED ORIGINAL VETIVER EDP 100ML...",
+    "CREED QUEEN OF SILK EDP 75ML TESTER",
     "CREED SILVER MOUNTAIN WATER EDP...",
     "CREED TABAROME EDP 100ML TESTER",
     "CUSTO BARCELONA ENJOY MAN EDT 100ML...",
