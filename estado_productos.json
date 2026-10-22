@@ -2978,17 +2978,11 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "10786979": {
-      "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11794655": {
       "nombre": "BRIONI EAU DE PARFUM INTENSE 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11794655-brioni-eau-de-parfum-intense-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
@@ -3008,35 +3002,11 @@
       "url": "https://www.perfumeriaschic.com/p11451152-ateliers-des-ors-pomelo-riviera-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11723328": {
-      "nombre": "LOEWE 7 ELIXIR EDP 100ML TESTER",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11723328-loewe-7-elixir-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11692353": {
-      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11672010": {
-      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11404462": {
       "nombre": "THIERRY MUGLER ALIEN GODDESS EAU DE...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p11404462-thierry-mugler-alien-goddess-eau-de-parfum-intense-60ml-tester.html",
       "en_stock": true
-    },
-    "10635976": {
-      "nombre": "HERMES TERRE D´HERMES EAU GIVREE EDP...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p10635976-hermes-terre-dhermes-eau-givree-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -3044,17 +3014,11 @@
       "url": "https://www.perfumeriaschic.com/p11745914-narciso-rodriguez-for-her-edp-intense-100ml-tester.html",
       "en_stock": true
     },
-    "7990085": {
-      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "5061425": {
       "nombre": "HERMES KELLY CALECHE EDT 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p5061425-hermes-kelly-caleche-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231075": {
       "nombre": "RALPH LAURENT POLO RED EDP 75ML...",
@@ -14578,7 +14542,7 @@
     },
     "11805513": {
       "nombre": "MONTBLANC EMBLEM INTENSE EDT 100 ML...",
-      "precio": "46,90 €",
+      "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p11805513-montblanc-emblem-intense-edt-100-ml-tester.html",
       "en_stock": true
     },
@@ -17470,12 +17434,6 @@
       "url": "https://www.perfumeriaschic.com/p11650244-masque-milano-white-whale-edp-35ml-tester.html",
       "en_stock": false
     },
-    "11692353": {
-      "nombre": "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11692353-byredo-biblioteque-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11384385": {
       "nombre": "MANCERA FRENCH RIVIERA EDP 120ML...",
       "precio": "84,90 €",
@@ -17876,12 +17834,6 @@
       "nombre": "MILLER HARRIS FEUILLES DE TABAC EDP...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11458475-miller-harris-feuilles-de-tabac-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11672010": {
-      "nombre": "BYREDO BLANCHE EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11672010-byredo-blanche-edp-100ml-tester.html",
       "en_stock": false
     },
     "11683691": {
