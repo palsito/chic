@@ -2957,6 +2957,12 @@
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
+    },
+    "11794654": {
+      "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
+      "precio": "49,41 €",
+      "url": "https://www.perfumeriaschic.com/p11794654-brioni-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -2974,7 +2980,7 @@
     },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
-      "precio": "54,90 €",
+      "precio": "49,41 €",
       "url": "https://www.perfumeriaschic.com/p11794654-brioni-eau-de-parfum-100-ml-tester.html",
       "en_stock": true
     },
@@ -2982,7 +2988,7 @@
       "nombre": "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11794656-brioni-eau-de-parfum-essentiel-100-ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11451152": {
       "nombre": "ATELIERS DES ORS POMELO RIVIERA EDP...",
@@ -9810,7 +9816,7 @@
       "nombre": "ACQUA DI PARMA OUD EDP 100ML TESTER",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8083145-acqua-di-parma-oud-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5984301": {
       "nombre": "LANCOME LA VIE EST BELLE L´EAU DE...",
@@ -9846,7 +9852,7 @@
       "nombre": "ACQUA DI PARMA QUERCIA EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p7948017-acqua-di-parma-quercia-edp-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5339301": {
       "nombre": "DKNY WOMEN EDP 100ML TESTER",
@@ -14485,6 +14491,12 @@
       "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11795149": {
+      "nombre": "MONTBLANC EXPLORER INFINITE EAU DE...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11795149-montblanc-explorer-infinite-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
