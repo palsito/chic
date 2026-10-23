@@ -2938,7 +2938,7 @@
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
       "precio": "67,41 €",
       "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
@@ -3114,7 +3114,7 @@
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
       "precio": "67,41 €",
       "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "7437942": {
       "nombre": "ACQUA DI PARMA COLONIA EDC 100ML...",
@@ -14384,6 +14384,12 @@
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
+    "10786979": {
+      "nombre": "MONTBLANC EXPLORER PLATINUM EDP...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10786979-montblanc-explorer-platinum-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11380557": {
       "nombre": "SCALPERS YACHT CLUB EDP 125ML TESTER",
       "precio": "22,90 €",
@@ -14400,7 +14406,7 @@
       "nombre": "GIVENCHY POUR HOMME EDT 100ML TESTER",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11761746-givenchy-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10679999": {
       "nombre": "CHLOE EAU DE PARFUM NATURELLE 100ML...",
@@ -16814,7 +16820,7 @@
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
       "precio": "67,41 €",
       "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11435166": {
       "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
