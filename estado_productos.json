@@ -298,7 +298,7 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11172186": {
       "nombre": "DANIEL JOSIER TANGY CAPER EDP 100ML",
@@ -14732,7 +14732,7 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10700393": {
       "nombre": "DANIEL JOSIER UNDER THE FIGTREE EDP...",
