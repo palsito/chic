@@ -2942,10 +2942,46 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11777051": {
+      "nombre": "YVES SAINT LAURENT LE VESTIAIRES DES...",
+      "precio": "184,90 €",
+      "url": "https://www.perfumeriaschic.com/p11777051-yves-saint-laurent-le-vestiaires-des-parfums-tuxedo-sharp-patchouli-edp-125ml-tester.html",
+      "en_stock": true
+    },
+    "11508558": {
+      "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
+      "en_stock": true
+    },
+    "11806994": {
+      "nombre": "STEPHANE HUMBERT LUCAS THE QUEEN AND...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11806994-stephane-humbert-lucas-the-queen-and-the-viper-edp-50-ml-tester.html",
+      "en_stock": true
+    },
+    "3161999": {
+      "nombre": "BVLGARI MAN IN BLACK EDP 100ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p3161999-bvlgari-man-in-black-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11806993": {
+      "nombre": "BVLGARI MAN RAIN ESSENCE EDP 100 ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11806993-bvlgari-man-rain-essence-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11394281": {
       "nombre": "THIERRY MUGLER ALIEN GODDESS SUPRA...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11394281-thierry-mugler-alien-goddess-supra-florale-edp-60ml-tester.html",
+      "en_stock": true
+    },
+    "11805941": {
+      "nombre": "JEAN PAUL GAULTIER LA FAVORITE EDP...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11805941-jean-paul-gaultier-la-favorite-edp-100-ml-tester.html",
       "en_stock": true
     },
     "11615289": {
@@ -2958,12 +2994,6 @@
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA MANGO...",
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p11805940-adolfo-dominguez-agua-fresca-mango-palmarosa-edt-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11805941": {
-      "nombre": "JEAN PAUL GAULTIER LA FAVORITE EDP...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11805941-jean-paul-gaultier-la-favorite-edp-100-ml-tester.html",
       "en_stock": true
     },
     "11545186": {
@@ -3858,12 +3888,6 @@
       "nombre": "MONTALE WILD PEARS EDP 100ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11470420-montale-wild-pears-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11777051": {
-      "nombre": "YVES SAINT LAURENT LE VESTIAIRES DES...",
-      "precio": "184,90 €",
-      "url": "https://www.perfumeriaschic.com/p11777051-yves-saint-laurent-le-vestiaires-des-parfums-tuxedo-sharp-patchouli-edp-125ml-tester.html",
       "en_stock": true
     },
     "2516744": {
@@ -14408,18 +14432,6 @@
       "url": "https://www.perfumeriaschic.com/p8640223-givenchy-gentleman-boisee-edp-100ml-tester.html",
       "en_stock": false
     },
-    "3161999": {
-      "nombre": "BVLGARI MAN IN BLACK EDP 100ML TESTER",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p3161999-bvlgari-man-in-black-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11508558": {
-      "nombre": "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11508558-stephane-humbert-lucas-god-of-fire-50ml-tester.html",
-      "en_stock": true
-    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -17905,6 +17917,7 @@
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
     "BVLGARI LA GEMME AMUNAE EDP 125ML...",
+    "BVLGARI MAN RAIN ESSENCE EDP 100 ML...",
     "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
     "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
     "BYREDO BLANCHE EDP 100ML TESTER",
@@ -18749,6 +18762,7 @@
     "STEPHANE HUMBERT LUCAS 777 UNE NUIT...",
     "STEPHANE HUMBERT LUCAS CRYING OF...",
     "STEPHANE HUMBERT LUCAS GOD OF FIRE...",
+    "STEPHANE HUMBERT LUCAS THE QUEEN AND...",
     "STEPHANE HUMBERT LUCAS VENOM...",
     "THAMEEN CARVED OUD EDP 50ML TESTER",
     "THAMEEN GREEN PEARL EDP 50ML TESTER",
