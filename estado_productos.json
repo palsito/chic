@@ -2946,7 +2946,7 @@
       "nombre": "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11807409-acqua-di-parma-cedro-virtuoso-edp-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11807410": {
       "nombre": "ACQUA DI PARMA GELSOMINO A FREDDO...",
@@ -6012,6 +6012,12 @@
       "nombre": "AMOUAGE OPUS VII RECKLESS LEATHER...",
       "precio": "184,90 €",
       "url": "https://www.perfumeriaschic.com/p11363414-amouage-opus-vii-reckless-leather-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "9327823": {
+      "nombre": "FLORIS SPECIAL Nº127 EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p9327823-floris-especial-n127-edt-100ml-tester.html",
       "en_stock": false
     },
     "11380833": {
@@ -18145,6 +18151,7 @@
     "EVODY FLEUR D'ORANGER EDP 100ML...",
     "EX NIHILO LUST IN PARADISE EAU DE...",
     "FILORGA SERUM TIME ZERO ANTIARRUGAS...",
+    "FLORIS SPECIAL Nº127 EDT 100ML TESTER",
     "FRANCESCA BIANCHI LIBERTINE NEROLI ...",
     "FRANCESCA BIANCHI SEX AND THE SEA...",
     "FRANCESCA BIANCHI THE BLACK KNIGHT...",
