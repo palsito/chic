@@ -2896,7 +2896,7 @@
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
       "precio": "38,76 €",
       "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11787342": {
       "nombre": "MOROCCANOIL TREATMENT LIGHT 100ML...",
@@ -2942,6 +2942,42 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11517806": {
+      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11711337": {
+      "nombre": "BOND Nº 9 BLEECKER STREET EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11711337-bond-n-9-bleecker-street-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11548585": {
+      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11476050": {
+      "nombre": "BOND No.9 NY GREENWICH VILLAGE EDP...",
+      "precio": "148,90 €",
+      "url": "https://www.perfumeriaschic.com/p11476050-bond-no-9-ny-greenwich-village-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10473434": {
+      "nombre": "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p10473434-acqua-di-parma-magnolia-infinita-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7438003": {
+      "nombre": "ACQUA DI PARMA OSMANTHUS EDP 100ML...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p7438003-acqua-di-parma-osmanthus-edp-100-ml-tester-sin-caja.html",
+      "en_stock": true
+    },
     "11807409": {
       "nombre": "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
       "precio": "104,90 €",
@@ -2978,10 +3014,22 @@
       "url": "https://www.perfumeriaschic.com/p11615289-police-rich-guy-for-man-edt-100ml-tester.html",
       "en_stock": true
     },
+    "9352376": {
+      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
+      "precio": "38,76 €",
+      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
+      "en_stock": true
+    },
     "11805940": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA MANGO...",
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p11805940-adolfo-dominguez-agua-fresca-mango-palmarosa-edt-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11756076": {
+      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
       "en_stock": true
     },
     "11545186": {
@@ -3104,18 +3152,6 @@
       "url": "https://www.perfumeriaschic.com/p11398051-etat-libre-dorange-remarkable-people-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10473434": {
-      "nombre": "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p10473434-acqua-di-parma-magnolia-infinita-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "7438003": {
-      "nombre": "ACQUA DI PARMA OSMANTHUS EDP 100ML...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p7438003-acqua-di-parma-osmanthus-edp-100-ml-tester-sin-caja.html",
-      "en_stock": true
-    },
     "7951732": {
       "nombre": "PERRIS MONTE CARLO ROSE DE TAIF EDP...",
       "precio": "89,90 €",
@@ -3163,12 +3199,6 @@
       "precio": "122,90 €",
       "url": "https://www.perfumeriaschic.com/p11451152-ateliers-des-ors-pomelo-riviera-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11404462": {
-      "nombre": "THIERRY MUGLER ALIEN GODDESS EAU DE...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p11404462-thierry-mugler-alien-goddess-eau-de-parfum-intense-60ml-tester.html",
-      "en_stock": false
     },
     "5061425": {
       "nombre": "HERMES KELLY CALECHE EDT 100ML TESTER",
@@ -9980,12 +10010,6 @@
       "url": "https://www.perfumeriaschic.com/p11598380-merchant-of-venice-cyprus-shell-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10942312": {
-      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "9520236": {
       "nombre": "PENHALIGON´S PORTRAITS THE BLAZING...",
       "precio": "134,90 €",
@@ -12350,12 +12374,6 @@
       "url": "https://www.perfumeriaschic.com/p11726694-angel-schlesser-les-eaux-dun-instant-matcha-infusion-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11517806": {
-      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10513232": {
       "nombre": "ANGEL SCHLESSER LES EAUX D´UN...",
       "precio": "16,90 €",
@@ -12770,12 +12788,6 @@
       "url": "https://www.perfumeriaschic.com/p11744053-jean-paul-gaultier-lebeau-narcisee-125ml-tester.html",
       "en_stock": false
     },
-    "11756076": {
-      "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11756076-bond-no-9-liberty-island-edp-50ml.html",
-      "en_stock": true
-    },
     "10834744": {
       "nombre": "ISSEY MIYAKE NUIT D´ISSEY PARFUM...",
       "precio": "39,90 €",
@@ -13171,12 +13183,6 @@
       "precio": "124,92 €",
       "url": "https://www.perfumeriaschic.com/p11396958-ateliers-des-ors-blue-madeleine-eau-de-parfum-100ml-tester.html",
       "en_stock": false
-    },
-    "11711337": {
-      "nombre": "BOND Nº 9 BLEECKER STREET EDP 100ML...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11711337-bond-n-9-bleecker-street-edp-100ml-tester.html",
-      "en_stock": true
     },
     "9245786": {
       "nombre": "JIMMY CHOO I WANT CHOO EDP 125ML...",
@@ -13976,12 +13982,6 @@
       "url": "https://www.perfumeriaschic.com/p1774258-issey-miyake-leau-dissey-homme-edt-125ml-tester.html",
       "en_stock": false
     },
-    "11548585": {
-      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11756164": {
       "nombre": "SIMONE ANDREOLI ROSE OF DANGEROUS...",
       "precio": "94,90 €",
@@ -14071,12 +14071,6 @@
       "precio": "76,90 €",
       "url": "https://www.perfumeriaschic.com/p11447710-replica-maison-margiela-when-yhe-rain-stops-eau-de-toilette-100ml-tester.html",
       "en_stock": false
-    },
-    "11476050": {
-      "nombre": "BOND No.9 NY GREENWICH VILLAGE EDP...",
-      "precio": "148,90 €",
-      "url": "https://www.perfumeriaschic.com/p11476050-bond-no-9-ny-greenwich-village-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11561237": {
       "nombre": "JULIETTE HAS A GUN JULIETTE EDP...",
@@ -14450,12 +14444,6 @@
       "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
       "en_stock": false
     },
-    "9352376": {
-      "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
-      "precio": "38,76 €",
-      "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
-      "en_stock": false
-    },
     "10613145": {
       "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
       "precio": "28,62 €",
@@ -14563,6 +14551,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5865552-lacoste-l-12-12-pour-elle-eau-fraiche-edt-90ml-tester.html",
       "en_stock": false
+    },
+    "10942312": {
+      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11517814": {
       "nombre": "BOND Nº9 CHELSEA NIGHTS EDP 100ML...",
