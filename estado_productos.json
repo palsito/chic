@@ -2942,6 +2942,12 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11807409": {
+      "nombre": "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11807409-acqua-di-parma-cedro-virtuoso-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11806994": {
       "nombre": "STEPHANE HUMBERT LUCAS THE QUEEN AND...",
       "precio": "134,90 €",
@@ -17801,6 +17807,7 @@
     "ACQUA DI PARMA AMBRA EDP 100ML TESTER",
     "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
     "ACQUA DI PARMA BUONGIORNO EDP 100ML...",
+    "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
     "ACQUA DI PARMA COLONIA C.L.U.B EDC...",
     "ACQUA DI PARMA COLONIA EDC 100ML...",
     "ACQUA DI PARMA COLONIA ESSENZA EDC...",
