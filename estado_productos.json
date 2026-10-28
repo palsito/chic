@@ -2782,7 +2782,7 @@
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
       "url": "https://www.perfumeriaschic.com/p10268197-trussardi-pure-jasmin-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9609502": {
       "nombre": "V CANTO COR GENTILE EXTRAIT DE...",
@@ -13872,7 +13872,7 @@
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
       "url": "https://www.perfumeriaschic.com/p10268197-trussardi-pure-jasmin-eau-de-parfum-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11776938": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -14089,6 +14089,12 @@
       "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "7990085": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
+      "en_stock": true
     },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
