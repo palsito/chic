@@ -2996,6 +2996,12 @@
       "url": "https://www.perfumeriaschic.com/p11394281-thierry-mugler-alien-goddess-supra-florale-edp-60ml-tester.html",
       "en_stock": true
     },
+    "7990085": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "11615289": {
       "nombre": "POLICE RICH GUY FOR MAN EDT 100ML...",
       "precio": "17,90 €",
@@ -3774,7 +3780,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS POMELO PASSION...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11754004-rochas-eau-de-rochas-pomelo-passion-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11776914": {
       "nombre": "ADOLFO DOMINGUEZ UNICA CORAL EDT...",
@@ -14456,12 +14462,6 @@
       "url": "https://www.perfumeriaschic.com/p6990571-juicy-couture-viva-la-juicy-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11470421": {
-      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
-    },
     "7781259": {
       "nombre": "NASOMATTO PARDON EXTRAIT DE PARFUM...",
       "precio": "84,90 €",
@@ -14617,15 +14617,15 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11468283-lacoste-l-12-12-rose-for-her-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11470421": {
+      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
+      "en_stock": false
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
-    "11517806": {
-      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11756076": {
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
       "precio": "104,90 €",
@@ -14637,12 +14637,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11711337-bond-n-9-bleecker-street-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11548585": {
-      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11664033": {
       "nombre": "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
@@ -17798,6 +17792,18 @@
       "nombre": "CREED CARMINA EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
+      "en_stock": false
+    },
+    "11517806": {
+      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11548585": {
+      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
       "en_stock": false
     }
   },
