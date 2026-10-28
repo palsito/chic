@@ -2948,6 +2948,24 @@
       "url": "https://www.perfumeriaschic.com/p11808014-carolina-herrera-lucky-charm-edp-100-ml-tester.html",
       "en_stock": true
     },
+    "11808016": {
+      "nombre": "TOM FORD TAORMINA ORANGE EDP 50 ML...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808016-tom-ford-taormina-orange-edp-50-ml-tester.html",
+      "en_stock": true
+    },
+    "11808017": {
+      "nombre": "TOM FORD SOLEIL NEIGE EDP 100 ML...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808017-tom-ford-soleil-neige-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11808018": {
+      "nombre": "LANCOME IDOLE PEACH'N ROSES L'EAU DE...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808018-lancome-idole-peachn-roses-leau-de-parfum-fruitee-100-ml-tester.html",
+      "en_stock": true
+    },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
       "precio": "28,95 €",
@@ -9516,7 +9534,7 @@
       "nombre": "LANCOME POEME EDP 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p3521063-lancome-poeme-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433937": {
       "nombre": "XERJOFF KEMI COLLECTION LUNA PARFUM...",
@@ -14438,18 +14456,6 @@
       "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11807409": {
-      "nombre": "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11807409-acqua-di-parma-cedro-virtuoso-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11807410": {
-      "nombre": "ACQUA DI PARMA GELSOMINO A FREDDO...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11807410-acqua-di-parma-gelsomino-a-freddo-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "10942312": {
       "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
       "precio": "104,90 €",
@@ -18363,6 +18369,7 @@
     "LANCOME ABSOLUE THE SERUM...",
     "LANCOME ADVANCED GENIFIQUE SERUM...",
     "LANCOME IDOLE NECTAR EDP 50 ML TESTER",
+    "LANCOME IDOLE PEACH'N ROSES L'EAU DE...",
     "LANCOME O ZENITH EDT 100ML TESTER",
     "LANCOME OFF NOW EDT 100ML TESTER",
     "LANCOME OVER THE TOP EDT 100ML TESTER",
@@ -18838,6 +18845,8 @@
     "TOM FORD JASMIN ROUGE EAU DE PARFUM...",
     "TOM FORD LOST CHERRY EAU DE PARFUM...",
     "TOM FORD NOIR EXREME EDP 100ML SIN...",
+    "TOM FORD SOLEIL NEIGE EDP 100 ML...",
+    "TOM FORD TAORMINA ORANGE EDP 50 ML...",
     "TOMMY HILFIGER FREEDOM EAU DE PARFUM...",
     "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
     "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
