@@ -2960,12 +2960,6 @@
       "url": "https://www.perfumeriaschic.com/p10510114-gucci-bloom-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11808057": {
-      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "3521063": {
       "nombre": "LANCOME POEME EDP 100ML TESTER",
       "precio": "49,90 €",
@@ -3002,22 +2996,10 @@
       "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11808016": {
-      "nombre": "TOM FORD TAORMINA ORANGE EDP 50 ML...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808016-tom-ford-taormina-orange-edp-50-ml-tester.html",
-      "en_stock": false
-    },
     "7990085": {
       "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11808019": {
-      "nombre": "GUERLAIN VETIVER PARFUM 100 ML TESTER",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808019-guerlain-vetiver-parfum-100-ml-tester.html",
       "en_stock": false
     },
     "10268197": {
@@ -13418,12 +13400,6 @@
       "url": "https://www.perfumeriaschic.com/p11776996-carolina-herrera-oud-couture-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11777039": {
-      "nombre": "YVES SAINT LAURENT LE VESTIAIRES DES...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11777039-yves-saint-laurent-le-vestiaires-des-parfums-muse-inspiring-ink-edp-125ml-tester.html",
-      "en_stock": false
-    },
     "11776913": {
       "nombre": "BURBERRY HERO PARFUM INTENSE 100ML...",
       "precio": "54,90 €",
@@ -13802,12 +13778,6 @@
       "url": "https://www.perfumeriaschic.com/p11389983-penhaligons-portraits-the-world-according-to-arthur-edp-75ml-tester.html",
       "en_stock": false
     },
-    "10694299": {
-      "nombre": "TOMMY HILFIGER TOMMY MEN EDT 100ML...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p10694299-tommy-hilfiger-tommy-men-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11407997": {
       "nombre": "REPLICA MAISON MARGIELA BY THE...",
       "precio": "78,90 €",
@@ -14174,6 +14144,12 @@
       "url": "https://www.perfumeriaschic.com/p11805477-jimmy-choo-i-want-choo-midnight-edp-125-ml-tester.html",
       "en_stock": false
     },
+    "11805514": {
+      "nombre": "KILIAN LOVE DON'T BE SHY EDP 50 ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11805514-kilian-love-dont-be-shy-edp-50-ml-tester.html",
+      "en_stock": true
+    },
     "11795149": {
       "nombre": "MONTBLANC EXPLORER INFINITE EAU DE...",
       "precio": "39,90 €",
@@ -14384,12 +14360,6 @@
       "url": "https://www.perfumeriaschic.com/p8640223-givenchy-gentleman-boisee-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11777051": {
-      "nombre": "YVES SAINT LAURENT LE VESTIAIRES DES...",
-      "precio": "184,90 €",
-      "url": "https://www.perfumeriaschic.com/p11777051-yves-saint-laurent-le-vestiaires-des-parfums-tuxedo-sharp-patchouli-edp-125ml-tester.html",
-      "en_stock": false
-    },
     "11777072": {
       "nombre": "YVES SAINT LAURENT LE VESTIAIRES DES...",
       "precio": "158,90 €",
@@ -14479,6 +14449,18 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11808366": {
+      "nombre": "MATIERE PREMIERE RADICAL ROSE EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808366-matiere-premiere-radical-rose-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11808367": {
+      "nombre": "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808367-matiere-premiere-crystal-saffron-edp-100-ml-tester.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18521,6 +18503,8 @@
     "MASQUE MILANO TERRALBA EDP 35ML...",
     "MASQUE MILANO TIMES SQUARE EDP 100ML...",
     "MASQUE MILANO WHITE WHALE EDP 35ML...",
+    "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
+    "MATIERE PREMIERE RADICAL ROSE EDP...",
     "MEMO PARIS CAPPADOCIA EDP 75ML",
     "MEMO PARIS FLAM EDP 75ML",
     "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
