@@ -2942,11 +2942,29 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11808014": {
-      "nombre": "CAROLINA HERRERA LUCKY CHARM EDP 100...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808014-carolina-herrera-lucky-charm-edp-100-ml-tester.html",
-      "en_stock": false
+    "3521063": {
+      "nombre": "LANCOME POEME EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p3521063-lancome-poeme-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8969011": {
+      "nombre": "DIOR DUNE POUR HOMME EDT 100ML TESTER",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p8969011-dior-dune-pour-homme-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "2526698": {
+      "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p2526698-hermes-eau-de-narcisse-bleu-edc-100ml-tester.html",
+      "en_stock": true
+    },
+    "11791259": {
+      "nombre": "DIESEL FUEL FOR LIFE FEMME EDP 50 ML...",
+      "precio": "14,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791259-diesel-fuel-for-life-femme-edp-50-ml-tester.html",
+      "en_stock": true
     },
     "11808016": {
       "nombre": "TOM FORD TAORMINA ORANGE EDP 50 ML...",
@@ -9518,12 +9536,6 @@
       "url": "https://www.perfumeriaschic.com/p10298457-issey-miyake-leau-dissey-pour-homme-wood-wood-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "3521063": {
-      "nombre": "LANCOME POEME EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p3521063-lancome-poeme-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11433937": {
       "nombre": "XERJOFF KEMI COLLECTION LUNA PARFUM...",
       "precio": "149,90 €",
@@ -14396,12 +14408,6 @@
       "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
       "en_stock": false
     },
-    "11791259": {
-      "nombre": "DIESEL FUEL FOR LIFE FEMME EDP 50 ML...",
-      "precio": "14,90 €",
-      "url": "https://www.perfumeriaschic.com/p11791259-diesel-fuel-for-life-femme-edp-50-ml-tester.html",
-      "en_stock": true
-    },
     "2481955": {
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
@@ -14413,12 +14419,6 @@
       "precio": "149,84 €",
       "url": "https://www.perfumeriaschic.com/p11620543-xerjoff-via-cavour-1-parfum-50ml-tester.html",
       "en_stock": false
-    },
-    "2526698": {
-      "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p2526698-hermes-eau-de-narcisse-bleu-edc-100ml-tester.html",
-      "en_stock": true
     },
     "11646708": {
       "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
@@ -18071,6 +18071,7 @@
     "DIESEL ONLY THE BRAVE TATTOO EDT...",
     "DIESEL SPIRIT OF THE BRAVE EDT 75ML...",
     "DIOR DUNE EDT 100ML TESTER",
+    "DIOR DUNE POUR HOMME EDT 100ML TESTER",
     "DKNY 24/7 COFRE EDP 100ML+EDP...",
     "DKNY BE DELICIOUS COCONUTS ABOUT...",
     "DKNY BE DELICIOUS EDP 100ML SIN CAJA",
