@@ -2982,7 +2982,7 @@
       "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "3521063": {
       "nombre": "LANCOME POEME EDP 100ML TESTER",
@@ -3030,7 +3030,7 @@
       "nombre": "BVLGARI MAN IN BLACK PARFUM 100 ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11808015-bvlgari-man-in-black-parfum-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11808016": {
       "nombre": "TOM FORD TAORMINA ORANGE EDP 50 ML...",
