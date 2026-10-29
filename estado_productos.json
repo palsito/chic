@@ -3014,11 +3014,29 @@
       "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11808015": {
+      "nombre": "BVLGARI MAN IN BLACK PARFUM 100 ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808015-bvlgari-man-in-black-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
     "11808016": {
       "nombre": "TOM FORD TAORMINA ORANGE EDP 50 ML...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11808016-tom-ford-taormina-orange-edp-50-ml-tester.html",
       "en_stock": false
+    },
+    "7990085": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11808019": {
+      "nombre": "GUERLAIN VETIVER PARFUM 100 ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808019-guerlain-vetiver-parfum-100-ml-tester.html",
+      "en_stock": true
     },
     "10268197": {
       "nombre": "TRUSSARDI PURE JASMIN EAU DE PARFUM...",
@@ -3072,12 +3090,6 @@
       "nombre": "THIERRY MUGLER ALIEN GODDESS SUPRA...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11394281-thierry-mugler-alien-goddess-supra-florale-edp-60ml-tester.html",
-      "en_stock": true
-    },
-    "7990085": {
-      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
       "en_stock": true
     },
     "11615289": {
@@ -17969,6 +17981,7 @@
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
     "BVLGARI LA GEMME AMUNAE EDP 125ML...",
+    "BVLGARI MAN IN BLACK PARFUM 100 ML...",
     "BVLGARI MAN RAIN ESSENCE EDP 100 ML...",
     "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
     "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
@@ -18234,6 +18247,7 @@
     "GUERLAIN L'INSTANT DE GUERLAIN EDP...",
     "GUERLAIN L'INSTANT MAGIC EDP 75ML...",
     "GUERLAIN SAMSARA EDP 75ML TESTER",
+    "GUERLAIN VETIVER PARFUM 100 ML TESTER",
     "GUY LAROCHE FIDJI EDT 100ML TESTER",
     "HACKETT BESPOKE EDP 100ML TESTER",
     "HACKETT ESSENTIAL EDP 100ML TESTER",
