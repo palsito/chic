@@ -58,7 +58,7 @@
       "nombre": "MANCERA CHERRY CHERRY EDP 120ML",
       "precio": "78,91 €",
       "url": "https://www.perfumeriaschic.com/p11643697-mancera-cherry-cherry-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11662296": {
       "nombre": "MANCERA FIG ME UP EDP 120ML",
@@ -2936,18 +2936,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11808367": {
-      "nombre": "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808367-matiere-premiere-crystal-saffron-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11795147": {
-      "nombre": "MARC-ANTOINE BARROIS B683 EAU DE...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11795147-marc-antoine-barrois-b683-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
-    },
     "11808063": {
       "nombre": "L'ARTISAN PARFUMEUR LA CHASSE AUX...",
       "precio": "114,90 €",
@@ -3204,7 +3192,7 @@
       "nombre": "BRIONI EAU DE PARFUM INTENSE 100ML...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11794655-brioni-eau-de-parfum-intense-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11794654": {
       "nombre": "BRIONI EAU DE PARFUM 100ML TESTER",
@@ -3258,7 +3246,7 @@
       "nombre": "MANCERA CHERRY CHERRY EDP 120ML",
       "precio": "78,91 €",
       "url": "https://www.perfumeriaschic.com/p11643697-mancera-cherry-cherry-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11662296": {
       "nombre": "MANCERA FIG ME UP EDP 120ML",
@@ -12056,6 +12044,12 @@
       "url": "https://www.perfumeriaschic.com/p11509318-4711-acqua-colonia-collection-absolue-orchid-vanilla-edp-100ml-tester.html",
       "en_stock": false
     },
+    "1996848": {
+      "nombre": "BURBERRY MY BURBERRY EDP 50ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p1996848-burberry-my-burberry-edp-90ml-tester.html",
+      "en_stock": false
+    },
     "11747900": {
       "nombre": "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
       "precio": "119,90 €",
@@ -14186,12 +14180,6 @@
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11774032": {
-      "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774032-maison-crivelli-cuir-infrarouge-extrait-100ml-tester.html",
-      "en_stock": false
-    },
     "6234998": {
       "nombre": "BURBERRY HER EDP 100ML TESTER",
       "precio": "46,90 €",
@@ -14454,6 +14442,12 @@
       "nombre": "CACHAREL YES I AM PINK FIRST EDP...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p6234338-cacharel-yes-i-am-pink-first-edp-50ml-tester.html",
+      "en_stock": false
+    },
+    "10518032": {
+      "nombre": "NINA RICCI ROSE EXTASE EDT 80ML",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p10518032-nina-ricci-rose-extase-edt-80ml.html",
       "en_stock": false
     },
     "5884023": {
@@ -17476,12 +17470,6 @@
       "url": "https://www.perfumeriaschic.com/p11468402-evody-fleur-doranger-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11774032": {
-      "nombre": "MAISON CRIVELLI CUIR INFRAROUGE...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11774032-maison-crivelli-cuir-infrarouge-extrait-100ml-tester.html",
-      "en_stock": false
-    },
     "11436721": {
       "nombre": "JOUSSET LA TARTE TATIN EXTRAIT DE...",
       "precio": "139,00 €",
@@ -17570,6 +17558,12 @@
       "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
       "precio": "166,95 €",
       "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "10913302": {
+      "nombre": "MONTALE OUD TOBACCO EDP 100ML TESTER",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p10913302-montale-oud-tobacco-edp-100ml-tester.html",
       "en_stock": false
     },
     "11470981": {
