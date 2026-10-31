@@ -2936,6 +2936,54 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "8900895": {
+      "nombre": "JEAN PAUL GAULTIER SCANDAL POUR...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p8900895-jean-paul-gaultier-scandal-pour-homme-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11315386": {
+      "nombre": "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11315386-hugo-boss-the-scent-elixir-for-him-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11809083": {
+      "nombre": "MATIERE PREMIERE SANTAL AUSTRAL EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11809083-matiere-premiere-santal-austral-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11809082": {
+      "nombre": "EX NIHILO FLEUR NARCOTIQUE EXTRAIT...",
+      "precio": "194,90 €",
+      "url": "https://www.perfumeriaschic.com/p11809082-ex-nihilo-fleur-narcotique-extrait-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11809081": {
+      "nombre": "EX NIHILO IRIS PORCELANA EDP 100 ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11809081-ex-nihilo-iris-porcelana-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "7868236": {
+      "nombre": "CARON POUR UN HOMME DE CARON EDT...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p7868236-caron-pour-homme-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "4489258": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11808057": {
+      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11808371": {
       "nombre": "EX NIHILO GOLD IMMORTALS EDP 100 ML...",
       "precio": "144,90 €",
@@ -7802,12 +7850,6 @@
       "url": "https://www.perfumeriaschic.com/p10367261-reminiscence-mandarine-fraiche-edt100ml-tester.html",
       "en_stock": false
     },
-    "8900895": {
-      "nombre": "JEAN PAUL GAULTIER SCANDAL POUR...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p8900895-jean-paul-gaultier-scandal-pour-homme-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "9758097": {
       "nombre": "SERGE LUTENS SANTAL MAJESCULE EDP...",
       "precio": "59,90 €",
@@ -11035,12 +11077,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11567458-acqua-di-parma-buongiorno-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11315386": {
-      "nombre": "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11315386-hugo-boss-the-scent-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": true
     },
     "10679777": {
       "nombre": "MANCERA AOUD VIOLET EDP 120ML TESTER",
@@ -14402,12 +14438,6 @@
       "url": "https://www.perfumeriaschic.com/p8876110-acqua-di-parma-oud-spice-edp-100ml-tester-novedad.html",
       "en_stock": false
     },
-    "11808057": {
-      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
-      "en_stock": true
-    },
     "10510114": {
       "nombre": "GUCCI BLOOM EDT 100ML TESTER",
       "precio": "44,90 €",
@@ -14425,18 +14455,6 @@
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "4489258": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "7868236": {
-      "nombre": "CARON POUR UN HOMME DE CARON EDT...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p7868236-caron-pour-homme-edt-125ml-tester.html",
-      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18121,7 +18139,9 @@
     "ETRO VIA VERRI EDT 50ML TESTER",
     "ETRO VICOLO FIORI EDT 50ML TESTER",
     "EVODY FLEUR D'ORANGER EDP 100ML...",
+    "EX NIHILO FLEUR NARCOTIQUE EXTRAIT...",
     "EX NIHILO GOLD IMMORTALS EDP 100 ML...",
+    "EX NIHILO IRIS PORCELANA EDP 100 ML...",
     "EX NIHILO LUST IN PARADISE EAU DE...",
     "EX NIHILO LUST IN PARADISE EDP 100...",
     "FILORGA SERUM TIME ZERO ANTIARRUGAS...",
@@ -18472,6 +18492,7 @@
     "MASQUE MILANO WHITE WHALE EDP 35ML...",
     "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
     "MATIERE PREMIERE RADICAL ROSE EDP...",
+    "MATIERE PREMIERE SANTAL AUSTRAL EDP...",
     "MEMO PARIS CAPPADOCIA EDP 75ML",
     "MEMO PARIS FLAM EDP 75ML",
     "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
