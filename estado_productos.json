@@ -2936,11 +2936,11 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11808063": {
-      "nombre": "L'ARTISAN PARFUMEUR LA CHASSE AUX...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808063-lartisan-parfumeur-la-chasse-aux-papillons-edt-100-ml-tester.html",
-      "en_stock": false
+    "11808371": {
+      "nombre": "EX NIHILO GOLD IMMORTALS EDP 100 ML...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808371-ex-nihilo-gold-immortals-edp-100-ml-tester.html",
+      "en_stock": true
     },
     "2526698": {
       "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
@@ -14420,6 +14420,12 @@
       "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
       "en_stock": false
     },
+    "7868236": {
+      "nombre": "CARON POUR UN HOMME DE CARON EDT...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p7868236-caron-pour-homme-edt-125ml-tester.html",
+      "en_stock": true
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -17949,6 +17955,7 @@
     "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
     "CAROLINA HERRERA OUD COUTURE EDP...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
+    "CARON POUR UN HOMME DE CARON EDT...",
     "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
     "CARON SANTAL PRECIEUX EDP 100ML...",
