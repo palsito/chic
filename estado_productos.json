@@ -2940,7 +2940,7 @@
       "nombre": "EX NIHILO GOLD IMMORTALS EDP 100 ML...",
       "precio": "144,90 €",
       "url": "https://www.perfumeriaschic.com/p11808371-ex-nihilo-gold-immortals-edp-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "2526698": {
       "nombre": "HERMES EAU DE NARCISSE BLEU EDC...",
@@ -7802,6 +7802,12 @@
       "url": "https://www.perfumeriaschic.com/p10367261-reminiscence-mandarine-fraiche-edt100ml-tester.html",
       "en_stock": false
     },
+    "8900895": {
+      "nombre": "JEAN PAUL GAULTIER SCANDAL POUR...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p8900895-jean-paul-gaultier-scandal-pour-homme-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "9758097": {
       "nombre": "SERGE LUTENS SANTAL MAJESCULE EDP...",
       "precio": "59,90 €",
@@ -11034,7 +11040,7 @@
       "nombre": "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11315386-hugo-boss-the-scent-elixir-for-him-parfum-intense-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10679777": {
       "nombre": "MANCERA AOUD VIOLET EDP 120ML TESTER",
@@ -13388,12 +13394,6 @@
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
       "en_stock": false
     },
-    "4489258": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "3162595": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
       "precio": "18,90 €",
@@ -14402,6 +14402,12 @@
       "url": "https://www.perfumeriaschic.com/p8876110-acqua-di-parma-oud-spice-edp-100ml-tester-novedad.html",
       "en_stock": false
     },
+    "11808057": {
+      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "10510114": {
       "nombre": "GUCCI BLOOM EDT 100ML TESTER",
       "precio": "44,90 €",
@@ -14419,6 +14425,12 @@
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p7990085-loewe-agua-de-loewe-mar-de-coral-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "4489258": {
+      "nombre": "ZADIG & VOLTAIRE THIS IS HER EDP...",
+      "precio": "42,90 €",
+      "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
+      "en_stock": true
     },
     "7868236": {
       "nombre": "CARON POUR UN HOMME DE CARON EDT...",
@@ -18246,6 +18258,7 @@
     "JEAN PAUL GAULTIER LE BEAU NARCISEE...",
     "JEAN PAUL GAULTIER LE MALE ELIXIR...",
     "JEAN PAUL GAULTIER SCANDAL INTENSE...",
+    "JEAN PAUL GAULTIER SCANDAL POUR...",
     "JEROBOAM GOZO EXTRAIT DE PARFUM...",
     "JEROBOAM KUN AMO EXTRAIT DE PARFUM...",
     "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
