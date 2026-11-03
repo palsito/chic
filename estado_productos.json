@@ -2936,6 +2936,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11606601": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11664038": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11809894": {
+      "nombre": "BRIONI EAU DE PARFUM ÉCLAT 100 ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p11809894-brioni-eau-de-parfum-eclat-100-ml-tester.html",
+      "en_stock": true
+    },
     "7868210": {
       "nombre": "ATKINSONS AMBER EMPIRE EDT 100ML...",
       "precio": "72,90 €",
@@ -11468,12 +11486,6 @@
       "url": "https://www.perfumeriaschic.com/p11697397-diesel-d-red-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11606601": {
-      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11664030": {
       "nombre": "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
       "precio": "98,90 €",
@@ -11635,12 +11647,6 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p4555894-diesel-only-the-brave-tatto-edt-75ml-tester.html",
       "en_stock": false
-    },
-    "11664038": {
-      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11663999": {
       "nombre": "MANCERA CINQUE TERRE EDP 120ML TESTER",
@@ -17902,6 +17908,7 @@
     "BRIONI EAU DE PARFUM 100ML TESTER",
     "BRIONI EAU DE PARFUM ESSENTIEL 100ML...",
     "BRIONI EAU DE PARFUM INTENSE 100ML...",
+    "BRIONI EAU DE PARFUM ÉCLAT 100 ML...",
     "BRITNEY SPEARS FANTASY DID IT AGAIN...",
     "BRITNEY SPEARS FANTASY EDP 100ML...",
     "BRITNEY SPEARS FANTASY GODDESS EDT...",
