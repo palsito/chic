@@ -2933,6 +2933,12 @@
       "precio": "48,86 €",
       "url": "https://www.perfumeriaschic.com/p10834726-shiseido-ginza-edp-intense-90ml-sin-caja.html",
       "en_stock": false
+    },
+    "10942312": {
+      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
+      "precio": "98,61 €",
+      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3220,7 +3226,7 @@
     },
     "10942312": {
       "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
-      "precio": "104,90 €",
+      "precio": "98,61 €",
       "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -17806,6 +17812,7 @@
     "ACQUA DI PARMA PEONIA NOBILE EDP...",
     "ACQUA DI PARMA QUERCIA EDP 100ML...",
     "ACQUA DI PARMA SANDALO EAU DE PARFUM...",
+    "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
     "ADOLFO DOMINGUEZ ADN NEROLI ECSTASY...",
     "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
     "ADOLFO DOMINGUEZ ADN SANDALO SACRO...",
