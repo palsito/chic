@@ -11472,7 +11472,7 @@
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11664030": {
       "nombre": "D.S.&DURGA GRAPEFRUIT GENERATION EDP...",
@@ -11635,6 +11635,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p4555894-diesel-only-the-brave-tatto-edt-75ml-tester.html",
       "en_stock": false
+    },
+    "11664038": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11663999": {
       "nombre": "MANCERA CINQUE TERRE EDP 120ML TESTER",
@@ -14280,7 +14286,7 @@
       "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3521063": {
       "nombre": "LANCOME POEME EDP 100ML TESTER",
@@ -16624,6 +16630,12 @@
       "url": "https://www.perfumeriaschic.com/p11413173-ormonde-jayne-ormonde-man-parfum-88ml-tester.html",
       "en_stock": false
     },
+    "11664038": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "10958122": {
       "nombre": "MANCERA VANILLE EXCLUSIVE EDP 120ML...",
       "precio": "68,90 €",
@@ -16868,7 +16880,7 @@
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11094420": {
       "nombre": "MANCERA COSMIC PEPPER EDP 60ML",
@@ -17738,7 +17750,7 @@
       "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756086": {
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
