@@ -2960,6 +2960,18 @@
       "url": "https://www.perfumeriaschic.com/p7868210-atkinsons-amber-empire-edt-100ml-tester.html",
       "en_stock": true
     },
+    "11606224": {
+      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11606224-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11548585": {
+      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11435167": {
       "nombre": "ETAT LIBRE D´ORANGE RIEN EDP TESTER",
       "precio": "58,57 €",
@@ -12198,7 +12210,7 @@
       "nombre": "PACO RABANNE OLYMPEA FLORA EDP...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p10883485-paco-rabanne-olympea-flora-edp-intense-80ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10298473": {
       "nombre": "PENHALIGON´S PORTRAIT THE REVENGE OF...",
@@ -13748,6 +13760,12 @@
       "url": "https://www.perfumeriaschic.com/p11355807-reminiscence-le-patchouli-elixir-patchouli-elixir-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11791257": {
+      "nombre": "JEAN PAUL GAULTIER SCANDAL INTENSE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11791257-jean-paul-gaultier-scandal-intense-edp-80-ml-tester.html",
+      "en_stock": true
+    },
     "10220192": {
       "nombre": "ZADIG & VOLTAIRE THIS IS US EDT...",
       "precio": "44,90 €",
@@ -14042,12 +14060,6 @@
       "url": "https://www.perfumeriaschic.com/p7948017-acqua-di-parma-quercia-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11606224": {
-      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11606224-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11509092": {
       "nombre": "ETAT LIBRE D´ORANGE EXPERIMENTUM...",
       "precio": "109,90 €",
@@ -14270,12 +14282,6 @@
       "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11548585": {
-      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "3521063": {
       "nombre": "LANCOME POEME EDP 100ML TESTER",
       "precio": "49,90 €",
@@ -14407,6 +14413,12 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10077269-juliette-has-a-gun-sunny-side-up-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "11810218": {
+      "nombre": "MUGLER ALIEN EAU DE PARFUM 90 ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810218-mugler-alien-eau-de-parfum-90-ml-tester.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18541,6 +18553,7 @@
     "MOSCHINO CHEAP AND CHIC SO REAL EDT...",
     "MOSCHINO FEMME EDT 75ML TESTER",
     "MOSCHINO PINK FRESH COUTURE EDT...",
+    "MUGLER ALIEN EAU DE PARFUM 90 ML...",
     "MUGLER ALIEN HYPERSENSE EDP 90ML...",
     "MUGLER ANGEL EAU DE PARFUM 100 ML...",
     "NABEEL AREEJ LUXUS EDITION EAU DE...",
