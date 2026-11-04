@@ -2954,10 +2954,28 @@
       "url": "https://www.perfumeriaschic.com/p11809894-brioni-eau-de-parfum-eclat-100-ml-tester.html",
       "en_stock": true
     },
+    "10642770": {
+      "nombre": "KENZO HOMME EDT 110ML TESTER",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p10642770-kenzo-pour-homme-edt-110ml-tester.html",
+      "en_stock": true
+    },
     "7868210": {
       "nombre": "ATKINSONS AMBER EMPIRE EDT 100ML...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p7868210-atkinsons-amber-empire-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8895991": {
+      "nombre": "HUGO BOSS BOTTLED TONIC EDT 100ML...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p8895991-hugo-boss-bottled-tonic-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8077922": {
+      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p8077922-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-150ml-tester.html",
       "en_stock": true
     },
     "11606224": {
@@ -3992,18 +4010,6 @@
       "url": "https://www.perfumeriaschic.com/p8528528-shiseido-ginza-edp-90ml-tester.html",
       "en_stock": true
     },
-    "8895991": {
-      "nombre": "HUGO BOSS BOTTLED TONIC EDT 100ML...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p8895991-hugo-boss-bottled-tonic-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "10642770": {
-      "nombre": "KENZO HOMME EDT 110ML TESTER",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p10642770-kenzo-pour-homme-edt-110ml-tester.html",
-      "en_stock": true
-    },
     "5904176": {
       "nombre": "RALPH LAURENT POLO RED EXTREME EDP...",
       "precio": "59,90 €",
@@ -4646,12 +4652,6 @@
       "url": "https://www.perfumeriaschic.com/p11637575-diesel-fuel-for-life-pour-homme-edt-125ml.html",
       "en_stock": true
     },
-    "4870625": {
-      "nombre": "CALVIN KLEIN CK ONE EDT 100ML TESTER",
-      "precio": "16,90 €",
-      "url": "https://www.perfumeriaschic.com/p4870625-calvin-klein-ck-one-edt-200ml-tester.html",
-      "en_stock": false
-    },
     "11366729": {
       "nombre": "CARNER BARCELONA SWEET WILLIAM EDP...",
       "precio": "89,90 €",
@@ -4717,12 +4717,6 @@
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11379213-chabaud-lait-de-vanille-edt-100ml-sin-caja.html",
       "en_stock": true
-    },
-    "9680643": {
-      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
-      "precio": "59,95 €",
-      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
-      "en_stock": false
     },
     "11726231": {
       "nombre": "POLICE TO BE SWEET GIRL EDP 125ML...",
@@ -10784,12 +10778,6 @@
       "url": "https://www.perfumeriaschic.com/p11530847-montale-oud-sapparot-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8077922": {
-      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p8077922-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-150ml-tester.html",
-      "en_stock": true
-    },
     "11680656": {
       "nombre": "DUSITA SPLENDIRIS EAU DE PARFUM...",
       "precio": "114,90 €",
@@ -11160,7 +11148,7 @@
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11711350-replica-maison-margiela-under-the-stars-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11701961": {
       "nombre": "CALVIN KLEIN CK ONE EDT 200ML TESTER",
@@ -11280,7 +11268,7 @@
       "nombre": "LOLITA LEMPICKA FLEURS EDP 100ML...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11726227-lolita-lempicka-fleurs-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544575": {
       "nombre": "MONTBLANC EXPLORER EXTREME PARFUM...",
@@ -11994,12 +11982,6 @@
       "nombre": "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p1998164-escada-especially-elixir-edp-intense-50ml-tester.html",
-      "en_stock": false
-    },
-    "11732567": {
-      "nombre": "REMINISCENCE DOLCE RIVIERA PATCHOULI...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p11732567-reminiscence-dolce-riviera-patchouli-blanc-edp-100ml-tester.html",
       "en_stock": false
     },
     "11739283": {
@@ -13456,9 +13438,9 @@
     },
     "11775100": {
       "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
-      "precio": "39,90 €",
+      "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11775100-tous-loveme-the-amethyst-elixir-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11336406": {
       "nombre": "RALPH LAUREN POLO EST.67 EDT 125ML...",
@@ -13742,6 +13724,12 @@
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
     },
+    "11355827": {
+      "nombre": "REMINISCENCE LE REM (REM) EDT...",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11355827-reminiscence-le-rem-rem-edt-intense-100ml-tester.html",
+      "en_stock": true
+    },
     "11776938": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
       "precio": "19,90 €",
@@ -13938,7 +13926,7 @@
       "nombre": "REPLICA MAISON MARGIELA WHEN THE...",
       "precio": "76,90 €",
       "url": "https://www.perfumeriaschic.com/p11447710-replica-maison-margiela-when-yhe-rain-stops-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11561237": {
       "nombre": "JULIETTE HAS A GUN JULIETTE EDP...",
@@ -14334,7 +14322,7 @@
       "nombre": "LOEWE SOLO ELIXIR POUR HOMME EDP...",
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p11545186-loewe-solo-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11785993": {
       "nombre": "TOMMY POOLSIDE EDITION MEN 100 ML...",
@@ -14418,7 +14406,19 @@
       "nombre": "MUGLER ALIEN EAU DE PARFUM 90 ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11810218-mugler-alien-eau-de-parfum-90-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
+    },
+    "9680643": {
+      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
+      "precio": "59,95 €",
+      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
+      "en_stock": false
+    },
+    "4870625": {
+      "nombre": "CALVIN KLEIN CK ONE EDT 100ML TESTER",
+      "precio": "16,90 €",
+      "url": "https://www.perfumeriaschic.com/p4870625-calvin-klein-ck-one-edt-200ml-tester.html",
+      "en_stock": false
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -16700,7 +16700,7 @@
       "nombre": "REPLICA MAISON MARGIELA UNDER THE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11711350-replica-maison-margiela-under-the-stars-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11650237": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100ML...",
