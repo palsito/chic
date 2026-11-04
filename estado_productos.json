@@ -18,6 +18,12 @@
       "url": "https://www.perfumeriaschic.com/p11738274-hugo-boss-bottled-pack-edt-100ml-edt-10ml-viaje-shower-gel-100ml.html",
       "en_stock": true
     },
+    "10942312": {
+      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
+      "precio": "98,61 €",
+      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11756076": {
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
       "precio": "104,90 €",
@@ -76,7 +82,7 @@
       "nombre": "MANCERA BLACK NOIR EDP 60ML",
       "precio": "54,84 €",
       "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "1998020": {
       "nombre": "DAVIDOFF COOL WATER EDT 125ML TESTER",
@@ -2927,12 +2933,6 @@
       "precio": "48,86 €",
       "url": "https://www.perfumeriaschic.com/p10834726-shiseido-ginza-edp-intense-90ml-sin-caja.html",
       "en_stock": false
-    },
-    "10942312": {
-      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
-      "precio": "98,61 €",
-      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
-      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -4728,7 +4728,7 @@
       "nombre": "MANCERA BLACK NOIR EDP 60ML",
       "precio": "54,84 €",
       "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11293713": {
       "nombre": "NIGHTOLOGY IRIS SHADOW EDP 100ML...",
@@ -14336,12 +14336,6 @@
       "url": "https://www.perfumeriaschic.com/p4489258-zadig-voltaire-this-is-her-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11806994": {
-      "nombre": "STEPHANE HUMBERT LUCAS THE QUEEN AND...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11806994-stephane-humbert-lucas-the-queen-and-the-viper-edp-50-ml-tester.html",
-      "en_stock": false
-    },
     "11545186": {
       "nombre": "LOEWE SOLO ELIXIR POUR HOMME EDP...",
       "precio": "69,90 €",
@@ -17762,7 +17756,7 @@
       "nombre": "MANCERA BLACK NOIR EDP 60ML",
       "precio": "54,84 €",
       "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
-      "en_stock": false
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
