@@ -14602,6 +14602,12 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11548585": {
+      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11756076": {
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
       "precio": "104,90 €",
@@ -14632,11 +14638,17 @@
       "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11719236": {
-      "nombre": "MANCERA BLACK NOIR EDP 60ML",
-      "precio": "54,84 €",
-      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
-      "en_stock": false
+    "11606601": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11664038": {
+      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11695932": {
       "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
@@ -16630,12 +16642,6 @@
       "url": "https://www.perfumeriaschic.com/p11413173-ormonde-jayne-ormonde-man-parfum-88ml-tester.html",
       "en_stock": false
     },
-    "11664038": {
-      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11664038-lorenzo-villoresi-firenze-teint-de-neige-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10958122": {
       "nombre": "MANCERA VANILLE EXCLUSIVE EDP 120ML...",
       "precio": "68,90 €",
@@ -16875,12 +16881,6 @@
       "precio": "34,95 €",
       "url": "https://www.perfumeriaschic.com/p11740414-replica-maison-margiela-autumn-vibes-eau-de-toilette-30ml.html",
       "en_stock": false
-    },
-    "11606601": {
-      "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11606601-lorenzo-villoresi-firenze-teint-de-neige-edt-100ml-tester.html",
-      "en_stock": true
     },
     "11094420": {
       "nombre": "MANCERA COSMIC PEPPER EDP 60ML",
@@ -17740,12 +17740,6 @@
       "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11548585": {
-      "nombre": "BOND No.9 TRIBECA EDP 100ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11548585-bond-no-9-tribeca-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11756086": {
       "nombre": "MONTALE AQUA PALMA  EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -17762,6 +17756,12 @@
       "nombre": "JULIETTE HAS A GUN SUNNY SIDE UP EDP...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10077269-juliette-has-a-gun-sunny-side-up-edp-100ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11719236": {
+      "nombre": "MANCERA BLACK NOIR EDP 60ML",
+      "precio": "54,84 €",
+      "url": "https://www.perfumeriaschic.com/p11719236-mancera-black-noir-edp-60ml.html",
       "en_stock": false
     }
   },
