@@ -4010,12 +4010,6 @@
       "url": "https://www.perfumeriaschic.com/p7057137-hermes-eau-gentiane-blanche-edc-100ml-tester.html",
       "en_stock": true
     },
-    "7847684": {
-      "nombre": "HERMES  EAU DE MANDARINE AMBREE EDC...",
-      "precio": "42,90 €",
-      "url": "https://www.perfumeriaschic.com/p7847684-hermes-eau-de-mandarine-ambree-edc-100ml-tester.html",
-      "en_stock": true
-    },
     "8491999": {
       "nombre": "HERMES AMAZONE ROSE EDT 100ML TESTER",
       "precio": "49,90 €",
@@ -4206,12 +4200,6 @@
       "nombre": "TOUS LOVEME EAU DE PARFUM 90ML TESTER",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p10935514-tous-loveme-eau-de-parfum-90ml-tester.html",
-      "en_stock": true
-    },
-    "8764541": {
-      "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
-      "precio": "9,93 €",
-      "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
       "en_stock": true
     },
     "11609883": {
@@ -14462,6 +14450,36 @@
       "url": "https://www.perfumeriaschic.com/p11732562-gritti-tangerina-edp-100ml-tester.html",
       "en_stock": true
     },
+    "11810644": {
+      "nombre": "BDK TABAC ROSE EAU DE PARFUM 100 ML...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810644-bdk-tabac-rose-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11810645": {
+      "nombre": "BDK VELVET TONKA EAU DE PARFUM 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810645-bdk-velvet-tonka-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11810646": {
+      "nombre": "SARAH BAKER PASTEL RUMOURS EAU DE...",
+      "precio": "128,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810646-sarah-baker-pastel-rumours-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11810647": {
+      "nombre": "MATIERE PREMIERE RADICAL ROSE EAU DE...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810647-matiere-premiere-radical-rose-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11810648": {
+      "nombre": "MARC-ANTOINE BARROIS ENCELADE EAU DE...",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810648-marc-antoine-barrois-encelade-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -15734,7 +15752,7 @@
       "nombre": "MANCERA AMORE CAFFE EDP 120ML",
       "precio": "88,35 €",
       "url": "https://www.perfumeriaschic.com/p11371034-mancera-amore-caffe-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433945": {
       "nombre": "XERJOFF KEMI COLLECTION KEMI PARFUM...",
@@ -17912,6 +17930,8 @@
     "BDK 312 SAINT-HONORÉ 100 ML TESTER",
     "BDK PAS CE SOIR EAU DE PARFUM 100 ML...",
     "BDK ROUGE SMOKING EAU DE PARFUM 100...",
+    "BDK TABAC ROSE EAU DE PARFUM 100 ML...",
+    "BDK VELVET TONKA EAU DE PARFUM 100...",
     "BEAUFORT LIGNUM VITAE  EDP 50ML...",
     "BENETTON WE ARE TRIBE EAU DE...",
     "BOADICEA THE VICTORIOUS ENERGIZER...",
@@ -18509,6 +18529,7 @@
     "MARC JACOBS DAISY WILD EDP 100ML...",
     "MARC JACOBS DOT EDP 100ML TESTER",
     "MARC-ANTOINE BARROIS B683 EAU DE...",
+    "MARC-ANTOINE BARROIS ENCELADE EAU DE...",
     "MARY KAY CLINICAL SOLUTIONS...",
     "MARY KAY EXTRA EMOLLIENT CREMA DE...",
     "MARY KAY MINT BLISS ENERGIZING...",
@@ -18797,6 +18818,7 @@
     "ROSENDO MATEU Nº7 PERFUME 100ML",
     "ROSENDO MATEU Nº8 PERFUME 100ML SIN...",
     "SALVATORE FERRAGAMO SIGNORINA...",
+    "SARAH BAKER PASTEL RUMOURS EAU DE...",
     "SCALPERS HER & HERE EDP 100ML TESTER",
     "SCALPERS HER & THE WILD FLOWER EDP...",
     "SCALPERS KIDS BOY 100ML EDT TESTER",
