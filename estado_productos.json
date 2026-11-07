@@ -1632,6 +1632,12 @@
       "url": "https://www.perfumeriaschic.com/p9358124-loewe-agua-de-loewe-miami-eau-de-toilette-150ml.html",
       "en_stock": false
     },
+    "11450319": {
+      "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11450319-montale-arabians-musk-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "9173389": {
       "nombre": "CALVIN KLEIN ETERNITY MEN COLOGNE...",
       "precio": "19,90 €",
@@ -1972,6 +1978,12 @@
       "nombre": "AMOUAGE EPIC WOMAN EAU DE PARFUM...",
       "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11662320-amouage-epic-woman-eau-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "11662301": {
+      "nombre": "MONTALE SOLEIL DE CAPRI EDP 100ML",
+      "precio": "69,88 €",
+      "url": "https://www.perfumeriaschic.com/p11662301-montale-soleil-de-capri-edp-100ml.html",
       "en_stock": false
     },
     "11509093": {
@@ -3846,6 +3858,12 @@
       "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "11410303": {
+      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
       "en_stock": true
     },
     "11785975": {
@@ -8232,7 +8250,7 @@
       "nombre": "MONTALE OUD FOOL ROSES EDP 100ML...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11387847-montale-oud-fool-roses-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11244396": {
       "nombre": "TOM FORD FUCKING FABULOUS EAU DE...",
@@ -8683,6 +8701,12 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11272606-creed-neroli-sauvage-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11450319": {
+      "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11450319-montale-arabians-musk-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11608893": {
       "nombre": "PACO RABANNE MILLION GOLD FOR HER...",
@@ -10436,6 +10460,12 @@
       "url": "https://www.perfumeriaschic.com/p11643682-montale-sensual-instinct-edp-100ml.html",
       "en_stock": false
     },
+    "11662301": {
+      "nombre": "MONTALE SOLEIL DE CAPRI EDP 100ML",
+      "precio": "69,88 €",
+      "url": "https://www.perfumeriaschic.com/p11662301-montale-soleil-de-capri-edp-100ml.html",
+      "en_stock": false
+    },
     "11631939": {
       "nombre": "PERRIS MONTE CARLO ABSOLUE...",
       "precio": "119,90 €",
@@ -10878,7 +10908,7 @@
       "nombre": "MONTALE OUD SAPPAROT EDP 100ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11530847-montale-oud-sapparot-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11680656": {
       "nombre": "DUSITA SPLENDIRIS EAU DE PARFUM...",
@@ -12384,7 +12414,7 @@
       "nombre": "MONTALE AMBER & SPICES EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7431831-montale-amber-spices-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11704533": {
       "nombre": "MANCERA PEARL EDP 120ML TESTER",
@@ -12402,7 +12432,7 @@
       "nombre": "MONTALE BLACK AOUD EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7793054": {
       "nombre": "MANCERA RED TOBACCO EDP 120 ML TESTER",
@@ -12414,7 +12444,7 @@
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
       "precio": "74,95 €",
       "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8231057": {
       "nombre": "ISSEY MIYAKE FUSION D´ISSEY EDT...",
@@ -13260,7 +13290,7 @@
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11561326-montale-vanilla-extasy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11631981": {
       "nombre": "MANCERA MELODY OF THE SUN EDP 120ML...",
@@ -13650,7 +13680,7 @@
       "nombre": "MONTALE ROSE ELIXIR EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11520636": {
       "nombre": "BOND No.9 RIVERSIDE DRIVE EDP 100ML...",
@@ -14592,7 +14622,7 @@
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
@@ -15668,7 +15698,7 @@
       "nombre": "MONTALE OUD FOOL ROSES EDP 100ML...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11387847-montale-oud-fool-roses-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11389983": {
       "nombre": "PENHALIGON´S PORTRAITS THE WORLD...",
@@ -15878,7 +15908,7 @@
       "nombre": "MONTALE INTENSE CAFE EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11408420-montale-intense-cafe-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11413526": {
       "nombre": "GRITTI VENETIA CHANTILLY EAU DE...",
@@ -15933,6 +15963,12 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11348641-masque-milano-dolceacqua-eau-de-parfum-35ml-tester.html",
       "en_stock": false
+    },
+    "11450319": {
+      "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11450319-montale-arabians-musk-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10981891": {
       "nombre": "ATKINSONS GOLD FAIR IN MY FAIR EDP...",
@@ -16054,6 +16090,12 @@
       "url": "https://www.perfumeriaschic.com/p9520236-penhaligons-portraits-the-blazing-mr-sam-edp-75ml-tester.html",
       "en_stock": false
     },
+    "11410303": {
+      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11464371": {
       "nombre": "TOM FORD OUD WOOD EAU DE PARFUM 50ML...",
       "precio": "144,90 €",
@@ -16070,7 +16112,7 @@
       "nombre": "MONTALE OUD SAPPAROT EDP 100ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11530847-montale-oud-sapparot-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11433860": {
       "nombre": "NISHANE PAPILEFICO EXTRAIT DE PARFUM...",
@@ -16580,6 +16622,12 @@
       "nombre": "MONTALE ROSES MUSK EDP 100ML",
       "precio": "72,84 €",
       "url": "https://www.perfumeriaschic.com/p11662300-montale-roses-musk-edp-100ml.html",
+      "en_stock": false
+    },
+    "11662301": {
+      "nombre": "MONTALE SOLEIL DE CAPRI EDP 100ML",
+      "precio": "69,88 €",
+      "url": "https://www.perfumeriaschic.com/p11662301-montale-soleil-de-capri-edp-100ml.html",
       "en_stock": false
     },
     "11662320": {
@@ -17228,7 +17276,7 @@
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
       "precio": "74,95 €",
       "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
@@ -17372,7 +17420,7 @@
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744307": {
       "nombre": "MONTALE CHYPRE FRUITE EDP 100ML...",
@@ -17534,7 +17582,7 @@
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11561326-montale-vanilla-extasy-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11313275": {
       "nombre": "XERJOFF AMABILE EDP 100ML TESTER",
@@ -17606,7 +17654,7 @@
       "nombre": "MONTALE ROSE ELIXIR EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11520636": {
       "nombre": "BOND No.9 RIVERSIDE DRIVE EDP 100ML...",
@@ -18576,6 +18624,7 @@
     "MONTALE AOUD SAFRAN  EDP 100ML TESTER",
     "MONTALE AQUA GOLD EDP 100ML TESTER",
     "MONTALE AQUA PALMA  EDP 100ML TESTER",
+    "MONTALE ARABIANS MUSK EDP 100ML...",
     "MONTALE ARABIANS TONKA EDP 100ML...",
     "MONTALE BLACK AOUD EDP 100ML TESTER",
     "MONTALE BLUE AMBER EDP 100ML TESTER",
@@ -18604,6 +18653,7 @@
     "MONTALE RENDEZ-VOUS Á PARIS EDP...",
     "MONTALE ROSE ELIXIR EDP 100ML TESTER",
     "MONTALE ROSES MUSK EDP 100M TESTER",
+    "MONTALE SOLEIL DE CAPRI EDP 100ML",
     "MONTALE SPICY AOUD EDP 100ML TESTER",
     "MONTALE STARRY NIGHTS EDP 100ML...",
     "MONTALE SWEET FLOWERS EDP 100ML...",
