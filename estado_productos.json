@@ -5640,7 +5640,7 @@
       "nombre": "PENHALIGON´S PORTRAITS THE...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p9272056-penhaligons-portraits-the-inimitable-william-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "1987633": {
       "nombre": "ANGEL SCHLESSER EAU FRAICHE MADERA...",
@@ -10022,6 +10022,12 @@
       "url": "https://www.perfumeriaschic.com/p11514273-haute-fragrance-company-indian-venus-eau-de-parfum-75ml-sin-caja.html",
       "en_stock": false
     },
+    "9566705": {
+      "nombre": "PENHALIGON´S PORTRAITS THE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p9566705-penhaligons-portraits-the-bewitching-yasmine-edp-75ml.html",
+      "en_stock": true
+    },
     "10103566": {
       "nombre": "FRANCESCA BIANCHI LOVER´S TALE...",
       "precio": "64,90 €",
@@ -11268,7 +11274,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS POUR HOMME EDT...",
       "precio": "23,90 €",
       "url": "https://www.perfumeriaschic.com/p2522105-rochas-eau-de-rochas-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10049671": {
       "nombre": "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
@@ -14070,7 +14076,7 @@
       "nombre": "MONTBLANC EXPLORER INFINITE EAU DE...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11795149-montblanc-explorer-infinite-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7707313": {
       "nombre": "ACQUA DI PARMA COLONIA ESSENZA EDC...",
@@ -14238,7 +14244,7 @@
       "nombre": "DONNA KARAN CASHMERE & VANILLA...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11545195-donna-karan-cashmere-vanilla-essence-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8876171": {
       "nombre": "ACQUA DI PARMA YUZU EDP 100ML TESTER",
@@ -15321,6 +15327,12 @@
       "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p9679705-mancera-pearl-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "9566705": {
+      "nombre": "PENHALIGON´S PORTRAITS THE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p9566705-penhaligons-portraits-the-bewitching-yasmine-edp-75ml.html",
+      "en_stock": true
     },
     "9609528": {
       "nombre": "V CANTO IRAE EXTRAIT DE PARFUM 100ML",
