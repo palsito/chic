@@ -2960,18 +2960,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11812313": {
-      "nombre": "ROJA PARFUMS MANHATTAN EAU DE PARFUM...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11812313-roja-parfums-manhattan-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11812315": {
-      "nombre": "NIGHTOLOGY MAJESTIC LEATHER EAU DE...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11812315-nightology-majestic-leather-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
-    },
     "11812316": {
       "nombre": "MONTALE MUKHALLAT EAU DE PARFUM 100...",
       "precio": "64,90 €",
@@ -3078,7 +3066,7 @@
       "nombre": "MONTALE BLACK AOUD EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11561326": {
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
@@ -3103,12 +3091,6 @@
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11732562-gritti-tangerina-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11810645": {
-      "nombre": "BDK VELVET TONKA EAU DE PARFUM 100...",
-      "precio": "118,90 €",
-      "url": "https://www.perfumeriaschic.com/p11810645-bdk-velvet-tonka-eau-de-parfum-100-ml-tester.html",
-      "en_stock": false
     },
     "11611642": {
       "nombre": "TIZIANA TERENZI KIRKE OVERDOSE...",
