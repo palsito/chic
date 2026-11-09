@@ -2890,7 +2890,7 @@
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11469956": {
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
@@ -3030,6 +3030,12 @@
       "nombre": "GRITTI TANGERINA EDP 100ML TESTER",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11732562-gritti-tangerina-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11810645": {
+      "nombre": "BDK VELVET TONKA EAU DE PARFUM 100...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11810645-bdk-velvet-tonka-eau-de-parfum-100-ml-tester.html",
       "en_stock": true
     },
     "11611642": {
@@ -4698,6 +4704,12 @@
       "nombre": "CALVIN KLEIN ETERNITY WOMAN  EDP...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p7460266-calvin-klein-eternity-woman-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8220373": {
+      "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8220373-creed-original-santal-edp-75ml-tester.html",
       "en_stock": true
     },
     "11285119": {
@@ -8082,7 +8094,7 @@
       "nombre": "LACOSTE L'HOMME EDT 100ML TESTER",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11330254-lacoste-lhomme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11363407": {
       "nombre": "TOUS IN HEAVEN FOR HER EDT 100ML...",
@@ -8958,12 +8970,6 @@
       "nombre": "MONTALE WHITE MUSK EDP 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p10915084-montale-white-musk-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "6427992": {
-      "nombre": "ACQUA DI PARMA PEONIA NOBILE EDP...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p6427992-aqua-di-parma-peonia-nobile-edp-100-ml-tester.html",
       "en_stock": false
     },
     "11526381": {
@@ -11148,7 +11154,7 @@
       "nombre": "PENHALIGON´S HALFETI EDP 100ML TESTER",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p7283638-penhaligons-halfeti-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11406779": {
       "nombre": "MONTALE DARK AOUD EDP 100ML TESTER",
@@ -12624,7 +12630,7 @@
       "nombre": "CREED SILVER MOUNTAIN WATER EDP...",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p8598939-creed-silver-mountain-water-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756078": {
       "nombre": "CARTHUSIA GELSOMINI DI CAPRI EDP...",
@@ -14184,7 +14190,7 @@
       "nombre": "CREED CARMINA EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11744266": {
       "nombre": "MONTALE AOUD MUSK EDP 100ML TESTER",
@@ -14298,7 +14304,7 @@
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11620543": {
       "nombre": "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
@@ -14456,11 +14462,35 @@
       "url": "https://www.perfumeriaschic.com/p4870625-calvin-klein-ck-one-edt-200ml-tester.html",
       "en_stock": false
     },
+    "8876066": {
+      "nombre": "CREED ORIGINAL VETIVER EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8876066-creed-originalvetiver-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10954924": {
+      "nombre": "CREED MILLÉSIME IMPÉRIAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p10954924-creed-millesime-imperial-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11775100": {
       "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11775100-tous-loveme-the-amethyst-elixir-90ml-tester.html",
       "en_stock": false
+    },
+    "6427992": {
+      "nombre": "ACQUA DI PARMA PEONIA NOBILE EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p6427992-aqua-di-parma-peonia-nobile-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "7707240": {
+      "nombre": "ACQUA DI PARMA MAGNOLIA NOBILE EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p7707240-aqua-di-parma-magnolia-nobile-edp-100ml-sin-caja.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -16174,6 +16204,12 @@
       "url": "https://www.perfumeriaschic.com/p11498691-jeroboam-boha-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
+    "10954924": {
+      "nombre": "CREED MILLÉSIME IMPÉRIAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p10954924-creed-millesime-imperial-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11398377": {
       "nombre": "GISADA AMBASSADOR MEN EDP 50ML TESTER",
       "precio": "58,90 €",
@@ -17798,7 +17834,7 @@
       "nombre": "CREED CARMINA EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11517806": {
       "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
@@ -17823,6 +17859,24 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10077269-juliette-has-a-gun-sunny-side-up-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "8220373": {
+      "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8220373-creed-original-santal-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "8598939": {
+      "nombre": "CREED SILVER MOUNTAIN WATER EDP...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8598939-creed-silver-mountain-water-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8876066": {
+      "nombre": "CREED ORIGINAL VETIVER EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8876066-creed-originalvetiver-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -17842,6 +17896,7 @@
     "ACQUA DI PARMA GELSOMINO A FREDDO...",
     "ACQUA DI PARMA LUCE DI ROSA EDP...",
     "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
+    "ACQUA DI PARMA MAGNOLIA NOBILE EDP...",
     "ACQUA DI PARMA MIRTO DI PANAREA...",
     "ACQUA DI PARMA OUD & SPICE EDP 100ML...",
     "ACQUA DI PARMA OUD EDP 100ML TESTER",
