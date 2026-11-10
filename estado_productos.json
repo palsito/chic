@@ -1741,10 +1741,10 @@
       "en_stock": false
     },
     "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 50ML...",
-      "precio": "68,90 €",
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11556593": {
       "nombre": "GUCCI INTENSE OUD EDP 90ML",
@@ -2188,12 +2188,6 @@
       "nombre": "PERRIS MONTE CARLO TUBEREUSE ABSOLUE...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11678490-perris-monte-carlo-tubereuse-absolue-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
-    "10958068": {
-      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
     "11650237": {
@@ -9506,12 +9500,6 @@
       "url": "https://www.perfumeriaschic.com/p11433937-xerjoff-kemi-collection-luna-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 50ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
     "11556593": {
       "nombre": "GUCCI INTENSE OUD EDP 90ML",
       "precio": "69,84 €",
@@ -11070,12 +11058,6 @@
       "nombre": "HFC DIAMOND IN THE SKY EAU DE PARFUM...",
       "precio": "148,90 €",
       "url": "https://www.perfumeriaschic.com/p11514250-haute-fragrance-company-diamond-in-the-sky-eau-de-parfum-75ml-sin-caja.html",
-      "en_stock": false
-    },
-    "10958068": {
-      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
     "7258737": {
@@ -14491,6 +14473,24 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "10958068": {
+      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11526369": {
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
     },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
@@ -18178,6 +18178,7 @@
     "DUSITA ISSARA EXTRAIT DE PARFUM 50ML...",
     "DUSITA LE SILLAGE BLANC EAU DE...",
     "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
+    "DUSITA ROSARINE EAU DE PARFUM 100ML...",
     "DUSITA SPLENDIRIS EAU DE PARFUM 50ML...",
     "DUSITA TONKA LATTE EAU DE PARFUM...",
     "EIGHT & BOB CAP D´ANTIBES EDP 100ML...",
