@@ -4158,7 +4158,7 @@
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
       "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10780088": {
       "nombre": "XERJOFF DON EDP 100ML TESTER",
@@ -11844,7 +11844,7 @@
       "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
       "precio": "66,95 €",
       "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9608198": {
       "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
@@ -13878,7 +13878,7 @@
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10880052": {
       "nombre": "DUSITA ISSARA EXTRAIT DE PARFUM 50ML...",
@@ -14804,7 +14804,7 @@
       "nombre": "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
       "precio": "164,90 €",
       "url": "https://www.perfumeriaschic.com/p11671517-the-spirit-of-dubai-bahar-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11323155": {
       "nombre": "ROSENDO MATEU 1968 EDP 100ML TESTER",
@@ -16355,10 +16355,10 @@
       "en_stock": false
     },
     "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 50ML...",
-      "precio": "68,90 €",
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11512147": {
       "nombre": "MONTALE ARABIANS EAU DE PARFUM 100ML...",
@@ -16629,6 +16629,12 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11464346-dusita-la-douceur-de-siam-eau-de-parfum-50ml-tester.html",
       "en_stock": false
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
     },
     "11487002": {
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
@@ -16920,9 +16926,9 @@
     },
     "10958068": {
       "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
-      "precio": "68,90 €",
+      "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11406779": {
       "nombre": "MONTALE DARK AOUD EDP 100ML TESTER",
@@ -17732,7 +17738,7 @@
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11738418": {
       "nombre": "JULIETTE HAS A GUN MISS CHARMING EDP...",
