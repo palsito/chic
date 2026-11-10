@@ -14668,6 +14668,24 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11034778": {
+      "nombre": "CREED CARMINA EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "8220373": {
+      "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8220373-creed-original-santal-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "8876066": {
+      "nombre": "CREED ORIGINAL VETIVER EDP 100ML...",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p8876066-creed-originalvetiver-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11756085": {
       "nombre": "MONTALE AOUD NIGHT  EDP 100ML TESTER",
       "precio": "68,90 €",
@@ -14691,12 +14709,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
       "en_stock": true
-    },
-    "11410303": {
-      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11450319": {
       "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
@@ -17842,12 +17854,6 @@
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
       "en_stock": false
     },
-    "11034778": {
-      "nombre": "CREED CARMINA EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11034778-creed-carmina-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "11517806": {
       "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
       "precio": "129,90 €",
@@ -17872,23 +17878,17 @@
       "url": "https://www.perfumeriaschic.com/p10077269-juliette-has-a-gun-sunny-side-up-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "8220373": {
-      "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p8220373-creed-original-santal-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "8598939": {
       "nombre": "CREED SILVER MOUNTAIN WATER EDP...",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p8598939-creed-silver-mountain-water-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8876066": {
-      "nombre": "CREED ORIGINAL VETIVER EDP 100ML...",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p8876066-creed-originalvetiver-edp-100ml-tester.html",
-      "en_stock": true
+    "11410303": {
+      "nombre": "MONTALE ARABIANS TONKA EDP 100ML...",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
+      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
