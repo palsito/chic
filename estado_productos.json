@@ -10704,7 +10704,7 @@
       "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11528768": {
       "nombre": "THIERRY MUGLER A MEN FANTASM EDP...",
@@ -14486,6 +14486,12 @@
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
+    "7782288": {
+      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": true
+    },
     "6990571": {
       "nombre": "JUICY COUTURE VIVA LA JUICY EDP...",
       "precio": "36,90 €",
@@ -14617,12 +14623,6 @@
       "precio": "24,98 €",
       "url": "https://www.perfumeriaschic.com/p2870995-tous-oh-the-origin-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "7782288": {
-      "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
-      "en_stock": true
     },
     "11765806": {
       "nombre": "LOEWE UN PASEO POR MADRID LA BELLA...",
