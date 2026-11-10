@@ -9366,7 +9366,7 @@
       "nombre": "V CANTO CIANURO EDP 100ML TESTER",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11544706-v-canto-cianuro-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8362507": {
       "nombre": "THE HOUSE OF OUD BREATH OF THE...",
@@ -9505,6 +9505,12 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p3055881-cerruti-1881-pour-homme-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11416584": {
+      "nombre": "V CANTO RICINA EXTRAIT DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11416584-v-canto-ricina-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": true
     },
     "10298457": {
       "nombre": "ISSEY MIYAKE L´EAU DISSEY POUR HOMME...",
@@ -15838,6 +15844,12 @@
       "url": "https://www.perfumeriaschic.com/p11209422-amouage-beach-hut-woman-edp-100ml.html",
       "en_stock": false
     },
+    "11416584": {
+      "nombre": "V CANTO RICINA EXTRAIT DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11416584-v-canto-ricina-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11157431": {
       "nombre": "MANCERA KUMKAT WOOD EDP 120ML TESTER",
       "precio": "68,90 €",
@@ -16352,7 +16364,7 @@
       "nombre": "V CANTO CIANURO EDP 100ML TESTER",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p11544706-v-canto-cianuro-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913303": {
       "nombre": "MONTALE BENGAL OUD EDP 100ML TESTER",
@@ -19073,6 +19085,7 @@
     "V CANTO MALATESTA EXTRAIT DE PARFUM...",
     "V CANTO MASTIN EDP 100ML TESTER",
     "V CANTO PANDOLFO EXTRAIT DE PARFUM...",
+    "V CANTO RICINA EXTRAIT DE PARFUM...",
     "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
     "V CANTO STRICNINA EDP 100ML TESTER",
     "VALENTINO DONNA BORN IN ROMA CORAL...",
