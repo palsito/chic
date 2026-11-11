@@ -2972,6 +2972,24 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "10958068": {
+      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11526369": {
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "3521265": {
       "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
       "precio": "44,90 €",
@@ -3026,34 +3044,28 @@
       "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
-    "10958068": {
-      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
-      "precio": "109,90 €",
-      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
     "11760740": {
       "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
       "en_stock": true
     },
+    "11544706": {
+      "nombre": "V CANTO CIANURO EDP 100ML TESTER",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544706-v-canto-cianuro-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11416584": {
+      "nombre": "V CANTO RICINA EXTRAIT DE PARFUM...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11416584-v-canto-ricina-extrait-de-parfum-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11398358": {
       "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11493942": {
-      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
-    "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
     "11450319": {
@@ -3096,6 +3108,12 @@
       "nombre": "ETAT LIBRE D´ORANGE STORY OF YOUR...",
       "precio": "84,90 €",
       "url": "https://www.perfumeriaschic.com/p11509080-etat-libre-dorange-story-of-your-life-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11544153": {
+      "nombre": "OLFACTIVE STUDIO CHAMBRE NOIR EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544153-olfactive-studio-chambre-noir-edp-100ml-tester.html",
       "en_stock": true
     },
     "9794981": {
@@ -5220,12 +5238,6 @@
       "nombre": "TOUS MORE MORE PINK EDT 90ML TESTER",
       "precio": "28,90 €",
       "url": "https://www.perfumeriaschic.com/p10842272-tous-more-more-pink-edt-90ml-tester.html",
-      "en_stock": true
-    },
-    "11544153": {
-      "nombre": "OLFACTIVE STUDIO CHAMBRE NOIR EDP...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544153-olfactive-studio-chambre-noir-edp-100ml-tester.html",
       "en_stock": true
     },
     "11316309": {
@@ -9446,12 +9458,6 @@
       "url": "https://www.perfumeriaschic.com/p9328060-floris-elite-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11544706": {
-      "nombre": "V CANTO CIANURO EDP 100ML TESTER",
-      "precio": "109,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544706-v-canto-cianuro-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "8362507": {
       "nombre": "THE HOUSE OF OUD BREATH OF THE...",
       "precio": "109,90 €",
@@ -9589,12 +9595,6 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p3055881-cerruti-1881-pour-homme-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "11416584": {
-      "nombre": "V CANTO RICINA EXTRAIT DE PARFUM...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11416584-v-canto-ricina-extrait-de-parfum-edp-100ml-tester.html",
-      "en_stock": true
     },
     "10298457": {
       "nombre": "ISSEY MIYAKE L´EAU DISSEY POUR HOMME...",
