@@ -2972,6 +2972,90 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "3521265": {
+      "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
+      "en_stock": true
+    },
+    "11398006": {
+      "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
+      "precio": "66,95 €",
+      "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11539610": {
+      "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11646708": {
+      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
+      "precio": "85,41 €",
+      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
+      "en_stock": true
+    },
+    "9680643": {
+      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
+      "precio": "59,95 €",
+      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
+      "en_stock": true
+    },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "11398077": {
+      "nombre": "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
+      "precio": "74,90 €",
+      "url": "https://www.perfumeriaschic.com/p11398077-etat-libre-dorange-the-ghost-in-the-shell-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11527605": {
+      "nombre": "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
+      "precio": "78,68 €",
+      "url": "https://www.perfumeriaschic.com/p11527605-simone-andreoli-tulum-junglescape-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11760362": {
+      "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
+      "en_stock": true
+    },
+    "10958068": {
+      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11760740": {
+      "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
+      "en_stock": true
+    },
+    "11398358": {
+      "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11526369": {
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "11450319": {
       "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
       "precio": "78,90 €",
@@ -10736,12 +10820,6 @@
       "url": "https://www.perfumeriaschic.com/p10618140-nishane-pachuli-kozha-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "3521265": {
-      "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
-      "en_stock": true
-    },
     "11528768": {
       "nombre": "THIERRY MUGLER A MEN FANTASM EDP...",
       "precio": "39,90 €",
@@ -10981,12 +11059,6 @@
       "precio": "84,46 €",
       "url": "https://www.perfumeriaschic.com/p10318551-tiziana-terenzi-delox-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
-    },
-    "11398077": {
-      "nombre": "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
-      "precio": "74,90 €",
-      "url": "https://www.perfumeriaschic.com/p11398077-etat-libre-dorange-the-ghost-in-the-shell-edp-100ml-tester.html",
-      "en_stock": true
     },
     "10938455": {
       "nombre": "V CANTO STRICNINA EDP 100ML TESTER",
@@ -11876,12 +11948,6 @@
       "url": "https://www.perfumeriaschic.com/p11637741-giorgio-giorgio-beverly-hills-edt-90ml-tester.html",
       "en_stock": false
     },
-    "11398006": {
-      "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
-      "precio": "66,95 €",
-      "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "9608198": {
       "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
       "precio": "119,90 €",
@@ -12644,12 +12710,6 @@
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": false
     },
-    "11527605": {
-      "nombre": "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
-      "precio": "78,68 €",
-      "url": "https://www.perfumeriaschic.com/p11527605-simone-andreoli-tulum-junglescape-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "10298454": {
       "nombre": "XERJOFF CRUZ DEL SUR II 50ML TESTER",
       "precio": "154,90 €",
@@ -12703,12 +12763,6 @@
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10077440-guerlain-eau-de-cologne-imperiale-edc100ml-tester.html",
       "en_stock": false
-    },
-    "11760362": {
-      "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
-      "en_stock": true
     },
     "7254327": {
       "nombre": "PERRIS MONTE CARLO ABSOLUE...",
@@ -12974,12 +13028,6 @@
       "url": "https://www.perfumeriaschic.com/p4382965-yves-saint-laurent-opium-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11539610": {
-      "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "7315779": {
       "nombre": "ACQUA DI PARMA COLONIA PURA EDC...",
       "precio": "58,90 €",
@@ -12991,12 +13039,6 @@
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p11311695-rochas-eau-de-rochas-orange-horizon-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "11760740": {
-      "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
-      "en_stock": true
     },
     "8252606": {
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
@@ -13934,12 +13976,6 @@
       "url": "https://www.perfumeriaschic.com/p11561237-juliette-has-a-gun-juliette-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11398358": {
-      "nombre": "ETAT LIBRE D´ORANGE FAT ELECTRICIAN...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11398358-etat-libre-dorange-fat-electrician-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "10880052": {
       "nombre": "DUSITA ISSARA EXTRAIT DE PARFUM 50ML...",
       "precio": "147,16 €",
@@ -14186,12 +14222,6 @@
       "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
       "en_stock": false
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": true
-    },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
       "precio": "58,90 €",
@@ -14215,12 +14245,6 @@
       "precio": "149,84 €",
       "url": "https://www.perfumeriaschic.com/p11620543-xerjoff-via-cavour-1-parfum-50ml-tester.html",
       "en_stock": false
-    },
-    "11646708": {
-      "nombre": "SIMONE ANDREOLI VICEBOMB 100ML TESTER",
-      "precio": "85,41 €",
-      "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
-      "en_stock": true
     },
     "10613145": {
       "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
@@ -14353,12 +14377,6 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10077269-juliette-has-a-gun-sunny-side-up-edp-100ml-sin-caja.html",
       "en_stock": false
-    },
-    "9680643": {
-      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
-      "precio": "59,95 €",
-      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
-      "en_stock": true
     },
     "4870625": {
       "nombre": "CALVIN KLEIN CK ONE EDT 100ML TESTER",
@@ -14533,24 +14551,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "10958068": {
-      "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
-      "precio": "109,90 €",
-      "url": "https://www.perfumeriaschic.com/p10958068-dusita-le-sillage-blanc-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
-    "11493942": {
-      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
-    "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
