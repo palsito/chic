@@ -18,30 +18,6 @@
       "url": "https://www.perfumeriaschic.com/p11814251-daniel-josier-beaux-tenebreux-extrait-de-parfum-100-ml.html",
       "en_stock": true
     },
-    "10683605": {
-      "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
-      "precio": "125,00 €",
-      "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
-      "en_stock": true
-    },
-    "11470326": {
-      "nombre": "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11470326-daniel-josier-lagrimas-de-boabdil-edp-100ml.html",
-      "en_stock": true
-    },
-    "11469956": {
-      "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": true
-    },
-    "11470421": {
-      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": true
-    },
     "11814252": {
       "nombre": "DANIEL JOSIER STRIGOI EXTRAIT DE...",
       "precio": "130,00 €",
@@ -72,10 +48,40 @@
       "url": "https://www.perfumeriaschic.com/p11814255-daniel-josier-aire-de-urkiola-edp-100-ml.html",
       "en_stock": true
     },
+    "11470326": {
+      "nombre": "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11470326-daniel-josier-lagrimas-de-boabdil-edp-100ml.html",
+      "en_stock": true
+    },
+    "11469956": {
+      "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
+      "en_stock": true
+    },
+    "11470421": {
+      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
+      "en_stock": true
+    },
     "2481955": {
       "nombre": "PACO RABANNE POUR HOMME EDT 100ML...",
       "precio": "25,95 €",
       "url": "https://www.perfumeriaschic.com/p2481955-paco-rabanne-pour-homme-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "10683605": {
+      "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
+      "precio": "125,00 €",
+      "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
+      "en_stock": true
+    },
+    "1998160": {
+      "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p1998160-escada-especially-edp-75ml-tester.html",
       "en_stock": true
     },
     "11611642": {
@@ -137,12 +143,6 @@
       "precio": "46,55 €",
       "url": "https://www.perfumeriaschic.com/p11738274-hugo-boss-bottled-pack-edt-100ml-edt-10ml-viaje-shower-gel-100ml.html",
       "en_stock": true
-    },
-    "10942312": {
-      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
-      "precio": "98,61 €",
-      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11756076": {
       "nombre": "BOND No.9 LIBERTY ISLAND EDP 50ML",
@@ -2664,12 +2664,6 @@
       "url": "https://www.perfumeriaschic.com/p11205002-nishane-ani-x-extrait-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11760740": {
-      "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
-      "en_stock": false
-    },
     "11398016": {
       "nombre": "ETAT LIBRE D´ORANGE JASMIN ET...",
       "precio": "49,95 €",
@@ -3017,15 +3011,69 @@
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
       "en_stock": false
-    },
+    }
+  },
+  "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
     "1998160": {
       "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
       "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p1998160-escada-especially-edp-75ml-tester.html",
       "en_stock": true
-    }
-  },
-  "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    },
+    "8372134": {
+      "nombre": "SISLEY IZIA LA NUIT EDP 100ML TESTER",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p8372134-sisley-izia-la-nuit-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11384384": {
+      "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
+      "en_stock": true
+    },
+    "11244379": {
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "2513724": {
+      "nombre": "HUGO BOSS THE SCENT FOR HIM EDT 50ML...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p2513724-hugo-boss-the-scent-for-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "7035083": {
+      "nombre": "GUERLAIN VETIVER EDT 100ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p7035083-guerlain-vetiver-edt-125ml.html",
+      "en_stock": true
+    },
+    "11658941": {
+      "nombre": "MARC JACOBS DAISY WILD EDP 50ML SIN...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11658941-marc-jacobs-daisy-wild-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11814288": {
+      "nombre": "TOM FORD NOIR EXTREME PARFUM 100 ML...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814288-tom-ford-noir-extreme-parfum-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11814289": {
+      "nombre": "MONTALE PRETTY FRUITY EAU DE PARFUM...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814289-montale-pretty-fruity-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11814290": {
+      "nombre": "MONTALE VANILLA EXTASY EAU DE PARFUM...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814290-montale-vanilla-extasy-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
     "10958068": {
       "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
       "precio": "109,90 €",
@@ -3091,12 +3139,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11760362-simone-andreoli-surf-the-ginger-wave-parfum-nectar-50ml-tester.html",
       "en_stock": true
-    },
-    "11760740": {
-      "nombre": "SIMONE ANDREOLI PALM OASES PARFUM...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11760740-simone-andreoli-palm-oases-parfum-nectar-50ml-tester.html",
-      "en_stock": false
     },
     "11544706": {
       "nombre": "V CANTO CIANURO EDP 100ML TESTER",
@@ -3822,12 +3864,6 @@
       "nombre": "DIESEL FUEL FOR LIFE FEMME EDP 50 ML...",
       "precio": "14,90 €",
       "url": "https://www.perfumeriaschic.com/p11791259-diesel-fuel-for-life-femme-edp-50-ml-tester.html",
-      "en_stock": false
-    },
-    "10942312": {
-      "nombre": "ACQUA DI PARMA ZAFFERANO EDP 100ML...",
-      "precio": "98,61 €",
-      "url": "https://www.perfumeriaschic.com/p10942312-acqua-di-parma-zafferano-edp-100ml-tester.html",
       "en_stock": false
     },
     "10268197": {
@@ -4656,6 +4692,12 @@
       "nombre": "NINA RICCI NINA ROUGE EDT 80ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p7664353-nina-ricci-nina-rouge-edt-80ml-sin-caja.html",
+      "en_stock": true
+    },
+    "9740528": {
+      "nombre": "PACO RABANNE OLYMPEA SOLAR EDP 80ML...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p9740528-paco-rabanne-olimpea-solar-edp-80ml-sin-caja.html",
       "en_stock": true
     },
     "10962786": {
@@ -7868,12 +7910,6 @@
       "url": "https://www.perfumeriaschic.com/p10779798-mickael-kors-wonderlust-eau-de-voyage-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8373343": {
-      "nombre": "YVES SAINT LAURENT L´HOMME LE PARFUM...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p8373343-yves-saint-laurent-lhomme-le-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "7473230": {
       "nombre": "NINA RICCI LUNA BLOSSOM  EDT 80ML",
       "precio": "34,90 €",
@@ -9031,12 +9067,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11424161-the-house-of-oud-the-time-edp-75ml-tester.html",
       "en_stock": false
-    },
-    "1998160": {
-      "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
-      "precio": "29,67 €",
-      "url": "https://www.perfumeriaschic.com/p1998160-escada-especially-edp-75ml-tester.html",
-      "en_stock": true
     },
     "10915084": {
       "nombre": "MONTALE WHITE MUSK EDP 100ML TESTER",
@@ -11474,12 +11504,6 @@
       "url": "https://www.perfumeriaschic.com/p11720848-carolina-herrera-good-girl-jasmine-absolute-edp-80ml-tester.html",
       "en_stock": false
     },
-    "8372134": {
-      "nombre": "SISLEY IZIA LA NUIT EDP 100ML TESTER",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p8372134-sisley-izia-la-nuit-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11457942": {
       "nombre": "GRITTI VENETIA GOSSIP NIGHT EAU DE...",
       "precio": "104,90 €",
@@ -13520,12 +13544,6 @@
       "url": "https://www.perfumeriaschic.com/p11776933-prada-infusion-d-ylang-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11384384": {
-      "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
-      "en_stock": true
-    },
     "11470427": {
       "nombre": "STEPHANE HUMBERT LUCAS 777 UNE NUIT...",
       "precio": "99,90 €",
@@ -14023,12 +14041,6 @@
       "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11244379": {
-      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
@@ -14593,42 +14605,6 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "2513724": {
-      "nombre": "HUGO BOSS THE SCENT FOR HIM EDT 50ML...",
-      "precio": "24,90 €",
-      "url": "https://www.perfumeriaschic.com/p2513724-hugo-boss-the-scent-for-men-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "7035083": {
-      "nombre": "GUERLAIN VETIVER EDT 100ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p7035083-guerlain-vetiver-edt-125ml.html",
-      "en_stock": true
-    },
-    "11658941": {
-      "nombre": "MARC JACOBS DAISY WILD EDP 50ML SIN...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11658941-marc-jacobs-daisy-wild-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11814288": {
-      "nombre": "TOM FORD NOIR EXTREME PARFUM 100 ML...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814288-tom-ford-noir-extreme-parfum-100-ml-sin-caja.html",
-      "en_stock": true
-    },
-    "11814289": {
-      "nombre": "MONTALE PRETTY FRUITY EAU DE PARFUM...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814289-montale-pretty-fruity-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11814290": {
-      "nombre": "MONTALE VANILLA EXTASY EAU DE PARFUM...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814290-montale-vanilla-extasy-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
     },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
