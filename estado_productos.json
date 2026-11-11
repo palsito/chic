@@ -366,6 +366,12 @@
       "url": "https://www.perfumeriaschic.com/p10679774-daniel-josier-mystery-oud-edp-100ml.html",
       "en_stock": true
     },
+    "10679798": {
+      "nombre": "DANIEL JOSIER GREEN LEATHER EDP...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p10679798-daniel-josier-green-leather-edp-100ml.html",
+      "en_stock": true
+    },
     "10683446": {
       "nombre": "DANIEL JOSIER TUBEROSE EDP 100ML",
       "precio": "120,00 €",
@@ -2674,7 +2680,7 @@
       "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
       "precio": "125,00 €",
       "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11712241": {
       "nombre": "PRADA CANDY SUGAR POP EDP 50ML",
@@ -2746,7 +2752,7 @@
       "nombre": "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470326-daniel-josier-lagrimas-de-boabdil-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11777014": {
       "nombre": "MILLER HARRIS HYDRA FIGUE EDP 100ML...",
@@ -2908,13 +2914,13 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10613145": {
       "nombre": "ROCHAS MAN INTENSE EDP 100ML TESTER",
