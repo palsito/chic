@@ -3011,9 +3011,51 @@
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11424764": {
+      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11814290": {
+      "nombre": "MONTALE VANILLA EXTASY EAU DE PARFUM...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814290-montale-vanilla-extasy-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11814289": {
+      "nombre": "MONTALE PRETTY FRUITY EAU DE PARFUM...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814289-montale-pretty-fruity-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "9680643": {
+      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
+      "precio": "59,95 €",
+      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
+      "en_stock": true
+    },
+    "11424764": {
+      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "7880655": {
+      "nombre": "SISLEY IZIA EDP 100ML TESTER",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p7880655-sisley-izia-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8373343": {
+      "nombre": "YVES SAINT LAURENT L´HOMME LE PARFUM...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p8373343-yves-saint-laurent-lhomme-le-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "1998160": {
       "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
       "precio": "29,67 €",
@@ -3062,18 +3104,6 @@
       "url": "https://www.perfumeriaschic.com/p11814288-tom-ford-noir-extreme-parfum-100-ml-sin-caja.html",
       "en_stock": true
     },
-    "11814289": {
-      "nombre": "MONTALE PRETTY FRUITY EAU DE PARFUM...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814289-montale-pretty-fruity-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
-    "11814290": {
-      "nombre": "MONTALE VANILLA EXTASY EAU DE PARFUM...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814290-montale-vanilla-extasy-eau-de-parfum-100-ml-tester.html",
-      "en_stock": true
-    },
     "10958068": {
       "nombre": "DUSITA LE SILLAGE BLANC EAU DE...",
       "precio": "109,90 €",
@@ -3108,12 +3138,6 @@
       "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
-    "9680643": {
-      "nombre": "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
-      "precio": "59,95 €",
-      "url": "https://www.perfumeriaschic.com/p9680643-mancera-chocolate-greedy-edp-100ml.html",
       "en_stock": true
     },
     "11363400": {
@@ -3356,12 +3380,6 @@
       "url": "https://www.perfumeriaschic.com/p10424036-d-by-diesel-de-diesel-edt-100ml.html",
       "en_stock": true
     },
-    "11545195": {
-      "nombre": "DONNA KARAN CASHMERE & VANILLA...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11545195-donna-karan-cashmere-vanilla-essence-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11670183": {
       "nombre": "LACOSTE L.12.12 SILVER GREY EAU DE...",
       "precio": "36,90 €",
@@ -3402,12 +3420,6 @@
       "nombre": "ROCHAS BYZANCE GOLD EDP 90ML TESTER",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10356216-rochas-byzance-gold-edp-90ml-tester.html",
-      "en_stock": true
-    },
-    "11424764": {
-      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
       "en_stock": true
     },
     "10458371": {
@@ -4116,7 +4128,7 @@
       "nombre": "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11791251-elizabeth-arden-eternal-aura-edp-100-ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10834736": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES...",
@@ -4692,12 +4704,6 @@
       "nombre": "NINA RICCI NINA ROUGE EDT 80ML TESTER",
       "precio": "34,90 €",
       "url": "https://www.perfumeriaschic.com/p7664353-nina-ricci-nina-rouge-edt-80ml-sin-caja.html",
-      "en_stock": true
-    },
-    "9740528": {
-      "nombre": "PACO RABANNE OLYMPEA SOLAR EDP 80ML...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p9740528-paco-rabanne-olimpea-solar-edp-80ml-sin-caja.html",
       "en_stock": true
     },
     "10962786": {
@@ -7213,12 +7219,6 @@
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p10240056-etro-magot-edt-100ml-tester.html",
       "en_stock": false
-    },
-    "7880655": {
-      "nombre": "SISLEY IZIA EDP 100ML TESTER",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p7880655-sisley-izia-edp-100ml-tester.html",
-      "en_stock": true
     },
     "8827160": {
       "nombre": "GUERLAIN JARDINS DE BAGATELLE EDP...",
@@ -14606,10 +14606,28 @@
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
+    "9740528": {
+      "nombre": "PACO RABANNE OLYMPEA SOLAR EDP 80ML...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p9740528-paco-rabanne-olimpea-solar-edp-80ml-sin-caja.html",
+      "en_stock": true
+    },
+    "6854886": {
+      "nombre": "TOUS MAN EDT 100ML TESTER",
+      "precio": "22,97 €",
+      "url": "https://www.perfumeriaschic.com/p6854886-tous-man-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": true
+    },
+    "11470421": {
+      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
       "en_stock": true
     },
     "6990571": {
@@ -14726,12 +14744,6 @@
       "url": "https://www.perfumeriaschic.com/p5932841-hugo-boss-just-diferent-edt-125ml-tester.html",
       "en_stock": false
     },
-    "6854886": {
-      "nombre": "TOUS MAN EDT 100ML TESTER",
-      "precio": "22,97 €",
-      "url": "https://www.perfumeriaschic.com/p6854886-tous-man-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "7126711": {
       "nombre": "SISLEY EAU DE SISLEY 3 EDT 100ML...",
       "precio": "58,90 €",
@@ -14767,12 +14779,6 @@
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p11468283-lacoste-l-12-12-rose-for-her-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11470421": {
-      "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
-      "precio": "120,00 €",
-      "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
