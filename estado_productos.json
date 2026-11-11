@@ -14718,7 +14718,7 @@
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
@@ -17756,7 +17756,7 @@
       "nombre": "DANIEL JOSIER HEART ATTACK EDP 100ML",
       "precio": "125,00 €",
       "url": "https://www.perfumeriaschic.com/p10683605-daniel-josier-heart-attack-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10913302": {
       "nombre": "MONTALE OUD TOBACCO EDP 100ML TESTER",
@@ -17822,7 +17822,7 @@
       "nombre": "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470326-daniel-josier-lagrimas-de-boabdil-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11449394": {
       "nombre": "MORESQUE THE SECRET COLLECTION SETA...",
@@ -17918,13 +17918,13 @@
       "nombre": "DANIEL JOSIER PETITE LILI PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11469956-daniel-josier-petite-lili-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11470421": {
       "nombre": "DANIEL JOSIER VANILLE ET COCO PARFUM...",
       "precio": "120,00 €",
       "url": "https://www.perfumeriaschic.com/p11470421-daniel-josier-vanille-et-coco-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11517806": {
       "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
@@ -17943,6 +17943,12 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11674081-bois-1920-cannabis-la-fruttata-eau-de-parfum-100ml-tester.html",
       "en_stock": false
+    },
+    "10679798": {
+      "nombre": "DANIEL JOSIER GREEN LEATHER EDP...",
+      "precio": "120,00 €",
+      "url": "https://www.perfumeriaschic.com/p10679798-daniel-josier-green-leather-edp-100ml.html",
+      "en_stock": true
     },
     "10077269": {
       "nombre": "JULIETTE HAS A GUN SUNNY SIDE UP EDP...",
@@ -18215,6 +18221,7 @@
     "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
     "DANIEL JOSIER 28 EDP 100ML",
     "DANIEL JOSIER AMBRE TABAC EDP 100ML",
+    "DANIEL JOSIER GREEN LEATHER EDP...",
     "DANIEL JOSIER HEART ATTACK EDP 100ML",
     "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
     "DANIEL JOSIER PETITE LILI PARFUM...",
