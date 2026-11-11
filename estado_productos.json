@@ -2728,7 +2728,7 @@
       "nombre": "MANDARINA DUCK BLACK EDT 100ML TESTER",
       "precio": "10,97 €",
       "url": "https://www.perfumeriaschic.com/p7472687-mandarina-duck-pure-black-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11712230": {
       "nombre": "MINIATURA VIKTOR & ROLF FLOWERBOMB...",
@@ -2975,6 +2975,54 @@
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11814248": {
+      "nombre": "DANIEL JOSIER BURLESQUE EDP 100 ML",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814248-daniel-josier-burlesque-edp-100-ml.html",
+      "en_stock": true
+    },
+    "11814249": {
+      "nombre": "DANIEL JOSIER LE CHEF EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814249-daniel-josier-le-chef-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814250": {
+      "nombre": "DANIEL JOSIER STUPID SUGAR DADDY...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814250-daniel-josier-stupid-sugar-daddy-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814251": {
+      "nombre": "DANIEL JOSIER BEAUX TÉNÉBREUX...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814251-daniel-josier-beaux-tenebreux-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814252": {
+      "nombre": "DANIEL JOSIER STRIGOI EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814252-daniel-josier-strigoi-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814253": {
+      "nombre": "DANIEL JOSIER CAIN EXTRAIT DE PARFUM...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814253-daniel-josier-cain-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814254": {
+      "nombre": "DANIEL JOSIER LANCELOT EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814254-daniel-josier-lancelot-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814255": {
+      "nombre": "DANIEL JOSIER AIRE DE URKIOLA EDP...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814255-daniel-josier-aire-de-urkiola-edp-100-ml.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -18220,11 +18268,19 @@
     "D.S.&DURGA I DON'T KNOW WHAT EDP...",
     "D.S.&DURGA NOTORIOUS OUD EDP 50ML...",
     "DANIEL JOSIER 28 EDP 100ML",
+    "DANIEL JOSIER AIRE DE URKIOLA EDP...",
     "DANIEL JOSIER AMBRE TABAC EDP 100ML",
+    "DANIEL JOSIER BEAUX TÉNÉBREUX...",
+    "DANIEL JOSIER BURLESQUE EDP 100 ML",
+    "DANIEL JOSIER CAIN EXTRAIT DE PARFUM...",
     "DANIEL JOSIER GREEN LEATHER EDP...",
     "DANIEL JOSIER HEART ATTACK EDP 100ML",
     "DANIEL JOSIER LAGRIMAS DE BOABDIL...",
+    "DANIEL JOSIER LANCELOT EXTRAIT DE...",
+    "DANIEL JOSIER LE CHEF EXTRAIT DE...",
     "DANIEL JOSIER PETITE LILI PARFUM...",
+    "DANIEL JOSIER STRIGOI EXTRAIT DE...",
+    "DANIEL JOSIER STUPID SUGAR DADDY...",
     "DANIEL JOSIER UNDER THE FIGTREE EDP...",
     "DANIEL JOSIER VANILLE ET COCO PARFUM...",
     "DANIEL JOSIER VETIVER EDP 100ML",
