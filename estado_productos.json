@@ -2874,6 +2874,12 @@
       "url": "https://www.perfumeriaschic.com/p11756164-simone-andreoli-rose-of-dangerous-flamenco-100ml-tester.html",
       "en_stock": false
     },
+    "11244379": {
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11398342": {
       "nombre": "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
       "precio": "67,41 €",
@@ -3017,6 +3023,12 @@
       "precio": "19,91 €",
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "1998160": {
+      "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p1998160-escada-especially-edp-75ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -7178,6 +7190,12 @@
       "url": "https://www.perfumeriaschic.com/p10240056-etro-magot-edt-100ml-tester.html",
       "en_stock": false
     },
+    "7880655": {
+      "nombre": "SISLEY IZIA EDP 100ML TESTER",
+      "precio": "78,90 €",
+      "url": "https://www.perfumeriaschic.com/p7880655-sisley-izia-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "8827160": {
       "nombre": "GUERLAIN JARDINS DE BAGATELLE EDP...",
       "precio": "59,90 €",
@@ -9028,9 +9046,9 @@
     },
     "1998160": {
       "nombre": "ESCADA ESPECIALLY EDP 75ML TESTER",
-      "precio": "34,90 €",
+      "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p1998160-escada-especially-edp-75ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10915084": {
       "nombre": "MONTALE WHITE MUSK EDP 100ML TESTER",
@@ -11472,7 +11490,7 @@
       "nombre": "SISLEY IZIA LA NUIT EDP 100ML TESTER",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8372134-sisley-izia-la-nuit-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11457942": {
       "nombre": "GRITTI VENETIA GOSSIP NIGHT EAU DE...",
@@ -14017,6 +14035,12 @@
       "precio": "89,41 €",
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11244379": {
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
@@ -16900,6 +16924,12 @@
       "url": "https://www.perfumeriaschic.com/p10928804-dusita-la-rhapsodie-noire-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
+    "11244379": {
+      "nombre": "TOM FORD BLACK ORCHID EDP 100ML...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11244379-tom-ford-black-orchid-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11683690": {
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
       "precio": "104,90 €",
@@ -18009,6 +18039,48 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11814249": {
+      "nombre": "DANIEL JOSIER LE CHEF EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814249-daniel-josier-le-chef-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814250": {
+      "nombre": "DANIEL JOSIER STUPID SUGAR DADDY...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814250-daniel-josier-stupid-sugar-daddy-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814251": {
+      "nombre": "DANIEL JOSIER BEAUX TÉNÉBREUX...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814251-daniel-josier-beaux-tenebreux-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814252": {
+      "nombre": "DANIEL JOSIER STRIGOI EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814252-daniel-josier-strigoi-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814253": {
+      "nombre": "DANIEL JOSIER CAIN EXTRAIT DE PARFUM...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814253-daniel-josier-cain-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814254": {
+      "nombre": "DANIEL JOSIER LANCELOT EXTRAIT DE...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814254-daniel-josier-lancelot-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "11814255": {
+      "nombre": "DANIEL JOSIER AIRE DE URKIOLA EDP...",
+      "precio": "130,00 €",
+      "url": "https://www.perfumeriaschic.com/p11814255-daniel-josier-aire-de-urkiola-edp-100-ml.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18341,6 +18413,7 @@
     "ELIZABETH ARDEN RED DOOR EDT 100ML...",
     "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
     "ESCADA CHIFFON SORBET LIMITED...",
+    "ESCADA ESPECIALLY EDP 75ML TESTER",
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
     "ESCADA FLOR DEL SOL EDT 30ML TESTER",
     "ESCADA JOYFUL EDP 75ML TESTER",
@@ -19053,6 +19126,7 @@
     "SISLEY EAU DE SISLEY 2 EDT 100ML...",
     "SISLEY EAU DE SISLEY 3 EDT 100ML...",
     "SISLEY EAU TROPICALE EDT 100ML TESTER",
+    "SISLEY IZIA EDP 100ML TESTER",
     "SISLEY IZIA LA NUIT EDP 100ML TESTER",
     "SISLEY L'EAU REVEE D'ARIA  EDT 100ML...",
     "SISLEY SOIR DE LUNE EDP 100ML TESTER",
