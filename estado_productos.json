@@ -11948,12 +11948,6 @@
       "url": "https://www.perfumeriaschic.com/p10103574-molinard-oud-magnetique-edp-75ml-tester.html",
       "en_stock": false
     },
-    "11637741": {
-      "nombre": "GIORGIO GIORGIO BEVERLY HILLS EDT...",
-      "precio": "9,90 €",
-      "url": "https://www.perfumeriaschic.com/p11637741-giorgio-giorgio-beverly-hills-edt-90ml-tester.html",
-      "en_stock": false
-    },
     "9608198": {
       "nombre": "PERRIS MONTE CARLO PATCHOULI NOSY BE...",
       "precio": "119,90 €",
@@ -13554,7 +13548,7 @@
       "nombre": "MANDARINA DUCK BLACK EDT 100ML TESTER",
       "precio": "10,97 €",
       "url": "https://www.perfumeriaschic.com/p7472687-mandarina-duck-pure-black-edt-100ml-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11285092": {
       "nombre": "KENZO FLOWER IKEBANA EDP 75ML TESTER",
