@@ -12434,12 +12434,6 @@
       "url": "https://www.perfumeriaschic.com/p8731930-calvin-klein-eternity-woman-eau-so-fresh-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11404348": {
-      "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
-      "en_stock": false
-    },
     "11756087": {
       "nombre": "MONTALE JASMIN FULL EDP 100ML TESTER",
       "precio": "59,90 €",
@@ -14606,22 +14600,40 @@
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11814371": {
-      "nombre": "ESSENTIAL PARFUMS BOIS IMPERIAL...",
+    "11814378": {
+      "nombre": "ESSENTIAL PARFUMS BOIS IMPÉRIAL...",
       "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814371-essential-parfums-bois-imperial-extrait-30-ml-tester.html",
+      "url": "https://www.perfumeriaschic.com/p11814378-essential-parfums-bois-imperial-extrait-30-ml-tester.html",
       "en_stock": true
     },
-    "11814372": {
+    "11814379": {
       "nombre": "AMOUAGE REFLECTION MAN EAU DE PARFUM...",
       "precio": "174,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814372-amouage-reflection-man-eau-de-parfum-100-ml-tester.html",
+      "url": "https://www.perfumeriaschic.com/p11814379-amouage-reflection-man-eau-de-parfum-100-ml-tester.html",
       "en_stock": true
     },
-    "11814373": {
+    "11814380": {
       "nombre": "MONTALE ARABIANS ROSE LEATHER EAU DE...",
       "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p11814373-montale-arabians-rose-leather-eau-de-parfum-100-ml-tester.html",
+      "url": "https://www.perfumeriaschic.com/p11814380-montale-arabians-rose-leather-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11814381": {
+      "nombre": "MONTALE BE MY PLUM EAU DE PARFUM 100...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814381-montale-be-my-plum-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11814383": {
+      "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
+      "en_stock": true
+    },
+    "11814384": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EAU DE...",
+      "precio": "74,40 €",
+      "url": "https://www.perfumeriaschic.com/p11814384-mancera-jardin-exclusif-eau-de-parfum-120-ml.html",
       "en_stock": true
     },
     "6854886": {
@@ -15998,12 +16010,6 @@
       "nombre": "TOM FORD JASMIN ROUGE EAU DE PARFUM...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11244338-tom-ford-jasmin-rouge-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
-    "11404348": {
-      "nombre": "MANCERA JARDIN EXCLUSIF EDP 120ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11404348-mancera-jardin-exclusif-edp-120ml-tester.html",
       "en_stock": false
     },
     "11407993": {
@@ -18093,6 +18099,18 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11410303-montale-arabians-tonka-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11814383": {
+      "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
+      "en_stock": true
+    },
+    "11814384": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EAU DE...",
+      "precio": "74,40 €",
+      "url": "https://www.perfumeriaschic.com/p11814384-mancera-jardin-exclusif-eau-de-parfum-120-ml.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18775,9 +18793,11 @@
     "MANCERA INSTANT CRUSH EDP 120ML...",
     "MANCERA INTENSE FRENCH RIVIERA EDP...",
     "MANCERA INTENSE INSTANT CRUSH  EDP...",
+    "MANCERA JARDIN EXCLUSIF EAU DE...",
     "MANCERA JARDIN EXCLUSIF EDP 120ML...",
     "MANCERA JASMIN EXCLUSIF EDP 120ML...",
     "MANCERA LEMON LINE EDP 120ML TESTER",
+    "MANCERA MELODY OF THE SUN EAU DE...",
     "MANCERA MELODY OF THE SUN EDP 120ML...",
     "MANCERA MIDNIGHT GOLD EDP 120ML...",
     "MANCERA MUSKY GARDEN EDP 120ML TESTER",
@@ -18885,6 +18905,7 @@
     "MONTALE ARABIANS MUSK EDP 100ML...",
     "MONTALE ARABIANS ROSE LEATHER EAU DE...",
     "MONTALE ARABIANS TONKA EDP 100ML...",
+    "MONTALE BE MY PLUM EAU DE PARFUM 100...",
     "MONTALE BLACK AOUD EDP 100ML TESTER",
     "MONTALE BLUE AMBER EDP 100ML TESTER",
     "MONTALE CHOCOLATE GREEDY EDP 100ML ...",
