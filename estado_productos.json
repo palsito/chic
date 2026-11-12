@@ -3558,13 +3558,13 @@
       "nombre": "MONTALE ROSE ELIXIR EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "7431831": {
       "nombre": "MONTALE AMBER & SPICES EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p7431831-montale-amber-spices-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11561326": {
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
@@ -14798,7 +14798,7 @@
       "nombre": "MONTALE ROSE ELIXIR EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11470981-montale-rose-elixir-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11561326": {
       "nombre": "MONTALE VANILLA EXTASY EDP 100ML...",
