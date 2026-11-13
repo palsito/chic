@@ -2996,6 +2996,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11664301": {
+      "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
+      "precio": "74,95 €",
+      "url": "https://www.perfumeriaschic.com/p11664301-montale-starry-nights-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11723328": {
+      "nombre": "LOEWE 7 ELIXIR EDP 100ML TESTER",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11723328-loewe-7-elixir-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "3121690": {
+      "nombre": "LOEWE 7 EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p3121690-loewe-7-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11701495": {
+      "nombre": "HOUBIGANT TE AMBRE RUBIS EDP EXTREME...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11701495-houbigant-te-ambre-rubis-edp-extreme-100ml-tester.html",
+      "en_stock": true
+    },
+    "11757503": {
+      "nombre": "ESSENTIAL PARFUMS FIG INFUSION EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11757503-essential-parfums-fig-infusion-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11545195": {
       "nombre": "DONNA KARAN CASHMERE & VANILLA...",
       "precio": "64,90 €",
@@ -3006,6 +3036,12 @@
       "nombre": "MONTALE ARABIANS ROSE LEATHER EAU DE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11814380-montale-arabians-rose-leather-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11526201": {
+      "nombre": "PERRIS MONTE CARLO BALSAMIR EAU DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526201-perris-monte-carlo-balsamir-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
     "11814381": {
@@ -3061,12 +3097,6 @@
       "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "7880655": {
-      "nombre": "SISLEY IZIA EDP 100ML TESTER",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p7880655-sisley-izia-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11643697": {
       "nombre": "MANCERA CHERRY CHERRY EDP 120ML",
@@ -3204,7 +3234,7 @@
       "nombre": "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p11398077-etat-libre-dorange-the-ghost-in-the-shell-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11527605": {
       "nombre": "SIMONE ANDREOLI TULUM JUNGLESCAPE...",
@@ -3858,6 +3888,12 @@
       "nombre": "GIVENCHY DAHLIA DIVIN EDP 100ML...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p2633352-givenchy-dahlia-divin-edp-75ml-tester.html",
+      "en_stock": true
+    },
+    "7315834": {
+      "nombre": "JIMMY CHOO EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p7315834-jimmy-choo-edt-100ml-tester.html",
       "en_stock": true
     },
     "10680516": {
@@ -16198,6 +16234,12 @@
       "url": "https://www.perfumeriaschic.com/p11514743-montale-blue-matcha-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11526201": {
+      "nombre": "PERRIS MONTE CARLO BALSAMIR EAU DE...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11526201-perris-monte-carlo-balsamir-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11526379": {
       "nombre": "BORTNIKOFF OUD COLOGNE 50ML TESTER",
       "precio": "149,90 €",
@@ -18554,6 +18596,7 @@
     "LANCOME POEME EDP 100ML TESTER",
     "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
     "LANCÔME ABSOLUE HOT AS ROSE EAU DE...",
+    "LOEWE 7 EDT 100ML TESTER",
     "LOEWE 7 ELIXIR EDP 100ML TESTER",
     "LOEWE A MI AIRE EDT 100ML TESTER",
     "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
@@ -18875,6 +18918,7 @@
     "PENHALIGON´S PORTRAITS THE...",
     "PENHALIGON´S THE TRAGEDY OF LORD...",
     "PERRIS MONTE CARLO ABSOLUE...",
+    "PERRIS MONTE CARLO BALSAMIR EAU DE...",
     "PERRIS MONTE CARLO BERGAMOTO DI...",
     "PERRIS MONTE CARLO BOIS D´OUD EDP...",
     "PERRIS MONTE CARLO CEDRO DI DIAMANTE...",
