@@ -3000,13 +3000,13 @@
       "nombre": "LORENZO PAZZAGLIA DARK FLORUM...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11815625-lorenzo-pazzaglia-dark-florum-extrait-de-parfum-75-ml-sin-caja.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11815626": {
       "nombre": "LORENZO PAZZAGLIA GREEN ISLAND...",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11815626-lorenzo-pazzaglia-green-island-extrait-de-parfum-50-ml-sin-caja.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11815627": {
       "nombre": "INITIO BLESSED BARAKA EAU DE PARFUM...",
@@ -3024,7 +3024,7 @@
       "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11528749": {
       "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
@@ -3036,7 +3036,7 @@
       "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "3521219": {
       "nombre": "YVES SAINT LAURENT Y MEN EDT 100ML...",
@@ -3252,7 +3252,7 @@
       "nombre": "SIMONE ANDREOLI MALIBU PARTY IN THE...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11539610-simone-andreoli-malibu-party-in-the-bay-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11363400": {
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
