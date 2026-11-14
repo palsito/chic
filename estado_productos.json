@@ -2996,6 +2996,42 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "8100221": {
+      "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11528749": {
+      "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11528749-lancome-idole-power-leau-de-parfum-intense-50-ml-tester.html",
+      "en_stock": true
+    },
+    "11725014": {
+      "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "3521219": {
+      "nombre": "YVES SAINT LAURENT Y MEN EDT 100ML...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p3521219-yves-saint-laurent-y-men-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11808057": {
+      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
+      "en_stock": false
+    },
+    "3045259": {
+      "nombre": "LANCOME MIRACLE EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p3045259-lancome-miracle-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11757503": {
       "nombre": "ESSENTIAL PARFUMS FIG INFUSION EDP...",
       "precio": "54,90 €",
@@ -3013,12 +3049,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11814380-montale-arabians-rose-leather-eau-de-parfum-100-ml-tester.html",
       "en_stock": true
-    },
-    "11526201": {
-      "nombre": "PERRIS MONTE CARLO BALSAMIR EAU DE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526201-perris-monte-carlo-balsamir-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
     },
     "11814381": {
       "nombre": "MONTALE BE MY PLUM EAU DE PARFUM 100...",
@@ -6332,12 +6362,6 @@
       "url": "https://www.perfumeriaschic.com/p8900907-mandarina-duck-the-duckers-resort-lovers-edt-100ml-tester.html",
       "en_stock": false
     },
-    "8168974": {
-      "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p8168974-chanel-cristaelle-edt-100ml.html",
-      "en_stock": false
-    },
     "11424267": {
       "nombre": "NISHANE ANI EXTRAIT DE PARFUM 50ML...",
       "precio": "119,90 €",
@@ -8113,12 +8137,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p5559771-chanel-coco-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "8100221": {
-      "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
-      "en_stock": true
     },
     "4606214": {
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY PURE...",
@@ -9944,12 +9962,6 @@
       "url": "https://www.perfumeriaschic.com/p11412378-estee-lauder-sensuous-nude-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11528749": {
-      "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11528749-lancome-idole-power-leau-de-parfum-intense-50-ml-tester.html",
-      "en_stock": true
-    },
     "11544558": {
       "nombre": "ANGEL SCHLESSER POUR ELLE EDT...",
       "precio": "18,90 €",
@@ -10386,6 +10398,12 @@
       "nombre": "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11366733-dusita-moonlight-in-chiangmai-eau-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "11544576": {
+      "nombre": "ESCADA BALI PARADISE EDT 100ML TESTER",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11544576-escada-bali-paradise-edt-100ml-tester.html",
       "en_stock": false
     },
     "10856085": {
@@ -11563,12 +11581,6 @@
       "precio": "74,90 €",
       "url": "https://www.perfumeriaschic.com/p9678824-mancera-sicily-edp-120ml-tester.html",
       "en_stock": false
-    },
-    "11725014": {
-      "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
-      "en_stock": true
     },
     "11418661": {
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
@@ -14533,6 +14545,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11701495-houbigant-te-ambre-rubis-edp-extreme-100ml-tester.html",
       "en_stock": false
+    },
+    "8168974": {
+      "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p8168974-chanel-cristaelle-edt-100ml.html",
+      "en_stock": true
     },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
@@ -18311,6 +18329,7 @@
     "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
     "ELIZABETH ARDEN RED DOOR EDT 100ML...",
     "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
+    "ESCADA BALI PARADISE EDT 100ML TESTER",
     "ESCADA CHIFFON SORBET LIMITED...",
     "ESCADA ESPECIALLY EDP 75ML TESTER",
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
@@ -18578,6 +18597,7 @@
     "LANCOME ADVANCED GENIFIQUE SERUM...",
     "LANCOME IDOLE NECTAR EDP 50 ML TESTER",
     "LANCOME IDOLE PEACH'N ROSES L'EAU DE...",
+    "LANCOME MIRACLE EDP 100ML TESTER",
     "LANCOME O ZENITH EDT 100ML TESTER",
     "LANCOME OFF NOW EDT 100ML TESTER",
     "LANCOME OVER THE TOP EDT 100ML TESTER",
@@ -19170,6 +19190,7 @@
     "YVES SAINT LAURENT MYSLF EDT INTENSE...",
     "YVES SAINT LAURENT OPIUM EDP 90ML...",
     "YVES SAINT LAURENT Y EDP 100ML TESTER",
+    "YVES SAINT LAURENT Y MEN EDT 100ML...",
     "ZADIG & VOLTAIRE THIS IS HER EDP...",
     "ZADIG & VOLTAIRE THIS IS HER!...",
     "ZADIG & VOLTAIRE THIS IS HIM EDT...",
