@@ -8118,7 +8118,7 @@
       "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "4606214": {
       "nombre": "ISSEY MIYAKE L`EAU D`ISSEY PURE...",
@@ -9948,7 +9948,7 @@
       "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11528749-lancome-idole-power-leau-de-parfum-intense-50-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544558": {
       "nombre": "ANGEL SCHLESSER POUR ELLE EDT...",
@@ -10386,12 +10386,6 @@
       "nombre": "DUSITA MOONLIGHT IN CHIANGMAI EAU DE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11366733-dusita-moonlight-in-chiangmai-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
-    "11544576": {
-      "nombre": "ESCADA BALI PARADISE EDT 100ML TESTER",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p11544576-escada-bali-paradise-edt-100ml-tester.html",
       "en_stock": false
     },
     "10856085": {
@@ -11574,7 +11568,7 @@
       "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11418661": {
       "nombre": "MORESQUE MORETA EDP 50ML TESTER",
@@ -16232,12 +16226,6 @@
       "nombre": "MONTALE BLUE MATCHA EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11514743-montale-blue-matcha-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "11526201": {
-      "nombre": "PERRIS MONTE CARLO BALSAMIR EAU DE...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11526201-perris-monte-carlo-balsamir-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
     "11526379": {
