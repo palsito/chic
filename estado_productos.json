@@ -1192,7 +1192,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
       "precio": "24,21 €",
       "url": "https://www.perfumeriaschic.com/p2515129-rochas-eau-de-rochas-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11439351": {
       "nombre": "MARC JACOBS DOT EDP 100ML TESTER",
@@ -4596,7 +4596,7 @@
       "nombre": "ROCHAS EAU DE ROCHAS EDT 100ML TESTER",
       "precio": "24,21 €",
       "url": "https://www.perfumeriaschic.com/p2515129-rochas-eau-de-rochas-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "9794979": {
       "nombre": "STARCK PARIS PEAU DE AILLEURS EDT...",
