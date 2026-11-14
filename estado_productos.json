@@ -2996,6 +2996,30 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11815625": {
+      "nombre": "LORENZO PAZZAGLIA DARK FLORUM...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815625-lorenzo-pazzaglia-dark-florum-extrait-de-parfum-75-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11815626": {
+      "nombre": "LORENZO PAZZAGLIA GREEN ISLAND...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815626-lorenzo-pazzaglia-green-island-extrait-de-parfum-50-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11815627": {
+      "nombre": "INITIO BLESSED BARAKA EAU DE PARFUM...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815627-initio-blessed-baraka-eau-de-parfum-90-ml-tester.html",
+      "en_stock": true
+    },
+    "8168974": {
+      "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p8168974-chanel-cristaelle-edt-100ml.html",
+      "en_stock": true
+    },
     "8100221": {
       "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
       "precio": "64,90 €",
@@ -14546,12 +14570,6 @@
       "url": "https://www.perfumeriaschic.com/p11701495-houbigant-te-ambre-rubis-edp-extreme-100ml-tester.html",
       "en_stock": false
     },
-    "8168974": {
-      "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p8168974-chanel-cristaelle-edt-100ml.html",
-      "en_stock": true
-    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -18489,6 +18507,7 @@
     "HUGO BOSS THE SCENT ELIXIR FOR HIM...",
     "HUGO BOSS THE SCENT FOR HIM EDT...",
     "HUGO BOSS THE SCENT PARFUM FOR HIM...",
+    "INITIO BLESSED BARAKA EAU DE PARFUM...",
     "INTENSO EAU DE PARFUM 125 ML TESTER",
     "ISSEY MIYAKE FUSION D´ISSEY EDT...",
     "ISSEY MIYAKE FUSION D´ISSEY EXTREME...",
@@ -18631,6 +18650,8 @@
     "LOLITA LEMPICKA FLEURS EDP 100ML...",
     "LOLITA LEMPICKA POUR HOMME EDT 100ML...",
     "LOLITA LEMPICKA SO SWEET EDP 50ML...",
+    "LORENZO PAZZAGLIA DARK FLORUM...",
+    "LORENZO PAZZAGLIA GREEN ISLAND...",
     "LORENZO VILLORESI FIRENZE TEINT DE...",
     "LORENZO VILLORESI UOMO EDT 100ML...",
     "L´OCCITANE CAP CEDRAT EAU DE...",
