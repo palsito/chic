@@ -136,7 +136,7 @@
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
       "precio": "38,76 €",
       "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11738274": {
       "nombre": "HUGO BOSS BOTTLED PACK EDT 100ML+...",
@@ -2722,7 +2722,7 @@
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10793073": {
       "nombre": "SISLEY L'EAU REVEE D'ARIA  EDT 100ML...",
@@ -4014,7 +4014,7 @@
       "nombre": "EMPORIO ARMANI LUI, IL, HE, EL, EDT...",
       "precio": "38,76 €",
       "url": "https://www.perfumeriaschic.com/p9352376-emporio-armani-lui-il-he-el-edt-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11805940": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA MANGO...",
@@ -5852,12 +5852,6 @@
       "url": "https://www.perfumeriaschic.com/p10703818-guerlain-aqua-allegoria-rosa-forte-eau-de-parfum-125ml-tester.html",
       "en_stock": false
     },
-    "8781519": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA GRANADA...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p8781519-guerlain-aqua-allegoria-granada-salvia-125ml-tester.html",
-      "en_stock": false
-    },
     "8219893": {
       "nombre": "MARC JACOBS PERFECT EDP 100ML TESTER",
       "precio": "44,90 €",
@@ -5874,12 +5868,6 @@
       "nombre": "HUGO BOSS ALIVE EDT 80ML TESTER",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p10842264-hugo-boss-alive-edt-80ml-tester.html",
-      "en_stock": false
-    },
-    "10615031": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA BERGAMOTE...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10615031-guerlain-aqua-allegoria-bergamote-calabria-edt-125ml-tester.html",
       "en_stock": false
     },
     "10513858": {
@@ -5990,12 +5978,6 @@
       "url": "https://www.perfumeriaschic.com/p10933613-etat-libre-dorange-soul-of-my-soul-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10322649": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA NEROLIA...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10322649-guerlain-aqua-allegoria-neroli-vetiver-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "7321556": {
       "nombre": "HERMES TERRE EAU INTENSE VETIVER ...",
       "precio": "78,90 €",
@@ -6060,18 +6042,6 @@
       "nombre": "CARNER BARCELONA MEGALIUM EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10936987-carner-barcelona-megalium-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "8643662": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA ORANGE...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p8643662-guerlain-acua-allegoria-orange-soleia-edt-125ml-tester.html",
-      "en_stock": false
-    },
-    "8602985": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA NETTARE DI...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p8602985-guerlain-aqua-allegoria-son-nettare-di-sole-edt-125ml.html",
       "en_stock": false
     },
     "10650052": {
@@ -6910,9 +6880,9 @@
     },
     "4880431": {
       "nombre": "PACO RABANNE ONE MILLION EDT 100ML...",
-      "precio": "39,90 €",
+      "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p4880431-paco-rabanne-one-million-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8538188": {
       "nombre": "V CANTO IRAE EDP 100ML TESTER",
@@ -7526,12 +7496,6 @@
       "url": "https://www.perfumeriaschic.com/p9407649-floris-neroli-voyage-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10319020": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA FLORA...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10319020-guerlain-aqua-allegoria-flora-salvaggia-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "8643640": {
       "nombre": "RALPH LAUREN POLO DEEP BLUE PARFUM...",
       "precio": "44,90 €",
@@ -7544,12 +7508,6 @@
       "url": "https://www.perfumeriaschic.com/p8369567-bvlgari-splendida-magnolia-sensuel-edp-100-ml-tester.html",
       "en_stock": false
     },
-    "10703737": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p10703737-guerlain-aqua-allegoria-mandarine-forte-eau-de-parfum-125ml-tester.html",
-      "en_stock": false
-    },
     "9269524": {
       "nombre": "ACQUA DI PARMA LILY OF VALLEY EDP...",
       "precio": "84,90 €",
@@ -7560,12 +7518,6 @@
       "nombre": "ADOLFO DOMINGUEZ U WOMAN EAU DE...",
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p9359746-adolfo-dominguez-u-woman-eau-de-toilette-75ml-tester-descatalogada.html",
-      "en_stock": false
-    },
-    "8826862": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA PAMPLELUNE...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p8826862-guerlain-aqua-allegoria-pamplelune-edt-125ml.html",
       "en_stock": false
     },
     "10694314": {
@@ -9174,12 +9126,6 @@
       "nombre": "MANDARINA DUCK THE DUCKERS INTO THE...",
       "precio": "12,90 €",
       "url": "https://www.perfumeriaschic.com/p8900903-mandarina-duck-the-ducker-into-the-jungle-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "8827082": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA HERBA FRESCA...",
-      "precio": "38,90 €",
-      "url": "https://www.perfumeriaschic.com/p8827082-guerlain-aqua-allegoria-herba-fresca-edt-75ml-tester.html",
       "en_stock": false
     },
     "11421089": {
@@ -12122,12 +12068,6 @@
       "url": "https://www.perfumeriaschic.com/p11744362-nishane-favonius-london-extrait-de-parfum-50ml.html",
       "en_stock": false
     },
-    "10049570": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p10049570-guerlain-aqua-allegoria-mandarine-basilic-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "1998164": {
       "nombre": "ESCADA ESPECIALLY ELIXIR EDP INTENSE...",
       "precio": "34,90 €",
@@ -13200,7 +13140,7 @@
       "nombre": "LOEWE SOLO  EDT 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7057092": {
       "nombre": "PRADA INFUSION D´IRIS EDP 100ML...",
@@ -13356,7 +13296,7 @@
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3162595": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -14539,6 +14479,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11701495-houbigant-te-ambre-rubis-edp-extreme-100ml-tester.html",
       "en_stock": false
+    },
+    "10703737": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p10703737-guerlain-aqua-allegoria-mandarine-forte-eau-de-parfum-125ml-tester.html",
+      "en_stock": true
     },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
