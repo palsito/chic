@@ -3002,18 +3002,6 @@
       "url": "https://www.perfumeriaschic.com/p11815625-lorenzo-pazzaglia-dark-florum-extrait-de-parfum-75-ml-sin-caja.html",
       "en_stock": false
     },
-    "11815626": {
-      "nombre": "LORENZO PAZZAGLIA GREEN ISLAND...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11815626-lorenzo-pazzaglia-green-island-extrait-de-parfum-50-ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11815627": {
-      "nombre": "INITIO BLESSED BARAKA EAU DE PARFUM...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11815627-initio-blessed-baraka-eau-de-parfum-90-ml-tester.html",
-      "en_stock": false
-    },
     "8168974": {
       "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
       "precio": "64,90 €",
@@ -4255,12 +4243,6 @@
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p8554260-nina-ricci-lair-du-temps-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11763822": {
-      "nombre": "LANCOME O ZENITH EDT 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11763822-lancome-o-zenith-edt-100ml-tester.html",
-      "en_stock": true
     },
     "11763821": {
       "nombre": "LANCOME OVER THE TOP EDT 100ML TESTER",
@@ -18009,12 +17991,6 @@
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
       "en_stock": true
-    },
-    "11814384": {
-      "nombre": "MANCERA JARDIN EXCLUSIF EAU DE...",
-      "precio": "74,40 €",
-      "url": "https://www.perfumeriaschic.com/p11814384-mancera-jardin-exclusif-eau-de-parfum-120-ml.html",
-      "en_stock": false
     }
   },
   "nombres_ya_notificados": [
