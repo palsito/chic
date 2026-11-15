@@ -2987,50 +2987,68 @@
       "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11682011": {
+      "nombre": "MONTALE INTENSE STARRY NIGHTS EDP...",
+      "precio": "89,94 €",
+      "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "4880431": {
+      "nombre": "PACO RABANNE ONE MILLION EDT 100ML...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p4880431-paco-rabanne-one-million-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "10878139": {
+      "nombre": "LOEWE SOLO  EDT 100ML TESTER",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11343469": {
+      "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
+      "precio": "59,71 €",
+      "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
+      "en_stock": true
+    },
+    "10703737": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p10703737-guerlain-aqua-allegoria-mandarine-forte-eau-de-parfum-125ml-tester.html",
+      "en_stock": true
+    },
+    "11815845": {
+      "nombre": "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815845-matiere-premiere-crystal-saffron-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11815846": {
+      "nombre": "CAROLINA HERRERA MY FIRST EDP 100 ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815846-carolina-herrera-my-first-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11815847": {
+      "nombre": "BVLGARI ALLEGRA MAGNIFYING...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11815847-bvlgari-allegra-magnifying-sandalwood-essence-edp-40-ml-tester.html",
+      "en_stock": true
+    },
+    "11384384": {
+      "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
+      "en_stock": true
+    },
     "8168974": {
       "nombre": "CHANEL CRISTALLE EDT 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p8168974-chanel-cristaelle-edt-100ml.html",
       "en_stock": true
-    },
-    "8100221": {
-      "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11528749": {
-      "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11528749-lancome-idole-power-leau-de-parfum-intense-50-ml-tester.html",
-      "en_stock": false
-    },
-    "11725014": {
-      "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "3521219": {
-      "nombre": "YVES SAINT LAURENT Y MEN EDT 100ML...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p3521219-yves-saint-laurent-y-men-edt-100ml-tester.html",
-      "en_stock": false
-    },
-    "11808057": {
-      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "3045259": {
-      "nombre": "LANCOME MIRACLE EDP 100ML TESTER",
-      "precio": "49,90 €",
-      "url": "https://www.perfumeriaschic.com/p3045259-lancome-miracle-edp-100ml-tester.html",
-      "en_stock": false
     },
     "11757503": {
       "nombre": "ESSENTIAL PARFUMS FIG INFUSION EDP...",
@@ -3138,12 +3156,6 @@
       "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
-      "en_stock": true
-    },
-    "11384384": {
-      "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11384384-paco-rabanne-olympea-parfum-80ml-tester.html",
       "en_stock": true
     },
     "11647095": {
@@ -5020,7 +5032,7 @@
     },
     "11682011": {
       "nombre": "MONTALE INTENSE STARRY NIGHTS EDP...",
-      "precio": "104,95 €",
+      "precio": "89,94 €",
       "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -6878,12 +6890,6 @@
       "url": "https://www.perfumeriaschic.com/p7769574-hugo-boss-the-scent-for-her-absolute-edp-50ml-tester.html",
       "en_stock": false
     },
-    "4880431": {
-      "nombre": "PACO RABANNE ONE MILLION EDT 100ML...",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p4880431-paco-rabanne-one-million-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "8538188": {
       "nombre": "V CANTO IRAE EDP 100ML TESTER",
       "precio": "69,90 €",
@@ -7214,6 +7220,12 @@
       "url": "https://www.perfumeriaschic.com/p10517682-davidoff-cool-water-night-dive-woman-edt-50ml.html",
       "en_stock": false
     },
+    "10639566": {
+      "nombre": "LANCOME MAGIE NOIRE EDT 75 ML SIN...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p10639566-lancome-magie-noire-edt-75-ml-sin-caja.html",
+      "en_stock": false
+    },
     "9953345": {
       "nombre": "MONTBLANC STARWALKER EDT 75ML TESTER",
       "precio": "23,90 €",
@@ -7500,6 +7512,12 @@
       "nombre": "BVLGARI SPLENDIDA MAGNOLIA SENSUEL...",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p8369567-bvlgari-splendida-magnolia-sensuel-edp-100-ml-tester.html",
+      "en_stock": false
+    },
+    "9269524": {
+      "nombre": "ACQUA DI PARMA LILY OF VALLEY EDP...",
+      "precio": "84,90 €",
+      "url": "https://www.perfumeriaschic.com/p9269524-acqua-di-parma-lily-of-valley-edp-100ml-tester.html",
       "en_stock": false
     },
     "9359746": {
@@ -8078,6 +8096,12 @@
       "url": "https://www.perfumeriaschic.com/p4606214-issey-miyake-leau-dissey-pure-nectar-de-parfum-edp-90ml-tester.html",
       "en_stock": false
     },
+    "11158852": {
+      "nombre": "AMOUAGE FATE MAN EDP 100ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11158852-amouage-fate-man-edp-100ml.html",
+      "en_stock": false
+    },
     "10662004": {
       "nombre": "HOUBIGANT QUELQUES FLEURS ROYALE...",
       "precio": "98,90 €",
@@ -8364,6 +8388,12 @@
       "nombre": "TOM FORD FUCKING FABULOUS EAU DE...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11244396-tom-ford-fuking-fabulous-eau-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "7706421": {
+      "nombre": "CAROLINA HERRERA FOR MEN EDT 100ML...",
+      "precio": "38,90 €",
+      "url": "https://www.perfumeriaschic.com/p7706421-carolina-herrera-for-men-edt-100ml-tester.html",
       "en_stock": false
     },
     "11449448": {
@@ -8654,6 +8684,12 @@
       "url": "https://www.perfumeriaschic.com/p3030043-jean-paul-gaultier-classique-edt-100ml-tester.html",
       "en_stock": false
     },
+    "10196508": {
+      "nombre": "TIZIANA TERENZI URSA (MAJOR) EXTRAIT...",
+      "precio": "119,89 €",
+      "url": "https://www.perfumeriaschic.com/p10196508-tiziana-terenzi-ursa-extrait-de-parfum100ml-tester.html",
+      "en_stock": false
+    },
     "11379226": {
       "nombre": "BOUCHERON JAIPUR POUR HOMME EDP...",
       "precio": "29,90 €",
@@ -8940,6 +8976,12 @@
       "nombre": "M. MICALLEF YLANG IN GOLD NECTAR DE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p10886953-m-micallef-ylang-in-gold-nectar-edp-30ml-edition-speciale-tester.html",
+      "en_stock": false
+    },
+    "8367169": {
+      "nombre": "CAROLINA HERRERA BAD BOY LE PARFUM...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p8367169-carolina-herrera-bad-boy-le-parfum-edp100ml-tester.html",
       "en_stock": false
     },
     "7559284": {
@@ -13100,12 +13142,6 @@
       "url": "https://www.perfumeriaschic.com/p11451157-ateliers-des-ors-pink-me-up-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10878139": {
-      "nombre": "LOEWE SOLO  EDT 100ML TESTER",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p10878139-loewe-solo-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "7057092": {
       "nombre": "PRADA INFUSION D´IRIS EDP 100ML...",
       "precio": "54,90 €",
@@ -13255,12 +13291,6 @@
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11343469": {
-      "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
-      "precio": "59,71 €",
-      "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
-      "en_stock": true
     },
     "3162595": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -14444,11 +14474,41 @@
       "url": "https://www.perfumeriaschic.com/p11701495-houbigant-te-ambre-rubis-edp-extreme-100ml-tester.html",
       "en_stock": false
     },
-    "10703737": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p10703737-guerlain-aqua-allegoria-mandarine-forte-eau-de-parfum-125ml-tester.html",
-      "en_stock": true
+    "8100221": {
+      "nombre": "CHANEL POUR MONSIEUR EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p8100221-chanel-pour-monsieur-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11528749": {
+      "nombre": "LANCOME IDOLE POWER L'EAU DE PARFUM...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11528749-lancome-idole-power-leau-de-parfum-intense-50-ml-tester.html",
+      "en_stock": false
+    },
+    "3045259": {
+      "nombre": "LANCOME MIRACLE EDP 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p3045259-lancome-miracle-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11808057": {
+      "nombre": "YVES SAINT LAURENT L'HOMME EDP 100...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11808057-yves-saint-laurent-lhomme-edp-100-ml-tester.html",
+      "en_stock": false
+    },
+    "3521219": {
+      "nombre": "YVES SAINT LAURENT Y MEN EDT 100ML...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p3521219-yves-saint-laurent-y-men-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "11725014": {
+      "nombre": "JEAN PAUL GAULTIER LA BELLE ROSEA...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11725014-jean-paul-gaultier-la-belle-rosea-edp-100ml-tester.html",
+      "en_stock": false
     },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
@@ -15030,7 +15090,7 @@
     },
     "11682011": {
       "nombre": "MONTALE INTENSE STARRY NIGHTS EDP...",
-      "precio": "104,95 €",
+      "precio": "89,94 €",
       "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -17906,6 +17966,7 @@
     "ACQUA DI PARMA COLONIA INTENSA EDC...",
     "ACQUA DI PARMA COLONIA PURA EDC...",
     "ACQUA DI PARMA GELSOMINO A FREDDO...",
+    "ACQUA DI PARMA LILY OF VALLEY EDP...",
     "ACQUA DI PARMA LUCE DI ROSA EDP...",
     "ACQUA DI PARMA MAGNOLIA INFINITA EDP...",
     "ACQUA DI PARMA MAGNOLIA NOBILE EDP...",
@@ -18039,6 +18100,7 @@
     "BURBERRY MR. BURBERRY EDT 100ML...",
     "BURBERRY MY BURBERRY EDP 50ML TESTER",
     "BURBERRY WEEKEND FOR WOMAN EDP 50ML...",
+    "BVLGARI ALLEGRA MAGNIFYING...",
     "BVLGARI LA GEMME AMUNAE EDP 125ML...",
     "BVLGARI MAN IN BLACK EDP 100ML TESTER",
     "BVLGARI MAN IN BLACK PARFUM 100 ML...",
@@ -18082,6 +18144,7 @@
     "CAROLINA HERRERA 212 VIP ROSÉ ELIXIR...",
     "CAROLINA HERRERA AMAZONIAN ROSE EAU...",
     "CAROLINA HERRERA BAD BOY COBALT EAU...",
+    "CAROLINA HERRERA BAD BOY LE PARFUM...",
     "CAROLINA HERRERA CH MEN EDT 100 ML...",
     "CAROLINA HERRERA CH MEN PASIÓN EDP...",
     "CAROLINA HERRERA GOLD INCIENSE EDP...",
@@ -18090,6 +18153,7 @@
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
     "CAROLINA HERRERA LA BOMBA INTENSA...",
     "CAROLINA HERRERA LUCKY CHARM EDP 100...",
+    "CAROLINA HERRERA MY FIRST EDP 100 ML...",
     "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
     "CAROLINA HERRERA OUD COUTURE EDP...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
@@ -18490,6 +18554,7 @@
     "LANCOME ADVANCED GENIFIQUE SERUM...",
     "LANCOME IDOLE NECTAR EDP 50 ML TESTER",
     "LANCOME IDOLE PEACH'N ROSES L'EAU DE...",
+    "LANCOME MAGIE NOIRE EDT 75 ML SIN...",
     "LANCOME MIRACLE EDP 100ML TESTER",
     "LANCOME O ZENITH EDT 100ML TESTER",
     "LANCOME OFF NOW EDT 100ML TESTER",
@@ -18994,6 +19059,7 @@
     "TIZIANA TERENZI LAUDANO NERO EXTRAIT...",
     "TIZIANA TERENZI MAREMMA EXTRAIT DE...",
     "TIZIANA TERENZI TELEA EXTRAIT DE...",
+    "TIZIANA TERENZI URSA (MAJOR) EXTRAIT...",
     "TOM FORD BLACK ORCHID EDP 100ML...",
     "TOM FORD EAU DE GREY VETIVER EDP...",
     "TOM FORD JASMIN ROUGE EAU DE PARFUM...",
