@@ -90,12 +90,6 @@
       "url": "https://www.perfumeriaschic.com/p11611642-tiziana-terenzi-kirke-overdose-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11363400": {
-      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
-      "precio": "154,90 €",
-      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
-      "en_stock": false
-    },
     "11450319": {
       "nombre": "MONTALE ARABIANS MUSK EDP 100ML...",
       "precio": "78,90 €",
@@ -2987,6 +2981,12 @@
       "precio": "89,94 €",
       "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11363400": {
+      "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
+      "precio": "154,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
+      "en_stock": false
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -12164,12 +12164,6 @@
       "url": "https://www.perfumeriaschic.com/p10915181-molinard-musc-eau-de-parfum-75ml-tester.html",
       "en_stock": false
     },
-    "11737328": {
-      "nombre": "LORENZO VILLORESI UOMO EDT 100ML...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11737328-lorenzo-villoresi-uomo-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "10911745": {
       "nombre": "TRUSSARDI RUBY RED EAU DE PARFUM...",
       "precio": "29,67 €",
@@ -17372,12 +17366,6 @@
       "nombre": "ATELIERS DES ORS RIVIERA DRIVE EAU...",
       "precio": "108,86 €",
       "url": "https://www.perfumeriaschic.com/p11421074-ateliers-des-ors-riviera-drive-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
-    },
-    "11737328": {
-      "nombre": "LORENZO VILLORESI UOMO EDT 100ML...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p11737328-lorenzo-villoresi-uomo-edt-100ml-tester.html",
       "en_stock": false
     },
     "11406860": {
