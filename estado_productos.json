@@ -11948,12 +11948,6 @@
       "url": "https://www.perfumeriaschic.com/p10895211-masque-milano-tango-edp-100ml.html",
       "en_stock": false
     },
-    "11340774": {
-      "nombre": "DAVIDOFF COOL WATER MEN SUMMER...",
-      "precio": "22,90 €",
-      "url": "https://www.perfumeriaschic.com/p11340774-davidoff-cool-water-men-summer-edition-2019-edt-125ml-tester.html",
-      "en_stock": false
-    },
     "11293760": {
       "nombre": "MANCERA FIG EXTASY EDP 120ML TESTER",
       "precio": "78,90 €",
@@ -12691,6 +12685,12 @@
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11651709-lacoste-original-parfum-100ml-tester.html",
       "en_stock": false
+    },
+    "11746238": {
+      "nombre": "GIORGIO ARMANI SI EAU DE PARFUM...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
     },
     "4490659": {
       "nombre": "YVES SAINT LAURENT MON PARIS EAU DE...",
@@ -13500,7 +13500,7 @@
       "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11556743": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
@@ -13616,6 +13616,12 @@
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
+    "10880445": {
+      "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
+      "en_stock": true
+    },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
       "precio": "84,90 €",
@@ -13639,6 +13645,12 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11791258-carolina-herrera-ch-men-edt-100-ml-tester.html",
       "en_stock": false
+    },
+    "11787803": {
+      "nombre": "JEAN PAUL GAULTIER DIVINE COUTURE 10...",
+      "precio": "12,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787803-jean-paul-gaultier-divine-couture-10-ml-tester.html",
+      "en_stock": true
     },
     "8895060": {
       "nombre": "LOEWE ESENCIA EAU DE PARFUM 100ML...",
