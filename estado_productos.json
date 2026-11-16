@@ -3020,12 +3020,6 @@
       "url": "https://www.perfumeriaschic.com/p11343469-mugler-alien-hypersense-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11815845": {
-      "nombre": "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
-      "precio": "138,90 €",
-      "url": "https://www.perfumeriaschic.com/p11815845-matiere-premiere-crystal-saffron-edp-100-ml-tester.html",
-      "en_stock": false
-    },
     "11384384": {
       "nombre": "PACO RABANNE OLYMPEA PARFUM 80ML...",
       "precio": "54,90 €",
@@ -6924,6 +6918,12 @@
       "nombre": "CARNER BARCELONA REVOLUCIÓN EDP...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10830844-carner-barcelona-revolucion-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "10776571": {
+      "nombre": "XERJOFF ACCENTO OVERDOSE EDP 100ML...",
+      "precio": "184,90 €",
+      "url": "https://www.perfumeriaschic.com/p10776571-xerjoff-accento-overdose-edp-100ml-tester.html",
       "en_stock": false
     },
     "10680498": {
@@ -19081,6 +19081,7 @@
     "VIKTOR & ROLF FLOWERBOMB RUBY ORCHID...",
     "XERJOFF 17/17 STONE LABEL HOMME EDP...",
     "XERJOFF 40 KNOTS EDP 100ML TESTER",
+    "XERJOFF ACCENTO OVERDOSE EDP 100ML...",
     "XERJOFF AMABILE EDP 100ML TESTER",
     "XERJOFF CASAMORATI BOUQUET IDEALE...",
     "XERJOFF CASAMORATI MEFISTO EDP 100ML...",
