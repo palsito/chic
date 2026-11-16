@@ -3042,7 +3042,7 @@
       "nombre": "DONNA KARAN CASHMERE & VANILLA...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11545195-donna-karan-cashmere-vanilla-essence-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11814380": {
       "nombre": "MONTALE ARABIANS ROSE LEATHER EAU DE...",
@@ -6924,12 +6924,6 @@
       "nombre": "CARNER BARCELONA REVOLUCIÓN EDP...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10830844-carner-barcelona-revolucion-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "10776571": {
-      "nombre": "XERJOFF ACCENTO OVERDOSE EDP 100ML...",
-      "precio": "184,90 €",
-      "url": "https://www.perfumeriaschic.com/p10776571-xerjoff-accento-overdose-edp-100ml-tester.html",
       "en_stock": false
     },
     "10680498": {
@@ -14250,18 +14244,6 @@
       "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p10703737-guerlain-aqua-allegoria-mandarine-forte-eau-de-parfum-125ml-tester.html",
-      "en_stock": false
-    },
-    "11815846": {
-      "nombre": "CAROLINA HERRERA MY FIRST EDP 100 ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p11815846-carolina-herrera-my-first-edp-100-ml-tester.html",
-      "en_stock": false
-    },
-    "11815847": {
-      "nombre": "BVLGARI ALLEGRA MAGNIFYING...",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11815847-bvlgari-allegra-magnifying-sandalwood-essence-edp-40-ml-tester.html",
       "en_stock": false
     },
     "11757503": {
