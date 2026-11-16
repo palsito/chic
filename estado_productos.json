@@ -2990,6 +2990,54 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11746238": {
+      "nombre": "GIORGIO ARMANI SI EAU DE PARFUM...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11500876": {
+      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11787803": {
+      "nombre": "JEAN PAUL GAULTIER DIVINE COUTURE 10...",
+      "precio": "12,95 €",
+      "url": "https://www.perfumeriaschic.com/p11787803-jean-paul-gaultier-divine-couture-10-ml-tester.html",
+      "en_stock": true
+    },
+    "10880445": {
+      "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
+      "en_stock": true
+    },
+    "11816296": {
+      "nombre": "MATIÈRE PREMIÈRE FRENCH FLOWER EAU...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11816296-matiere-premiere-french-flower-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11816297": {
+      "nombre": "MATIÈRE PREMIÈRE ENCENS SUAVE EAU DE...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11816297-matiere-premiere-encens-suave-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11816294": {
+      "nombre": "YVES SAINT LAURENT MYSLF EAU DE...",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p11816294-yves-saint-laurent-myslf-eau-de-toilette-intense-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11816295": {
+      "nombre": "ORTO PARISI RISVELIUM EAU DE PARFUM...",
+      "precio": "89,90 €",
+      "url": "https://www.perfumeriaschic.com/p11816295-orto-parisi-risvelium-eau-de-parfum-50-ml-tester.html",
+      "en_stock": true
+    },
     "10938085": {
       "nombre": "ETAT LIBRE D´ORANGE ARCHIVES 69 EDP...",
       "precio": "64,78 €",
@@ -12686,12 +12734,6 @@
       "url": "https://www.perfumeriaschic.com/p11651709-lacoste-original-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "11746238": {
-      "nombre": "GIORGIO ARMANI SI EAU DE PARFUM...",
-      "precio": "54,90 €",
-      "url": "https://www.perfumeriaschic.com/p11746238-giorgio-armani-si-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "4490659": {
       "nombre": "YVES SAINT LAURENT MON PARIS EAU DE...",
       "precio": "48,90 €",
@@ -13496,12 +13538,6 @@
       "url": "https://www.perfumeriaschic.com/p10452315-scalpers-the-club-edp-125ml-tester.html",
       "en_stock": false
     },
-    "11500876": {
-      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11556743": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EAU DE...",
       "precio": "48,90 €",
@@ -13616,12 +13652,6 @@
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10880445": {
-      "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
-      "precio": "46,90 €",
-      "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
-      "en_stock": true
-    },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
       "precio": "84,90 €",
@@ -13645,12 +13675,6 @@
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11791258-carolina-herrera-ch-men-edt-100-ml-tester.html",
       "en_stock": false
-    },
-    "11787803": {
-      "nombre": "JEAN PAUL GAULTIER DIVINE COUTURE 10...",
-      "precio": "12,95 €",
-      "url": "https://www.perfumeriaschic.com/p11787803-jean-paul-gaultier-divine-couture-10-ml-tester.html",
-      "en_stock": true
     },
     "8895060": {
       "nombre": "LOEWE ESENCIA EAU DE PARFUM 100ML...",
@@ -18670,6 +18694,8 @@
     "MATIERE PREMIERE CRYSTAL SAFFRON EDP...",
     "MATIERE PREMIERE RADICAL ROSE EDP...",
     "MATIERE PREMIERE SANTAL AUSTRAL EDP...",
+    "MATIÈRE PREMIÈRE ENCENS SUAVE EAU DE...",
+    "MATIÈRE PREMIÈRE FRENCH FLOWER EAU...",
     "MEMO PARIS CAPPADOCIA EDP 75ML",
     "MEMO PARIS FLAM EDP 75ML",
     "MEMO PARIS ORIENTAL LEATHER EDP 75ML",
@@ -18829,6 +18855,7 @@
     "NISHANE WULONG CHÁ HAIR PERFUME PARA...",
     "NISHANE WULÓNG CHÁ X EXTRAIT DE...",
     "ORMONDE JAYNE ORMONDE WOMAN PARFUM...",
+    "ORTO PARISI RISVELIUM EAU DE PARFUM...",
     "PACO RABANNE AFTER CLUB EDP 125ML...",
     "PACO RABANNE BLACK XS FOR HIM EDT...",
     "PACO RABANNE FAME IN LOVE PARFUM...",
@@ -19120,6 +19147,7 @@
     "YVES SAINT LAURENT LIBRE INTENSE EAU...",
     "YVES SAINT LAURENT L´HOMME LE PARFUM...",
     "YVES SAINT LAURENT MON PARIS EAU DE...",
+    "YVES SAINT LAURENT MYSLF EAU DE...",
     "YVES SAINT LAURENT MYSLF EDT INTENSE...",
     "YVES SAINT LAURENT OPIUM EDP 90ML...",
     "YVES SAINT LAURENT Y EDP 100ML TESTER",
