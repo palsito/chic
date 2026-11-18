@@ -1,5 +1,29 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11817209": {
+      "nombre": "MANCERA INTENSE FRENCH RIVIERA...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11817209-mancera-intense-french-riviera-extrait-de-parfum-120-ml.html",
+      "en_stock": true
+    },
+    "11814384": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EAU DE...",
+      "precio": "74,40 €",
+      "url": "https://www.perfumeriaschic.com/p11814384-mancera-jardin-exclusif-eau-de-parfum-120-ml.html",
+      "en_stock": true
+    },
+    "11643674": {
+      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
+      "en_stock": true
+    },
+    "11424764": {
+      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11814249": {
       "nombre": "DANIEL JOSIER LE CHEF EXTRAIT DE...",
       "precio": "130,00 €",
@@ -238,6 +262,12 @@
       "nombre": "ADOLFO DOMINGUEZ ADN ROSA SPICY EDP...",
       "precio": "19,95 €",
       "url": "https://www.perfumeriaschic.com/p11530851-adolfo-dominguez-adn-rosa-spicy-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11517806": {
+      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": true
     },
     "11530853": {
@@ -1956,12 +1986,6 @@
       "url": "https://www.perfumeriaschic.com/p11012061-nishane-fan-your-flames-x-extrait-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "11643674": {
-      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
-      "precio": "78,59 €",
-      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
-      "en_stock": true
-    },
     "11548546": {
       "nombre": "LANCOME LA VIE EST BELLE ROSE...",
       "precio": "39,96 €",
@@ -2940,12 +2964,6 @@
       "url": "https://www.perfumeriaschic.com/p11660125-mary-kay-timewise-repair-volu-firm-eyes-crema-renovadora-para-ojos-14ml.html",
       "en_stock": false
     },
-    "11517806": {
-      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11758299": {
       "nombre": "ROBERT PIGUET PETIT FRACAS 100ML...",
       "precio": "94,90 €",
@@ -2976,35 +2994,17 @@
       "url": "https://www.perfumeriaschic.com/p11500869-halloween-my-wish-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11424764": {
-      "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
-      "precio": "32,95 €",
-      "url": "https://www.perfumeriaschic.com/p11424764-juicy-couture-viva-la-juicy-sucre-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11682011": {
       "nombre": "MONTALE INTENSE STARRY NIGHTS EDP...",
       "precio": "89,94 €",
       "url": "https://www.perfumeriaschic.com/p11682011-montale-intense-starry-nights-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11814384": {
-      "nombre": "MANCERA JARDIN EXCLUSIF EAU DE...",
-      "precio": "74,40 €",
-      "url": "https://www.perfumeriaschic.com/p11814384-mancera-jardin-exclusif-eau-de-parfum-120-ml.html",
-      "en_stock": true
-    },
     "11363400": {
       "nombre": "CREED QUEEN OF SILK EDP 75ML TESTER",
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": false
-    },
-    "11817209": {
-      "nombre": "MANCERA INTENSE FRENCH RIVIERA...",
-      "precio": "104,90 €",
-      "url": "https://www.perfumeriaschic.com/p11817209-mancera-intense-french-riviera-extrait-de-parfum-120-ml.html",
-      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3055,12 +3055,6 @@
       "precio": "129,90 €",
       "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": true
-    },
-    "11500876": {
-      "nombre": "AZZARO THE MOST WANTED INTENSE EDP...",
-      "precio": "39,90 €",
-      "url": "https://www.perfumeriaschic.com/p11500876-azzaro-the-most-wanted-intense-edp-100ml-tester.html",
-      "en_stock": false
     },
     "10880445": {
       "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
@@ -12702,6 +12696,12 @@
       "nombre": "CHANEL ALLURE SENSUELLE EDP 100ML...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p5559705-chanel-allure-sensuelle-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "10200241": {
+      "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p10200241-xerjoff-erba-pura-edp-100ml-tester.html",
       "en_stock": false
     },
     "11765852": {
