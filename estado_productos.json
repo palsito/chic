@@ -6,6 +6,18 @@
       "url": "https://www.perfumeriaschic.com/p11817695-montblanc-explorer-eau-de-parfum-30-ml.html",
       "en_stock": true
     },
+    "8150280": {
+      "nombre": "MANCERA FEMINITY EDP 120ML",
+      "precio": "72,85 €",
+      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
+      "en_stock": true
+    },
+    "11818131": {
+      "nombre": "MANCERA AMBERFUL EAU DE PARFUM 120 ML",
+      "precio": "78,20 €",
+      "url": "https://www.perfumeriaschic.com/p11818131-mancera-amberful-eau-de-parfum-120-ml.html",
+      "en_stock": true
+    },
     "11817209": {
       "nombre": "MANCERA INTENSE FRENCH RIVIERA...",
       "precio": "104,90 €",
@@ -3011,12 +3023,6 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": false
-    },
-    "8150280": {
-      "nombre": "MANCERA FEMINITY EDP 120ML",
-      "precio": "72,85 €",
-      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
-      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3024,6 +3030,36 @@
       "nombre": "MONTBLANC EXPLORER EAU DE PARFUM 30...",
       "precio": "17,42 €",
       "url": "https://www.perfumeriaschic.com/p11817695-montblanc-explorer-eau-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "3116389": {
+      "nombre": "ARMANI STRONGER WHIT YOU EDT 100ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p3116389-armani-stronger-whit-you-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8081954": {
+      "nombre": "CREED AVENTUS EDP 100ML TESTER",
+      "precio": "164,90 €",
+      "url": "https://www.perfumeriaschic.com/p8081954-creed-aventus-edp-100ml-tester-sin-caja.html",
+      "en_stock": false
+    },
+    "8150280": {
+      "nombre": "MANCERA FEMINITY EDP 120ML",
+      "precio": "72,85 €",
+      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
+      "en_stock": true
+    },
+    "8152274": {
+      "nombre": "YVES SAINT LAUREN OPIUM POUR HOMME...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p8152274-yves-saint-lauren-opium-pour-homme-edt-50ml-tester.html",
+      "en_stock": true
+    },
+    "11818131": {
+      "nombre": "MANCERA AMBERFUL EAU DE PARFUM 120 ML",
+      "precio": "78,20 €",
+      "url": "https://www.perfumeriaschic.com/p11818131-mancera-amberful-eau-de-parfum-120-ml.html",
       "en_stock": true
     },
     "11817137": {
@@ -19227,6 +19263,7 @@
     "XERJOFF VIA CAVOUR 1 PARFUM 50ML...",
     "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
     "XERJOFF XJ 1861 ZEFIRO EDP 100ML...",
+    "YVES SAINT LAUREN OPIUM POUR HOMME...",
     "YVES SAINT LAURENT BLACK OPIUM EDP...",
     "YVES SAINT LAURENT L'HOMME EDP 100...",
     "YVES SAINT LAURENT LE VESTIAIRES DES...",
