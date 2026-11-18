@@ -3011,6 +3011,12 @@
       "precio": "154,90 €",
       "url": "https://www.perfumeriaschic.com/p11363400-creed-queen-of-silk-edp-75ml-tester.html",
       "en_stock": false
+    },
+    "8150280": {
+      "nombre": "MANCERA FEMINITY EDP 120ML",
+      "precio": "72,85 €",
+      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -11564,12 +11570,6 @@
       "url": "https://www.perfumeriaschic.com/p11744270-montale-aqua-gold-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8150280": {
-      "nombre": "MANCERA FEMINITY EDP 120ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
-      "en_stock": false
-    },
     "10915364": {
       "nombre": "MOLINARD VANILLE EAU DE PARFUM 75ML...",
       "precio": "34,90 €",
@@ -14552,18 +14552,6 @@
       "url": "https://www.perfumeriaschic.com/p11720837-bond-no-9-dubai-platinum-edp-100ml-tester.html",
       "en_stock": false
     },
-    "3116389": {
-      "nombre": "ARMANI STRONGER WHIT YOU EDT 100ML...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p3116389-armani-stronger-whit-you-edt-100ml-tester.html",
-      "en_stock": true
-    },
-    "8081954": {
-      "nombre": "CREED AVENTUS EDP 100ML TESTER",
-      "precio": "164,90 €",
-      "url": "https://www.perfumeriaschic.com/p8081954-creed-aventus-edp-100ml-tester-sin-caja.html",
-      "en_stock": true
-    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -14756,12 +14744,6 @@
       "nombre": "D.S.&DURGA I DON'T KNOW WHAT EDP...",
       "precio": "138,90 €",
       "url": "https://www.perfumeriaschic.com/p11647095-d-s-durga-i-dont-know-what-edp-50ml-tester.html",
-      "en_stock": true
-    },
-    "11517806": {
-      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
-      "precio": "129,90 €",
-      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": true
     },
     "11814383": {
@@ -15220,12 +15202,6 @@
       "url": "https://www.perfumeriaschic.com/p11379213-chabaud-lait-de-vanille-edt-100ml-sin-caja.html",
       "en_stock": true
     },
-    "11708203": {
-      "nombre": "TIZIANA TERENZI SMERALDA EXTRAIT DE...",
-      "precio": "144,90 €",
-      "url": "https://www.perfumeriaschic.com/p11708203-tiziana-terenzi-smeralda-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11629627": {
       "nombre": "PERRIS MONTECARLO SHINING MOON EAU...",
       "precio": "89,90 €",
@@ -15326,6 +15302,12 @@
       "nombre": "BOIS 1920 ORO 1920 EDP 100ML TESTER",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p10936974-bois-1920-oro-1920-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11517806": {
+      "nombre": "BOND Nº 9´S ISLAND EDP 100ML TESTER",
+      "precio": "129,90 €",
+      "url": "https://www.perfumeriaschic.com/p11517806-bond-n-9s-island-edp-100ml-tester.html",
       "en_stock": true
     },
     "11664088": {
@@ -17243,10 +17225,10 @@
       "en_stock": false
     },
     "8150280": {
-      "nombre": "MANCERA FEMINITY EDP 120ML TESTER",
-      "precio": "68,90 €",
+      "nombre": "MANCERA FEMINITY EDP 120ML",
+      "precio": "72,85 €",
       "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11675406": {
       "nombre": "SPIRIT OF DUBAI ABRAJ 50ML TESTER",
@@ -18021,6 +18003,12 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11817209-mancera-intense-french-riviera-extrait-de-parfum-120-ml.html",
       "en_stock": true
+    },
+    "11818131": {
+      "nombre": "MANCERA AMBERFUL EAU DE PARFUM 120 ML",
+      "precio": "78,20 €",
+      "url": "https://www.perfumeriaschic.com/p11818131-mancera-amberful-eau-de-parfum-120-ml.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18697,6 +18685,7 @@
     "MAISON CRIVELLI SAFRAN SECRET 50ML...",
     "MAISON MARGIELA REPLICA UP AT DAWN...",
     "MANCERA AMBER FEVER EDP 120ML TESTER",
+    "MANCERA AMBERFUL EAU DE PARFUM 120 ML",
     "MANCERA AMORE CAFFE EDP 120ML",
     "MANCERA AMORE CAFFE EDP 120ML TESTER",
     "MANCERA AOUD BLUE NOTES EDP 120ML...",
@@ -18717,6 +18706,7 @@
     "MANCERA COCO VANILLE EDP 120ML TESTER",
     "MANCERA COSMIC PEPPER EDP 60ML",
     "MANCERA FABULOUS YUZU EDP 120ML...",
+    "MANCERA FEMINITY EDP 120ML",
     "MANCERA FEMINITY EDP 120ML TESTER",
     "MANCERA FIG EXTASY EDP 120ML TESTER",
     "MANCERA FIG ME UP EDP 120ML",
