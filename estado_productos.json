@@ -3062,10 +3062,40 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11672502": {
+      "nombre": "JEROBOAM INSULO EXTRAIT DE PARFUM...",
+      "precio": "128,57 €",
+      "url": "https://www.perfumeriaschic.com/p11672502-jeroboam-insulo-extrait-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11726325": {
+      "nombre": "NISHANE MEANT TO BE SEEN EXTRAIT DE...",
+      "precio": "138,96 €",
+      "url": "https://www.perfumeriaschic.com/p11726325-nishane-meant-to-be-seen-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11546800": {
+      "nombre": "SIMONE ANDREOLI SUNPLOSION ALOHA...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11546800-simone-andreoli-sunplosion-aloha-state-of-mind-eau-de-parfum-intense-100ml-tester.html",
+      "en_stock": true
+    },
+    "11760352": {
+      "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11760352-jovoy-musc-pallas-edp-75ml-tester.html",
+      "en_stock": true
+    },
     "4382975": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM EDT...",
       "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p4382975-zadig-voltaire-this-is-him-edt-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11683690": {
+      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
+      "precio": "98,92 €",
+      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
       "en_stock": true
     },
     "11740999": {
@@ -3090,13 +3120,19 @@
       "nombre": "PENHALIGON´S HALFETI EDP 100ML TESTER",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p7283638-penhaligons-halfeti-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "4479564": {
+      "nombre": "CACHAREL YES I AM EDP 50ML TESTER",
+      "precio": "31,90 €",
+      "url": "https://www.perfumeriaschic.com/p4479564-cacharel-yes-i-am-edp-50ml-tester.html",
       "en_stock": true
     },
     "11623815": {
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11623815-penhaligons-fortuitous-finley-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "7463527": {
       "nombre": "PENHALIGON´S PORTRAITS CHANGING...",
@@ -7292,12 +7328,6 @@
       "url": "https://www.perfumeriaschic.com/p10465042-houbigant-paris-essence-rare-edp100ml-tester.html",
       "en_stock": false
     },
-    "9035593": {
-      "nombre": "PENHALIGON´S BLENHEIM BOUQUET EDT...",
-      "precio": "84,90 €",
-      "url": "https://www.perfumeriaschic.com/p9035593-penhaligons-blenheim-bouquet-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "9681350": {
       "nombre": "REMINISCENCE PATCHOULI N´ROSES EDP...",
       "precio": "29,90 €",
@@ -8053,12 +8083,6 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11407993-v-canto-misiarte-extrait-de-parfum-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11406882": {
-      "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
-      "precio": "98,81 €",
-      "url": "https://www.perfumeriaschic.com/p11406882-nishane-ege-ailaio-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
     },
     "10694250": {
       "nombre": "FRANCESCA BIANCHI LIBERTINE NEROLI ...",
@@ -9896,12 +9920,6 @@
       "url": "https://www.perfumeriaschic.com/p11413168-clarins-aroma-eau-des-jardins-eau-de-soins-tratament-fragrance-100ml-tester.html",
       "en_stock": false
     },
-    "11546800": {
-      "nombre": "SIMONE ANDREOLI SUNPLOSION ALOHA...",
-      "precio": "94,90 €",
-      "url": "https://www.perfumeriaschic.com/p11546800-simone-andreoli-sunplosion-aloha-state-of-mind-eau-de-parfum-intense-100ml-tester.html",
-      "en_stock": true
-    },
     "9991218": {
       "nombre": "PENHALIGON´S PORTRAITS MUCH ADO...",
       "precio": "134,90 €",
@@ -10598,12 +10616,6 @@
       "url": "https://www.perfumeriaschic.com/p7038252-gucci-guilty-pour-femme-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11672502": {
-      "nombre": "JEROBOAM INSULO EXTRAIT DE PARFUM...",
-      "precio": "128,57 €",
-      "url": "https://www.perfumeriaschic.com/p11672502-jeroboam-insulo-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11407996": {
       "nombre": "DKNY 24/7 EDP 100ML TESTER",
       "precio": "29,93 €",
@@ -10795,12 +10807,6 @@
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p10846708-gucci-bloom-edp-intense-100ml-tester.html",
       "en_stock": false
-    },
-    "4479564": {
-      "nombre": "CACHAREL YES I AM EDP 50ML TESTER",
-      "precio": "31,90 €",
-      "url": "https://www.perfumeriaschic.com/p4479564-cacharel-yes-i-am-edp-50ml-tester.html",
-      "en_stock": true
     },
     "11606589": {
       "nombre": "CARTHUSIA CAPRI FORGET ME NOT EDP...",
@@ -11323,12 +11329,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10081465-perris-monte-carlo-neroli-mediterraneo-eau-de-parfum-dp-100ml-tester.html",
       "en_stock": false
-    },
-    "11726325": {
-      "nombre": "NISHANE MEANT TO BE SEEN EXTRAIT DE...",
-      "precio": "138,96 €",
-      "url": "https://www.perfumeriaschic.com/p11726325-nishane-meant-to-be-seen-extrait-de-parfum-50ml-tester.html",
-      "en_stock": true
     },
     "11544575": {
       "nombre": "MONTBLANC EXPLORER EXTREME PARFUM...",
@@ -16682,7 +16682,7 @@
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP...",
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11623815-penhaligons-fortuitous-finley-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11561323": {
       "nombre": "REGALIEN MEFTUN EDP 50ML TESTER",
