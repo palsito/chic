@@ -88,7 +88,7 @@
       "nombre": "MONTBLANC EXPLORER EAU DE PARFUM 30...",
       "precio": "17,42 €",
       "url": "https://www.perfumeriaschic.com/p11817695-montblanc-explorer-eau-de-parfum-30-ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8150280": {
       "nombre": "MANCERA FEMINITY EDP 120ML",
@@ -874,7 +874,7 @@
       "nombre": "COLLISTAR MILANO CREMA RASSODANTE ...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10893026-collistar-milano-crema-rassodante-intensive-firming-cream-plus-perfec-body-400ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10779748": {
       "nombre": "JESUS DEL POZO HALLOWEEN BLOSSOM EDT...",
@@ -3318,7 +3318,7 @@
       "nombre": "MONTBLANC EXPLORER EAU DE PARFUM 30...",
       "precio": "17,42 €",
       "url": "https://www.perfumeriaschic.com/p11817695-montblanc-explorer-eau-de-parfum-30-ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8150280": {
       "nombre": "MANCERA FEMINITY EDP 120ML",
@@ -10392,7 +10392,7 @@
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8362471": {
       "nombre": "THE DIFFERENT COMPANY ADJATAY CUIR...",
@@ -10686,7 +10686,7 @@
       "nombre": "ETAT LIBRE D´ORANGE RIEN INTENSE...",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11398061-etat-libre-dorange-rien-intense-incense-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11606605": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
@@ -11316,7 +11316,7 @@
       "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
       "precio": "58,57 €",
       "url": "https://www.perfumeriaschic.com/p11435166-etat-libre-dorange-divin-enfant-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8942231": {
       "nombre": "JIMMY CHOO MAN EDT 100ML TESTER",
@@ -12714,7 +12714,7 @@
       "nombre": "ETAT LIBRE D´ORANGE CLEAN SUEDE EAU...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674093-etat-libre-dorange-clean-suede-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10776815": {
       "nombre": "MASQUE MILANO RUSSIAN TEA EDP 100ML...",
@@ -16898,7 +16898,7 @@
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11643682": {
       "nombre": "MONTALE SENSUAL INSTINCT EDP 100ML",
@@ -17158,11 +17158,17 @@
       "url": "https://www.perfumeriaschic.com/p11398342-etat-libre-dorange-you-or-someone-like-you-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11674108": {
+      "nombre": "ETAT LIBRE D´ORANGE THE AFTERNOON OF...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11674108-etat-libre-dorange-the-afternoon-of-a-faun-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
     "11435166": {
       "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
       "precio": "58,57 €",
       "url": "https://www.perfumeriaschic.com/p11435166-etat-libre-dorange-divin-enfant-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10697786": {
       "nombre": "UNIQUE LUXURY CHYPRE TOSCANO EAU DE...",
@@ -17720,7 +17726,7 @@
       "nombre": "ETAT LIBRE D´ORANGE CLEAN SUEDE EAU...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674093-etat-libre-dorange-clean-suede-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11631933": {
       "nombre": "M. MICALLEF HYPNOTIC MUSK EDP 100ML...",
@@ -18539,6 +18545,7 @@
     "ETAT LIBRE D´ORANGE PUTAIN DES...",
     "ETAT LIBRE D´ORANGE SHE WAS AN...",
     "ETAT LIBRE D´ORANGE SOUL OF MY SOUL...",
+    "ETAT LIBRE D´ORANGE THE AFTERNOON OF...",
     "ETAT LIBRE D´ORANGE THE GHOST IN THE...",
     "ETAT LIBRE D´ORANGE YES I DO EAU DE...",
     "ETAT LIBRE D´ORANGE YOU OR SOMEONE...",
