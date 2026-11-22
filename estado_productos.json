@@ -1332,12 +1332,6 @@
       "url": "https://www.perfumeriaschic.com/p9654811-eight-bob-champs-de-provence-edp-100ml-tester.html",
       "en_stock": true
     },
-    "11675995": {
-      "nombre": "ROBERT PIGUET OUD 100ML TESTER",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11675995-robert-piguet-oud-100ml-tester.html",
-      "en_stock": false
-    },
     "11544530": {
       "nombre": "CARTHUSIA CORALLIUM EDP 100ML TESTER",
       "precio": "44,91 €",
@@ -3062,17 +3056,29 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11819849": {
+      "nombre": "PENHALIGON'S THE MANOEUVRES OF THE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11819849-penhaligons-the-manoeuvres-of-the-baroness-eau-de-parfum-75-ml-tester.html",
+      "en_stock": true
+    },
+    "11819847": {
+      "nombre": "NOBILE 1942 LEVANTE EAU DE PARFUM 75...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p11819847-nobile-1942-levante-eau-de-parfum-75-ml-tester.html",
+      "en_stock": true
+    },
+    "11819848": {
+      "nombre": "NOBILE 1942 PATCHOULI NOBILE EAU DE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11819848-nobile-1942-patchouli-nobile-eau-de-parfum-75-ml-tester.html",
+      "en_stock": true
+    },
     "11819276": {
       "nombre": "LORENZO VILLORESI ALAMUT EDT 100 ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11819276-lorenzo-villoresi-alamut-edt-100-ml-tester.html",
       "en_stock": true
-    },
-    "11819277": {
-      "nombre": "NOBILE 1942 CAFE CHANTANT EDP 75 ML...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11819277-nobile-1942-cafe-chantant-edp-75-ml-tester.html",
-      "en_stock": false
     },
     "11487002": {
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
@@ -3132,12 +3138,6 @@
       "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
       "precio": "98,81 €",
       "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
-      "en_stock": false
-    },
-    "11675995": {
-      "nombre": "ROBERT PIGUET OUD 100ML TESTER",
-      "precio": "89,90 €",
-      "url": "https://www.perfumeriaschic.com/p11675995-robert-piguet-oud-100ml-tester.html",
       "en_stock": false
     },
     "11818619": {
@@ -10454,6 +10454,12 @@
       "url": "https://www.perfumeriaschic.com/p7298563-penhaligons-luna-edt-100ml-sin-caja.html",
       "en_stock": false
     },
+    "11628030": {
+      "nombre": "GUCCI RUSH EDT 75ML",
+      "precio": "44,91 €",
+      "url": "https://www.perfumeriaschic.com/p11628030-gucci-rush-edt-75ml.html",
+      "en_stock": false
+    },
     "11637752": {
       "nombre": "PACO RABANNE ULTRARED MAN EDT 100ML....",
       "precio": "32,90 €",
@@ -11796,6 +11802,12 @@
       "nombre": "MANCERA CEDRAT BOISE INTENSE EDP...",
       "precio": "84,92 €",
       "url": "https://www.perfumeriaschic.com/p11406418-mancera-cedrat-boise-intense-edp-120ml-tester.html",
+      "en_stock": false
+    },
+    "11366746": {
+      "nombre": "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
+      "precio": "69,79 €",
+      "url": "https://www.perfumeriaschic.com/p11366746-v-canto-stramonio-extrait-de-parfum-edp-100ml-tester.html",
       "en_stock": false
     },
     "10010184": {
@@ -18580,6 +18592,7 @@
     "GUCCI GUILTY LOVE EDITION 2024 POUR...",
     "GUCCI GUILTY POUR HOMME COLOGNE EDT...",
     "GUCCI GUILTY POUR HOMME EDT 90ML...",
+    "GUCCI RUSH EDT 75ML",
     "GUCCI THE ALCHEMIST'S GARDEN A CHANT...",
     "GUCCI THE ALCHEMIST'S GARDEN...",
     "GUERLAIN ABSOLUS ALLEGORIA ROSE...",
@@ -19078,6 +19091,8 @@
     "NISHANE WULÓNG CHÁ X EXTRAIT DE...",
     "NISHANE ZENNE EXTRAIT DE PARFUM 50...",
     "NOBILE 1942 CAFE CHANTANT EDP 75 ML...",
+    "NOBILE 1942 LEVANTE EAU DE PARFUM 75...",
+    "NOBILE 1942 PATCHOULI NOBILE EAU DE...",
     "ORMONDE JAYNE ORMONDE WOMAN PARFUM...",
     "ORTO PARISI RISVELIUM EAU DE PARFUM...",
     "PACO RABANNE AFTER CLUB EDP 125ML...",
@@ -19100,6 +19115,7 @@
     "PALOMA PICASSO EDT 100ML TESTER",
     "PALOMA PICASSO MINOTAURE POUR HOMME...",
     "PANA DORA XVI EDP 100ML TESTER",
+    "PENHALIGON'S THE MANOEUVRES OF THE...",
     "PENHALIGON´S BLENHEIM BOUQUET EDT...",
     "PENHALIGON´S FORTUITOUS FINLEY EDP...",
     "PENHALIGON´S HALFETI EDP 100ML TESTER",
