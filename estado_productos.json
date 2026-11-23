@@ -346,7 +346,7 @@
       "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
       "precio": "66,95 €",
       "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11760362": {
       "nombre": "SIMONE ANDREOLI SURF THE GINGER WAVE...",
@@ -1403,6 +1403,12 @@
       "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p4880264-ralph-laurent-big-pony-woman-n1-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "8827104": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA FLORA...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p8827104-guerlain-aqua-allegoria-flora-cherrysia-edt-125ml-tester.html",
+      "en_stock": true
     },
     "8335652": {
       "nombre": "LOEWE SOLO LOEWE SPORT EDT 125ML...",
@@ -2762,9 +2768,9 @@
     },
     "10662003": {
       "nombre": "EIGHT & BOB CAP D´ANTIBES EDP 100ML...",
-      "precio": "76,41 €",
+      "precio": "64,52 €",
       "url": "https://www.perfumeriaschic.com/p10662003-eight-bob-cap-dantibes-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11551440": {
       "nombre": "LANCOME RENERGIE YEUX H.C.F. TRIPLE...",
@@ -3036,6 +3042,12 @@
       "url": "https://www.perfumeriaschic.com/p11623712-nuxe-super-serum-10-antiedad-universal-30ml-tester.html",
       "en_stock": false
     },
+    "11487002": {
+      "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11818620": {
       "nombre": "XERJOFF DE VENOGE LOUIS XV 1722 ROSE...",
       "precio": "144,96 €",
@@ -3050,18 +3062,6 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
-    "11819849": {
-      "nombre": "PENHALIGON'S THE MANOEUVRES OF THE...",
-      "precio": "134,90 €",
-      "url": "https://www.perfumeriaschic.com/p11819849-penhaligons-the-manoeuvres-of-the-baroness-eau-de-parfum-75-ml-tester.html",
-      "en_stock": false
-    },
-    "11819847": {
-      "nombre": "NOBILE 1942 LEVANTE EAU DE PARFUM 75...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p11819847-nobile-1942-levante-eau-de-parfum-75-ml-tester.html",
-      "en_stock": false
-    },
     "11819848": {
       "nombre": "NOBILE 1942 PATCHOULI NOBILE EAU DE...",
       "precio": "58,90 €",
@@ -3076,7 +3076,7 @@
     },
     "11487002": {
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
-      "precio": "68,90 €",
+      "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -3564,7 +3564,7 @@
       "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
       "precio": "66,95 €",
       "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11664038": {
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
@@ -5928,12 +5928,6 @@
       "nombre": "GUCCI BAMBOO EDT 75ML TESTER",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p5402504-gucci-bamboo-edt-75ml-tester.html",
-      "en_stock": false
-    },
-    "10830974": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA ROSA ROSSA...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p10830974-guerlain-aqua-allegoria-rosa-rossa-edt-125ml-tester.html",
       "en_stock": false
     },
     "10839218": {
@@ -13354,9 +13348,9 @@
     },
     "10662003": {
       "nombre": "EIGHT & BOB CAP D´ANTIBES EDP 100ML...",
-      "precio": "76,41 €",
+      "precio": "64,52 €",
       "url": "https://www.perfumeriaschic.com/p10662003-eight-bob-cap-dantibes-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11516271": {
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
@@ -14641,6 +14635,12 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p7463527-penhaligons-portraits-changing-constance-edp-75ml-sin-caja.html",
       "en_stock": false
+    },
+    "8827104": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA FLORA...",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p8827104-guerlain-aqua-allegoria-flora-cherrysia-edt-125ml-tester.html",
+      "en_stock": true
     },
     "11507063": {
       "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO...",
@@ -16878,7 +16878,7 @@
     },
     "11487002": {
       "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
-      "precio": "68,90 €",
+      "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -18595,6 +18595,7 @@
     "GUERLAIN ABSOLUS ALLEGORIA SANTAL...",
     "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
     "GUERLAIN AQUA ALLEGORIA  VETIVER...",
+    "GUERLAIN AQUA ALLEGORIA FLORA...",
     "GUERLAIN AQUA ALLEGORIA GRANADA...",
     "GUERLAIN EAU DE COLOGNE IMPERIALE...",
     "GUERLAIN INSOLENCE EDP 100ML TESTER",
