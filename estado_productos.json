@@ -1327,10 +1327,10 @@
       "en_stock": true
     },
     "10119806": {
-      "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML...",
-      "precio": "76,41 €",
+      "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
+      "precio": "59,40 €",
       "url": "https://www.perfumeriaschic.com/p10119806-eight-bob-nuit-de-megeve-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9654811": {
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP...",
@@ -4215,10 +4215,10 @@
       "en_stock": true
     },
     "10119806": {
-      "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML...",
-      "precio": "76,41 €",
+      "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
+      "precio": "59,40 €",
       "url": "https://www.perfumeriaschic.com/p10119806-eight-bob-nuit-de-megeve-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7868236": {
       "nombre": "CARON POUR UN HOMME DE CARON EDT...",
@@ -14666,6 +14666,18 @@
       "url": "https://www.perfumeriaschic.com/p11820407-rabanne-million-gold-eau-de-parfum-intense-100-ml-tester.html",
       "en_stock": true
     },
+    "4382973": {
+      "nombre": "CHANEL EGOISTE EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p4382973-chanel-egoiste-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11820408": {
+      "nombre": "SIMONE ANDREOLI OUD SCANDALOUS...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11820408-simone-andreoli-oud-scandalous-madness-parfum-nectar-50-ml-tester.html",
+      "en_stock": true
+    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -18147,6 +18159,12 @@
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11740999-jovoy-psychedelique-edp-75ml-tester.html",
       "en_stock": false
+    },
+    "10119806": {
+      "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
+      "precio": "59,40 €",
+      "url": "https://www.perfumeriaschic.com/p10119806-eight-bob-nuit-de-megeve-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "nombres_ya_notificados": [
@@ -18379,6 +18397,7 @@
     "CHANEL ALLURE SENSUELLE EDP 100ML...",
     "CHANEL ANTAEUS POUR HOMME EDT 100ML...",
     "CHANEL CRISTALLE EDT 100ML TESTER",
+    "CHANEL EGOISTE EDT 100ML TESTER",
     "CHANEL POUR MONSIEUR EDT 100ML TESTER",
     "CHLOE EAU DE PARFUM NATURELLE 100ML...",
     "CHLOE LE PARFUM 100ML TESTER",
@@ -19247,6 +19266,7 @@
     "SIMONE ANDREOLI MALIBU PARTY IN THE...",
     "SIMONE ANDREOLI MANDORLA DEL SUD EAU...",
     "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
+    "SIMONE ANDREOLI OUD SCANDALOUS...",
     "SIMONE ANDREOLI PALM OASES PARFUM...",
     "SIMONE ANDREOLI ROSE OF DANGEROUS...",
     "SIMONE ANDREOLI SILVER MARBLE 100ML...",
