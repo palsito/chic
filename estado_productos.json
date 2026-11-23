@@ -54,6 +54,12 @@
       "url": "https://www.perfumeriaschic.com/p11646708-simone-andreoli-vicebomb-100ml-tester.html",
       "en_stock": true
     },
+    "11387253": {
+      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
       "precio": "98,81 €",
@@ -3022,7 +3028,7 @@
       "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
       "precio": "98,81 €",
       "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11683690": {
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
@@ -3053,6 +3059,12 @@
       "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p11623712-nuxe-super-serum-10-antiedad-universal-30ml-tester.html",
       "en_stock": false
+    },
+    "11818620": {
+      "nombre": "XERJOFF DE VENOGE LOUIS XV 1722 ROSE...",
+      "precio": "144,96 €",
+      "url": "https://www.perfumeriaschic.com/p11818620-xerjoff-de-venoge-louis-xv-1722-rose-edp-50-ml-tester.html",
+      "en_stock": true
     },
     "11819276": {
       "nombre": "LORENZO VILLORESI ALAMUT EDT 100 ML...",
@@ -3144,7 +3156,7 @@
       "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
       "precio": "98,81 €",
       "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11818619": {
       "nombre": "NISHANE ZENNE EXTRAIT DE PARFUM 50...",
@@ -3154,7 +3166,7 @@
     },
     "11818620": {
       "nombre": "XERJOFF DE VENOGE LOUIS XV 1722 ROSE...",
-      "precio": "154,90 €",
+      "precio": "144,96 €",
       "url": "https://www.perfumeriaschic.com/p11818620-xerjoff-de-venoge-louis-xv-1722-rose-edp-50-ml-tester.html",
       "en_stock": true
     },
@@ -3168,6 +3180,12 @@
       "nombre": "ROBERT PIGUET BANDIT 100ML TESTER",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11675997-robert-piguet-bandit-100ml-tester.html",
+      "en_stock": true
+    },
+    "11387253": {
+      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
       "en_stock": true
     },
     "11683691": {
@@ -14275,6 +14293,12 @@
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p8732802-montale-black-aoud-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "11814378": {
+      "nombre": "ESSENTIAL PARFUMS BOIS IMPÉRIAL...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11814378-essential-parfums-bois-imperial-extrait-30-ml-tester.html",
+      "en_stock": true
     },
     "11664301": {
       "nombre": "MONTALE STARRY NIGHTS EDP 100ML...",
