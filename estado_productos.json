@@ -3198,7 +3198,7 @@
       "nombre": "HUGO BOSS BOTTLED EAU DE PARFUM...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p8704644-hugo-boss-bottled-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11674093": {
       "nombre": "ETAT LIBRE D´ORANGE CLEAN SUEDE EAU...",
@@ -3480,7 +3480,7 @@
       "nombre": "HUGO BOSS BOTTLED ELIXIR 100ML TESTER",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p10880445-hugo-boss-bottled-elixir-parfum-intense-50ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10938085": {
       "nombre": "ETAT LIBRE D´ORANGE ARCHIVES 69 EDP...",
