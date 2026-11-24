@@ -3155,6 +3155,18 @@
       "precio": "155,00 €",
       "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
       "en_stock": false
+    },
+    "11435163": {
+      "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
+      "precio": "39,92 €",
+      "url": "https://www.perfumeriaschic.com/p11435163-ligea-la-sirena-de-carthusia-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "98,85 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3598,7 +3610,7 @@
     },
     "11493942": {
       "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
+      "precio": "98,85 €",
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
@@ -4120,7 +4132,7 @@
     },
     "11435163": {
       "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
-      "precio": "49,90 €",
+      "precio": "39,92 €",
       "url": "https://www.perfumeriaschic.com/p11435163-ligea-la-sirena-de-carthusia-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -15168,7 +15180,7 @@
     },
     "11493942": {
       "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
+      "precio": "98,85 €",
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
@@ -18441,6 +18453,7 @@
     "CARTHUSIA FIORI DI CAPRI EDP 100ML...",
     "CARTHUSIA GELSOMINI DI CAPRI EDP...",
     "CARTHUSIA IO CAPRI EDP 100ML TESTER",
+    "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
     "CARTHUSIA TERRA MIA EAU DE PARFUM...",
     "CARTHUSIA UOMO EDP 100ML TESTER",
     "CARTIER LE PANTHERE EDP 75ML TESTER",
