@@ -92,7 +92,7 @@
     },
     "11526369": {
       "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
+      "precio": "104,56 €",
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
@@ -3059,6 +3059,12 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p10893026-collistar-milano-crema-rassodante-intensive-firming-cream-plus-perfec-body-400ml-tester.html",
       "en_stock": false
+    },
+    "11664041": {
+      "nombre": "M. MICALLEF NOTORIOUS XO EDP 100ML...",
+      "precio": "124,87 €",
+      "url": "https://www.perfumeriaschic.com/p11664041-m-micallef-notorious-xo-edp-100ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3514,7 +3520,7 @@
     },
     "11526369": {
       "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
+      "precio": "104,56 €",
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
@@ -5140,13 +5146,13 @@
     },
     "11704512": {
       "nombre": "MASQUE MILANO RIBOT EAU DE PARFUM...",
-      "precio": "264,90 €",
+      "precio": "219,87 €",
       "url": "https://www.perfumeriaschic.com/p11704512-masque-milano-ribot-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
     "11664041": {
       "nombre": "M. MICALLEF NOTORIOUS XO EDP 100ML...",
-      "precio": "146,90 €",
+      "precio": "124,87 €",
       "url": "https://www.perfumeriaschic.com/p11664041-m-micallef-notorious-xo-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -15078,7 +15084,7 @@
     },
     "11526369": {
       "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "114,90 €",
+      "precio": "104,56 €",
       "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
@@ -15318,7 +15324,7 @@
     },
     "11664040": {
       "nombre": "MASQUE MILANO MANDALA OUD EAU DE...",
-      "precio": "198,68 €",
+      "precio": "188,08 €",
       "url": "https://www.perfumeriaschic.com/p11664040-masque-milano-mandala-oud-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -15342,7 +15348,7 @@
     },
     "11704512": {
       "nombre": "MASQUE MILANO RIBOT EAU DE PARFUM...",
-      "precio": "264,90 €",
+      "precio": "219,87 €",
       "url": "https://www.perfumeriaschic.com/p11704512-masque-milano-ribot-eau-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -15414,7 +15420,7 @@
     },
     "11664041": {
       "nombre": "M. MICALLEF NOTORIOUS XO EDP 100ML...",
-      "precio": "146,90 €",
+      "precio": "124,87 €",
       "url": "https://www.perfumeriaschic.com/p11664041-m-micallef-notorious-xo-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -18810,6 +18816,7 @@
     "M. MICALLEF GNTONIC EDP 100ML TESTER...",
     "M. MICALLEF HYPNOTIC MUSK EDP 100ML...",
     "M. MICALLEF MON PARFUM GOLD EDP...",
+    "M. MICALLEF NOTORIOUS XO EDP 100ML...",
     "M. MICALLEF O FEMININ EDP 100ML...",
     "M. MICALLEF PURE EXTREME EDP 100ML...",
     "M. MICALLEF REDCOLORADO EDP 100ML...",
