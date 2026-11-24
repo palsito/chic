@@ -1414,7 +1414,7 @@
       "nombre": "GUERLAIN AQUA ALLEGORIA FLORA...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p8827104-guerlain-aqua-allegoria-flora-cherrysia-edt-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "8335652": {
       "nombre": "LOEWE SOLO LOEWE SPORT EDT 125ML...",
@@ -3090,7 +3090,7 @@
       "nombre": "GUERLAIN AQUA ALLEGORIA FLORA...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p8827104-guerlain-aqua-allegoria-flora-cherrysia-edt-125ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10119806": {
       "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
