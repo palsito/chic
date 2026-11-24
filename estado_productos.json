@@ -3078,13 +3078,13 @@
       "nombre": "CHANEL EGOISTE EDT 100ML TESTER",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p4382973-chanel-egoiste-edt-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11820407": {
       "nombre": "RABANNE MILLION GOLD EAU DE PARFUM...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11820407-rabanne-million-gold-eau-de-parfum-intense-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11820406": {
       "nombre": "MIU MIU MIUTINE EAU DE PARFUM 100 ML...",
@@ -4938,7 +4938,7 @@
       "nombre": "NINA RICCI ROSE EDT 80ML TESTER",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p8307446-nina-ricci-rose-edt-80ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "10843344": {
       "nombre": "TOUS KIDS BOY EDT 100ML TESTER",
