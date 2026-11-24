@@ -42,12 +42,6 @@
       "url": "https://www.perfumeriaschic.com/p11818619-nishane-zenne-extrait-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
-    "11818618": {
-      "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
-      "precio": "98,81 €",
-      "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
-      "en_stock": true
-    },
     "11343469": {
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "59,71 €",
@@ -3060,16 +3054,34 @@
       "url": "https://www.perfumeriaschic.com/p10893026-collistar-milano-crema-rassodante-intensive-firming-cream-plus-perfec-body-400ml-tester.html",
       "en_stock": false
     },
+    "7770292": {
+      "nombre": "MANCERA AOUD VANILLE EDP 120 ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p7770292-mancera-aoud-vanille-edp-120-ml.html",
+      "en_stock": false
+    },
     "9681989": {
       "nombre": "MANCERA AOUD BLUE NOTES EDP 120ML",
       "precio": "155,00 €",
       "url": "https://www.perfumeriaschic.com/p9681989-mancera-aoud-blue-notes-edp-120ml.html",
       "en_stock": false
     },
+    "10010184": {
+      "nombre": "MANCERA CHOCO VIOLET EDP 120ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p10010184-mancera-choco-violet-edp-120ml.html",
+      "en_stock": false
+    },
     "10913391": {
       "nombre": "MANCERA AOUD EXCLUSIF EDP 120ML",
       "precio": "155,00 €",
       "url": "https://www.perfumeriaschic.com/p10913391-mancera-aoud-exclusif-edp-120ml.html",
+      "en_stock": false
+    },
+    "10958096": {
+      "nombre": "MANCERA BLACK VANILLE EDP 120ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
       "en_stock": false
     },
     "11645398": {
@@ -3094,6 +3106,12 @@
       "nombre": "MONTALE ARABIANS ROSE LEATHER EAU DE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11814380-montale-arabians-rose-leather-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11814383": {
+      "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
+      "precio": "69,75 €",
+      "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
       "en_stock": true
     },
     "11816296": {
@@ -3206,12 +3224,6 @@
       "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
       "en_stock": true
     },
-    "11818618": {
-      "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
-      "precio": "98,81 €",
-      "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
-      "en_stock": true
-    },
     "11818619": {
       "nombre": "NISHANE ZENNE EXTRAIT DE PARFUM 50...",
       "precio": "98,81 €",
@@ -3244,7 +3256,7 @@
     },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
-      "precio": "98,81 €",
+      "precio": "89,62 €",
       "url": "https://www.perfumeriaschic.com/p11406882-nishane-ege-ailaio-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -3520,7 +3532,7 @@
     },
     "11814383": {
       "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
-      "precio": "78,59 €",
+      "precio": "69,75 €",
       "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
       "en_stock": true
     },
@@ -4435,6 +4447,12 @@
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11787337-replica-up-at-dawn-100-ml-tester.html",
       "en_stock": true
+    },
+    "10958096": {
+      "nombre": "MANCERA BLACK VANILLE EDP 120ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
+      "en_stock": false
     },
     "5903684": {
       "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
@@ -11325,9 +11343,9 @@
       "en_stock": false
     },
     "7770292": {
-      "nombre": "MANCERA AOUD VANILLE EDP 120 ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p7770292-mancera-aoud-vanille-edp-120-ml-tester.html",
+      "nombre": "MANCERA AOUD VANILLE EDP 120 ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p7770292-mancera-aoud-vanille-edp-120-ml.html",
       "en_stock": false
     },
     "11720848": {
@@ -11736,12 +11754,6 @@
       "nombre": "V CANTO STRAMONIO EXTRAIT DE PARFUM...",
       "precio": "69,79 €",
       "url": "https://www.perfumeriaschic.com/p11366746-v-canto-stramonio-extrait-de-parfum-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "10010184": {
-      "nombre": "MANCERA CHOCO VIOLET EDP 120ML TESTER",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p10010184-mancera-choco-violet-edp-120ml-tester.html",
       "en_stock": false
     },
     "10695080": {
@@ -14880,7 +14892,7 @@
     },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
-      "precio": "98,81 €",
+      "precio": "89,62 €",
       "url": "https://www.perfumeriaschic.com/p11406882-nishane-ege-ailaio-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -14940,7 +14952,7 @@
     },
     "11814383": {
       "nombre": "MANCERA MELODY OF THE SUN EAU DE...",
-      "precio": "78,59 €",
+      "precio": "69,75 €",
       "url": "https://www.perfumeriaschic.com/p11814383-mancera-melody-of-the-sun-eau-de-parfum-120-ml.html",
       "en_stock": true
     },
@@ -15105,6 +15117,12 @@
       "precio": "84,95 €",
       "url": "https://www.perfumeriaschic.com/p11741000-jovoy-private-label-edp-75ml-tester.html",
       "en_stock": true
+    },
+    "10958096": {
+      "nombre": "MANCERA BLACK VANILLE EDP 120ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
+      "en_stock": false
     },
     "11416584": {
       "nombre": "V CANTO RICINA EXTRAIT DE PARFUM...",
@@ -18885,6 +18903,7 @@
     "MANCERA CEDRAT BOISE EDP 120ML TESTER",
     "MANCERA CEDRAT BOISE INTENSE EDP...",
     "MANCERA CHERRY CHERRY EDP 120ML",
+    "MANCERA CHOCO VIOLET EDP 120ML",
     "MANCERA CHOCO VIOLET EDP 120ML TESTER",
     "MANCERA CINQUE TERRE EDP 120ML",
     "MANCERA CINQUE TERRE EDP 120ML TESTER",
