@@ -80,7 +80,7 @@
     },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
-      "precio": "98,81 €",
+      "precio": "89,62 €",
       "url": "https://www.perfumeriaschic.com/p11406882-nishane-ege-ailaio-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -644,7 +644,7 @@
     },
     "11777009": {
       "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
-      "precio": "68,90 €",
+      "precio": "64,77 €",
       "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -3060,6 +3060,12 @@
       "url": "https://www.perfumeriaschic.com/p7770292-mancera-aoud-vanille-edp-120-ml.html",
       "en_stock": false
     },
+    "8151444": {
+      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML",
+      "precio": "155,00 €",
+      "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
+      "en_stock": false
+    },
     "9681989": {
       "nombre": "MANCERA AOUD BLUE NOTES EDP 120ML",
       "precio": "155,00 €",
@@ -3100,6 +3106,36 @@
       "nombre": "MASQUE MILANO RIBOT EAU DE PARFUM...",
       "precio": "219,87 €",
       "url": "https://www.perfumeriaschic.com/p11704512-masque-milano-ribot-eau-de-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11762596": {
+      "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
+      "precio": "29,67 €",
+      "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11775056": {
+      "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
+      "precio": "39,96 €",
+      "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
+      "en_stock": true
+    },
+    "11785975": {
+      "nombre": "BOHOBOCO SEA SALT CARAMEL 50 ML...",
+      "precio": "74,71 €",
+      "url": "https://www.perfumeriaschic.com/p11785975-bohoboco-sea-salt-caramel-50-ml-tester.html",
+      "en_stock": true
+    },
+    "11791251": {
+      "nombre": "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
+      "precio": "29,95 €",
+      "url": "https://www.perfumeriaschic.com/p11791251-elizabeth-arden-eternal-aura-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11809894": {
+      "nombre": "BRIONI EAU DE PARFUM ÉCLAT 100 ML...",
+      "precio": "39,90 €",
+      "url": "https://www.perfumeriaschic.com/p11809894-brioni-eau-de-parfum-eclat-100-ml-tester.html",
       "en_stock": true
     },
     "11814380": {
@@ -3352,7 +3388,7 @@
     },
     "11785975": {
       "nombre": "BOHOBOCO SEA SALT CARAMEL 50 ML...",
-      "precio": "84,90 €",
+      "precio": "74,71 €",
       "url": "https://www.perfumeriaschic.com/p11785975-bohoboco-sea-salt-caramel-50-ml-tester.html",
       "en_stock": true
     },
@@ -3736,7 +3772,7 @@
     },
     "11775056": {
       "nombre": "ROCHAS AUDACE LE PARFUM 100ML TESTER",
-      "precio": "44,90 €",
+      "precio": "39,96 €",
       "url": "https://www.perfumeriaschic.com/p11775056-rochas-audace-le-parfum-100ml-tester.html",
       "en_stock": true
     },
@@ -4000,7 +4036,7 @@
     },
     "11809894": {
       "nombre": "BRIONI EAU DE PARFUM ÉCLAT 100 ML...",
-      "precio": "44,90 €",
+      "precio": "39,90 €",
       "url": "https://www.perfumeriaschic.com/p11809894-brioni-eau-de-parfum-eclat-100-ml-tester.html",
       "en_stock": true
     },
@@ -4402,7 +4438,7 @@
     },
     "11791251": {
       "nombre": "ELIZABETH ARDEN ETERNAL AURA EDP 100...",
-      "precio": "38,90 €",
+      "precio": "29,95 €",
       "url": "https://www.perfumeriaschic.com/p11791251-elizabeth-arden-eternal-aura-edp-100-ml-sin-caja.html",
       "en_stock": true
     },
@@ -4432,7 +4468,7 @@
     },
     "11762596": {
       "nombre": "LANCOME OFF NOW EDT 100ML TESTER",
-      "precio": "34,90 €",
+      "precio": "29,67 €",
       "url": "https://www.perfumeriaschic.com/p11762596-lancome-off-now-edt-100ml-tester.html",
       "en_stock": true
     },
@@ -4666,7 +4702,7 @@
     },
     "11777009": {
       "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
-      "precio": "68,90 €",
+      "precio": "64,77 €",
       "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -12723,8 +12759,8 @@
       "en_stock": false
     },
     "8151444": {
-      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
-      "precio": "74,90 €",
+      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML",
+      "precio": "155,00 €",
       "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
       "en_stock": false
     },
@@ -15180,7 +15216,7 @@
     },
     "11777009": {
       "nombre": "MILLER HARRIS ETUI NOIR EDP 100ML...",
-      "precio": "68,90 €",
+      "precio": "64,77 €",
       "url": "https://www.perfumeriaschic.com/p11777009-miller-harris-etui-noir-edp-100ml-tester.html",
       "en_stock": true
     },
@@ -17756,12 +17792,6 @@
       "nombre": "MONTALE DARK VANILLA EDP 100ML TESTER",
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p11470973-montale-dark-vanilla-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "8151444": {
-      "nombre": "MANCERA VETIVER SENSUEL EDP 120ML...",
-      "precio": "74,90 €",
-      "url": "https://www.perfumeriaschic.com/p8151444-mancera-vetiver-sensuel-edp-120ml.html",
       "en_stock": false
     },
     "10795882": {
