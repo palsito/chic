@@ -3206,10 +3206,34 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "3151094": {
+      "nombre": "ARMANI CODE POUR HOMME EDT 75ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p3151094-armani-code-pour-homme-edt-75ml-nuevo-formato-tester.html",
+      "en_stock": true
+    },
+    "11821397": {
+      "nombre": "THE MERCHANT OF VENICE ETERNAL...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821397-the-merchant-of-venice-eternal-sunrise-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11821391": {
       "nombre": "GUERLAIN AQUA ALLEGORIA FORTE BOSCA...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11821391-guerlain-aqua-allegoria-forte-bosca-vanilla-edp-125-ml-tester.html",
+      "en_stock": true
+    },
+    "11821392": {
+      "nombre": "THE MERCHANT OF VENICE ROCOCO 26 EDP...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821392-the-merchant-of-venice-rococo-26-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11821393": {
+      "nombre": "THE MERCHANT OF VENICE RENAISSANCE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821393-the-merchant-of-venice-renaissance-edp-100-ml-tester.html",
       "en_stock": true
     },
     "7803849": {
@@ -4890,7 +4914,7 @@
       "nombre": "YVES SAINT LAURENT Y EDP 100ML TESTER",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p8372096-yves-saint-laurent-y-edp-100ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11762585": {
       "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
@@ -14828,6 +14852,12 @@
       "url": "https://www.perfumeriaschic.com/p11643697-mancera-cherry-cherry-edp-120ml.html",
       "en_stock": false
     },
+    "5339214": {
+      "nombre": "BVLGARI POUR HOMME EDT 100ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p5339214-bvlgari-pour-homme-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -18397,6 +18427,7 @@
     "ARMAND BASI ROSE GLACEE EDT 100ML...",
     "ARMAND BASI SCENT OF KISS EDT 50ML...",
     "ARMANI BECAUSE ITS YOU EDP 100ML...",
+    "ARMANI CODE POUR HOMME EDT 75ML...",
     "ARMANI MY WAY PARFUM 50ML TESTER",
     "ARMANI PRIVE BLEU LAZULI EDP 100ML...",
     "ARMANI PRIVE OUD ROYAL EDP 100ML...",
@@ -18480,6 +18511,7 @@
     "BVLGARI MAN IN BLACK EDP 100ML TESTER",
     "BVLGARI MAN IN BLACK PARFUM 100 ML...",
     "BVLGARI MAN RAIN ESSENCE EDP 100 ML...",
+    "BVLGARI POUR HOMME EDT 100ML TESTER",
     "BYREDO BAL D'AFRIQUE EAU DE PARFUM...",
     "BYREDO BIBLIOTEQUE EDP 100ML TESTER",
     "BYREDO BLANCHE EDP 100ML TESTER",
@@ -19468,8 +19500,11 @@
     "THE DIFFERENT COMPANY PURE EVE EDP...",
     "THE HOUSE OF OUD GRAPE PEARLS EDP...",
     "THE HOUSE OF OUD LIVE IN COLOURS EDP...",
+    "THE MERCHANT OF VENICE ETERNAL...",
     "THE MERCHANT OF VENICE QUEEN OF THE...",
     "THE MERCHANT OF VENICE RED POTION...",
+    "THE MERCHANT OF VENICE RENAISSANCE...",
+    "THE MERCHANT OF VENICE ROCOCO 26 EDP...",
     "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
     "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
     "THIERRY MUGLER ALIEN EDP 90ML TESTER",
