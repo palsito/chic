@@ -3212,6 +3212,12 @@
       "url": "https://www.perfumeriaschic.com/p11821324-acqua-di-parma-bergamotto-la-spugnatura-edp-100-ml-tester.html",
       "en_stock": true
     },
+    "11821335": {
+      "nombre": "CARON OUD EXCELSA EDP 100 ML TESTER",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821335-caron-oud-excelsa-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11711351": {
       "nombre": "TRUSSARDI LE VIE DI MILANO I VICOLI...",
       "precio": "68,90 €",
@@ -4698,6 +4704,12 @@
       "nombre": "JIL SANDER SUN EDT 75ML TESTER",
       "precio": "9,95 €",
       "url": "https://www.perfumeriaschic.com/p10475175-jil-sander-sun-edt-75ml-tester.html",
+      "en_stock": true
+    },
+    "11335136": {
+      "nombre": "NARCISO RODRIGUEZ MUSC NUDE EDP...",
+      "precio": "54,90 €",
+      "url": "https://www.perfumeriaschic.com/p11335136-narciso-rodriguez-musc-nude-edp-100ml-sin-caja.html",
       "en_stock": true
     },
     "11239777": {
@@ -7194,7 +7206,7 @@
       "nombre": "GUERLAIN AQUA ALLEGORIA  VETIVER...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p10703841-guerlain-aqua-allegoria-vetiver-forte-nerolia-eau-de-parfum-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10697789": {
       "nombre": "LACOSTE POUR FEMME EAU DE PARFUM...",
@@ -12176,12 +12188,6 @@
       "url": "https://www.perfumeriaschic.com/p11662320-amouage-epic-woman-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
-    "10793204": {
-      "nombre": "CARON SANTAL PRECIEUX EDP 100ML...",
-      "precio": "99,90 €",
-      "url": "https://www.perfumeriaschic.com/p10793204-caron-santal-precieux-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "8335550": {
       "nombre": "VIKTOR & ROLF FLOWERBOMB NECTAR EDP...",
       "precio": "54,90 €",
@@ -13206,7 +13212,7 @@
       "nombre": "CARON POUR UN HOMME LE MATIN EDT...",
       "precio": "44,90 €",
       "url": "https://www.perfumeriaschic.com/p11762581-caron-pour-un-homme-le-matin-edt-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10650240": {
       "nombre": "ROSENDO MATEU Nº7 PERFUME 100ML",
@@ -18504,6 +18510,7 @@
     "CAROLINA HERRERA MYSTERY TOBACCO EDP...",
     "CAROLINA HERRERA OUD COUTURE EDP...",
     "CAROLINA HERRERA VERY GOOD GIRL GLAM...",
+    "CARON OUD EXCELSA EDP 100 ML TESTER",
     "CARON POUR UN HOMME DE CARON EDT...",
     "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
