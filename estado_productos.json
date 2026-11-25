@@ -3191,6 +3191,12 @@
       "precio": "29,89 €",
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
       "en_stock": true
+    },
+    "11821324": {
+      "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
+      "precio": "114,95 €",
+      "url": "https://www.perfumeriaschic.com/p11821324-acqua-di-parma-bergamotto-la-spugnatura-edp-100-ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -14780,6 +14786,12 @@
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
       "en_stock": false
     },
+    "11821324": {
+      "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
+      "precio": "114,95 €",
+      "url": "https://www.perfumeriaschic.com/p11821324-acqua-di-parma-bergamotto-la-spugnatura-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -18273,6 +18285,7 @@
     "3INA THE NO-RULES STICK 3 EN 1 TONO...",
     "4711 ACQUA COLONIA COLLECTION...",
     "ACQUA DI PARMA AMBRA EDP 100ML TESTER",
+    "ACQUA DI PARMA BERGAMOTTO LA...",
     "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
     "ACQUA DI PARMA BUONGIORNO EDP 100ML...",
     "ACQUA DI PARMA CEDRO VIRTUOSO EDP...",
