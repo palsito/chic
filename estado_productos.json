@@ -2464,7 +2464,7 @@
       "nombre": "SISLEY L'EAU REVEE D´ISA EDT 100ML...",
       "precio": "54,80 €",
       "url": "https://www.perfumeriaschic.com/p10912292-sisley-leau-revee-disa-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10075351": {
       "nombre": "LOEWE PAULA´S IBIZA ECLECTIC EAU DE...",
@@ -3228,10 +3228,22 @@
       "url": "https://www.perfumeriaschic.com/p8148511-givenchy-amarige-edt-100ml-tester.html",
       "en_stock": true
     },
+    "10637942": {
+      "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
+      "en_stock": true
+    },
     "10948017": {
       "nombre": "HERMES H24 EAU DE TOILETTE 100ML...",
       "precio": "49,73 €",
       "url": "https://www.perfumeriaschic.com/p10948017-hermes-h24-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11311695": {
+      "nombre": "ROCHAS EAU DE ROCHAS ORANGE HORIZON...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11311695-rochas-eau-de-rochas-orange-horizon-edt-100ml-tester.html",
       "en_stock": true
     }
   },
@@ -6440,12 +6452,6 @@
       "url": "https://www.perfumeriaschic.com/p11293738-issey-miyake-leau-d-issey-shades-of-kolam-edt-100ml-tester.html",
       "en_stock": false
     },
-    "8707674": {
-      "nombre": "REMINISCENCE PATCHOULI FEMME EDT...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p8707674-reminiscence-patchouli-femme-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "11173644": {
       "nombre": "CREED ACQUA ORIGINALE IRIS TUBEREUSE...",
       "precio": "129,90 €",
@@ -7130,12 +7136,6 @@
       "url": "https://www.perfumeriaschic.com/p8900634-acqua-di-parma-sakura-edp-100ml-tester.html",
       "en_stock": false
     },
-    "8497210": {
-      "nombre": "REMINISCENCE PATCHOULI HOMME  EDT...",
-      "precio": "28,90 €",
-      "url": "https://www.perfumeriaschic.com/p8497210-reminiscence-patchouli-homme-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "10634320": {
       "nombre": "TOUS FLORAL TOUCH SO FRESH EDT 100ML...",
       "precio": "28,90 €",
@@ -7578,12 +7578,6 @@
       "nombre": "HOUBIGANT PARIS ESSENCE RARE EDP...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p10465042-houbigant-paris-essence-rare-edp100ml-tester.html",
-      "en_stock": false
-    },
-    "9681350": {
-      "nombre": "REMINISCENCE PATCHOULI N´ROSES EDP...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p9681350-reminiscence-patchouli-nroses-edp-100ml-tester.html",
       "en_stock": false
     },
     "3151196": {
@@ -8786,12 +8780,6 @@
       "url": "https://www.perfumeriaschic.com/p10681067-carner-barcelona-d600-edp-100ml-tester.html",
       "en_stock": false
     },
-    "10315234": {
-      "nombre": "REMINISCENCE HELIOTROPE EDP 100ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p10315234-reminiscence-heliotrope-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11244338": {
       "nombre": "TOM FORD JASMIN ROUGE EAU DE PARFUM...",
       "precio": "149,90 €",
@@ -9668,6 +9656,12 @@
       "url": "https://www.perfumeriaschic.com/p10455126-calvin-klein-ck-defy-edt-100ml-tester.html",
       "en_stock": false
     },
+    "11521964": {
+      "nombre": "BOND No.9 NEW STREET EDP 100ML TESTER",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p11521964-bond-no-9-new-street-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "11435269": {
       "nombre": "ISSEY MIYAKE NUIT D´ISSEY EAU DE...",
       "precio": "38,90 €",
@@ -9762,6 +9756,12 @@
       "nombre": "DAVIDOFF COOL WATER CARIBBEAN SUMMER...",
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p11330281-davidoff-cool-water-caribbean-summer-edition-edt-125ml-sin-caja.html",
+      "en_stock": false
+    },
+    "7771188": {
+      "nombre": "MANCERA WILD PYTHON EDP 120 ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p7771188-mancera-wild-python-edp-120-ml-sin-caja.html",
       "en_stock": false
     },
     "10589666": {
@@ -9954,6 +9954,12 @@
       "nombre": "ETRO MUSK EDP 100ML TESTER",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7807265-etro-musk-edp-100ml-tester.html",
+      "en_stock": false
+    },
+    "11510300": {
+      "nombre": "4711 ACQUA COLONIA COLLECTION...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p11510300-4711-acqua-colonia-collection-absolue-midnight-sandal-edp-100ml-tester.html",
       "en_stock": false
     },
     "7431834": {
@@ -10242,6 +10248,12 @@
       "nombre": "FRANCESCA BIANCHI LOVER´S TALE...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p10103566-francesca-bianchi-lovers-tale-extrait-de-parfum-30ml-tester.html",
+      "en_stock": false
+    },
+    "11363421": {
+      "nombre": "BOUCHERON POUR FEMME EAU DE PARFUM...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p11363421-boucheron-eau-de-parfum-100ml-tester.html",
       "en_stock": false
     },
     "8759390": {
@@ -11190,7 +11202,7 @@
       "nombre": "SISLEY L'EAU REVEE D´ISA EDT 100ML...",
       "precio": "54,80 €",
       "url": "https://www.perfumeriaschic.com/p10912292-sisley-leau-revee-disa-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11440619": {
       "nombre": "LOEWE EARTH ELIXIR EDP 100ML TESTER",
@@ -11406,7 +11418,7 @@
       "nombre": "HUGO BOSS SUPERMAN X HUGO EDP 125ML...",
       "precio": "38,90 €",
       "url": "https://www.perfumeriaschic.com/p11663972-hugo-boss-superman-x-hugo-edp-125ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10049671": {
       "nombre": "NASOMATTO NARCOTIC VENUS  EXTRAIT DE...",
@@ -13012,9 +13024,9 @@
     },
     "11311695": {
       "nombre": "ROCHAS EAU DE ROCHAS ORANGE HORIZON...",
-      "precio": "34,90 €",
+      "precio": "29,90 €",
       "url": "https://www.perfumeriaschic.com/p11311695-rochas-eau-de-rochas-orange-horizon-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8252606": {
       "nombre": "MANCERA WILD FRUITS EDP 120ML TESTER",
@@ -14184,7 +14196,7 @@
       "nombre": "SISLEY EAU TROPICALE EDT 100ML TESTER",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p5884031-sisley-eau-tropicale-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3796559": {
       "nombre": "RALPH LAUREN RALPH EDT 100ML TESTER",
@@ -14552,12 +14564,6 @@
       "url": "https://www.perfumeriaschic.com/p11380564-hugo-boss-hugo-intense-edp-intense-125ml-tester.html",
       "en_stock": false
     },
-    "6808601": {
-      "nombre": "MONTBLANC LEGEND EDT 100ML TESTER",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p6808601-montblanc-legend-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "11529795": {
       "nombre": "JEROBOAM ORIGINO EXTRAIT DE PARFUM...",
       "precio": "104,93 €",
@@ -14688,12 +14694,6 @@
       "nombre": "ROCHAS EAU DE ROCHAS L'ESSENTIEL...",
       "precio": "36,90 €",
       "url": "https://www.perfumeriaschic.com/p10911757-rochas-eau-de-rochas-lessentiel-edp-100ml-tester.html",
-      "en_stock": false
-    },
-    "10637942": {
-      "nombre": "ROCHAS EAU DE ROCHAS CITRON SOLEIL...",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p10637942-rochas-eau-de-rochas-citron-soleil-edt-100ml-tester.html",
       "en_stock": false
     },
     "8491999": {
@@ -18516,6 +18516,7 @@
     "BOND NO. 9 THE SCENT OF PEACE FOR...",
     "BOND NO.9 DUBAI PLATINUM EDP 100ML...",
     "BOND NO.9 LIBERTY ISLAND EDP 50ML",
+    "BOND NO.9 NEW STREET EDP 100ML TESTER",
     "BOND NO.9 NY GREENWICH VILLAGE EDP...",
     "BOND NO.9 NY NEW HAARLEM EDP 100ML...",
     "BOND NO.9 RIVERSIDE DRIVE EDP 100ML...",
@@ -18527,6 +18528,7 @@
     "BORTNIKOFF MOSS COLOGNE EAU DE...",
     "BOSS BOTTLED STRIKING LAVENDER EDP...",
     "BOTANICAE SHOMAL EAU DE PARFUM 100ML",
+    "BOUCHERON POUR FEMME EAU DE PARFUM...",
     "BOUCHERON QUATRE POUR HOMME EDT 100ML",
     "BOUCHERON SINGULIER POUR HOMME EDP...",
     "BRIONI EAU DE PARFUM 100ML TESTER",
@@ -19148,6 +19150,7 @@
     "MANCERA VETIVER SENSUEL EDP 120ML...",
     "MANCERA WILD FRUITS EDP 120ML TESTER",
     "MANCERA WILD LEATHER EDP 120ML TESTER",
+    "MANCERA WILD PYTHON EDP 120 ML...",
     "MANCERA XPLICIT VANILLA EDP 120ML...",
     "MANDARINA DUCK BLACK EDT 100ML TESTER",
     "MANDARINA DUCK THE DUCKERS...",
