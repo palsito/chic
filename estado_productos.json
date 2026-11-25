@@ -3197,9 +3197,21 @@
       "precio": "78,59 €",
       "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
       "en_stock": false
+    },
+    "11821335": {
+      "nombre": "CARON OUD EXCELSA EDP 100 ML TESTER",
+      "precio": "109,16 €",
+      "url": "https://www.perfumeriaschic.com/p11821335-caron-oud-excelsa-edp-100-ml-tester.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11821391": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA FORTE BOSCA...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821391-guerlain-aqua-allegoria-forte-bosca-vanilla-edp-125-ml-tester.html",
+      "en_stock": true
+    },
     "7803849": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
       "precio": "109,90 €",
@@ -3214,8 +3226,14 @@
     },
     "11821335": {
       "nombre": "CARON OUD EXCELSA EDP 100 ML TESTER",
-      "precio": "114,90 €",
+      "precio": "109,16 €",
       "url": "https://www.perfumeriaschic.com/p11821335-caron-oud-excelsa-edp-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11821336": {
+      "nombre": "CARON TABAC EXQUIS EDP 100 ML TESTER",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821336-caron-tabac-exquis-edp-100-ml-tester.html",
       "en_stock": true
     },
     "11711351": {
@@ -7360,9 +7378,9 @@
     },
     "5197906": {
       "nombre": "CHANEL ALLURE SENSUELLE EDT 100ML...",
-      "precio": "64,90 €",
+      "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p5197906-chanel-allure-sensuelle-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7276259": {
       "nombre": "HUGO BOSS BOTTLED ABSOLUTE EDP 100ML...",
@@ -9654,6 +9672,12 @@
       "nombre": "ETRO MUSK EDT 100ML TESTER",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p11173573-etro-musk-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "10982041": {
+      "nombre": "THE MERCHANT OF VENICE QUEEN OF THE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p10982041-the-merchant-of-venice-queen-of-the-night-edp-100ml-tester.html",
       "en_stock": false
     },
     "11512147": {
@@ -12848,12 +12872,6 @@
       "url": "https://www.perfumeriaschic.com/p7308017-hermes-jour-absolu-edp-85ml-tester.html",
       "en_stock": false
     },
-    "5559705": {
-      "nombre": "CHANEL ALLURE SENSUELLE EDP 100ML...",
-      "precio": "78,90 €",
-      "url": "https://www.perfumeriaschic.com/p5559705-chanel-allure-sensuelle-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "10200241": {
       "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
       "precio": "149,90 €",
@@ -13458,7 +13476,7 @@
       "nombre": "HOUBIGANT TABAC NOMADE EDP 100ML...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11646584-houbigant-tabac-nomade-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10618260": {
       "nombre": "ROSENDO MATEU Nº6 PERFUME 100ML SIN...",
@@ -14322,7 +14340,7 @@
       "nombre": "PACO RABANNE ONE MILLION EDT 100ML...",
       "precio": "46,90 €",
       "url": "https://www.perfumeriaschic.com/p4880431-paco-rabanne-one-million-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10703737": {
       "nombre": "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
@@ -15952,6 +15970,12 @@
       "url": "https://www.perfumeriaschic.com/p10884042-houbigant-quelques-fleurs-jardin-secret-edp-100ml-tester.html",
       "en_stock": false
     },
+    "10982041": {
+      "nombre": "THE MERCHANT OF VENICE QUEEN OF THE...",
+      "precio": "134,90 €",
+      "url": "https://www.perfumeriaschic.com/p10982041-the-merchant-of-venice-queen-of-the-night-edp-100ml-tester.html",
+      "en_stock": false
+    },
     "10655530": {
       "nombre": "AGATHO 195 a.c PARFUM 100ML",
       "precio": "320,00 €",
@@ -16970,7 +16994,7 @@
       "nombre": "HOUBIGANT TABAC NOMADE EDP 100ML...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11646584-houbigant-tabac-nomade-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544524": {
       "nombre": "CARTHUSIA UOMO EDP 100ML TESTER",
@@ -18515,6 +18539,7 @@
     "CARON POUR UN HOMME LE MATIN EDT...",
     "CARON POUR UN HOMME LE SOIR EDP...",
     "CARON SANTAL PRECIEUX EDP 100ML...",
+    "CARON TABAC EXQUIS EDP 100 ML TESTER",
     "CARTHUSIA 1681 EDP 100ML TESTER",
     "CARTHUSIA ARIA DI CAPRI EDP 100ML...",
     "CARTHUSIA ESSENCE OF THE PARK EAU DE...",
@@ -18751,6 +18776,7 @@
     "GUERLAIN AQUA ALLEGORIA  MANDARINE...",
     "GUERLAIN AQUA ALLEGORIA  VETIVER...",
     "GUERLAIN AQUA ALLEGORIA FLORA...",
+    "GUERLAIN AQUA ALLEGORIA FORTE BOSCA...",
     "GUERLAIN AQUA ALLEGORIA GRANADA...",
     "GUERLAIN EAU DE COLOGNE IMPERIALE...",
     "GUERLAIN INSOLENCE EDP 100ML TESTER",
@@ -19442,6 +19468,7 @@
     "THE DIFFERENT COMPANY PURE EVE EDP...",
     "THE HOUSE OF OUD GRAPE PEARLS EDP...",
     "THE HOUSE OF OUD LIVE IN COLOURS EDP...",
+    "THE MERCHANT OF VENICE QUEEN OF THE...",
     "THE MERCHANT OF VENICE RED POTION...",
     "THE SPIRIT OF DUBAI BAHAR 50ML TESTER",
     "THE SPIRIT OF DUBAI MEYDAN EDP 50ML...",
