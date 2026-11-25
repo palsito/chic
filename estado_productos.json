@@ -3156,11 +3156,23 @@
       "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
       "en_stock": false
     },
+    "8900892": {
+      "nombre": "MONTBLANC EXPLORER ULTRA BLUE EDP...",
+      "precio": "28,95 €",
+      "url": "https://www.perfumeriaschic.com/p8900892-montblanc-explorer-ultra-blue-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11379214": {
       "nombre": "M. MICALLEF O FEMININ EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11379214-m-micallef-o-feminin-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "11417389": {
+      "nombre": "TRUSSARDI PRIMO EDP 100ML TESTER",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11417389-trussardi-primo-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11435163": {
       "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
@@ -3172,6 +3184,12 @@
       "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
       "precio": "98,85 €",
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11744117": {
+      "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
+      "precio": "29,89 €",
+      "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
       "en_stock": true
     }
   },
@@ -6628,9 +6646,9 @@
     },
     "8900892": {
       "nombre": "MONTBLANC EXPLORER ULTRA BLUE EDP...",
-      "precio": "32,90 €",
+      "precio": "28,95 €",
       "url": "https://www.perfumeriaschic.com/p8900892-montblanc-explorer-ultra-blue-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "9764296": {
       "nombre": "NARCISO RODRIGUEZ FOR HIM EDT 100ML...",
@@ -9932,6 +9950,12 @@
       "url": "https://www.perfumeriaschic.com/p11408436-montale-patchouli-leaves-edp-100ml-tester.html",
       "en_stock": false
     },
+    "7803849": {
+      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
+      "precio": "109,90 €",
+      "url": "https://www.perfumeriaschic.com/p7803849-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-150ml-sin-caja.html",
+      "en_stock": true
+    },
     "10346885": {
       "nombre": "ARMAND BASI L´EAU POUR HOMME BLUE...",
       "precio": "16,95 €",
@@ -12772,9 +12796,9 @@
     },
     "11417389": {
       "nombre": "TRUSSARDI PRIMO EDP 100ML TESTER",
-      "precio": "36,90 €",
+      "precio": "32,95 €",
       "url": "https://www.perfumeriaschic.com/p11417389-trussardi-primo-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11544521": {
       "nombre": "BOND No.9 SHELTER ISLAND EDP 100ML...",
@@ -13614,7 +13638,7 @@
       "nombre": "TRUSSARDI LE VIE DI MILANO I VICOLI...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p11711351-trussardi-le-vie-di-milano-i-vicoli-via-fiori-chiari-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10619411": {
       "nombre": "ROSENDO MATEU INCENSE WOOD EDP 100ML",
@@ -14014,9 +14038,9 @@
     },
     "11744117": {
       "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
-      "precio": "36,90 €",
+      "precio": "29,89 €",
       "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11674081": {
       "nombre": "BOIS 1920 CANNABIS LA FRUTTATA EAU...",
@@ -14634,7 +14658,7 @@
       "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO...",
       "precio": "94,90 €",
       "url": "https://www.perfumeriaschic.com/p11507063-acqua-di-parma-colonia-il-profumo-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11387253": {
       "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
@@ -19131,6 +19155,7 @@
     "MONTBLANC EXPLORER EXTREME PARFUM...",
     "MONTBLANC EXPLORER INFINITE EAU DE...",
     "MONTBLANC EXPLORER PLATINUM EDP...",
+    "MONTBLANC EXPLORER ULTRA BLUE EDP...",
     "MONTBLANC LEGEND EAU DE PARFUM 100ML...",
     "MONTBLANC LEGEND EDT 100ML TESTER",
     "MONTBLANC LEGEND ELIXIR PARFUM 100ML...",
