@@ -1,5 +1,65 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11439351": {
+      "nombre": "MARC JACOBS DOT EDP 100ML TESTER",
+      "precio": "34,96 €",
+      "url": "https://www.perfumeriaschic.com/p11439351-marc-jacobs-dot-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10793047": {
+      "nombre": "XERJOFF COMANDANTE EDP 100ML TESTER",
+      "precio": "139,84 €",
+      "url": "https://www.perfumeriaschic.com/p10793047-xerjoff-comandante-edp-100ml-sin-caja.html",
+      "en_stock": true
+    },
+    "5903684": {
+      "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
+      "en_stock": true
+    },
+    "9654811": {
+      "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP...",
+      "precio": "76,41 €",
+      "url": "https://www.perfumeriaschic.com/p9654811-eight-bob-champs-de-provence-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "8900892": {
+      "nombre": "MONTBLANC EXPLORER ULTRA BLUE EDP...",
+      "precio": "28,95 €",
+      "url": "https://www.perfumeriaschic.com/p8900892-montblanc-explorer-ultra-blue-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11417389": {
+      "nombre": "TRUSSARDI PRIMO EDP 100ML TESTER",
+      "precio": "32,95 €",
+      "url": "https://www.perfumeriaschic.com/p11417389-trussardi-primo-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11435163": {
+      "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
+      "precio": "39,92 €",
+      "url": "https://www.perfumeriaschic.com/p11435163-ligea-la-sirena-de-carthusia-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11493942": {
+      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
+      "precio": "98,85 €",
+      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11744117": {
+      "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
+      "precio": "29,89 €",
+      "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11821324": {
+      "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
+      "precio": "114,95 €",
+      "url": "https://www.perfumeriaschic.com/p11821324-acqua-di-parma-bergamotto-la-spugnatura-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
       "precio": "89,62 €",
@@ -221,12 +281,6 @@
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11817209-mancera-intense-french-riviera-extrait-de-parfum-120-ml.html",
       "en_stock": true
-    },
-    "11643674": {
-      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
-      "precio": "78,59 €",
-      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
-      "en_stock": false
     },
     "11424764": {
       "nombre": "JUICY COUTURE VIVA LA JUICY SUCRE...",
@@ -1368,12 +1422,6 @@
       "url": "https://www.perfumeriaschic.com/p7452462-jesus-del-pozo-halloween-blue-drop-edt-100-ml-tester.html",
       "en_stock": true
     },
-    "11439351": {
-      "nombre": "MARC JACOBS DOT EDP 100ML TESTER",
-      "precio": "34,96 €",
-      "url": "https://www.perfumeriaschic.com/p11439351-marc-jacobs-dot-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11500536": {
       "nombre": "TOUS SORBET GARDEN EDT 90ML TESTER",
       "precio": "29,90 €",
@@ -1384,24 +1432,6 @@
       "nombre": "MASQUE MILANO MADELEINE EAU DE...",
       "precio": "134,76 €",
       "url": "https://www.perfumeriaschic.com/p11316751-masque-milano-madeleine-eau-de-parfum100ml-tester.html",
-      "en_stock": true
-    },
-    "10793047": {
-      "nombre": "XERJOFF COMANDANTE EDP 100ML TESTER",
-      "precio": "139,84 €",
-      "url": "https://www.perfumeriaschic.com/p10793047-xerjoff-comandante-edp-100ml-sin-caja.html",
-      "en_stock": true
-    },
-    "5903684": {
-      "nombre": "HUGO BOSS HUGO  EDT 125ML TESTER",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p5903684-hugo-boss-hugo-edt-125ml-tester.html",
-      "en_stock": true
-    },
-    "9654811": {
-      "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP...",
-      "precio": "76,41 €",
-      "url": "https://www.perfumeriaschic.com/p9654811-eight-bob-champs-de-provence-edp-100ml-tester.html",
       "en_stock": true
     },
     "11544530": {
@@ -3156,47 +3186,17 @@
       "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
       "en_stock": false
     },
-    "8900892": {
-      "nombre": "MONTBLANC EXPLORER ULTRA BLUE EDP...",
-      "precio": "28,95 €",
-      "url": "https://www.perfumeriaschic.com/p8900892-montblanc-explorer-ultra-blue-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11379214": {
       "nombre": "M. MICALLEF O FEMININ EDP 100ML...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11379214-m-micallef-o-feminin-edp-100ml-sin-caja.html",
       "en_stock": false
     },
-    "11417389": {
-      "nombre": "TRUSSARDI PRIMO EDP 100ML TESTER",
-      "precio": "32,95 €",
-      "url": "https://www.perfumeriaschic.com/p11417389-trussardi-primo-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11435163": {
-      "nombre": "CARTHUSIA LIGEA LA SIRENA EDP 100ML...",
-      "precio": "39,92 €",
-      "url": "https://www.perfumeriaschic.com/p11435163-ligea-la-sirena-de-carthusia-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11493942": {
-      "nombre": "DUSITA ROSARINE EAU DE PARFUM 100ML...",
-      "precio": "98,85 €",
-      "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
-      "en_stock": true
-    },
-    "11744117": {
-      "nombre": "TRUSSARDI PRIMO NOTE BLU EDP 100ML....",
-      "precio": "29,89 €",
-      "url": "https://www.perfumeriaschic.com/p11744117-trussardi-primo-note-blu-edp-100ml-tester.html",
-      "en_stock": true
-    },
-    "11821324": {
-      "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
-      "precio": "114,95 €",
-      "url": "https://www.perfumeriaschic.com/p11821324-acqua-di-parma-bergamotto-la-spugnatura-edp-100-ml-tester.html",
-      "en_stock": true
+    "11643674": {
+      "nombre": "MANCERA CINQUE TERRE EDP 120ML",
+      "precio": "78,59 €",
+      "url": "https://www.perfumeriaschic.com/p11643674-mancera-cinque-terre-edp-60ml.html",
+      "en_stock": false
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
