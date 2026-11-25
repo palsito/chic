@@ -1,5 +1,23 @@
 {
   "https://www.perfumeriaschic.com/c328441-ofertas-semanales.html": {
+    "11821406": {
+      "nombre": "PARFUM D’EMPIRE OSMANTHUS INTERDITE...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821406-parfum-d%E2%80%99empire-osmanthus-interdite-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11821409": {
+      "nombre": "PARFUM D’EMPIRE CORSICA FURIOSA EDP...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821409-parfum-d%E2%80%99empire-corsica-furiosa-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11821410": {
+      "nombre": "PARFUM D’EMPIRE SALUTE! EDP 100 ML...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821410-parfum-d%E2%80%99empire-salute-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
     "10119806": {
       "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
       "precio": "59,40 €",
@@ -3112,7 +3130,7 @@
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
       "precio": "98,92 €",
       "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11756165": {
       "nombre": "SIMONE ANDREOLI OCEAN OF A MIDNIGHT...",
@@ -3142,7 +3160,7 @@
       "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11398006": {
       "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
@@ -3206,6 +3224,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11821408": {
+      "nombre": "PARFUM D’EMPIRE MADAGASCAR LE BAUME...",
+      "precio": "119,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821408-parfum-d%E2%80%99empire-madagascar-le-baume-vanille-edp-100-ml-sin-caja.html",
+      "en_stock": false
+    },
+    "11821409": {
+      "nombre": "PARFUM D’EMPIRE CORSICA FURIOSA EDP...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821409-parfum-d%E2%80%99empire-corsica-furiosa-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11821410": {
+      "nombre": "PARFUM D’EMPIRE SALUTE! EDP 100 ML...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821410-parfum-d%E2%80%99empire-salute-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11821406": {
+      "nombre": "PARFUM D’EMPIRE OSMANTHUS INTERDITE...",
+      "precio": "99,85 €",
+      "url": "https://www.perfumeriaschic.com/p11821406-parfum-d%E2%80%99empire-osmanthus-interdite-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
+    "11821407": {
+      "nombre": "PARFUM D’EMPIRE UN BEL AMOUR D’ÉTÉ...",
+      "precio": "114,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821407-parfum-d%E2%80%99empire-un-bel-amour-d%E2%80%99ete-edp-100-ml-sin-caja.html",
+      "en_stock": true
+    },
     "11821324": {
       "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
       "precio": "114,95 €",
@@ -3218,6 +3266,18 @@
       "url": "https://www.perfumeriaschic.com/p7803849-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-150ml-sin-caja.html",
       "en_stock": true
     },
+    "11387253": {
+      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11683690": {
+      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
+      "precio": "98,92 €",
+      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
+      "en_stock": true
+    },
     "11643674": {
       "nombre": "MANCERA CINQUE TERRE EDP 60ML",
       "precio": "48,90 €",
@@ -3228,6 +3288,12 @@
       "nombre": "EIGHT & BOB NUIT DE MEGÉVE EDP 100ML",
       "precio": "59,40 €",
       "url": "https://www.perfumeriaschic.com/p10119806-eight-bob-nuit-de-megeve-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11507063": {
+      "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO...",
+      "precio": "94,90 €",
+      "url": "https://www.perfumeriaschic.com/p11507063-acqua-di-parma-colonia-il-profumo-edp-100ml-tester.html",
       "en_stock": true
     },
     "11530842": {
@@ -3330,7 +3396,7 @@
       "nombre": "CARON TABAC EXQUIS EDP 100 ML TESTER",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11821336-caron-tabac-exquis-edp-100-ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11711351": {
       "nombre": "TRUSSARDI LE VIE DI MILANO I VICOLI...",
@@ -14690,18 +14756,6 @@
       "url": "https://www.perfumeriaschic.com/p4382973-chanel-egoiste-edt-100ml-tester.html",
       "en_stock": false
     },
-    "11387253": {
-      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
-    "11683690": {
-      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
-      "precio": "98,92 €",
-      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
-      "en_stock": false
-    },
     "11760352": {
       "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -14845,12 +14899,6 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p8367648-perris-monte-carlo-ylang-ylang-nosy-be-edp-100ml-tester.html",
       "en_stock": false
-    },
-    "11821408": {
-      "nombre": "PARFUM D’EMPIRE MADAGASCAR LE BAUME...",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11821408-parfum-d%E2%80%99empire-madagascar-le-baume-vanille-edp-100-ml-sin-caja.html",
-      "en_stock": true
     },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
@@ -15022,6 +15070,18 @@
     }
   },
   "https://www.perfumeriaschic.com/c462392-perfumes-nicho.html": {
+    "11387253": {
+      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
+      "precio": "98,90 €",
+      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
+      "en_stock": true
+    },
+    "11683690": {
+      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
+      "precio": "98,92 €",
+      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
+      "en_stock": true
+    },
     "11674093": {
       "nombre": "ETAT LIBRE D´ORANGE CLEAN SUEDE EAU...",
       "precio": "64,90 €",
@@ -15052,6 +15112,12 @@
       "url": "https://www.perfumeriaschic.com/p8150280-mancera-feminity-edp-120ml.html",
       "en_stock": true
     },
+    "11487002": {
+      "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11818131": {
       "nombre": "MANCERA AMBERFUL EAU DE PARFUM 120 ML",
       "precio": "78,20 €",
@@ -15062,6 +15128,12 @@
       "nombre": "MANCERA FIG ME UP EDP 120ML",
       "precio": "78,52 €",
       "url": "https://www.perfumeriaschic.com/p11662296-mancera-fig-me-up-edp-120ml.html",
+      "en_stock": true
+    },
+    "11435166": {
+      "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
+      "precio": "58,57 €",
+      "url": "https://www.perfumeriaschic.com/p11435166-etat-libre-dorange-divin-enfant-edp-100ml-tester.html",
       "en_stock": true
     },
     "11719236": {
@@ -16168,12 +16240,6 @@
       "url": "https://www.perfumeriaschic.com/p11386485-francesca-bianchi-byzantine-amber-extrait-de-parfum-30ml-tester.html",
       "en_stock": false
     },
-    "11387253": {
-      "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
-      "precio": "98,90 €",
-      "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
     "10936980": {
       "nombre": "CARNER BARCELONA EL BORN EDP 100ML...",
       "precio": "89,90 €",
@@ -17062,12 +17128,6 @@
       "url": "https://www.perfumeriaschic.com/p11464346-dusita-la-douceur-de-siam-eau-de-parfum-50ml-tester.html",
       "en_stock": false
     },
-    "11487002": {
-      "nombre": "ETAT LIBRE D´ORANGE LA FIN DU MONDE...",
-      "precio": "58,90 €",
-      "url": "https://www.perfumeriaschic.com/p11487002-etat-libre-dorange-la-fin-du-monde-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "11643682": {
       "nombre": "MONTALE SENSUAL INSTINCT EDP 100ML",
       "precio": "84,50 €",
@@ -17324,12 +17384,6 @@
       "nombre": "ETAT LIBRE D´ORANGE THE AFTERNOON OF...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11674108-etat-libre-dorange-the-afternoon-of-a-faun-eau-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
-    "11435166": {
-      "nombre": "ETAT LIBRE D´ORANGE DIVIN ENFANT EDP...",
-      "precio": "58,57 €",
-      "url": "https://www.perfumeriaschic.com/p11435166-etat-libre-dorange-divin-enfant-edp-100ml-tester.html",
       "en_stock": true
     },
     "10697786": {
@@ -18328,12 +18382,6 @@
       "url": "https://www.perfumeriaschic.com/p8149166-mancera-red-tobacco-edp-120ml.html",
       "en_stock": false
     },
-    "11683690": {
-      "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
-      "precio": "98,92 €",
-      "url": "https://www.perfumeriaschic.com/p11683690-nishane-hundred-silent-ways-50ml-tester.html",
-      "en_stock": false
-    },
     "11760352": {
       "nombre": "JOVOY MUSC PALLAS EDP 75ML TESTER",
       "precio": "98,90 €",
@@ -19325,7 +19373,11 @@
     "PALOMA PICASSO EDT 100ML TESTER",
     "PALOMA PICASSO MINOTAURE POUR HOMME...",
     "PANA DORA XVI EDP 100ML TESTER",
+    "PARFUM D’EMPIRE CORSICA FURIOSA EDP...",
     "PARFUM D’EMPIRE MADAGASCAR LE BAUME...",
+    "PARFUM D’EMPIRE OSMANTHUS INTERDITE...",
+    "PARFUM D’EMPIRE SALUTE! EDP 100 ML...",
+    "PARFUM D’EMPIRE UN BEL AMOUR D’ÉTÉ...",
     "PENHALIGON'S THE MANOEUVRES OF THE...",
     "PENHALIGON´S BLENHEIM BOUQUET EDT...",
     "PENHALIGON´S CONSTANTINOPLE EDP...",
