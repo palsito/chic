@@ -4856,6 +4856,12 @@
       "url": "https://www.perfumeriaschic.com/p11616279-thierry-mugler-angel-stellar-edp-50ml.html",
       "en_stock": true
     },
+    "8372096": {
+      "nombre": "YVES SAINT LAURENT Y EDP 100ML TESTER",
+      "precio": "46,90 €",
+      "url": "https://www.perfumeriaschic.com/p8372096-yves-saint-laurent-y-edp-100ml-tester.html",
+      "en_stock": true
+    },
     "11762585": {
       "nombre": "ARISTOCRAZY LAPIS LAZULI EDP 100ML...",
       "precio": "106,95 €",
@@ -7338,6 +7344,12 @@
       "nombre": "HERMES HIRIS EDT 100ML TESTER",
       "precio": "54,90 €",
       "url": "https://www.perfumeriaschic.com/p4669267-hermes-hiris-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "5197906": {
+      "nombre": "CHANEL ALLURE SENSUELLE EDT 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p5197906-chanel-allure-sensuelle-edt-100ml-tester.html",
       "en_stock": false
     },
     "7276259": {
@@ -11202,7 +11214,7 @@
       "nombre": "MERCHANT OF VENICE ROSA MOCENIGA...",
       "precio": "114,90 €",
       "url": "https://www.perfumeriaschic.com/p11530842-merchant-of-venice-rosa-moceniga-elixir-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "5614139": {
       "nombre": "SISLEY EAU DE CAMPAGNE EDT 100ML...",
@@ -13040,12 +13052,6 @@
       "url": "https://www.perfumeriaschic.com/p7315787-acqua-di-parma-colonia-intensa-edc100ml-tester.html",
       "en_stock": false
     },
-    "11774272": {
-      "nombre": "MIU MIU MIUTINE EDP 100ML TESTER",
-      "precio": "49,95 €",
-      "url": "https://www.perfumeriaschic.com/p11774272-miu-miu-miutine-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "11774274": {
       "nombre": "MIU MIU FLEUR DE LAIT EDP 100ML...",
       "precio": "49,95 €",
@@ -13290,7 +13296,7 @@
       "nombre": "ANNICK GOUTAL EAU D´HADRIEN EDP...",
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p7443188-annick-goutal-eau-dhadrien-edp-100ml.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11776933": {
       "nombre": "PRADA INFUSION D' YLANG EDP 100ML...",
@@ -14653,6 +14659,12 @@
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p4382973-chanel-egoiste-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "11820406": {
+      "nombre": "MIU MIU MIUTINE EAU DE PARFUM 100 ML...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11820406-miu-miu-miutine-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
     },
     "11507063": {
       "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO...",
