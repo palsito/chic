@@ -102,6 +102,12 @@
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
       "en_stock": true
     },
+    "11407998": {
+      "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
+      "precio": "72,90 €",
+      "url": "https://www.perfumeriaschic.com/p11407998-replica-maison-margiela-on-a-date-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
     "11406882": {
       "nombre": "NISHANE EGE / ΑΙΓΑΙΟ EXTRAIT DE...",
       "precio": "89,62 €",
@@ -2478,12 +2484,6 @@
       "url": "https://www.perfumeriaschic.com/p11571220-biotherm-homme-force-supreme-blue-serum-antiarrugas-y-reafirmante-60ml-tester.html",
       "en_stock": false
     },
-    "10912292": {
-      "nombre": "SISLEY L'EAU REVEE D´ISA EDT 100ML...",
-      "precio": "54,80 €",
-      "url": "https://www.perfumeriaschic.com/p10912292-sisley-leau-revee-disa-edt-100ml-tester.html",
-      "en_stock": true
-    },
     "10075351": {
       "nombre": "LOEWE PAULA´S IBIZA ECLECTIC EAU DE...",
       "precio": "29,94 €",
@@ -3186,12 +3186,6 @@
       "url": "https://www.perfumeriaschic.com/p11398006-etat-libre-dorange-hermann-a-mes-cotes-me-paraissaint-une-ombre-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11407998": {
-      "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
-      "precio": "72,90 €",
-      "url": "https://www.perfumeriaschic.com/p11407998-replica-maison-margiela-on-a-date-eau-de-toilette-100ml-tester.html",
-      "en_stock": true
-    },
     "10893026": {
       "nombre": "COLLISTAR MILANO CREMA RASSODANTE ...",
       "precio": "19,90 €",
@@ -3240,6 +3234,18 @@
       "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11407998-replica-maison-margiela-on-a-date-eau-de-toilette-100ml-tester.html",
+      "en_stock": true
+    },
+    "11821911": {
+      "nombre": "LANCOME O OUI EDT 100ML TESTER",
+      "precio": "34,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821911-lancome-o-oui-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "11821912": {
+      "nombre": "TOMMY HILFIGER TOMMY GIRL POOLSIDE...",
+      "precio": "24,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821912-tommy-hilfiger-tommy-girl-poolside-edition-edt-100ml-tester.html",
       "en_stock": true
     },
     "10958096": {
@@ -15044,16 +15050,16 @@
       "url": "https://www.perfumeriaschic.com/p10690572-rochas-mademoiselle-couture-edp-90ml-tester.html",
       "en_stock": false
     },
-    "11468283": {
-      "nombre": "LACOSTE L. 12.12 ROSE FOR HER EAU DE...",
-      "precio": "36,90 €",
-      "url": "https://www.perfumeriaschic.com/p11468283-lacoste-l-12-12-rose-for-her-edp-100ml-tester.html",
-      "en_stock": false
-    },
     "7782288": {
       "nombre": "MONTALE INTENSE TIARE EDP 100ML...",
       "precio": "68,90 €",
       "url": "https://www.perfumeriaschic.com/p7782288-montale-intense-tiare-edp-100ml.html",
+      "en_stock": false
+    },
+    "11468283": {
+      "nombre": "LACOSTE L. 12.12 ROSE FOR HER EAU DE...",
+      "precio": "36,90 €",
+      "url": "https://www.perfumeriaschic.com/p11468283-lacoste-l-12-12-rose-for-her-edp-100ml-tester.html",
       "en_stock": false
     }
   },
@@ -19582,6 +19588,7 @@
     "TOMMY HILFIGER FREEDOM EAU DE PARFUM...",
     "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
     "TOMMY HILFIGER TOMMY GIRL NEW YORK...",
+    "TOMMY HILFIGER TOMMY GIRL POOLSIDE...",
     "TOMMY HILFIGER TOMMY IMPACT PARFUM...",
     "TOMMY HILFIGER TOMMY MEN EDT 100ML...",
     "TOMMY HILFIGER TOMMY NEW YORK EDT...",
