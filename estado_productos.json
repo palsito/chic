@@ -48,12 +48,6 @@
       "url": "https://www.perfumeriaschic.com/p11821406-parfum-d%E2%80%99empire-osmanthus-interdite-edp-100-ml-sin-caja.html",
       "en_stock": true
     },
-    "11821409": {
-      "nombre": "PARFUM D’EMPIRE CORSICA FURIOSA EDP...",
-      "precio": "99,85 €",
-      "url": "https://www.perfumeriaschic.com/p11821409-parfum-d%E2%80%99empire-corsica-furiosa-edp-100-ml-sin-caja.html",
-      "en_stock": false
-    },
     "11821410": {
       "nombre": "PARFUM D’EMPIRE SALUTE! EDP 100 ML...",
       "precio": "99,85 €",
@@ -3196,7 +3190,7 @@
       "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11407998-replica-maison-margiela-on-a-date-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10893026": {
       "nombre": "COLLISTAR MILANO CREMA RASSODANTE ...",
@@ -14808,7 +14802,7 @@
       "nombre": "REPLICA MAISON MARGIELA ON A DATE...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p11407998-replica-maison-margiela-on-a-date-eau-de-toilette-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "8220373": {
       "nombre": "CREED ORIGINAL SANTAL EDP 100ML...",
@@ -14892,18 +14886,6 @@
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
       "precio": "109,90 €",
       "url": "https://www.perfumeriaschic.com/p7803849-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-150ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11821409": {
-      "nombre": "PARFUM D’EMPIRE CORSICA FURIOSA EDP...",
-      "precio": "99,85 €",
-      "url": "https://www.perfumeriaschic.com/p11821409-parfum-d%E2%80%99empire-corsica-furiosa-edp-100-ml-sin-caja.html",
-      "en_stock": false
-    },
-    "11821408": {
-      "nombre": "PARFUM D’EMPIRE MADAGASCAR LE BAUME...",
-      "precio": "119,90 €",
-      "url": "https://www.perfumeriaschic.com/p11821408-parfum-d%E2%80%99empire-madagascar-le-baume-vanille-edp-100-ml-sin-caja.html",
       "en_stock": false
     },
     "6854886": {
