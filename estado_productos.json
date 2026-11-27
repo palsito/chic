@@ -258,6 +258,12 @@
       "url": "https://www.perfumeriaschic.com/p11818619-nishane-zenne-extrait-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
+    "11818618": {
+      "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
+      "precio": "98,81 €",
+      "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
+      "en_stock": true
+    },
     "11343469": {
       "nombre": "MUGLER ALIEN HYPERSENSE EDP 90ML...",
       "precio": "58,93 €",
@@ -3196,7 +3202,7 @@
       "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11398006": {
       "nombre": "ETAT LIBRE D´ORANGE HERMANN A MES...",
@@ -3260,12 +3266,6 @@
       "url": "https://www.perfumeriaschic.com/p10200241-xerjoff-erba-pura-edp-100ml-tester.html",
       "en_stock": true
     },
-    "10953527": {
-      "nombre": "NIGHTOLOGY EXQUISITE LILY  EDP 100ML...",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p10953527-nightology-exquisite-lily-edp-100ml-tester.html",
-      "en_stock": true
-    },
     "7275161": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
       "precio": "59,90 €",
@@ -3294,6 +3294,12 @@
       "nombre": "NIGHTOLOGY ENIGMATIC SOUL EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662327-nightology-enigmatic-soul-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "10953527": {
+      "nombre": "NIGHTOLOGY EXQUISITE LILY  EDP 100ML...",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p10953527-nightology-exquisite-lily-edp-100ml-tester.html",
       "en_stock": true
     },
     "7437942": {
@@ -3331,18 +3337,6 @@
       "precio": "78,90 €",
       "url": "https://www.perfumeriaschic.com/p10958096-mancera-black-vanille-edp-120ml.html",
       "en_stock": true
-    },
-    "3151094": {
-      "nombre": "ARMANI CODE POUR HOMME EDT 75ML...",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p3151094-armani-code-pour-homme-edt-75ml-nuevo-formato-tester.html",
-      "en_stock": false
-    },
-    "5197906": {
-      "nombre": "CHANEL ALLURE SENSUELLE EDT 100ML...",
-      "precio": "68,90 €",
-      "url": "https://www.perfumeriaschic.com/p5197906-chanel-allure-sensuelle-edt-100ml-tester.html",
-      "en_stock": false
     },
     "11821324": {
       "nombre": "ACQUA DI PARMA BERGAMOTTO LA...",
@@ -3534,7 +3528,7 @@
       "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11530842": {
       "nombre": "MERCHANT OF VENICE ROSA MOCENIGA...",
@@ -3553,12 +3547,6 @@
       "precio": "134,90 €",
       "url": "https://www.perfumeriaschic.com/p11821392-the-merchant-of-venice-rococo-26-edp-100-ml-tester.html",
       "en_stock": true
-    },
-    "10703841": {
-      "nombre": "GUERLAIN AQUA ALLEGORIA  VETIVER...",
-      "precio": "59,90 €",
-      "url": "https://www.perfumeriaschic.com/p10703841-guerlain-aqua-allegoria-vetiver-forte-nerolia-eau-de-parfum-125ml-tester.html",
-      "en_stock": false
     },
     "7443188": {
       "nombre": "ANNICK GOUTAL EAU D´HADRIEN EDP...",
@@ -3672,6 +3660,12 @@
       "nombre": "ESCADA FLOR DEL SOL EDT 30ML TESTER",
       "precio": "9,93 €",
       "url": "https://www.perfumeriaschic.com/p8764541-escada-flor-de-sol-edt-30ml-tester.html",
+      "en_stock": true
+    },
+    "11818618": {
+      "nombre": "NISHANE FAN YOUR FLAMES EXTRAIT DE...",
+      "precio": "98,81 €",
+      "url": "https://www.perfumeriaschic.com/p11818618-nishane-fan-your-flames-extrait-de-parfum-50-ml-tester.html",
       "en_stock": true
     },
     "11818619": {
@@ -3997,18 +3991,6 @@
       "precio": "98,85 €",
       "url": "https://www.perfumeriaschic.com/p11493942-dusita-rosarine-eau-de-parfum-50ml-tester.html",
       "en_stock": true
-    },
-    "11526369": {
-      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
-      "precio": "104,56 €",
-      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
-      "en_stock": false
-    },
-    "3521265": {
-      "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
-      "precio": "44,90 €",
-      "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
-      "en_stock": false
     },
     "11664038": {
       "nombre": "LORENZO VILLORESI FIRENZE TEINT DE...",
@@ -13892,6 +13874,12 @@
       "url": "https://www.perfumeriaschic.com/p11244377-tom-ford-noir-exreme-edp-100ml-tester.html",
       "en_stock": false
     },
+    "11781228": {
+      "nombre": "D.S. & DURGA DEBASER EDP 100 ML SIN...",
+      "precio": "144,90 €",
+      "url": "https://www.perfumeriaschic.com/p11781228-d-s-durga-debaser-edp-100-ml-tester.html",
+      "en_stock": true
+    },
     "11781227": {
       "nombre": "GIARDINI DI TOSCANA VERDE RESPIRO...",
       "precio": "84,90 €",
@@ -14565,10 +14553,10 @@
       "en_stock": false
     },
     "11695932": {
-      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML SIN...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11380564": {
       "nombre": "HUGO BOSS HUGO INTENSE EDP INTENSE...",
@@ -14924,6 +14912,36 @@
       "url": "https://www.perfumeriaschic.com/p11725021-tommy-hilfiger-tommy-girl-new-york-edt-100ml-tester.html",
       "en_stock": false
     },
+    "3151094": {
+      "nombre": "ARMANI CODE POUR HOMME EDT 75ML...",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p3151094-armani-code-pour-homme-edt-75ml-nuevo-formato-tester.html",
+      "en_stock": false
+    },
+    "5197906": {
+      "nombre": "CHANEL ALLURE SENSUELLE EDT 100ML...",
+      "precio": "68,90 €",
+      "url": "https://www.perfumeriaschic.com/p5197906-chanel-allure-sensuelle-edt-100ml-tester.html",
+      "en_stock": false
+    },
+    "10703841": {
+      "nombre": "GUERLAIN AQUA ALLEGORIA  VETIVER...",
+      "precio": "59,90 €",
+      "url": "https://www.perfumeriaschic.com/p10703841-guerlain-aqua-allegoria-vetiver-forte-nerolia-eau-de-parfum-125ml-tester.html",
+      "en_stock": false
+    },
+    "11526369": {
+      "nombre": "DUSITA ANAMCARA EAU DE PARFUM 100ML...",
+      "precio": "104,56 €",
+      "url": "https://www.perfumeriaschic.com/p11526369-dusita-anamcara-eau-de-parfum-50ml-tester.html",
+      "en_stock": false
+    },
+    "3521265": {
+      "nombre": "ELIE SAAB LE PARFUM EDP 90ML TESTER",
+      "precio": "44,90 €",
+      "url": "https://www.perfumeriaschic.com/p3521265-elie-saab-le-parfum-edp-90ml-tester.html",
+      "en_stock": false
+    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -15098,7 +15116,7 @@
       "nombre": "NISHANE HACIVAT EXTRAIT DE PARFUM...",
       "precio": "98,90 €",
       "url": "https://www.perfumeriaschic.com/p11387253-nishane-hacivat-extrait-de-parfum-50ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11683690": {
       "nombre": "NISHANE HUNDRED SILENT WAYS EXTRAIT...",
@@ -18293,10 +18311,10 @@
       "en_stock": false
     },
     "11695932": {
-      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML...",
+      "nombre": "D.S.&DURGA AMBER KISO EDP 100ML SIN...",
       "precio": "149,90 €",
       "url": "https://www.perfumeriaschic.com/p11695932-d-s-durga-amber-kiso-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10780088": {
       "nombre": "XERJOFF DON EDP 100ML TESTER",
