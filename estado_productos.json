@@ -13512,7 +13512,7 @@
       "nombre": "NIGHTOLOGY EXQUISITE LILY  EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p10953527-nightology-exquisite-lily-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11516271": {
       "nombre": "PACO RABANNE PURE XS FOR HER EAU DE...",
@@ -13626,7 +13626,7 @@
       "nombre": "NIGHTOLOGY ENIGMATIC SOUL EDP 100ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11662327-nightology-enigmatic-soul-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "7828753": {
       "nombre": "PERRIS MONTE CARLO CEDRO DI DIAMANTE...",
@@ -13675,6 +13675,12 @@
       "precio": "19,90 €",
       "url": "https://www.perfumeriaschic.com/p9072258-adolfo-dominguez-terracota-musk-edp-120ml-tester.html",
       "en_stock": false
+    },
+    "10681633": {
+      "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
+      "precio": "56,90 €",
+      "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11776938": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -16148,7 +16154,7 @@
       "nombre": "PENHALIGON´S HALFETI LEATHER EDP...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11271435-penhaligons-halfeti-leather-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11272636": {
       "nombre": "NISHANE AMBRA CALABRIA EXTRAIT DE...",
