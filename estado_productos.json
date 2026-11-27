@@ -7724,6 +7724,12 @@
       "url": "https://www.perfumeriaschic.com/p10465042-houbigant-paris-essence-rare-edp100ml-tester.html",
       "en_stock": false
     },
+    "4089217": {
+      "nombre": "PACO RABANNE OLYMPEA EDP 80ML TESTER",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p4089217-paco-rabanne-olympea-edp-80ml-tester.html",
+      "en_stock": true
+    },
     "3151196": {
       "nombre": "BALENCIAGA EDP 75ML SIN CAJA",
       "precio": "42,90 €",
@@ -8527,6 +8533,12 @@
       "precio": "209,90 €",
       "url": "https://www.perfumeriaschic.com/p11368280-xerjoff-17-17-stone-label-homme-edp-100ml-tester.html",
       "en_stock": false
+    },
+    "8609230": {
+      "nombre": "LOEWE AIRE SUTILEZA EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p8609230-loewe-aire-sutileza-edt-100ml-tester-nuevo-formato.html",
+      "en_stock": true
     },
     "10680673": {
       "nombre": "HISTOIRES DE PARFUMS AMBRE 114 EDP...",
@@ -13356,7 +13368,7 @@
       "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
       "precio": "69,90 €",
       "url": "https://www.perfumeriaschic.com/p11424762-loewe-solo-ella-elixir-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "3162595": {
       "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE...",
@@ -19078,6 +19090,7 @@
     "LOEWE AGUA DE LOEWE MAR DE CORAL EDT...",
     "LOEWE AGUA DE LOEWE MIAMI EAU DE...",
     "LOEWE AIRE ANTHESIS EDP 100ML TESTER",
+    "LOEWE AIRE SUTILEZA EDT 100ML TESTER",
     "LOEWE ESENCIA EAU DE PARFUM 100ML...",
     "LOEWE ESENCIA EAU DE TOILETTE 100ML...",
     "LOEWE ESENCIA ELIXIR 100ML TESTER",
@@ -19402,6 +19415,7 @@
     "PACO RABANNE MILLION RED FOR HER...",
     "PACO RABANNE NIGHT SOUL EDP 125ML...",
     "PACO RABANNE OLYMPEA ABSOLU PARFUM...",
+    "PACO RABANNE OLYMPEA EDP 80ML TESTER",
     "PACO RABANNE OLYMPEA ELIXIR EDP...",
     "PACO RABANNE OLYMPEA FLORA EDP...",
     "PACO RABANNE OLYMPEA PARFUM 80ML...",
