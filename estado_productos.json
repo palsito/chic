@@ -2318,9 +2318,9 @@
     },
     "11436814": {
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
-      "precio": "149,94 €",
+      "precio": "144,89 €",
       "url": "https://www.perfumeriaschic.com/p11436814-xerjoff-xj-1861-naxos-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11662300": {
       "nombre": "MONTALE ROSES MUSK EDP 100ML",
@@ -2549,6 +2549,12 @@
       "precio": "24,82 €",
       "url": "https://www.perfumeriaschic.com/p11412369-escada-chiffon-sorbet-limited-edition-edt-100ml-tester.html",
       "en_stock": false
+    },
+    "10681633": {
+      "nombre": "NIGHTOLOGY INTIMATE ELIXIR EDP...",
+      "precio": "56,90 €",
+      "url": "https://www.perfumeriaschic.com/p10681633-nightology-intimate-elixir-edp-100ml-tester.html",
+      "en_stock": true
     },
     "11458275": {
       "nombre": "JO MALONE PEONY & BLUSH SUEDE...",
@@ -3233,6 +3239,18 @@
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p11379214-m-micallef-o-feminin-edp-100ml-sin-caja.html",
       "en_stock": false
+    },
+    "10200241": {
+      "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
+      "precio": "138,90 €",
+      "url": "https://www.perfumeriaschic.com/p10200241-xerjoff-erba-pura-edp-100ml-tester.html",
+      "en_stock": true
+    },
+    "11821407": {
+      "nombre": "PARFUM D’EMPIRE UN BEL AMOUR D’ÉTÉ...",
+      "precio": "104,90 €",
+      "url": "https://www.perfumeriaschic.com/p11821407-parfum-d%E2%80%99empire-un-bel-amour-d%E2%80%99ete-edp-100-ml-sin-caja.html",
+      "en_stock": true
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
@@ -3448,7 +3466,7 @@
     },
     "11821407": {
       "nombre": "PARFUM D’EMPIRE UN BEL AMOUR D’ÉTÉ...",
-      "precio": "114,90 €",
+      "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11821407-parfum-d%E2%80%99empire-un-bel-amour-d%E2%80%99ete-edp-100-ml-sin-caja.html",
       "en_stock": true
     },
@@ -6840,7 +6858,7 @@
       "nombre": "PENHALIGON´S HALFETI LEATHER EDP...",
       "precio": "119,90 €",
       "url": "https://www.perfumeriaschic.com/p11271435-penhaligons-halfeti-leather-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412462": {
       "nombre": "NARCISO RODRIGUEZ VETIVER MUSC FOR...",
@@ -10698,7 +10716,7 @@
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
       "precio": "59,90 €",
       "url": "https://www.perfumeriaschic.com/p7275161-acqua-di-parma-arancia-di-capri-edt-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11244341": {
       "nombre": "TOM FORD LOST CHERRY EAU DE PARFUM...",
@@ -11334,7 +11352,7 @@
       "nombre": "ACQUA DI PARMA BUONGIORNO EDP 100ML...",
       "precio": "104,90 €",
       "url": "https://www.perfumeriaschic.com/p11567458-acqua-di-parma-buongiorno-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "10679777": {
       "nombre": "MANCERA AOUD VIOLET EDP 120ML TESTER",
@@ -13024,9 +13042,9 @@
     },
     "10200241": {
       "nombre": "XERJOFF ERBA PURA EDP 100ML TESTER",
-      "precio": "149,90 €",
+      "precio": "138,90 €",
       "url": "https://www.perfumeriaschic.com/p10200241-xerjoff-erba-pura-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11765852": {
       "nombre": "TRUSSARDI VIA DELLA SPIGA EDP 100ML...",
@@ -13216,9 +13234,9 @@
     },
     "11436814": {
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
-      "precio": "149,94 €",
+      "precio": "144,89 €",
       "url": "https://www.perfumeriaschic.com/p11436814-xerjoff-xj-1861-naxos-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11412454": {
       "nombre": "ISSEY MIYAKE LE SEL D'ISSEY EDT...",
@@ -13962,7 +13980,7 @@
       "nombre": "FREDERIC MALLE PORTRAIT OF A LADY...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "6234998": {
       "nombre": "BURBERRY HER EDP 100ML TESTER",
@@ -14088,7 +14106,7 @@
       "nombre": "ACQUA DI PARMA COLONIA EDC 100ML...",
       "precio": "58,90 €",
       "url": "https://www.perfumeriaschic.com/p7437942-acqua-di-parma-edc-100-ml-tester-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11745914": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EAU DE...",
@@ -14215,6 +14233,18 @@
       "precio": "16,90 €",
       "url": "https://www.perfumeriaschic.com/p4870625-calvin-klein-ck-one-edt-200ml-tester.html",
       "en_stock": false
+    },
+    "8077922": {
+      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p8077922-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-150ml-tester.html",
+      "en_stock": true
+    },
+    "11606224": {
+      "nombre": "ACQUA DI PARMA BLU MEDITERRANEO FICO...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11606224-acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt-100ml-tester.html",
+      "en_stock": true
     },
     "11775100": {
       "nombre": "TOUS LOVEME THE AMETHYST ELIXIR 90ML...",
@@ -16392,9 +16422,9 @@
     },
     "11436814": {
       "nombre": "XERJOFF XJ 1861 NAXOS EAU DE PARFUM...",
-      "precio": "149,94 €",
+      "precio": "144,89 €",
       "url": "https://www.perfumeriaschic.com/p11436814-xerjoff-xj-1861-naxos-eau-de-parfum-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11436823": {
       "nombre": "XERJOFF SHOOTING STARS RED HOBA EDP...",
@@ -18176,7 +18206,7 @@
       "nombre": "FREDERIC MALLE PORTRAIT OF A LADY...",
       "precio": "194,90 €",
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11520667": {
       "nombre": "JEROBOAM GOZO EXTRAIT DE PARFUM...",
