@@ -3240,7 +3240,7 @@
       "nombre": "YVES SAINT LAURENT Y ICED COLOGNE...",
       "precio": "48,90 €",
       "url": "https://www.perfumeriaschic.com/p11822782-yves-saint-laurent-y-iced-cologne-eau-de-toilette-intense-100-ml-tester.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11822779": {
       "nombre": "BDK PARFUMS TABAC ROSE EAU DE PARFUM...",
@@ -3270,7 +3270,7 @@
       "nombre": "LOEWE AIRE SUTILEZA EDT 100ML TESTER",
       "precio": "49,90 €",
       "url": "https://www.perfumeriaschic.com/p8609230-loewe-aire-sutileza-edt-100ml-tester-nuevo-formato.html",
-      "en_stock": true
+      "en_stock": false
     },
     "11424762": {
       "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
