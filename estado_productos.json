@@ -700,7 +700,7 @@
       "nombre": "3INA THE LIPSTICK BARRA DE LABIOS...",
       "precio": "8,90 €",
       "url": "https://www.perfumeriaschic.com/p11522213-3ina-the-lipstick-barra-de-labios-tono-503-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11660080": {
       "nombre": "MARY KAY TIMEWISE LOCIÓN TONIFICANTE...",
@@ -1600,12 +1600,6 @@
       "nombre": "M. MICALLEF MON PARFUM CRISTAL EDP...",
       "precio": "88,90 €",
       "url": "https://www.perfumeriaschic.com/p9794805-m-micallef-mon-parfum-cristal-edp-100ml-sin-caja.html",
-      "en_stock": false
-    },
-    "9680598": {
-      "nombre": "MANCERA THE AOUD EDP 60ML",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p9680598-mancera-the-aoud-edp-60ml-tester.html",
       "en_stock": false
     },
     "9430936": {
@@ -3236,6 +3230,36 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11822779": {
+      "nombre": "BDK PARFUMS TABAC ROSE EAU DE PARFUM...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11822779-bdk-parfums-tabac-rose-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "11822780": {
+      "nombre": "BDK PARFUMS AMBRE SAFRANO EAU DE...",
+      "precio": "118,90 €",
+      "url": "https://www.perfumeriaschic.com/p11822780-bdk-parfums-ambre-safrano-eau-de-parfum-100-ml-tester.html",
+      "en_stock": true
+    },
+    "10773414": {
+      "nombre": "TOMMY HILFIGER IMPACT EDT 100ML...",
+      "precio": "29,90 €",
+      "url": "https://www.perfumeriaschic.com/p10773414-tommy-hilfiger-impact-edt-100ml-4ml-sin-caja.html",
+      "en_stock": true
+    },
+    "7458328": {
+      "nombre": "CHANEL Nº19 EDT 100ML TESTER",
+      "precio": "64,90 €",
+      "url": "https://www.perfumeriaschic.com/p7458328-chanel-n-19-edt-100ml-tester.html",
+      "en_stock": true
+    },
+    "8609230": {
+      "nombre": "LOEWE AIRE SUTILEZA EDT 100ML TESTER",
+      "precio": "49,90 €",
+      "url": "https://www.perfumeriaschic.com/p8609230-loewe-aire-sutileza-edt-100ml-tester-nuevo-formato.html",
+      "en_stock": true
+    },
     "11424762": {
       "nombre": "LOEWE SOLO ELLA ELIXIR EDP 100ML...",
       "precio": "69,90 €",
@@ -5712,7 +5736,7 @@
       "nombre": "3INA THE LIPSTICK BARRA DE LABIOS...",
       "precio": "8,90 €",
       "url": "https://www.perfumeriaschic.com/p11522213-3ina-the-lipstick-barra-de-labios-tono-503-sin-caja.html",
-      "en_stock": false
+      "en_stock": true
     },
     "11348665": {
       "nombre": "MASQUE MILANO MANDALA EAU DE PARFUM...",
@@ -6752,12 +6776,6 @@
       "url": "https://www.perfumeriaschic.com/p11458275-jo-malone-peony-blush-suede-cologne-30ml-sin-caja.html",
       "en_stock": false
     },
-    "10773414": {
-      "nombre": "TOMMY HILFIGER IMPACT EDT 100ML...",
-      "precio": "29,90 €",
-      "url": "https://www.perfumeriaschic.com/p10773414-tommy-hilfiger-impact-edt-100ml-4ml-sin-caja.html",
-      "en_stock": true
-    },
     "10517808": {
       "nombre": "TOMMY HILFIGER TOMMY GIRL EDT 100ML...",
       "precio": "19,90 €",
@@ -7045,12 +7063,6 @@
       "precio": "18,90 €",
       "url": "https://www.perfumeriaschic.com/p11340780-joop-homme-wild-edt-125ml-tester.html",
       "en_stock": false
-    },
-    "7458328": {
-      "nombre": "CHANEL Nº19 EDT 100ML TESTER",
-      "precio": "64,90 €",
-      "url": "https://www.perfumeriaschic.com/p7458328-chanel-n-19-edt-100ml-tester.html",
-      "en_stock": true
     },
     "11330272": {
       "nombre": "DAVIDOFF COOL WATER PACIFIC SUMMER...",
@@ -9540,12 +9552,6 @@
       "nombre": "JEROBOAM BOHA EXTRAIT DE PARFUM 30ML...",
       "precio": "64,90 €",
       "url": "https://www.perfumeriaschic.com/p11498691-jeroboam-boha-extrait-de-parfum-30ml-tester.html",
-      "en_stock": false
-    },
-    "11512179": {
-      "nombre": "KARL LAGERFELD  JEANS URBAN BLUE EAU...",
-      "precio": "18,90 €",
-      "url": "https://www.perfumeriaschic.com/p11512179-karl-lagerfeld-eau-de-toilette-60ml-tester.html",
       "en_stock": false
     },
     "11468373": {
@@ -14906,12 +14912,6 @@
       "url": "https://www.perfumeriaschic.com/p11624782-frederic-malle-portrait-of-lady-edp-100ml-tester.html",
       "en_stock": false
     },
-    "11821911": {
-      "nombre": "LANCOME O OUI EDT 100ML TESTER",
-      "precio": "34,90 €",
-      "url": "https://www.perfumeriaschic.com/p11821911-lancome-o-oui-edt-100ml-tester.html",
-      "en_stock": false
-    },
     "6854886": {
       "nombre": "TOUS MAN EDT 100ML TESTER",
       "precio": "22,97 €",
@@ -15908,12 +15908,6 @@
       "nombre": "VAN CLEEF & ARPELS COLLECTION...",
       "precio": "72,90 €",
       "url": "https://www.perfumeriaschic.com/p10447445-van-cleef-arpels-collection-extraordinaire-santal-blanc-edp-75ml-tester.html",
-      "en_stock": false
-    },
-    "9680598": {
-      "nombre": "MANCERA THE AOUD EDP 60ML",
-      "precio": "48,90 €",
-      "url": "https://www.perfumeriaschic.com/p9680598-mancera-the-aoud-edp-60ml-tester.html",
       "en_stock": false
     },
     "8610590": {
@@ -18493,6 +18487,8 @@
     "AZZARO WANTED FOREVER ABSOLU 100ML...",
     "AZZARO WANTED GIRL EDP 80ML TESTER",
     "BDK 312 SAINT-HONORÉ 100 ML TESTER",
+    "BDK PARFUMS AMBRE SAFRANO EAU DE...",
+    "BDK PARFUMS TABAC ROSE EAU DE PARFUM...",
     "BDK PAS CE SOIR EAU DE PARFUM 100 ML...",
     "BDK ROUGE SMOKING EAU DE PARFUM 100...",
     "BDK TABAC ROSE EAU DE PARFUM 100 ML...",
