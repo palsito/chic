@@ -642,12 +642,6 @@
       "url": "https://www.perfumeriaschic.com/p11790692-mary-kay-clinical-solutions-cresveratrol-line-reducer-reductor-de-lineas-de-expresion-15ml.html",
       "en_stock": true
     },
-    "11529796": {
-      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
-      "precio": "109,91 €",
-      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "11741000": {
       "nombre": "JOVOY PRIVATE LABEL EDP 75ML TESTER",
       "precio": "84,95 €",
@@ -3704,12 +3698,6 @@
       "url": "https://www.perfumeriaschic.com/p11672502-jeroboam-insulo-extrait-de-parfum-100ml-tester.html",
       "en_stock": true
     },
-    "11529796": {
-      "nombre": "JEROBOAM ORIENTO EXTRAIT DE PARFUM...",
-      "precio": "109,91 €",
-      "url": "https://www.perfumeriaschic.com/p11529796-jeroboam-oriento-extrait-de-parfum-100ml-tester.html",
-      "en_stock": true
-    },
     "4382975": {
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM EDT...",
       "precio": "39,90 €",
@@ -6612,6 +6600,12 @@
       "nombre": "PERRIS MONTE CARLO ESSENCE DE...",
       "precio": "89,90 €",
       "url": "https://www.perfumeriaschic.com/p10942294-perris-monte-carlo-essence-de-patchouli-eau-de-parfum-100ml-tester.html",
+      "en_stock": false
+    },
+    "11433945": {
+      "nombre": "XERJOFF KEMI COLLECTION KEMI PARFUM...",
+      "precio": "149,90 €",
+      "url": "https://www.perfumeriaschic.com/p11433945-xerjoff-kemi-collection-kemi-parfum-50ml-tester.html",
       "en_stock": false
     },
     "10790494": {
@@ -19704,6 +19698,7 @@
     "XERJOFF DON EDP 100ML TESTER",
     "XERJOFF ERBA PURA EDP 100ML TESTER",
     "XERJOFF GIBEON EDP 50ML TESTER",
+    "XERJOFF KEMI COLLECTION KEMI PARFUM...",
     "XERJOFF KEMI COLLECTION LUNA PARFUM...",
     "XERJOFF MORE THAN WORDS EDP 100ML...",
     "XERJOFF TONY IOMMI MONKEY SPECIAL...",
