@@ -3230,6 +3230,18 @@
     }
   },
   "http://www.perfumeriaschic.com/c276461-perfumes-tester.html": {
+    "11822781": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL CRYSTAL...",
+      "precio": "58,90 €",
+      "url": "https://www.perfumeriaschic.com/p11822781-carolina-herrera-good-girl-crystal-clash-collectors-edition-eau-de-parfum-80-ml-tester.html",
+      "en_stock": true
+    },
+    "11822782": {
+      "nombre": "YVES SAINT LAURENT Y ICED COLOGNE...",
+      "precio": "48,90 €",
+      "url": "https://www.perfumeriaschic.com/p11822782-yves-saint-laurent-y-iced-cologne-eau-de-toilette-intense-100-ml-tester.html",
+      "en_stock": true
+    },
     "11822779": {
       "nombre": "BDK PARFUMS TABAC ROSE EAU DE PARFUM...",
       "precio": "118,90 €",
@@ -18593,6 +18605,7 @@
     "CAROLINA HERRERA CH MEN PASIÓN EDP...",
     "CAROLINA HERRERA GOLD INCIENSE EDP...",
     "CAROLINA HERRERA GOOD GIRL BLUSH...",
+    "CAROLINA HERRERA GOOD GIRL CRYSTAL...",
     "CAROLINA HERRERA GOOD GIRL JASMINE...",
     "CAROLINA HERRERA LA BOMBA EDP 80ML...",
     "CAROLINA HERRERA LA BOMBA INTENSA...",
@@ -19674,6 +19687,7 @@
     "YVES SAINT LAURENT MYSLF EDT INTENSE...",
     "YVES SAINT LAURENT OPIUM EDP 90ML...",
     "YVES SAINT LAURENT Y EDP 100ML TESTER",
+    "YVES SAINT LAURENT Y ICED COLOGNE...",
     "YVES SAINT LAURENT Y MEN EDT 100ML...",
     "ZADIG & VOLTAIRE THIS IS HER EDP...",
     "ZADIG & VOLTAIRE THIS IS HER!...",
